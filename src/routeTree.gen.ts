@@ -13,8 +13,8 @@ import { createFileRoute } from '@tanstack/react-router'
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
-import { Route as ProgramAccountImport } from './routes/program/$account'
-import { Route as AgencyAgencyImport } from './routes/agency/$agency'
+import { Route as AgencyAgencyIdImport } from './routes/agency.$agencyId'
+import { Route as AgencyAgencyIdAccountAccountIdImport } from './routes/agency_.$agencyId.account.$accountId'
 
 // Create Virtual Routes
 
@@ -28,17 +28,18 @@ const IndexLazyRoute = IndexLazyImport.update({
   getParentRoute: () => rootRoute,
 } as any).lazy(() => import('./routes/index.lazy').then((d) => d.Route))
 
-const ProgramAccountRoute = ProgramAccountImport.update({
-  id: '/program/$account',
-  path: '/program/$account',
+const AgencyAgencyIdRoute = AgencyAgencyIdImport.update({
+  id: '/agency/$agencyId',
+  path: '/agency/$agencyId',
   getParentRoute: () => rootRoute,
 } as any)
 
-const AgencyAgencyRoute = AgencyAgencyImport.update({
-  id: '/agency/$agency',
-  path: '/agency/$agency',
-  getParentRoute: () => rootRoute,
-} as any)
+const AgencyAgencyIdAccountAccountIdRoute =
+  AgencyAgencyIdAccountAccountIdImport.update({
+    id: '/agency_/$agencyId/account/$accountId',
+    path: '/agency/$agencyId/account/$accountId',
+    getParentRoute: () => rootRoute,
+  } as any)
 
 // Populate the FileRoutesByPath interface
 
@@ -51,18 +52,18 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexLazyImport
       parentRoute: typeof rootRoute
     }
-    '/agency/$agency': {
-      id: '/agency/$agency'
-      path: '/agency/$agency'
-      fullPath: '/agency/$agency'
-      preLoaderRoute: typeof AgencyAgencyImport
+    '/agency/$agencyId': {
+      id: '/agency/$agencyId'
+      path: '/agency/$agencyId'
+      fullPath: '/agency/$agencyId'
+      preLoaderRoute: typeof AgencyAgencyIdImport
       parentRoute: typeof rootRoute
     }
-    '/program/$account': {
-      id: '/program/$account'
-      path: '/program/$account'
-      fullPath: '/program/$account'
-      preLoaderRoute: typeof ProgramAccountImport
+    '/agency_/$agencyId/account/$accountId': {
+      id: '/agency_/$agencyId/account/$accountId'
+      path: '/agency/$agencyId/account/$accountId'
+      fullPath: '/agency/$agencyId/account/$accountId'
+      preLoaderRoute: typeof AgencyAgencyIdAccountAccountIdImport
       parentRoute: typeof rootRoute
     }
   }
@@ -72,42 +73,46 @@ declare module '@tanstack/react-router' {
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexLazyRoute
-  '/agency/$agency': typeof AgencyAgencyRoute
-  '/program/$account': typeof ProgramAccountRoute
+  '/agency/$agencyId': typeof AgencyAgencyIdRoute
+  '/agency/$agencyId/account/$accountId': typeof AgencyAgencyIdAccountAccountIdRoute
 }
 
 export interface FileRoutesByTo {
   '/': typeof IndexLazyRoute
-  '/agency/$agency': typeof AgencyAgencyRoute
-  '/program/$account': typeof ProgramAccountRoute
+  '/agency/$agencyId': typeof AgencyAgencyIdRoute
+  '/agency/$agencyId/account/$accountId': typeof AgencyAgencyIdAccountAccountIdRoute
 }
 
 export interface FileRoutesById {
   __root__: typeof rootRoute
   '/': typeof IndexLazyRoute
-  '/agency/$agency': typeof AgencyAgencyRoute
-  '/program/$account': typeof ProgramAccountRoute
+  '/agency/$agencyId': typeof AgencyAgencyIdRoute
+  '/agency_/$agencyId/account/$accountId': typeof AgencyAgencyIdAccountAccountIdRoute
 }
 
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/agency/$agency' | '/program/$account'
+  fullPaths: '/' | '/agency/$agencyId' | '/agency/$agencyId/account/$accountId'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/agency/$agency' | '/program/$account'
-  id: '__root__' | '/' | '/agency/$agency' | '/program/$account'
+  to: '/' | '/agency/$agencyId' | '/agency/$agencyId/account/$accountId'
+  id:
+    | '__root__'
+    | '/'
+    | '/agency/$agencyId'
+    | '/agency_/$agencyId/account/$accountId'
   fileRoutesById: FileRoutesById
 }
 
 export interface RootRouteChildren {
   IndexLazyRoute: typeof IndexLazyRoute
-  AgencyAgencyRoute: typeof AgencyAgencyRoute
-  ProgramAccountRoute: typeof ProgramAccountRoute
+  AgencyAgencyIdRoute: typeof AgencyAgencyIdRoute
+  AgencyAgencyIdAccountAccountIdRoute: typeof AgencyAgencyIdAccountAccountIdRoute
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexLazyRoute: IndexLazyRoute,
-  AgencyAgencyRoute: AgencyAgencyRoute,
-  ProgramAccountRoute: ProgramAccountRoute,
+  AgencyAgencyIdRoute: AgencyAgencyIdRoute,
+  AgencyAgencyIdAccountAccountIdRoute: AgencyAgencyIdAccountAccountIdRoute,
 }
 
 export const routeTree = rootRoute
@@ -121,18 +126,18 @@ export const routeTree = rootRoute
       "filePath": "__root.tsx",
       "children": [
         "/",
-        "/agency/$agency",
-        "/program/$account"
+        "/agency/$agencyId",
+        "/agency_/$agencyId/account/$accountId"
       ]
     },
     "/": {
       "filePath": "index.lazy.tsx"
     },
-    "/agency/$agency": {
-      "filePath": "agency/$agency.tsx"
+    "/agency/$agencyId": {
+      "filePath": "agency.$agencyId.tsx"
     },
-    "/program/$account": {
-      "filePath": "program/$account.tsx"
+    "/agency_/$agencyId/account/$accountId": {
+      "filePath": "agency_.$agencyId.account.$accountId.tsx"
     }
   }
 }

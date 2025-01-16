@@ -11,8 +11,9 @@
 
 body {
   background-color: #f0f0f0;
-  padding: 0;
+  padding: 10px;
   margin: 0;
+  overflow-x: hidden;
 }
 
 #root {
@@ -23,8 +24,8 @@ body {
 }
 
 .tree-view {
-  width: 100vw;
-  height: 530px;
+  width: 100%;
+  height: 2000px;
   margin: 0;
   padding: 0;
 }
@@ -39,4 +40,61 @@ body {
   width: 100%;
   height: 100%;
   background: white;
+}
+
+.budget-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 100%;
+  gap: 1px;
+}
+
+.budget-stack > div {
+  background-color: #000;
+  color: white;
+  transition: width 0.3s ease;
+  box-sizing: border-box;
+  position: relative;
+  height: 40px;
+}
+
+.budget-stack .content-wrapper {
+  display: flex;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.budget-stack .base-content {
+  width: var(--base-width);
+  display: flex;
+  align-items: center;
+  padding: 0 5px;
+}
+
+.budget-stack .diff-content {
+  display: flex;
+  align-items: center;
+  padding: 0 5px;
+  color: white;
+}
+
+.budget-stack .tax-revenue {
+  width: var(--width-percent);
+  padding: 0 5px;
+  display: flex;
+  align-items: center;
+}
+
+.budget-stack .outlays {
+  width: var(--width-percent);
+  background: linear-gradient(to right, #000 var(--base-width), #8b0000 var(--base-width));
+}
+
+.budget-stack .over-budget {
+  width: 100%;
+  background: linear-gradient(to right, #000 var(--base-width), #8b0000 var(--base-width));
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from '@tanstack/react-router';
 
 interface TitlebarProps {
-  title: string;
+  title?: string;
   total: number;
   breadcrumbs?: {
     name: string;
@@ -37,13 +37,13 @@ export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = 
             </span>
           ))}
           <span style={{ margin: '0 0.5rem' }}>&gt;</span>
-          <span>{title}</span>
+          { title && <span>{title}</span> }
         </div>
       )}
-      <h1>{title}</h1>
-      <h2>{formatAmount(total)}</h2>
-      <div>FY 2024 OBLIGATED AMOUNT</div>
-      <div>Data as of September 29, 2024</div>
+      <h1>💸 SPENDING.LOL 💸</h1>
+      <h1>{formatAmount(total)}</h1>
+      <h2>{title}</h2>
+
     </div>
   );
 }; 

@@ -23,6 +23,65 @@ export const Route = createLazyFileRoute('/')({
   component: Index,
 })
 
+function BudgetStack() {
+    // 9.7 trillion
+    const obligatedAmount = 9700000000000
+    // 6.752 trillion
+    const outlays = 6752000000000
+    // 4.919 trillion
+    const revenue = 4919000000000
+
+    // Ex: $1.43T
+    // Ex: $1.43B
+    const formatNumber = (n: number) => {
+        if (n > 1000000000000) {
+            return `$${(n / 1000000000000).toFixed(2)}T`
+        } else if (n > 1000000000) {
+            return `$${(n / 1000000000).toFixed(2)}B`
+        } else {
+            return `$${n.toLocaleString('en-US', { style: 'currency', currency: 'USD' })}`
+        }
+    }
+
+    const revenueWidth = (revenue / obligatedAmount) * 100
+    const outlaysWidth = (outlays / obligatedAmount) * 100
+    
+    const outlaysDiff = outlays - revenue
+    const obligatedDiff = obligatedAmount - revenue
+
+    return (<div className="budget-stack">
+        <div 
+            className="tax-revenue" 
+            style={{ '--width-percent': `${revenueWidth}%` } as React.CSSProperties}
+        >
+            REVENUE: {formatNumber(revenue)}
+        </div>
+        <div 
+            className="outlays"
+            style={{ 
+                '--width-percent': `${outlaysWidth}%`,
+                '--base-width': `${(revenueWidth / outlaysWidth) * 100}%`
+            } as React.CSSProperties}
+        >
+            <div className="content-wrapper">
+                <div className="base-content">OUTLAYS: {formatNumber(outlays)}</div>
+                <div className="diff-content">(+{formatNumber(outlaysDiff)})</div>
+            </div>
+        </div>
+        <div 
+            className="over-budget"
+            style={{ 
+                '--base-width': `${revenueWidth}%`
+            } as React.CSSProperties}
+        >
+            <div className="content-wrapper">
+                <div className="base-content">OBLIGATED AMOUNT: {formatNumber(obligatedAmount)}</div>
+                <div className="diff-content">(+{formatNumber(obligatedDiff)})</div>
+            </div>
+        </div>
+    </div>)
+}
+
 function Index() {
   const search = useSearch({ from: '/' }) as SearchParams
   const navigate = useNavigate()
@@ -38,16 +97,16 @@ function Index() {
 
   return (
     <div>
+      <Titlebar 
+        total={data.total}
+        breadcrumbs={[]}
+      />
+      <BudgetStack />
       <ViewToggle 
         view={search.view} 
         onViewChange={(newView) => {
           navigate({ to: '/', search: { view: newView } })
         }} 
-      />
-      <Titlebar 
-        title="2024 Spending by Agency" 
-        total={data.total}
-        breadcrumbs={[]}
       />
       {search.view === 'tree' ? (
         <TreeView data={treeData} />

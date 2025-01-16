@@ -42,7 +42,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
     // Get container dimensions
     const container = containerRef.current;
     const { width: containerWidth } = container.getBoundingClientRect();
-    const height = 530; // Fixed height
+    const height = 2000; // Fixed height
 
     // Clear any existing content
     d3.select(svgRef.current).selectAll('*').remove();
@@ -55,10 +55,10 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
 
     // Format numbers for display
     const formatNumber = (n: number) => {
-      if (n >= 1e12) return `${(n / 1e12).toFixed(1)}T`;
-      if (n >= 1e9) return `${(n / 1e9).toFixed(1)}B`;
-      if (n >= 1e6) return `${(n / 1e6).toFixed(1)}M`;
-      return n.toString();
+      if (n >= 1e12) return `$${(n / 1e12).toFixed(1)}T`;
+      if (n >= 1e9) return `$${(n / 1e9).toFixed(1)}B`;
+      if (n >= 1e6) return `$${(n / 1e6).toFixed(1)}M`;
+      return `$${n.toString()}`;
     };
 
     // Format percentage
@@ -130,9 +130,11 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
       .data(d => {
         const name = (d.data as TreeViewData).name;
         const percent = formatPercent((d.value || 0) / total);
+        const dollars = formatNumber(d.value || 0);
         return [
-          name.length > 20 ? name.slice(0, 20) + '...' : name,
-          percent
+          name,
+          percent,
+          dollars
         ];
       })
       .enter()
