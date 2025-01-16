@@ -24,6 +24,9 @@ function RouteComponent() {
 
   const matchingAgency = fy2024Data.results.find((a) => a.id === agencyId)
   const agencyName = matchingAgency?.name || `Agency ${agencyId}`
+  
+  // Calculate the agency's percentage of the total budget
+  const agencyPercentage = matchingAgency ? matchingAgency.amount / fy2024Data.total : 0
 
   const treeData: TreeViewData[] = data.results.map((item) => ({
     name: item.name,
@@ -59,6 +62,7 @@ function RouteComponent() {
         <TreeView
           data={treeData}
           title={`Agency ${agencyId} Spending`}
+          parentPercentage={agencyPercentage}
           onItemClick={(item) => {
             if (item.id) {
               navigate({

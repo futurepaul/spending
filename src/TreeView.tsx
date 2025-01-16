@@ -1,7 +1,8 @@
 import { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import { useNavigate } from '@tanstack/react-router';
-import { Route as RootRoute } from './routes/__root';
+import moneyJpg from './assets/money.jpg';
+import { useUserAmount } from './UserAmountContext';
 
 export interface TreeViewData {
   name: string;
@@ -13,26 +14,34 @@ export interface TreeViewData {
   };
 }
 
-interface TreemapData {
-  name: string;
-  value?: number;
-  children: TreeViewData[];
+interface TreemapData extends TreeViewData {
+  children?: TreeViewData[];
 }
 
 interface TreeViewProps {
   data: TreeViewData[];
   title?: string;
   onItemClick?: (item: TreeViewData) => void;
+  parentPercentage?: number;
 }
 
-export const TreeView = ({ data, title = "Government Spending", onItemClick }: TreeViewProps) => {
+type TreemapNode = d3.HierarchyRectangularNode<TreemapData> & {
+  x0: number;
+  x1: number;
+  y0: number;
+  y1: number;
+};
+
+export const TreeView = ({ data, title = "Government Spending", onItemClick, parentPercentage }: TreeViewProps) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const svgRef = useRef<SVGSVGElement>(null);
   const navigate = useNavigate();
-  const { view } = RootRoute.useSearch();
+  const { amount: userAmount, useUserMoney } = useUserAmount();
 
   const treemapData: TreemapData = {
     name: title,
+    id: 'root',
+    value: 0,
     children: data
   };
 
@@ -42,7 +51,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
     // Get container dimensions
     const container = containerRef.current;
     const { width: containerWidth } = container.getBoundingClientRect();
-    const height = 2000; // Fixed height
+    const height = 1024; // Fixed height
 
     // Clear any existing content
     d3.select(svgRef.current).selectAll('*').remove();
@@ -55,19 +64,50 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
 
     // Format numbers for display
     const formatNumber = (n: number) => {
-      if (n >= 1e12) return `$${(n / 1e12).toFixed(1)}T`;
-      if (n >= 1e9) return `$${(n / 1e9).toFixed(1)}B`;
-      if (n >= 1e6) return `$${(n / 1e6).toFixed(1)}M`;
-      return `$${n.toString()}`;
+        if (n > 1000000000000) {
+            return `$${(n / 1000000000000).toFixed(2)}T`
+        } else if (n > 1000000000) {
+            return `$${(n / 1000000000).toFixed(2)}B`
+        } else {
+            return n.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
+        }
     };
 
     // Format percentage
     const formatPercent = (n: number) => `${(n * 100).toFixed(1)}%`;
 
+    // Calculate user's scaled amount
+    const calculateUserAmount = (value: number) => {
+      if (!useUserMoney || userAmount === 0) return null;
+      
+      // First get the parent-scaled amount if we're in a sub-view
+      const effectiveUserAmount = parentPercentage !== undefined 
+        ? userAmount * parentPercentage
+        : userAmount;
+      
+      // Then calculate this item's percentage of its parent
+      const ratio = value / treemapData.children!.reduce((sum, child) => sum + child.value, 0);
+      return effectiveUserAmount * ratio;
+    };
+
     // Create SVG
     const svg = d3.select(svgRef.current)
       .attr('width', width)
       .attr('height', height);
+
+    // Create pattern for money GIF
+    const defs = svg.append('defs');
+    const pattern = defs.append('pattern')
+      .attr('id', 'money-pattern')
+      .attr('patternUnits', 'userSpaceOnUse')
+      .attr('width', 64)
+      .attr('height', 64);
+
+    pattern.append('image')
+      .attr('href', moneyJpg)
+      .attr('width', 64)
+      .attr('height', 64)
+      .attr('preserveAspectRatio', 'xMidYMid slice');
 
     // Create treemap layout
     const treemap = d3.treemap<TreemapData>()
@@ -77,7 +117,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
 
     // Create hierarchy and compute values
     const root = d3.hierarchy(treemapData)
-      .sum(d => ('value' in d ? d.value : 0) as number)
+      .sum(d => d.value)
       .sort((a, b) => (b.value || 0) - (a.value || 0));
 
     // Generate treemap layout
@@ -96,22 +136,22 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
       .attr('transform', `translate(${margin.left},${margin.top})`);
 
     // Add cells
-    const cell = g.selectAll('g')
-      .data(root.leaves())
+    const cell = g.selectAll<SVGGElement, TreemapNode>('g')
+      .data(root.leaves() as TreemapNode[])
       .enter()
       .append('g')
-      .attr('transform', d => `translate(${(d as any).x0},${(d as any).y0})`)
+      .attr('transform', d => `translate(${d.x0},${d.y0})`)
       .style('cursor', 'pointer')
-      .on('click', (event, d) => {
-        const id = (d.data as TreeViewData).id;
-        if (id) {
+      .on('click', (_event, d) => {
+        const nodeData = d.data;
+        if (nodeData.id) {
           if (onItemClick) {
-            onItemClick(d.data as TreeViewData);
+            onItemClick(nodeData);
           } else {
             navigate({ 
-              to: '/agency/$agency', 
-              params: { agency: id },
-              search: { view }
+              to: '/agency/$agencyId',
+              params: { agencyId: nodeData.id },
+              search: (prev) => ({ ...prev })
             });
           }
         }
@@ -119,30 +159,48 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
 
     // Add rectangles
     cell.append('rect')
-      .attr('width', d => (d as any).x1 - (d as any).x0)
-      .attr('height', d => (d as any).y1 - (d as any).y0)
-      .attr('fill', (d, i) => colorScale(i))
-      .attr('opacity', 0.8);
+      .attr('width', d => d.x1 - d.x0)
+      .attr('height', d => d.y1 - d.y0)
+      .attr('fill', (_d, i) => colorScale(i))
+      .attr('opacity', 0.8)
+      .style('transition', 'opacity 0.3s ease')
+      .on('mouseover', function() {
+        d3.select(this)
+          .attr('opacity', 1)
+          .attr('fill', 'url(#money-pattern)');
+      })
+      .on('mouseout', function() {
+        d3.select(this)
+          .attr('opacity', 0.8)
+          .attr('fill', (_d, i) => colorScale(i));
+      });
 
     // Add text
     cell.append('text')
       .selectAll('tspan')
       .data(d => {
-        const name = (d.data as TreeViewData).name;
+        const nodeData = d.data;
+        const name = nodeData.name;
         const percent = formatPercent((d.value || 0) / total);
         const dollars = formatNumber(d.value || 0);
-        return [
+        const userScaledAmount = calculateUserAmount(d.value || 0);
+        const lines = [
           name,
           percent,
           dollars
         ];
+        if (userScaledAmount !== null) {
+          lines.push(`${formatNumber(userScaledAmount)} from you`);
+        }
+        return lines;
       })
       .enter()
       .append('tspan')
       .attr('x', 4)
-      .attr('y', (d, i) => 13 + i * 10)
+      .attr('y', (_d, i) => 13 + i * 15)
       .attr('fill', 'white')
-      .style('font-size', '10px')
+      .style('font-family', 'Inter, system-ui, Avenir, Helvetica, Arial, sans-serif')
+      .style('font-size', '14px')
       .text(d => d);
   };
 
@@ -162,7 +220,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
     return () => {
       resizeObserver.disconnect();
     };
-  }, [data]); // Re-run when data changes
+  }, [data, useUserMoney, userAmount]); // Re-run when data, useUserMoney, or userAmount changes
 
   return (
     <div className="tree-view" ref={containerRef}>

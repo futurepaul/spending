@@ -29,8 +29,8 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
       onItemClick(item);
     } else if (item.id) {
       navigate({ 
-        to: '/agency/$agency', 
-        params: { agency: item.id },
+        to: '/agency/$agencyId', 
+        params: { agencyId: item.id },
         search: { view }
       });
     }
@@ -55,7 +55,7 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
                 cursor: item.id ? 'pointer' : 'default',
               }}
             >
-              <td>{item.name}</td>
+              <td style={{ textAlign: 'left' }}>{item.name}</td>
               <td style={{ textAlign: 'right' }}>{formatAmount(item.value)}</td>
               <td style={{ textAlign: 'right' }}>{formatPercent(item.value)}</td>
             </tr>

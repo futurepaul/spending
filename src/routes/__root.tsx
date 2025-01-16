@@ -1,7 +1,8 @@
-import { createRootRoute, Outlet, RouteContextOptions } from '@tanstack/react-router'
+import { createRootRoute, Outlet } from '@tanstack/react-router'
 import { TanStackRouterDevtools } from '@tanstack/router-devtools'
 import { z } from 'zod'
 import "../index.css"
+import { UserAmountProvider } from '../UserAmountContext'
 
 interface SpendingData {
   type: string
@@ -112,11 +113,11 @@ function Footer() {
 
 export const Route = createRootRoute({
   component: () => (
-    <>
+    <UserAmountProvider>
       <Outlet />
       <Footer />
       <TanStackRouterDevtools />
-    </>
+    </UserAmountProvider>
   ),
   validateSearch: searchSchema,
   context: (): RouterContext => ({
