@@ -1,0 +1,27 @@
+{
+  "total": 185981905.06,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567339",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MODERNIZATION AND REPAIR",
+      "amount": 185271708.31
+    },
+    {
+      "id": "567373",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NEW CONSTRUCTION",
+      "amount": 659787.53
+    },
+    {
+      "id": "567407",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 50409.22
+    }
+  ]
+}

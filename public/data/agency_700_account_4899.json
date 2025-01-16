@@ -1,0 +1,279 @@
+{
+  "total": 2840091681.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571104",
+      "code": "00D2",
+      "type": "program_activity",
+      "name": "SUPERFUND:  REMEDIAL",
+      "amount": 2069303862.68
+    },
+    {
+      "id": "571209",
+      "code": "00C6",
+      "type": "program_activity",
+      "name": "SUPERFUND:  EMERGENCY RESPONSE AND REMOVAL",
+      "amount": 262948032.15
+    },
+    {
+      "id": "571055",
+      "code": "00C7",
+      "type": "program_activity",
+      "name": "SUPERFUND: ENFORCEMENT",
+      "amount": 186768890.32
+    },
+    {
+      "id": "571044",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 71669722.7
+    },
+    {
+      "id": "571186",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 41293267.09
+    },
+    {
+      "id": "571276",
+      "code": "00E5",
+      "type": "program_activity",
+      "name": "CENTRAL PLANNING, BUDGETING, AND FINANCE",
+      "amount": 35038051.65
+    },
+    {
+      "id": "571095",
+      "code": "0072",
+      "type": "program_activity",
+      "name": "HOMELAND SECURITY:  PREPAREDNESS, RESPONSE, AND RECOVERY",
+      "amount": 33508916.6
+    },
+    {
+      "id": "571175",
+      "code": "00C9",
+      "type": "program_activity",
+      "name": "SUPERFUND:  FEDERAL FACILITIES",
+      "amount": 31343419.66
+    },
+    {
+      "id": "571077",
+      "code": "00F3",
+      "type": "program_activity",
+      "name": "ACQUISITION MANAGEMENT",
+      "amount": 23455236.23
+    },
+    {
+      "id": "571167",
+      "code": "00F8",
+      "type": "program_activity",
+      "name": "IT / DATA MANAGEMENT",
+      "amount": 18706065.36
+    },
+    {
+      "id": "571174",
+      "code": "00F5",
+      "type": "program_activity",
+      "name": "HUMAN RESOURCES MANAGEMENT",
+      "amount": 10797931.29
+    },
+    {
+      "id": "571208",
+      "code": "0052",
+      "type": "program_activity",
+      "name": "CRIMINAL ENFORCEMENT",
+      "amount": 9837436.88
+    },
+    {
+      "id": "571090",
+      "code": "00H2",
+      "type": "program_activity",
+      "name": "SUPERFUND: FEDERAL FACILITIES ENFORCEMENT",
+      "amount": 8443708.35
+    },
+    {
+      "id": "571252",
+      "code": "00C8",
+      "type": "program_activity",
+      "name": "SUPERFUND:  EPA EMERGENCY PREPAREDNESS",
+      "amount": 7599580.04
+    },
+    {
+      "id": "571257",
+      "code": "0057",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL JUSTICE",
+      "amount": 7271173.18
+    },
+    {
+      "id": "571287",
+      "code": "00MM",
+      "type": "program_activity",
+      "name": "ADMIN: BIL MANAGEMENT AND OVERSIGHT",
+      "amount": 6190331.07
+    },
+    {
+      "id": "571166",
+      "code": "00G7",
+      "type": "program_activity",
+      "name": "FINANCIAL ASSISTANCE GRANTS / IAG MANAGEMENT",
+      "amount": 4923955.89
+    },
+    {
+      "id": "602171",
+      "code": "00K8",
+      "type": "program_activity",
+      "name": "RESEARCH: SUSTAINABLE AND HEALTHY COMMUNITIES",
+      "amount": 1942973.07
+    },
+    {
+      "id": "571142",
+      "code": "00F6",
+      "type": "program_activity",
+      "name": "INFORMATION SECURITY",
+      "amount": 1940843.69
+    },
+    {
+      "id": "571239",
+      "code": "00F9",
+      "type": "program_activity",
+      "name": "LEGAL ADVICE: ENVIRONMENTAL PROGRAM",
+      "amount": 1793045.2
+    },
+    {
+      "id": "571168",
+      "code": "0062",
+      "type": "program_activity",
+      "name": "FORENSICS SUPPORT",
+      "amount": 1461254.13
+    },
+    {
+      "id": "571054",
+      "code": "0073",
+      "type": "program_activity",
+      "name": "HOMELAND SEC:  PROTECTION OF EPA PERSONNEL & INFRASTRUCTURE",
+      "amount": 1256695.58
+    },
+    {
+      "id": "571165",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "COMPLIANCE MONITORING",
+      "amount": 811754.64
+    },
+    {
+      "id": "571097",
+      "code": "00F1",
+      "type": "program_activity",
+      "name": "EXCHANGE NETWORK",
+      "amount": 781146.32
+    },
+    {
+      "id": "571243",
+      "code": "00E4",
+      "type": "program_activity",
+      "name": "ALTERNATIVE DISPUTE RESOLUTION",
+      "amount": 552172.42
+    },
+    {
+      "id": "571085",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 548809.55
+    },
+    {
+      "id": "571185",
+      "code": "0041",
+      "type": "program_activity",
+      "name": "BASE REALIGNMENT AND CLOSURE (BRAC)",
+      "amount": 271253.84
+    },
+    {
+      "id": "571236",
+      "code": "0097",
+      "type": "program_activity",
+      "name": "RADIATION:  PROTECTION",
+      "amount": 143884.27
+    },
+    {
+      "id": "629445",
+      "code": "00J5",
+      "type": "program_activity",
+      "name": "TRADE AND GOVERNANCE",
+      "amount": 22768.74
+    },
+    {
+      "id": "570144",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "COMPLIANCE AND ENVIRONMENTAL STEWARDSHIP",
+      "amount": 0
+    },
+    {
+      "id": "571157",
+      "code": "0079",
+      "type": "program_activity",
+      "name": "BROWNFIELDS PROJECTS",
+      "amount": 0
+    },
+    {
+      "id": "571140",
+      "code": "00G2",
+      "type": "program_activity",
+      "name": "AUDITS, EVALUATIONS, AND INVESTIGATIONS",
+      "amount": 0
+    },
+    {
+      "id": "571078",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571060",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571206",
+      "code": "00G2",
+      "type": "program_activity",
+      "name": "AUDITS, EVALUATIONS, AND INVESTIGATIONS",
+      "amount": 0
+    },
+    {
+      "id": "571115",
+      "code": "00K8",
+      "type": "program_activity",
+      "name": "RESEARCH: SUSTAINABLE AND HEALTHY COMMUNITIES",
+      "amount": 0
+    },
+    {
+      "id": "587403",
+      "code": "0086",
+      "type": "program_activity",
+      "name": "LUST / UST",
+      "amount": -25406.23
+    },
+    {
+      "id": "571271",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "CIVIL ENFORCEMENT",
+      "amount": -26058
+    },
+    {
+      "id": "571296",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  STATE AND LOCAL AIR QUALITY MANAGEMENT",
+      "amount": -483036.59
+    }
+  ]
+}

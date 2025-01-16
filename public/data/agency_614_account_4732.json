@@ -1,0 +1,69 @@
+{
+  "total": 12754563477.87,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568238",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "RENTAL OF SPACE",
+      "amount": 5775123118.84
+    },
+    {
+      "id": "568263",
+      "code": "0811",
+      "type": "program_activity",
+      "name": "BUILDING OPERATIONS",
+      "amount": 3223459696.36
+    },
+    {
+      "id": "568270",
+      "code": "0820",
+      "type": "program_activity",
+      "name": "SPECIAL SERVICES AND IMPROVEMENTS",
+      "amount": 1720138984.29
+    },
+    {
+      "id": "568259",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "INFLATION REDUCTION ACT",
+      "amount": 712275595.51
+    },
+    {
+      "id": "568234",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REPAIRS AND ALTERATIONS",
+      "amount": 577699007.5
+    },
+    {
+      "id": "568252",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE INVESTMENT AND JOBS ACT",
+      "amount": 400917024.52
+    },
+    {
+      "id": "568235",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CONSTRUCTION AND ACQUISITION OF FACILITIES",
+      "amount": 316927908.71
+    },
+    {
+      "id": "568228",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DISASTER EMERGENCY FUNDS",
+      "amount": 28022142.14
+    },
+    {
+      "id": "568240",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "INSTALLMENT ACQUISITION PAYMENTS",
+      "amount": 0
+    }
+  ]
+}

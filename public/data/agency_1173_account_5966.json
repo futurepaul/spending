@@ -1,0 +1,20 @@
+{
+  "total": 16507018.89,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564516",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 16509041.02
+    },
+    {
+      "id": "565050",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -2022.13
+    }
+  ]
+}

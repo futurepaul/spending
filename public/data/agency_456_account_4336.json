@@ -1,0 +1,34 @@
+{
+  "total": 26246884478.8,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569080",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAYMENT WHERE CHILD TAX CREDIT EXCEEDS LIABILITY FOR TAX DIRECT",
+      "amount": 26155531445.41
+    },
+    {
+      "id": "569022",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PAYMENT WHERE CHILD TAX CREDIT EXCEEDS LIABILITY FOR TAX TERRITORY PAYMENT",
+      "amount": 92522839.61
+    },
+    {
+      "id": "569384",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PAYMENT FOR THE ADVANCED CHILD TAX CREDIT TERRITORY PAYMENT",
+      "amount": 0
+    },
+    {
+      "id": "569000",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PAYMENT FOR THE ADVANCED CHILD TAX CREDIT",
+      "amount": -1169806.22
+    }
+  ]
+}

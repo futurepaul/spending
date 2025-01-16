@@ -1,0 +1,13 @@
+{
+  "total": 3079205.24,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570946",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BENEFITS",
+      "amount": 3079205.24
+    }
+  ]
+}

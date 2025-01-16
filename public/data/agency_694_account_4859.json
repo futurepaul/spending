@@ -1,0 +1,20 @@
+{
+  "total": 164946836.31,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566284",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONSUMER PRODUCT SAFETY - DIRECT",
+      "amount": 160869379.36
+    },
+    {
+      "id": "566283",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CONSUMER PRODUCT SAFETY - REIMBURSABLE",
+      "amount": 4077456.95
+    }
+  ]
+}

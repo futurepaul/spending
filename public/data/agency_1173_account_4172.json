@@ -1,0 +1,48 @@
+{
+  "total": 1497562563.19,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564370",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PROC AMMO MC",
+      "amount": 728983265.52
+    },
+    {
+      "id": "564898",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PROC AMMO NAVY",
+      "amount": 719769035.02
+    },
+    {
+      "id": "564864",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 48560307.94
+    },
+    {
+      "id": "564953",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 379456.53
+    },
+    {
+      "id": "564776",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "UNMATCHED",
+      "amount": 0
+    },
+    {
+      "id": "697153",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": -129501.82
+    }
+  ]
+}

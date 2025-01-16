@@ -1,0 +1,20 @@
+{
+  "total": 86921060.82,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567115",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ADMINISTRATION OF DISCRETIONARY GRANT PROGRAMS",
+      "amount": 45042408.4
+    },
+    {
+      "id": "567274",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ADMINISTRATION OF DISCRETIONARY GRANT PROGRAMS",
+      "amount": 41878652.42
+    }
+  ]
+}

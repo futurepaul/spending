@@ -1,0 +1,27 @@
+{
+  "total": 19301629.47,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564838",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 19302632.36
+    },
+    {
+      "id": "564407",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "RECERT OR LIMITED LIABILITY",
+      "amount": 0
+    },
+    {
+      "id": "564474",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -1002.89
+    }
+  ]
+}

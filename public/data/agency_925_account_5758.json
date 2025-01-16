@@ -1,0 +1,55 @@
+{
+  "total": 437464185.14,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566236",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CITIZEN SERVICES",
+      "amount": 132509390.19
+    },
+    {
+      "id": "566228",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LEGISLATIVE ARCHIVES, PRESIDENTIAL LIBRARIES, AND MUSEUM SERVICES",
+      "amount": 126946814.85
+    },
+    {
+      "id": "566237",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AGENCY AND RELATED SERVICES",
+      "amount": 71297816.97
+    },
+    {
+      "id": "566241",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "FACILITY OPERATIONS",
+      "amount": 68747624.56
+    },
+    {
+      "id": "566240",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "ELECTRONIC RECORDS INITIATIVE",
+      "amount": 36168922.08
+    },
+    {
+      "id": "566238",
+      "code": "0888",
+      "type": "program_activity",
+      "name": "OPERATING EXPENSES (REIMBURSABLE)",
+      "amount": 1793616.49
+    },
+    {
+      "id": "566235",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FINANCIAL TRANSFER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "total": 3990411155.19,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564134",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "VOCATIONAL REHABILITATION STATE GRANTS",
+      "amount": 3827922801.79
+    },
+    {
+      "id": "564060",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "INDEPENDENT LIVING SERVICES FOR OLDER BLIND INDIVIDUALS",
+      "amount": 31787822.3
+    },
+    {
+      "id": "564156",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "TRAINING",
+      "amount": 28792169.65
+    },
+    {
+      "id": "564064",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 25151160.49
+    },
+    {
+      "id": "564205",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "PROTECTION AND ADVOCACY OF INDIVIDUAL RIGHTS",
+      "amount": 20061288.89
+    },
+    {
+      "id": "564189",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "HELEN KELLER NATIONAL CENTER",
+      "amount": 19000000
+    },
+    {
+      "id": "564144",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SUPPORTED EMPLOYMENT STATE GRANTS",
+      "amount": 17209485.16
+    },
+    {
+      "id": "564201",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CLIENT ASSISTANCE STATE GRANTS",
+      "amount": 13057912.36
+    },
+    {
+      "id": "564080",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "DEMONSTRATION AND TRAINING PROGRAMS",
+      "amount": 6673860.81
+    },
+    {
+      "id": "566631",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "VOCATIONAL REHABILITATION STATE GRANTS",
+      "amount": 754653.74
+    }
+  ]
+}

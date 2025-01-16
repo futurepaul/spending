@@ -1,0 +1,62 @@
+{
+  "total": 768764107.26,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5758",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Operating Expenses, National Archives and Records Administration",
+      "amount": 437464185.14,
+      "account_number": "088-0300"
+    },
+    {
+      "id": "5763",
+      "code": "4578",
+      "type": "federal_account",
+      "name": "Records Center Revolving Fund, National Archives and Records Administration",
+      "amount": 237362594.18,
+      "account_number": "088-4578"
+    },
+    {
+      "id": "5759",
+      "code": "0301",
+      "type": "federal_account",
+      "name": "National Historical Publications and Records Commission, National Archives and Records Administration",
+      "amount": 44092004.55,
+      "account_number": "088-0301"
+    },
+    {
+      "id": "5760",
+      "code": "0302",
+      "type": "federal_account",
+      "name": "Repairs and Restoration, National Archives and Records Administration",
+      "amount": 29929319.04,
+      "account_number": "088-0302"
+    },
+    {
+      "id": "5765",
+      "code": "8436",
+      "type": "federal_account",
+      "name": "National Archives Trust Fund, National Archives and Records Administration",
+      "amount": 10933880.32,
+      "account_number": "088-8436"
+    },
+    {
+      "id": "5764",
+      "code": "8127",
+      "type": "federal_account",
+      "name": "National Archives Gift Fund, National Archives and Records Administration",
+      "amount": 5178941.51,
+      "account_number": "088-8127"
+    },
+    {
+      "id": "5762",
+      "code": "0305",
+      "type": "federal_account",
+      "name": "Office of Inspector General, National Archives and Records Administration",
+      "amount": 3803182.52,
+      "account_number": "088-0305"
+    }
+  ]
+}

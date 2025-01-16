@@ -1,0 +1,111 @@
+{
+  "total": 7449902879.81,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567982",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "SAVANNAH RIVER",
+      "amount": 1563728536.49
+    },
+    {
+      "id": "568008",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "HANFORD SITE",
+      "amount": 1003953153.22
+    },
+    {
+      "id": "568170",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "RIVER PROTECTION - TANK FARM",
+      "amount": 972055298.84
+    },
+    {
+      "id": "568142",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "RIVER PROTECTION - WASTE TREATMENT PLANT",
+      "amount": 918027735.02
+    },
+    {
+      "id": "568015",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "OAK RIDGE",
+      "amount": 572799332.38
+    },
+    {
+      "id": "568218",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "IDAHO",
+      "amount": 477869876.04
+    },
+    {
+      "id": "568169",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "WASTE ISOLATION PILOT PLANT",
+      "amount": 467022754.71
+    },
+    {
+      "id": "567993",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "NNSA SITES",
+      "amount": 391930904.89
+    },
+    {
+      "id": "568173",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "SAFEGUARDS & SECURITY",
+      "amount": 349251122.05
+    },
+    {
+      "id": "568012",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 327344229.78
+    },
+    {
+      "id": "644471",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "UED&D FUND CONTRIBUTION",
+      "amount": 285000000
+    },
+    {
+      "id": "568193",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 87935814.74
+    },
+    {
+      "id": "568005",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "TECHNOLOGY DEVELOPMENT & DEMONSTRATION",
+      "amount": 32711929.89
+    },
+    {
+      "id": "567988",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CLOSURE SITES",
+      "amount": 324365.26
+    },
+    {
+      "id": "568225",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "SPRU",
+      "amount": -52173.5
+    }
+  ]
+}

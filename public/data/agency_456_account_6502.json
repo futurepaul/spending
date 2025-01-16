@@ -1,0 +1,97 @@
+{
+  "total": 468607046.28,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569400",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "ADVANCED MANUFACTURING PRODUCTION CREDIT",
+      "amount": 464745101.01
+    },
+    {
+      "id": "569318",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "ENERGY PROPERTY CREDIT",
+      "amount": 3122597.53
+    },
+    {
+      "id": "569222",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CARBON OXIDE SEQUESTRATION CREDIT",
+      "amount": 700890.75
+    },
+    {
+      "id": "569351",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "QUALIFIED COMMERCIAL CLEAN VEHICLES CREDIT",
+      "amount": 22500
+    },
+    {
+      "id": "569057",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ALTERNATIVE FUEL VEHICLE REFUELING PROPERTY CREDIT",
+      "amount": 13016.99
+    },
+    {
+      "id": "569146",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CLEAN HYDROGEN PRODUCTION CREDIT",
+      "amount": 2940
+    },
+    {
+      "id": "568979",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "RENEWABLE ELECTRICITY PRODUCTION CREDIT",
+      "amount": 0
+    },
+    {
+      "id": "569406",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ELECTIVE PAYMENT FOR APPLICABLE ENERGY CREDITS",
+      "amount": 0
+    },
+    {
+      "id": "569010",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "CLEAN ELECTRICITY INVESTMENT CREDIT",
+      "amount": 0
+    },
+    {
+      "id": "569124",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "ZERO EMISSION NUCLEAR POWER PRODUCTION CREDIT",
+      "amount": 0
+    },
+    {
+      "id": "569138",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CLEAN FUEL PRODUCTION CREDIT",
+      "amount": 0
+    },
+    {
+      "id": "569171",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "QUALIFYING ADVANCED ENERGY PROJECT CREDIT",
+      "amount": 0
+    },
+    {
+      "id": "569331",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CLEAN ELECTRICITY PRODUCTION CREDIT",
+      "amount": 0
+    }
+  ]
+}

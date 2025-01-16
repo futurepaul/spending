@@ -1,0 +1,34 @@
+{
+  "total": 162895810.23,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570852",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "FEDERAL PROGRAMS FOR WORKERS' COMPENSATION",
+      "amount": 120035869.1
+    },
+    {
+      "id": "571032",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "TRUST FUNDS, FEDERAL PROGRAMS FOR WORKERS' COMPENSATION",
+      "amount": 42859941.13
+    },
+    {
+      "id": "570856",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570955",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL PROGRAMS FOR WORKERS COMPENSATION",
+      "amount": 0
+    }
+  ]
+}

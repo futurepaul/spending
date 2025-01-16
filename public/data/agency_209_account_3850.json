@@ -1,0 +1,48 @@
+{
+  "total": 121104125.47,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566348",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "LAND ACQUISITIONS",
+      "amount": 59661130.08
+    },
+    {
+      "id": "566475",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SPORTSMEN AND RECREATIONAL ACCESS",
+      "amount": 21607586.8
+    },
+    {
+      "id": "566434",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LAND ACQUISITION MANAGEMENT",
+      "amount": 19425025.71
+    },
+    {
+      "id": "566502",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "EMERGENCIES, HARDSHIPS, AND INHOLDINGS",
+      "amount": 10715500.51
+    },
+    {
+      "id": "566741",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "HIGHLANDS CONSERVATION ACT",
+      "amount": 8094488.96
+    },
+    {
+      "id": "566586",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "EXCHANGES",
+      "amount": 1600393.41
+    }
+  ]
+}

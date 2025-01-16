@@ -1,0 +1,30 @@
+{
+  "total": 83291452.02,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6258",
+      "code": "1651",
+      "type": "federal_account",
+      "name": "Election Security Grants, Election Assistance Commission",
+      "amount": 54996915.89,
+      "account_number": "525-1651"
+    },
+    {
+      "id": "6257",
+      "code": "1650",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Election Assistance Commission",
+      "amount": 28294536.13,
+      "account_number": "525-1650"
+    },
+    {
+      "id": "6259",
+      "code": "1652",
+      "type": "federal_account",
+      "name": "Election Data Collections Grants, Election Assistance Commission",
+      "amount": 0,
+      "account_number": "525-1652"
+    }
+  ]
+}

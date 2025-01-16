@@ -1,0 +1,34 @@
+{
+  "total": 304687723.05,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565122",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SUPERIOR COURT",
+      "amount": 142733362.98
+    },
+    {
+      "id": "565121",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "COURT SYSTEM",
+      "amount": 86514659.66
+    },
+    {
+      "id": "565124",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CAPITAL IMPROVEMENTS",
+      "amount": 59194184.6
+    },
+    {
+      "id": "565126",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COURT OF APPEALS",
+      "amount": 16245515.81
+    }
+  ]
+}

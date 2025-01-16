@@ -1,0 +1,27 @@
+{
+  "total": 5976057354.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569972",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "PRIMARY HEALTH CARE (MANDATORY)",
+      "amount": 4250244766.17
+    },
+    {
+      "id": "569929",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PRIMARY HEALTH CARE (HEALTH CENTERS, FREE CLINICS)",
+      "amount": 1725812588.68
+    },
+    {
+      "id": "569755",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

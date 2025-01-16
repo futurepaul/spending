@@ -1,0 +1,27 @@
+{
+  "total": 678868192.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569804",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "NATIONAL HUMAN GENOME RESEARCH INSTITUTE (0891)",
+      "amount": 678901564.08
+    },
+    {
+      "id": "569770",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "569872",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": -33371.29
+    }
+  ]
+}

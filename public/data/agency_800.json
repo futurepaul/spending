@@ -1,0 +1,14 @@
+{
+  "total": -6437201.32,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5320",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Program Account, United States International Development Finance Corporation",
+      "amount": -6437201.32,
+      "account_number": "071-0100"
+    }
+  ]
+}

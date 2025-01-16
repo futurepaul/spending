@@ -3,6 +3,10 @@ import * as d3 from 'd3';
 import { useNavigate } from '@tanstack/react-router';
 import moneyJpg from './assets/money.jpg';
 import { useUserAmount } from './UserAmountContext';
+import { calculatePercentage, calculateUserPortion } from './budgetMath';
+
+// Total budget constant
+const TOTAL_BUDGET = 9.7e12; // 9.7T
 
 export interface TreeViewData {
   name: string;
@@ -64,30 +68,18 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
 
     // Format numbers for display
     const formatNumber = (n: number) => {
-        if (n > 1000000000000) {
-            return `$${(n / 1000000000000).toFixed(2)}T`
-        } else if (n > 1000000000) {
-            return `$${(n / 1000000000).toFixed(2)}B`
-        } else {
-            return n.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
-        }
+        if (n >= 1e12) return `$${(n / 1e12).toFixed(2)}T`;
+        if (n >= 1e9) return `$${(n / 1e9).toFixed(2)}B`;
+        return n.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
     };
 
     // Format percentage
-    const formatPercent = (n: number) => `${(n * 100).toFixed(1)}%`;
+    const formatPercent = (n: number) => `${n.toFixed(1)}%`;
 
     // Calculate user's scaled amount
     const calculateUserAmount = (value: number) => {
       if (!useUserMoney || userAmount === 0) return null;
-      
-      // First get the parent-scaled amount if we're in a sub-view
-      const effectiveUserAmount = parentPercentage !== undefined 
-        ? userAmount * parentPercentage
-        : userAmount;
-      
-      // Then calculate this item's percentage of its parent
-      const ratio = value / treemapData.children!.reduce((sum, child) => sum + child.value, 0);
-      return effectiveUserAmount * ratio;
+      return userAmount * (value / TOTAL_BUDGET);
     };
 
     // Create SVG
@@ -141,19 +133,20 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
       .enter()
       .append('g')
       .attr('transform', d => `translate(${d.x0},${d.y0})`)
-      .style('cursor', 'pointer')
+      .style('cursor', d => {
+        // Show pointer if onItemClick is provided (for sub-levels) or if we're at root level
+        return (onItemClick || !parentPercentage) && d.data.id ? 'pointer' : 'default';
+      })
       .on('click', (_event, d) => {
         const nodeData = d.data;
-        if (nodeData.id) {
-          if (onItemClick) {
-            onItemClick(nodeData);
-          } else {
-            navigate({ 
-              to: '/agency/$agencyId',
-              params: { agencyId: nodeData.id },
-              search: (prev) => ({ ...prev })
-            });
-          }
+        if (nodeData.id && onItemClick) {
+          onItemClick(nodeData);
+        } else if (nodeData.id && !parentPercentage) {
+          navigate({ 
+            to: '/agency/$agencyId',
+            params: { agencyId: nodeData.id },
+            search: (prev) => ({ ...prev })
+          });
         }
       });
 
@@ -181,7 +174,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
       .data(d => {
         const nodeData = d.data;
         const name = nodeData.name;
-        const percent = formatPercent((d.value || 0) / total);
+        const percent = formatPercent(calculatePercentage(d.value || 0, TOTAL_BUDGET));
         const dollars = formatNumber(d.value || 0);
         const userScaledAmount = calculateUserAmount(d.value || 0);
         const lines = [

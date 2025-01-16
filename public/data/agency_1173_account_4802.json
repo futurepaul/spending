@@ -1,0 +1,48 @@
+{
+  "total": -73137602.08,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564311",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 1776.02
+    },
+    {
+      "id": "565051",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 614.19
+    },
+    {
+      "id": "564310",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SPARES",
+      "amount": 0
+    },
+    {
+      "id": "564957",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": -16024.8
+    },
+    {
+      "id": "564618",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SPACE PROCUREMENT  SPARES",
+      "amount": -22514.51
+    },
+    {
+      "id": "564230",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SPACE PROCUREMENT  AF",
+      "amount": -73101452.98
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "total": 26438693138.8,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5634",
+      "code": "0124",
+      "type": "federal_account",
+      "name": "Exploration, National Aeronautics and Space Administration",
+      "amount": 7626849090.33,
+      "account_number": "080-0124"
+    },
+    {
+      "id": "5630",
+      "code": "0120",
+      "type": "federal_account",
+      "name": "Science, National Aeronautics and Space Administration",
+      "amount": 7141301455.91,
+      "account_number": "080-0120"
+    },
+    {
+      "id": "5632",
+      "code": "0122",
+      "type": "federal_account",
+      "name": "Safety, Security and Mission Services, National Aeronautics and Space Administration",
+      "amount": 4741380852.95,
+      "account_number": "080-0122"
+    },
+    {
+      "id": "5627",
+      "code": "0115",
+      "type": "federal_account",
+      "name": "Space Operations, National Aeronautics and Space Administration",
+      "amount": 4156447529.41,
+      "account_number": "080-0115"
+    },
+    {
+      "id": "5639",
+      "code": "0131",
+      "type": "federal_account",
+      "name": "Space Technology, National Aeronautics Space Administration",
+      "amount": 1063380017.92,
+      "account_number": "080-0131"
+    },
+    {
+      "id": "5636",
+      "code": "0126",
+      "type": "federal_account",
+      "name": "Aeronautics, National Aeronautics and Space Administration",
+      "amount": 938957615.61,
+      "account_number": "080-0126"
+    },
+    {
+      "id": "5640",
+      "code": "4546",
+      "type": "federal_account",
+      "name": "Working Capital Fund, National Aeronautics and Space Administration",
+      "amount": 294258001.74,
+      "account_number": "080-4546"
+    },
+    {
+      "id": "5638",
+      "code": "0130",
+      "type": "federal_account",
+      "name": "Construction and Environmental Compliance and Restoration, National Aeronautics and Space Administration",
+      "amount": 288693232.31,
+      "account_number": "080-0130"
+    },
+    {
+      "id": "5637",
+      "code": "0128",
+      "type": "federal_account",
+      "name": "Science, Technology, Engineering, and Mathematics Engagement, National Aeronautics and Space Administration",
+      "amount": 139034998.96,
+      "account_number": "080-0128"
+    },
+    {
+      "id": "5622",
+      "code": "0109",
+      "type": "federal_account",
+      "name": "Office of Inspector General, National Aeronautics and Space Administration",
+      "amount": 47742560.21,
+      "account_number": "080-0109"
+    },
+    {
+      "id": "5648",
+      "code": "8978",
+      "type": "federal_account",
+      "name": "Science, Space and Technology Education Trust Fund, National Aeronautics and Space Administration",
+      "amount": 500000,
+      "account_number": "080-8978"
+    },
+    {
+      "id": "5624",
+      "code": "0111",
+      "type": "federal_account",
+      "name": "Human Space Flight, National Aeronautics and Space Administration",
+      "amount": 147783.45,
+      "account_number": "080-0111"
+    },
+    {
+      "id": "5646",
+      "code": "8550",
+      "type": "federal_account",
+      "name": "Endeavor Teacher Fellowship Trust Fund, National Aeronautics and Space Administration",
+      "amount": 0,
+      "account_number": "080-8550"
+    },
+    {
+      "id": "5649",
+      "code": "8980",
+      "type": "federal_account",
+      "name": "Gifts and Donations, National Aeronautics and Space Administration",
+      "amount": 0,
+      "account_number": "080-8980"
+    }
+  ]
+}

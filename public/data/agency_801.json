@@ -1,0 +1,254 @@
+{
+  "total": 24858566930.18,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5349",
+      "code": "1037",
+      "type": "federal_account",
+      "name": "Economic Support Fund, Funds Appropriated to the President",
+      "amount": 8170970804.24,
+      "account_number": "072-1037"
+    },
+    {
+      "id": "5348",
+      "code": "1035",
+      "type": "federal_account",
+      "name": "International Disaster Assistance, Funds Appropriated to the President, US Agency for International Development",
+      "amount": 7688822718.11,
+      "account_number": "072-1035"
+    },
+    {
+      "id": "5341",
+      "code": "1021",
+      "type": "federal_account",
+      "name": "Development Assistance, Agency for International Development, Funds Appropriated to the President",
+      "amount": 4359917507.63,
+      "account_number": "072-1021"
+    },
+    {
+      "id": "5334",
+      "code": "1000",
+      "type": "federal_account",
+      "name": "Operating Expenses of the United States Agency for International Development, Funds Appropriated to the President",
+      "amount": 1780344434.22,
+      "account_number": "072-1000"
+    },
+    {
+      "id": "5329",
+      "code": "0306",
+      "type": "federal_account",
+      "name": "Assistance for Europe, Eurasia, and Central Asia, Funds Appropriated to the President, US Agency for International Development",
+      "amount": 1091340903.03,
+      "account_number": "072-0306"
+    },
+    {
+      "id": "5347",
+      "code": "1033",
+      "type": "federal_account",
+      "name": "HIV/AIDS Working Capital Fund, Agency for International Development",
+      "amount": 1075361638.54,
+      "account_number": "072-1033"
+    },
+    {
+      "id": "5324",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Capital Investment Fund of the United States Agency for International Development, Funds Appropriated to the President",
+      "amount": 266144923.96,
+      "account_number": "072-0300"
+    },
+    {
+      "id": "5345",
+      "code": "1027",
+      "type": "federal_account",
+      "name": "Transition Initiatives, Funds Appropriated to the President, US Agency for International Development",
+      "amount": 116823900.56,
+      "account_number": "072-1027"
+    },
+    {
+      "id": "5336",
+      "code": "1007",
+      "type": "federal_account",
+      "name": "Operating Expenses of the United States Agency for International Development, Office of Inspector General, Funds Appropriated to the President",
+      "amount": 90024960.11,
+      "account_number": "072-1007"
+    },
+    {
+      "id": "5372",
+      "code": "8824",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Agency for International Development",
+      "amount": 62626063.95,
+      "account_number": "072-8824"
+    },
+    {
+      "id": "5340",
+      "code": "1015",
+      "type": "federal_account",
+      "name": "Complex Crises Fund, Funds Appropriated to the President, US Agency for International Development",
+      "amount": 50841808.45,
+      "account_number": "072-1015"
+    },
+    {
+      "id": "5371",
+      "code": "8502",
+      "type": "federal_account",
+      "name": "Technical Assistance, United States Dollars Advanced from Foreign Governments, Agency for International Development",
+      "amount": 37533186.18,
+      "account_number": "072-8502"
+    },
+    {
+      "id": "5361",
+      "code": "4513",
+      "type": "federal_account",
+      "name": "Working Capital Fund, International Assistance Program",
+      "amount": 22898879.38,
+      "account_number": "072-4513"
+    },
+    {
+      "id": "5333",
+      "code": "0409",
+      "type": "federal_account",
+      "name": "MENA Loan Guarantee Program Account, Funds Appropriated to the President, US Agency for International Development",
+      "amount": 22281271,
+      "account_number": "072-0409"
+    },
+    {
+      "id": "5353",
+      "code": "1095",
+      "type": "federal_account",
+      "name": "Child Survival and Health Programs Fund, United States Agency for International Development",
+      "amount": 10076413.86,
+      "account_number": "072-1095"
+    },
+    {
+      "id": "5370",
+      "code": "8342",
+      "type": "federal_account",
+      "name": "Foreign National Employees Separation Liability Fund, Agency for International Development",
+      "amount": 6018556.62,
+      "account_number": "072-8342"
+    },
+    {
+      "id": "5358",
+      "code": "4175",
+      "type": "federal_account",
+      "name": "Property Management Fund, Agency for International Development",
+      "amount": 3729094.46,
+      "account_number": "072-4175"
+    },
+    {
+      "id": "5352",
+      "code": "1093",
+      "type": "federal_account",
+      "name": "Assistance for the Independent States of the Former Soviet Union, Funds Appropriated to the President, United States Agency for International Development",
+      "amount": 2811467.45,
+      "account_number": "072-1093"
+    },
+    {
+      "id": "5342",
+      "code": "1023",
+      "type": "federal_account",
+      "name": "Food and Nutrition, Development Assistance, Economic Assistance, Funds Appropriated to the President",
+      "amount": 1212.36,
+      "account_number": "072-1023"
+    },
+    {
+      "id": "5351",
+      "code": "1040",
+      "type": "federal_account",
+      "name": "Sub-Saharan Africa Disaster Assistance, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "072-1040"
+    },
+    {
+      "id": "5339",
+      "code": "1014",
+      "type": "federal_account",
+      "name": "Sub-Saharan Africa, Development Assistance, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "072-1014"
+    },
+    {
+      "id": "5343",
+      "code": "1024",
+      "type": "federal_account",
+      "name": "Population Planning and Health, Development Assistance, Economic Assistance, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "072-1024"
+    },
+    {
+      "id": "5344",
+      "code": "1025",
+      "type": "federal_account",
+      "name": "Education and Human Resources Development, Development Assistance, Economic Assistance, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "072-1025"
+    },
+    {
+      "id": "5332",
+      "code": "0402",
+      "type": "federal_account",
+      "name": "Assistance for the New Independent States of the Former Soviet Union:  Ukraine Export Credit Insurance Program Account",
+      "amount": 0,
+      "account_number": "072-0402"
+    },
+    {
+      "id": "5338",
+      "code": "1012",
+      "type": "federal_account",
+      "name": "Sahel Development Program, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "072-1012"
+    },
+    {
+      "id": "5354",
+      "code": "1096",
+      "type": "federal_account",
+      "name": "Central America and the Caribbean Emergency Disaster Recovery Fund, Agency for International Development",
+      "amount": 0,
+      "account_number": "072-1096"
+    },
+    {
+      "id": "5356",
+      "code": "1500",
+      "type": "federal_account",
+      "name": "Demobilization and Transition Fund, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "072-1500"
+    },
+    {
+      "id": "5362",
+      "code": "4590",
+      "type": "federal_account",
+      "name": "Acquisition of Property Revolving Fund, Agency for International Development",
+      "amount": 0,
+      "account_number": "072-4590"
+    },
+    {
+      "id": "5363",
+      "code": "5318",
+      "type": "federal_account",
+      "name": "Loan Guarantees to Israel Program, Reimbursements of Administrative Expenses, Agency for International Development",
+      "amount": 0,
+      "account_number": "072-5318"
+    },
+    {
+      "id": "5328",
+      "code": "0305",
+      "type": "federal_account",
+      "name": "Civilian Stabilization Initiative, Funds Appropriated to the President, Agency for International Development",
+      "amount": -509.93,
+      "account_number": "072-0305"
+    },
+    {
+      "id": "5337",
+      "code": "1010",
+      "type": "federal_account",
+      "name": "Assistance for Eastern Europe and the Baltic States, Funds Appropriated to the President",
+      "amount": -2304,
+      "account_number": "072-1010"
+    }
+  ]
+}

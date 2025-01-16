@@ -1,0 +1,14 @@
+{
+  "total": 117728566.25,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6301",
+      "code": "5761",
+      "type": "federal_account",
+      "name": "Environmental Review Improvement Fund, Federal Permitting Improvement Steering Council",
+      "amount": 117728566.25,
+      "account_number": "473-5761"
+    }
+  ]
+}

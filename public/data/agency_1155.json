@@ -1,0 +1,30 @@
+{
+  "total": 12216482.5,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6230",
+      "code": "0925",
+      "type": "federal_account",
+      "name": "Environmental Dispute Resolution Fund, Morris K. Udall and Stewart L. Udall Foundation",
+      "amount": 6967604.03,
+      "account_number": "487-0925"
+    },
+    {
+      "id": "6232",
+      "code": "8615",
+      "type": "federal_account",
+      "name": "Morris K. Udall and Stewart L. Udall Trust Fund, Morris K. Udall and Stewart L. Udall Foundation",
+      "amount": 3423356.47,
+      "account_number": "487-8615"
+    },
+    {
+      "id": "6228",
+      "code": "0900",
+      "type": "federal_account",
+      "name": "Federal Payment to Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation",
+      "amount": 1825522,
+      "account_number": "487-0900"
+    }
+  ]
+}

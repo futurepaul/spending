@@ -1,0 +1,62 @@
+{
+  "total": 92701114.59,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564574",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CEMETERIAL EXPENSES",
+      "amount": 94023514.83
+    },
+    {
+      "id": "564925",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 2127481.76
+    },
+    {
+      "id": "564425",
+      "code": "00ZZ",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 0
+    },
+    {
+      "id": "564795",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "CEMETARIAL EXPENSES",
+      "amount": 0
+    },
+    {
+      "id": "565004",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -2968.03
+    },
+    {
+      "id": "564755",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CEMETARIAL EXPENSES",
+      "amount": -294095.74
+    },
+    {
+      "id": "564594",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -693474.1
+    },
+    {
+      "id": "574197",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED GFEBS",
+      "amount": -2459344.13
+    }
+  ]
+}

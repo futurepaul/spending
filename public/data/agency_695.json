@@ -1,0 +1,14 @@
+{
+  "total": 31476891.38,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4861",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Special Counsel",
+      "amount": 31476891.38,
+      "account_number": "062-0100"
+    }
+  ]
+}

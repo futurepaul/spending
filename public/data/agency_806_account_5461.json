@@ -1,0 +1,153 @@
+{
+  "total": 6704340308.16,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570063",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "FDA USER FEES (NON GENERAL FUND)",
+      "amount": 3219390397.8
+    },
+    {
+      "id": "570058",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FOODS",
+      "amount": 1112782240.06
+    },
+    {
+      "id": "570039",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "HUMAN DRUGS",
+      "amount": 687415884.19
+    },
+    {
+      "id": "570112",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "DEVICES AND RADIOLOGICAL HEALTH",
+      "amount": 471224198.91
+    },
+    {
+      "id": "569905",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "BIOLOGICS",
+      "amount": 268505001.99
+    },
+    {
+      "id": "570086",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "FDA OTHER ACTIVITIES (FDA HEADQUATERS)",
+      "amount": 230884597.74
+    },
+    {
+      "id": "569999",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "ANIMAL DRUGS AND FEED",
+      "amount": 214751301.25
+    },
+    {
+      "id": "569924",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FDA OTHER RENT AND RENT RELATED ACTIVITIES (INCLUDING WHITE OAK CONSOLIDATION)",
+      "amount": 193640195.35
+    },
+    {
+      "id": "569825",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "FDA GSA RENTAL PAYMENTS",
+      "amount": 162559136.04
+    },
+    {
+      "id": "570180",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATIONAL CENTER FOR TOXICOLOGICAL RESEARCH",
+      "amount": 75995036.86
+    },
+    {
+      "id": "570183",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "CORONAVIRUS EMERGENCY FUNDING SUPPLEMENTAL",
+      "amount": 27241181.92
+    },
+    {
+      "id": "570125",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "FDA REIMBURSABLE PROGRAM (FEDERAL SOURCES)",
+      "amount": 27066790.88
+    },
+    {
+      "id": "569806",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "FDA HCFAC WEDGE FUND",
+      "amount": 9442934.27
+    },
+    {
+      "id": "570062",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "FOREIGN INSPECTION PILOT",
+      "amount": 3112814.86
+    },
+    {
+      "id": "570054",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "OPIOIDS - IMF",
+      "amount": 251336.17
+    },
+    {
+      "id": "570006",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "FOOD AND DRUG SAFETY (NO-YEAR)",
+      "amount": 107801.65
+    },
+    {
+      "id": "570124",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "SEAFOOD SAFETY STUDIES-GP SEC. 765",
+      "amount": 0
+    },
+    {
+      "id": "569777",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FDA REIMBURSABLE PROGRAM (USER FEES)",
+      "amount": 0
+    },
+    {
+      "id": "569994",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "ZIKA ACTIVITIES",
+      "amount": -182.83
+    },
+    {
+      "id": "570118",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "EMERGING HEALTH THREATS",
+      "amount": -8760.89
+    },
+    {
+      "id": "569746",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "EBOLA (EMERGENCY PURSUANT TO 2011 BCA)",
+      "amount": -21598.06
+    }
+  ]
+}

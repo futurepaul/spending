@@ -1,0 +1,20 @@
+{
+  "total": 420275.83,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569468",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SPECIAL BENEFITS FOR CERTAIN WORLD WAR II VETERANS (DIRECT)",
+      "amount": 323896.86
+    },
+    {
+      "id": "569447",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "STATE SUPPLEMENT PAYMENTS",
+      "amount": 96378.97
+    }
+  ]
+}

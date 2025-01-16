@@ -1,0 +1,27 @@
+{
+  "total": 14380456.58,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565202",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MEDIATORY SERVICES",
+      "amount": 10461146.58
+    },
+    {
+      "id": "565203",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "REPRESENTATION SERVICES",
+      "amount": 1989636.41
+    },
+    {
+      "id": "565204",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ARBITRATION SERVICES",
+      "amount": 1929673.59
+    }
+  ]
+}

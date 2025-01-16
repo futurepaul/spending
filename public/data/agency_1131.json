@@ -1,0 +1,22 @@
+{
+  "total": 5318775.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6133",
+      "code": "0950",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Harry S. Truman Scholarship Foundation",
+      "amount": 2970000,
+      "account_number": "372-0950"
+    },
+    {
+      "id": "6135",
+      "code": "8296",
+      "type": "federal_account",
+      "name": "Harry S. Truman Memorial Scholarship Trust Fund, Harry S Truman Scholarship Foundation",
+      "amount": 2348775.77,
+      "account_number": "372-8296"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": -189804.78,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569823",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570172",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PREGNANCY ASSISTANCE FUND (DIRECT)",
+      "amount": -189804.78
+    }
+  ]
+}

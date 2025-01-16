@@ -1,0 +1,55 @@
+{
+  "total": 723106698.88,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570212",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "HUMAN RESOURCE SOLUTIONS",
+      "amount": 465126106.21
+    },
+    {
+      "id": "570203",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "HUMAN RESOURCES TOOLS & TECHNOLOGY (HRTT)",
+      "amount": 105226131.93
+    },
+    {
+      "id": "570206",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "NATIONAL BACKGROUND INVESTIGATIONS BUREAU (NBIB)",
+      "amount": 105016385.6
+    },
+    {
+      "id": "570217",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "ENTERPRISE HUMAN RESOURCES INTEGRATION",
+      "amount": 35547059.8
+    },
+    {
+      "id": "570222",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "SUITABILITY EXECUTIVE AGENT",
+      "amount": 9752824.98
+    },
+    {
+      "id": "570193",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "HUMAN RESOURCE LINE OF BUSINESS (HRLOB)",
+      "amount": 1567128.08
+    },
+    {
+      "id": "570216",
+      "code": "0808",
+      "type": "program_activity",
+      "name": "INSPECTOR GENERAL ACTIVITIES",
+      "amount": 871062.28
+    }
+  ]
+}

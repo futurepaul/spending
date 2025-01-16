@@ -1,0 +1,20 @@
+{
+  "total": -96629.23,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570689",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 15907.07
+    },
+    {
+      "id": "570669",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FIRSTNET",
+      "amount": -112536.3
+    }
+  ]
+}

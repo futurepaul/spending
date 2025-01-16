@@ -1,0 +1,48 @@
+{
+  "total": 10565030759.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567824",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CAS - AVIATION SCREENING OPERATIONS",
+      "amount": 7398496814.96
+    },
+    {
+      "id": "567863",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CAS - MISSION SUPPORT",
+      "amount": 1564770865
+    },
+    {
+      "id": "567697",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CAS - OTHER OPERATIONS AND ENFORCEMENT",
+      "amount": 1539120506.41
+    },
+    {
+      "id": "567831",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "AVIATION SECURITY (REIMBURSABLE)",
+      "amount": 66054172.62
+    },
+    {
+      "id": "567612",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "OPERATION ALLIES WELCOME",
+      "amount": 1082.98
+    },
+    {
+      "id": "567860",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AVIATION SECURITY (DIRECT)",
+      "amount": -3412682.31
+    }
+  ]
+}

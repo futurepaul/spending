@@ -1,0 +1,76 @@
+{
+  "total": 385205325.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570989",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MINE SAFETY HEALTH ENFORCEMENT",
+      "amount": 263598642.48
+    },
+    {
+      "id": "570909",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "EDUCATIONAL POLICY AND DEVELOPMENT",
+      "amount": 39125589.52
+    },
+    {
+      "id": "570960",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "TECHNICAL SUPPORT",
+      "amount": 35387762.39
+    },
+    {
+      "id": "570958",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "PROGRAM EVALUATION AND INFORMATION RESOURCES",
+      "amount": 17925254.14
+    },
+    {
+      "id": "570851",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "PROGRAM ADMINISTRATION",
+      "amount": 15871212.31
+    },
+    {
+      "id": "570994",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ASSESSMENTS",
+      "amount": 7130027.02
+    },
+    {
+      "id": "571030",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STANDARDS DEVELOPMENT",
+      "amount": 4981576.06
+    },
+    {
+      "id": "695464",
+      "code": "0906",
+      "type": "program_activity",
+      "name": "TECHNICAL SUPPORT - REIMBURSABLE",
+      "amount": 1110907
+    },
+    {
+      "id": "695359",
+      "code": "0905",
+      "type": "program_activity",
+      "name": "EDUCATIONAL POLICY AND DEVELOPMENT - REIMBURSABLE",
+      "amount": 74355.06
+    },
+    {
+      "id": "570917",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

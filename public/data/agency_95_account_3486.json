@@ -1,0 +1,111 @@
+{
+  "total": 1959632479.22,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568826",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CROP PRODUCTION",
+      "amount": 355930766.71
+    },
+    {
+      "id": "568277",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL STEWARDSHIP",
+      "amount": 308654769.31
+    },
+    {
+      "id": "568843",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CROP PROTECTION",
+      "amount": 248794424.74
+    },
+    {
+      "id": "568681",
+      "code": "0881",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 169979858.46
+    },
+    {
+      "id": "568474",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "LIVESTOCK PROTECTION",
+      "amount": 154582489.64
+    },
+    {
+      "id": "568565",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "LIVESTOCK PRODUCTION",
+      "amount": 148970541.93
+    },
+    {
+      "id": "568318",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PRODUCT QUALITY/VALUE ADDED",
+      "amount": 131454593.01
+    },
+    {
+      "id": "568594",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "FOOD SAFETY",
+      "amount": 128563644.26
+    },
+    {
+      "id": "568462",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "NATIONAL BIO-AGRO DEFENSE FACILITY",
+      "amount": 113258484.87
+    },
+    {
+      "id": "568598",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "HUMAN NUTRITION RESEARCH",
+      "amount": 110367402.68
+    },
+    {
+      "id": "568882",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "REPAIR AND MAINTENANCE OF FACILITIES",
+      "amount": 50070432.32
+    },
+    {
+      "id": "568737",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "NATIONAL AGRICULTURAL LIBRARY",
+      "amount": 39005071.29
+    },
+    {
+      "id": "568346",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 0
+    },
+    {
+      "id": "568297",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "HOMELAND SECURITY",
+      "amount": 0
+    },
+    {
+      "id": "568444",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "DECENTRALIZED GSA AND SECURITY PAYMENTS",
+      "amount": 0
+    }
+  ]
+}

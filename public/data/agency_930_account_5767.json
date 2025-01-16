@@ -1,0 +1,27 @@
+{
+  "total": 301636081.19,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568105",
+      "code": "0701",
+      "type": "program_activity",
+      "name": "DIRECT LOAN SUBSIDY",
+      "amount": 177393586.56
+    },
+    {
+      "id": "568072",
+      "code": "0709",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 124242494.63
+    },
+    {
+      "id": "568112",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

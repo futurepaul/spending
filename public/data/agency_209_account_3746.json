@@ -1,0 +1,97 @@
+{
+  "total": 113179394.92,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566573",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "AMERICAN SAMOA OPERATIONS GRANTS",
+      "amount": 28067823.74
+    },
+    {
+      "id": "566765",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "CAPITAL IMPROVEMENT PROGRAM, MANDATORY",
+      "amount": 28027372.92
+    },
+    {
+      "id": "566736",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE",
+      "amount": 19276485.64
+    },
+    {
+      "id": "566688",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "ENERGIZING INSULAR COMMUNITIES",
+      "amount": 10099425.86
+    },
+    {
+      "id": "566439",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "OFFICE OF INSULAR AFFAIRS",
+      "amount": 8455315.66
+    },
+    {
+      "id": "566583",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "MAINTENANCE ASSISTANCE",
+      "amount": 4358700
+    },
+    {
+      "id": "566801",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "BROWN TREE SNAKE",
+      "amount": 3500000
+    },
+    {
+      "id": "566495",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "COMPACT IMPACT DISCRETIONARY",
+      "amount": 3495052
+    },
+    {
+      "id": "566346",
+      "code": "0036",
+      "type": "program_activity",
+      "name": "2022 INFLATION REDUCTION ACT (P.L. 117-169)",
+      "amount": 2788638.66
+    },
+    {
+      "id": "590905",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "CORAL REEF INITIATIVE AND NATURAL RESOURCES",
+      "amount": 2616360.64
+    },
+    {
+      "id": "566479",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ASSISTANCE TO TERRITORIES (REIMBURSABLE)",
+      "amount": 2500000
+    },
+    {
+      "id": "566339",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "WATER AND WASTEWATER PROJECTS",
+      "amount": 0
+    },
+    {
+      "id": "566438",
+      "code": "0035",
+      "type": "program_activity",
+      "name": "CARES ACT SUPPLEMENTAL (P.L. 116-136)",
+      "amount": -5780.2
+    }
+  ]
+}

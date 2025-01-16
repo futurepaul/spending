@@ -1,0 +1,83 @@
+{
+  "total": 1318108799.22,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570614",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "INDIAN HOUSING BLOCK GRANTS",
+      "amount": 1318869340.5
+    },
+    {
+      "id": "637353",
+      "code": "0707",
+      "type": "program_activity",
+      "name": "REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 949341.6
+    },
+    {
+      "id": "570587",
+      "code": "0702",
+      "type": "program_activity",
+      "name": "LOAN GUARANTEE SUBSIDY",
+      "amount": 526380.63
+    },
+    {
+      "id": "570433",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE (ARP)",
+      "amount": 0
+    },
+    {
+      "id": "570482",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "INDIAN HOUSING COMPETITIVE GRANTS",
+      "amount": -9314.84
+    },
+    {
+      "id": "570511",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "NATIONAL AND REGIONAL ORGANIZATIONS",
+      "amount": -12671.9
+    },
+    {
+      "id": "570556",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE",
+      "amount": -20645.36
+    },
+    {
+      "id": "570440",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATIVE AMERICAN PROGRAMS (CARES)",
+      "amount": -194479.8
+    },
+    {
+      "id": "570577",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "INDIAN COMMUNITY DEVELOPMENT BLOCK GRANTS (ARP)",
+      "amount": -587282.5
+    },
+    {
+      "id": "570552",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "INDIAN COMMUNITY DEVELOPMENT BLOCK GRANTS",
+      "amount": -621914.39
+    },
+    {
+      "id": "570405",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "NATIVE AMERICAN HOUSING BLOCK GRANTS (ARP)",
+      "amount": -789954.72
+    }
+  ]
+}

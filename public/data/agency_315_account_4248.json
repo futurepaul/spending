@@ -1,0 +1,20 @@
+{
+  "total": 1816568797,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570270",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "CONTRIBUTIONS FOR INTERNATIONAL PEACEKEEPING ACTIVITIES (DIRECT)",
+      "amount": 1816568797
+    },
+    {
+      "id": "570238",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONTRIBUTIONS TO INTERNATIONAL ORGANIZATIONS",
+      "amount": 0
+    }
+  ]
+}

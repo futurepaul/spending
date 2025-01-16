@@ -1,0 +1,20 @@
+{
+  "total": 44046702.09,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566242",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RAIL CARRIERS",
+      "amount": 44046043.9
+    },
+    {
+      "id": "681387",
+      "code": "0812",
+      "type": "program_activity",
+      "name": "REIMBURSABLE RAIL CARRIERS",
+      "amount": 658.19
+    }
+  ]
+}

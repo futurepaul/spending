@@ -1,0 +1,34 @@
+{
+  "total": 2414394790.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570184",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE OF DIABETES AND DIGESTIVE AND KIDNEY DISEASE (0884)",
+      "amount": 2386033784.04
+    },
+    {
+      "id": "569735",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "TYPE 1 DIABETES",
+      "amount": 28313508.16
+    },
+    {
+      "id": "569853",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": 47498.78
+    },
+    {
+      "id": "569762",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

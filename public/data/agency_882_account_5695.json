@@ -1,0 +1,146 @@
+{
+  "total": 33157183900.94,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570575",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CONTRACT RENEWALS",
+      "amount": 22205551961
+    },
+    {
+      "id": "570396",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "TENANT-BASED RENTAL ASSISTANCE (EMERGENCY)",
+      "amount": 5993793266
+    },
+    {
+      "id": "570397",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE FEES",
+      "amount": 2627792021
+    },
+    {
+      "id": "570623",
+      "code": "0026",
+      "type": "program_activity",
+      "name": "EMERGENCY VOUCHERS - INCREMENTALS/RENEWALS (AMERICAN RESCUE PLAN)",
+      "amount": 1321065718
+    },
+    {
+      "id": "570481",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "SECTION 811 MAINSTREAM VOUCHERS",
+      "amount": 624435679
+    },
+    {
+      "id": "570526",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TENANT PROTECTION",
+      "amount": 181628664
+    },
+    {
+      "id": "570471",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE FEES (AMERICAN RESCUE PLAN)",
+      "amount": 74889245
+    },
+    {
+      "id": "570563",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "RENTAL ASSISTANCE DEMONSTRATION",
+      "amount": 40711981
+    },
+    {
+      "id": "570401",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "VETERANS AFFAIRS SUPPORTIVE HOUSING VOUCHERS",
+      "amount": 33990059.86
+    },
+    {
+      "id": "578657",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "MOBILITY RELATED SERVICES",
+      "amount": 24510137
+    },
+    {
+      "id": "570414",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "FAMILY UNIFICATION PROGRAM VOUCHERS",
+      "amount": 23402092
+    },
+    {
+      "id": "570601",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "TRIBAL HUD VASH",
+      "amount": 5976517.08
+    },
+    {
+      "id": "570579",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "INCREMENTAL VOUCHERS",
+      "amount": 331132
+    },
+    {
+      "id": "570527",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "DISASTER HOUSING ASSISTANCE PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "570536",
+      "code": "0028",
+      "type": "program_activity",
+      "name": "ALLOCATION ADJUSTMENTS FOR CY 2021 (AMERICAN RESCUE PLAN)",
+      "amount": 0
+    },
+    {
+      "id": "570564",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "FAMILY SELF SUFFICIENCY COORDINATORS",
+      "amount": 0
+    },
+    {
+      "id": "570608",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "RAD CONVERSIONS FROM SEC 202 PRAC",
+      "amount": 0
+    },
+    {
+      "id": "570609",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "HOMELESSNESS-DOMESTIC VIOLENCE",
+      "amount": 0
+    },
+    {
+      "id": "570490",
+      "code": "0550",
+      "type": "program_activity",
+      "name": "TENANT-BASED RENTAL ASSISTANCE (DIRECT)",
+      "amount": 0
+    },
+    {
+      "id": "570558",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "FAMILY MOBILITY DEMONSTRATION",
+      "amount": -894572
+    }
+  ]
+}

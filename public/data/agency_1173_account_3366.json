@@ -1,0 +1,62 @@
+{
+  "total": 0,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564295",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564328",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564367",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564634",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564655",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564849",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564897",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564917",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

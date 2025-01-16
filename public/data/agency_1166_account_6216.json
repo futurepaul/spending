@@ -1,0 +1,34 @@
+{
+  "total": 134448277.54,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570786",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NCSA SALARIES & EXPENSES",
+      "amount": 129100600.42
+    },
+    {
+      "id": "570781",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SALARIES & EXPENSES - IT MODERNIZATION",
+      "amount": 5340243.94
+    },
+    {
+      "id": "681552",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OPERATING EXPENSES (REIMBURSABLE)",
+      "amount": 19653.54
+    },
+    {
+      "id": "570770",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES & EXPENSE - REIMBURSABLE",
+      "amount": -12220.36
+    }
+  ]
+}

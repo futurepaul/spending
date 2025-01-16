@@ -1,0 +1,41 @@
+{
+  "total": 668954646.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564042",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FLOOD RISK MANAGMENT",
+      "amount": 439403609.89
+    },
+    {
+      "id": "564047",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MULTIPURPOSE AND OTHER PROGRAMS",
+      "amount": 119763625.03
+    },
+    {
+      "id": "563983",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMMERCIAL NAVIGATION",
+      "amount": 105789375.02
+    },
+    {
+      "id": "564008",
+      "code": "0808",
+      "type": "program_activity",
+      "name": "INTRA-CORPS",
+      "amount": 4009387.25
+    },
+    {
+      "id": "573378",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AQUATIC ECOSYSTEM RESTORATION",
+      "amount": -11350.34
+    }
+  ]
+}

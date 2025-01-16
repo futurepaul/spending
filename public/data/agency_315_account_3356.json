@@ -1,0 +1,41 @@
+{
+  "total": 1766625010.87,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570371",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 1630003276.52
+    },
+    {
+      "id": "570326",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COUNTERDRUG AND ANTI-CRIME PROGRAMS",
+      "amount": 110622407.97
+    },
+    {
+      "id": "570354",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "INTERNATIONAL NARCOTICS CONTROL AND LAW ENFORCEMENT (REIMBURSABLE)",
+      "amount": 25999326.38
+    },
+    {
+      "id": "570277",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COUNTERDRUG AND ANTI-CRIME PROGRAMS",
+      "amount": 0
+    },
+    {
+      "id": "688487",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "total": -2596746234.91,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "633168",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "PANDEMIC EMERGENCY UNEMPLOYMENT COMPENSATION ADMIN",
+      "amount": 13724036
+    },
+    {
+      "id": "588296",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PANDEMIC UNEMPLOYMENT ASSISTANCE ADMIN",
+      "amount": 9515915
+    },
+    {
+      "id": "633198",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "FIRST WEEK COMPENSABLE UC BENEFITS",
+      "amount": 0
+    },
+    {
+      "id": "695362",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PANDEMIC UNEMPLOYMENT ASSISTANCE BENEFITS",
+      "amount": -2619986185.91
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 81224508.28,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "579953",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL ELECTION COMMISSION",
+      "amount": 79623273.15
+    },
+    {
+      "id": "682825",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES",
+      "amount": 1601235.13
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "total": 2252694777.27,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569789",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "FACILITIES AND ENVIRONMENTAL HEALTH",
+      "amount": 1423987192.94
+    },
+    {
+      "id": "569727",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAINTENANCE",
+      "amount": 536935368.36
+    },
+    {
+      "id": "569771",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "INDIAN HEALTH FACILITIES (REIMBURSABLE)",
+      "amount": 130068437.9
+    },
+    {
+      "id": "569870",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SANITATION FACILITIES CONSTRUCTION",
+      "amount": 123742917.36
+    },
+    {
+      "id": "569914",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EQUIPMENT",
+      "amount": 37960860.71
+    },
+    {
+      "id": "569865",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SELF-GOVERNANCE",
+      "amount": 0
+    },
+    {
+      "id": "569880",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CONTRACT SUPPORT COSTS",
+      "amount": 0
+    }
+  ]
+}

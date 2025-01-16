@@ -1,0 +1,83 @@
+{
+  "total": 7254397544.16,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564869",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAJOR EQUIPMENT",
+      "amount": 2266384895.48
+    },
+    {
+      "id": "564749",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SPECIAL OPERATIONS COMMAND",
+      "amount": 1872151331.97
+    },
+    {
+      "id": "564800",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 1142323101.13
+    },
+    {
+      "id": "564531",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 1094669476.08
+    },
+    {
+      "id": "564657",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 527705002.87
+    },
+    {
+      "id": "564649",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CHEMICAL/BIOLOGICAL DEFENSE",
+      "amount": 343298540.88
+    },
+    {
+      "id": "564496",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DISA 5-YEAR - WHITE HOUSE COMMUNICATION AGENCY TECHNOLOGY MODERNIZATION FUND",
+      "amount": 7904795.75
+    },
+    {
+      "id": "564330",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564681",
+      "code": "00ZZ",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564371",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564693",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -39600
+    }
+  ]
+}

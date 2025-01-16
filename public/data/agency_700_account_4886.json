@@ -1,0 +1,41 @@
+{
+  "total": 1022579.15,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "574405",
+      "code": "00D4",
+      "type": "program_activity",
+      "name": "SURFACE WATER PROTECTION",
+      "amount": 1007408.27
+    },
+    {
+      "id": "574327",
+      "code": "00F9",
+      "type": "program_activity",
+      "name": "LEGAL ADVICE: ENVIRONMENTAL PROGRAM",
+      "amount": 12401.89
+    },
+    {
+      "id": "574514",
+      "code": "00K8",
+      "type": "program_activity",
+      "name": "RESEARCH: SUSTAINABLE AND HEALTHY COMMUNITIES",
+      "amount": 2768.99
+    },
+    {
+      "id": "574589",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "602211",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 0
+    }
+  ]
+}

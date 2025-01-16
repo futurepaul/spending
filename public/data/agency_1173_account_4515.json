@@ -1,0 +1,41 @@
+{
+  "total": 5448288231.92,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564554",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RESERVE COMPONENT TRAINING & SUPPORT",
+      "amount": 5318492812.25
+    },
+    {
+      "id": "564376",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 116480093.54
+    },
+    {
+      "id": "564946",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 30224847.72
+    },
+    {
+      "id": "564327",
+      "code": "0090",
+      "type": "program_activity",
+      "name": "CLOSED ACCOUNT ADJUSTMENTS",
+      "amount": 0
+    },
+    {
+      "id": "564274",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RESERVE COMPENTENT TRAINING & SUPPORT",
+      "amount": -16909521.59
+    }
+  ]
+}

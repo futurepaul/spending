@@ -1,0 +1,20 @@
+{
+  "total": 16655462.51,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570929",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "EMPLOYMENT SECURITY",
+      "amount": 16655462.51
+    },
+    {
+      "id": "571029",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 97579682.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567529",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "JUSTICE INFORMATION SHARING TECHNOLOGY",
+      "amount": 77357950
+    },
+    {
+      "id": "567568",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "JUSTICE INFORMATION SHARING TECHNOLOGY (REIMBURSABLE)",
+      "amount": 20221732.79
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "total": 10457024039.81,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569589",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "VAMCS & OTHER FIELD ACTIVITIES",
+      "amount": 4889588189.78
+    },
+    {
+      "id": "569606",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "VISN HEADQUARTERS",
+      "amount": 1659113702.33
+    },
+    {
+      "id": "569531",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "ALL OTHER SUPPORT AND PROGRAM OFFICES",
+      "amount": 1225843207.52
+    },
+    {
+      "id": "569705",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "INTEGRATED VETERANS CARE",
+      "amount": 475054260.75
+    },
+    {
+      "id": "569507",
+      "code": "0033",
+      "type": "program_activity",
+      "name": "COMMUNITY CARE",
+      "amount": 431136046.85
+    },
+    {
+      "id": "569573",
+      "code": "0028",
+      "type": "program_activity",
+      "name": "HUMAN CAPITAL MANAGEMENT",
+      "amount": 395964506.7
+    },
+    {
+      "id": "569584",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "HEALTH INFORMATICS",
+      "amount": 374575531.95
+    },
+    {
+      "id": "569631",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "SUPPORT SERVICES",
+      "amount": 216720023.68
+    },
+    {
+      "id": "569598",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "PATIENT CARE SERVICES",
+      "amount": 211393535.88
+    },
+    {
+      "id": "569622",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "QUALITY AND PATIENT SAFETY",
+      "amount": 183368902.79
+    },
+    {
+      "id": "569649",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "CLINICAL SERVICES",
+      "amount": 171446976.7
+    },
+    {
+      "id": "569559",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "DISCOVERY, EDUCATION AND AFFILIATED NETWORKS",
+      "amount": 93246415.51
+    },
+    {
+      "id": "569673",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "MEDICAL SUPPORT AND COMPLIANCE (REIMBURSABLE)",
+      "amount": 63777451.61
+    },
+    {
+      "id": "569629",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "OPERATIONS",
+      "amount": 40904421.97
+    },
+    {
+      "id": "569478",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "VAMCS & OTHER FIELD ACTIVITIES",
+      "amount": 28932825.09
+    },
+    {
+      "id": "569586",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "VISN HEADQUARTERS",
+      "amount": 3401767.18
+    },
+    {
+      "id": "569564",
+      "code": "0140",
+      "type": "program_activity",
+      "name": "HUMAN CAPITAL MANAGEMENT",
+      "amount": 1134531.24
+    },
+    {
+      "id": "569710",
+      "code": "0118",
+      "type": "program_activity",
+      "name": "OPERATIONS",
+      "amount": 390209.63
+    },
+    {
+      "id": "569514",
+      "code": "0139",
+      "type": "program_activity",
+      "name": "SUPPORT SERVICES",
+      "amount": 289312.23
+    },
+    {
+      "id": "569713",
+      "code": "0135",
+      "type": "program_activity",
+      "name": "DISCOVERY, EDUCATION AND AFFILIATE NETWORKS",
+      "amount": 276791.29
+    },
+    {
+      "id": "569596",
+      "code": "0141",
+      "type": "program_activity",
+      "name": "HEALTH INFORMATICS",
+      "amount": 58272.27
+    },
+    {
+      "id": "569508",
+      "code": "0137",
+      "type": "program_activity",
+      "name": "PATIENT CARE SERVICES",
+      "amount": 16118.14
+    },
+    {
+      "id": "569553",
+      "code": "0138",
+      "type": "program_activity",
+      "name": "QUALITY AND PATIENT SAFETY",
+      "amount": 5043.29
+    },
+    {
+      "id": "591741",
+      "code": "0134",
+      "type": "program_activity",
+      "name": "CLINICAL SERVICES",
+      "amount": 2119.74
+    },
+    {
+      "id": "569495",
+      "code": "0142",
+      "type": "program_activity",
+      "name": "ALL OTHER SUPPORT AND PROGRAM OFFICES",
+      "amount": -213036.74
+    },
+    {
+      "id": "569484",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -9403087.57
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 2907336.09,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570568",
+      "code": "0202",
+      "type": "program_activity",
+      "name": "OTHER OPERATION EXPENSES",
+      "amount": 1983419.97
+    },
+    {
+      "id": "570534",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "ACQUISITION OF REAL PROPERTIES",
+      "amount": 923916.12
+    }
+  ]
+}

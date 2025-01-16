@@ -1,0 +1,20 @@
+{
+  "total": 7093165.03,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569050",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BASE ADMINISTRATIVE EXPENSES",
+      "amount": 7093165.03
+    },
+    {
+      "id": "569190",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PROJECTED PAYMENTS TO INSURERS",
+      "amount": 0
+    }
+  ]
+}

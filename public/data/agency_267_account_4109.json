@@ -1,0 +1,118 @@
+{
+  "total": 3938594492.26,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571018",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "STATE UI ADMINISTRATION",
+      "amount": 3018500883.76
+    },
+    {
+      "id": "571024",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "ES GRANTS TO STATES",
+      "amount": 670766656.52
+    },
+    {
+      "id": "571012",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "UC NATIONAL ACTIVITIES",
+      "amount": 60323676.78
+    },
+    {
+      "id": "570867",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "ONE-STOP - WORKFORCE INFO GRANTS",
+      "amount": 59963616.77
+    },
+    {
+      "id": "570987",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "ES NATIONAL ACTIVITIES",
+      "amount": 24035509.51
+    },
+    {
+      "id": "570890",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "FOREIGN LABOR CERTIFICATION - STATE GRANTS",
+      "amount": 23196293.9
+    },
+    {
+      "id": "570877",
+      "code": "0901",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM DUA ADMINISTRATION",
+      "amount": 20866170.13
+    },
+    {
+      "id": "570918",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "UI INTEGRITY STAFF AND CONTRACT STAFF",
+      "amount": 18304459.47
+    },
+    {
+      "id": "570886",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "UI NATIONAL ACTIVITIES",
+      "amount": 17980629.24
+    },
+    {
+      "id": "570995",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "PANDEMIC EMERGENCY UNEMPLOYMENT COMPENSATION ADMIN",
+      "amount": 13724036
+    },
+    {
+      "id": "570998",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PANDEMIC UNEMPLOYMENT ASSISTANCE ADMIN",
+      "amount": 9515915
+    },
+    {
+      "id": "570926",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "UI MODERNIZATION",
+      "amount": 1416645.18
+    },
+    {
+      "id": "570934",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "PANDEMIC UNEMPLOYMENT ASSISTANCE BENEFITS",
+      "amount": 0
+    },
+    {
+      "id": "570990",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "FIRST WEEK COMPENSABLE UC ADMIN",
+      "amount": 0
+    },
+    {
+      "id": "570938",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "UI INTEGRITY GRANTS",
+      "amount": 0
+    },
+    {
+      "id": "571020",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

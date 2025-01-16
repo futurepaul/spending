@@ -1,0 +1,20 @@
+{
+  "total": 257470739,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "694126",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ADVANCE PAYMENTS TO GUAM OF ESTIMATED U.S. INCOME TAX COLLECTIONS",
+      "amount": 181068638
+    },
+    {
+      "id": "694348",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADVANCE PAYMENTS TO THE VIRGIN ISLANDS OF ESTIMATED U.S. EXCISE TAX COLLECTIONS",
+      "amount": 76402101
+    }
+  ]
+}

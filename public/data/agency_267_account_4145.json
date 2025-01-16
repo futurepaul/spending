@@ -1,0 +1,48 @@
+{
+  "total": 479754681.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570997",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DISABLED COAL MINERS BENEFITS",
+      "amount": 257842772.3
+    },
+    {
+      "id": "571003",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DISABLED COAL MINERS BENEFITS",
+      "amount": 179544089.55
+    },
+    {
+      "id": "570848",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BLDTF ADMIN",
+      "amount": 42367820
+    },
+    {
+      "id": "570894",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570952",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570970",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "BLDTF REPAY OF ADVANCES",
+      "amount": 0
+    }
+  ]
+}

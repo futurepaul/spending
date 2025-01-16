@@ -1,0 +1,34 @@
+{
+  "total": 2917925.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569244",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SPECIAL INSPECTOR GENERAL FOR THE TROUBLED ASSET RELIEF PROGRAM (DIRECT)",
+      "amount": 3111180.32
+    },
+    {
+      "id": "569237",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SPECIAL INSPECTOR GENERAL FOR THE TROUBLED ASSET RELIEF PROGRAM REIMBURSABLE",
+      "amount": 0
+    },
+    {
+      "id": "569405",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SPECIAL INSPECTOR GENERAL FOR THE TROUBLED ASSET RELIEF PROGRAM (REIMBURSABLE)",
+      "amount": 0
+    },
+    {
+      "id": "569132",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SPECIAL INSPECTOR GENERAL FOR THE TROUBLED ASSET RELIEF PROGRAM DIRECT",
+      "amount": -193254.55
+    }
+  ]
+}

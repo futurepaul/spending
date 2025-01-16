@@ -1,0 +1,27 @@
+{
+  "total": 193932690.35,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570065",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OFFICE OF MEDICARE HEARINGS AND APPEALS (DIRECT)",
+      "amount": 185075468.61
+    },
+    {
+      "id": "569792",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "MEDICARE HEARING AND APPEALS (REIMBURSABLE)",
+      "amount": 8857221.74
+    },
+    {
+      "id": "570070",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

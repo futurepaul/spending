@@ -1,0 +1,41 @@
+{
+  "total": 3730671923.57,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566827",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT GRANT",
+      "amount": 2573031769.53
+    },
+    {
+      "id": "567254",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT GRANTS - IIJA",
+      "amount": 1150087037.14
+    },
+    {
+      "id": "567114",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OVERSIGHT",
+      "amount": 7553116.9
+    },
+    {
+      "id": "566958",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567186",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "LMRO FEMA",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "total": 528705376.3,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564419",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATIONS AND MAINTENANCE",
+      "amount": 521833061.81
+    },
+    {
+      "id": "564317",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 5983501.46
+    },
+    {
+      "id": "564340",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "RDT&E",
+      "amount": 2193641.51
+    },
+    {
+      "id": "564229",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PROCUREMENT",
+      "amount": 995273.05
+    },
+    {
+      "id": "564631",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 223427.87
+    },
+    {
+      "id": "564314",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "595876",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "RDT&E",
+      "amount": 0
+    },
+    {
+      "id": "632920",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564288",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -2523529.4
+    }
+  ]
+}

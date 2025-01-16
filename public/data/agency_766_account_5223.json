@@ -1,0 +1,69 @@
+{
+  "total": 2312943651.48,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567840",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CAS - CYBERSECURITY",
+      "amount": 1146945388.25
+    },
+    {
+      "id": "567665",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CAS - MISSION SUPPORT",
+      "amount": 482193511.35
+    },
+    {
+      "id": "567867",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CAS - INTEGRATED OPERATIONS",
+      "amount": 215332475.21
+    },
+    {
+      "id": "567750",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CAS - INFRASTRUCTURE SECURITY",
+      "amount": 149898814.34
+    },
+    {
+      "id": "567845",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CAS - RISK MANAGEMENT OPERATIONS",
+      "amount": 116644985.41
+    },
+    {
+      "id": "567802",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CAS - STAKEHOLDER ENGAGEMENT AND REQUIREMENTS",
+      "amount": 101122824.21
+    },
+    {
+      "id": "567796",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CAS - EMERGENCY COMMUNICATIONS",
+      "amount": 99753076.25
+    },
+    {
+      "id": "567786",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 1052576.46
+    },
+    {
+      "id": "687836",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

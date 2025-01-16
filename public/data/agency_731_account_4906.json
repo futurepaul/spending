@@ -1,0 +1,20 @@
+{
+  "total": 409.43,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567295",
+      "code": "0091",
+      "type": "program_activity",
+      "name": "OPERATIONS",
+      "amount": 409.43
+    },
+    {
+      "id": "567066",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 0
+    }
+  ]
+}

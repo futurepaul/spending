@@ -1,0 +1,55 @@
+{
+  "total": 637806714.93,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570701",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "GLOBAL MARKETS",
+      "amount": 362050030.03
+    },
+    {
+      "id": "570727",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION AND ADMINISTRATION",
+      "amount": 151682628.76
+    },
+    {
+      "id": "570733",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "ENFORCEMENT AND COMPLIANCE",
+      "amount": 124756254.84
+    },
+    {
+      "id": "570752",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "INDUSTRY AND ANALYSIS",
+      "amount": 86900912.32
+    },
+    {
+      "id": "570683",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OPERATIONS AND ADMINISTRATION (REIMBURSABLE)",
+      "amount": 36107411.82
+    },
+    {
+      "id": "570723",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "U.S. AND FOREIGN COMMERCIAL SERVICES",
+      "amount": -2470.87
+    },
+    {
+      "id": "570674",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -123688051.97
+    }
+  ]
+}

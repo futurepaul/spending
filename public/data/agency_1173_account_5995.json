@@ -1,0 +1,125 @@
+{
+  "total": -128276.51,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564637",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "OTHER",
+      "amount": 1855078.77
+    },
+    {
+      "id": "564219",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PLAN & DESIGN BRAC PART 1",
+      "amount": 0
+    },
+    {
+      "id": "697169",
+      "code": "00ZX",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564974",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "565014",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "565036",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "567296",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BRAC 2005",
+      "amount": 0
+    },
+    {
+      "id": "604358",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NONE",
+      "amount": 0
+    },
+    {
+      "id": "564218",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564731",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 0
+    },
+    {
+      "id": "564906",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564549",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": -618.56
+    },
+    {
+      "id": "564250",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL",
+      "amount": -2520.05
+    },
+    {
+      "id": "564278",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAJOR CONSTRUCTION",
+      "amount": -21811.73
+    },
+    {
+      "id": "564945",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OPERATIONS & MAINTENANCE",
+      "amount": -103450.45
+    },
+    {
+      "id": "564256",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ENVRIONMENTAL",
+      "amount": -465214.02
+    },
+    {
+      "id": "564466",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OPERATION AND MAINTENANCE",
+      "amount": -1389740.47
+    }
+  ]
+}

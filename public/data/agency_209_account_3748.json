@@ -1,0 +1,69 @@
+{
+  "total": 882007419.75,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566500",
+      "code": "0201",
+      "type": "program_activity",
+      "name": "ASSISTANCE TO THE MARSHALL ISLANDS",
+      "amount": 428455268.19
+    },
+    {
+      "id": "566430",
+      "code": "0202",
+      "type": "program_activity",
+      "name": "ASSISTANCE TO THE FEDERATED STATES OF MICRONESIA",
+      "amount": 364042618.49
+    },
+    {
+      "id": "631845",
+      "code": "0203",
+      "type": "program_activity",
+      "name": "ASSISTANCE TO PALAU",
+      "amount": 82090000
+    },
+    {
+      "id": "566635",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "PALAU COMPACT EXTENSION, MANDATORY",
+      "amount": 6000000
+    },
+    {
+      "id": "566800",
+      "code": "0205",
+      "type": "program_activity",
+      "name": "JUDICIAL TRAINING/FEMA",
+      "amount": 950380
+    },
+    {
+      "id": "566720",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ENEWETAK",
+      "amount": 284180
+    },
+    {
+      "id": "566451",
+      "code": "0204",
+      "type": "program_activity",
+      "name": "COMPACT IMPACT",
+      "amount": 154973.07
+    },
+    {
+      "id": "566627",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL SERVICES ASSISTANCE",
+      "amount": 30000
+    },
+    {
+      "id": "566503",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "COMPACT OF FREE ASSOCIATION (REIMBURSABLE)",
+      "amount": 0
+    }
+  ]
+}

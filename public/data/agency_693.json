@@ -1,0 +1,102 @@
+{
+  "total": 17067364076.58,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4852",
+      "code": "8010",
+      "type": "federal_account",
+      "name": "Social Security Equivalent Benefit Account, Railroad Retirement Board",
+      "amount": 8730081007.52,
+      "account_number": "060-8010"
+    },
+    {
+      "id": "4853",
+      "code": "8011",
+      "type": "federal_account",
+      "name": "Railroad Retirement Account, Railroad Retirement Board",
+      "amount": 5871382255.78,
+      "account_number": "060-8011"
+    },
+    {
+      "id": "4856",
+      "code": "8118",
+      "type": "federal_account",
+      "name": "National Railroad Retirement Investment Trust, Railroad Retirement Board",
+      "amount": 1240788274.68,
+      "account_number": "060-8118"
+    },
+    {
+      "id": "4846",
+      "code": "0113",
+      "type": "federal_account",
+      "name": "Federal Payments to the Railroad Retirement Accounts, Railroad Retirement Board",
+      "amount": 962522079.33,
+      "account_number": "060-0113"
+    },
+    {
+      "id": "4857",
+      "code": "8237",
+      "type": "federal_account",
+      "name": "Limitation on Administration, Railroad Retirement Board",
+      "amount": 159632879.67,
+      "account_number": "060-8237"
+    },
+    {
+      "id": "4855",
+      "code": "8051",
+      "type": "federal_account",
+      "name": "Railroad Unemployment Insurance Trust Fund, Benefit Payments, Railroad Retirement Board",
+      "amount": 83464551.1,
+      "account_number": "060-8051"
+    },
+    {
+      "id": "4854",
+      "code": "8018",
+      "type": "federal_account",
+      "name": "Limitation on the Office of the Inspector General, Railroad Retirement Board",
+      "amount": 13484267.5,
+      "account_number": "060-8018"
+    },
+    {
+      "id": "4845",
+      "code": "0111",
+      "type": "federal_account",
+      "name": "Dual Benefits Payments Account, Railroad Retirement Board",
+      "amount": 6184179.15,
+      "account_number": "060-0111"
+    },
+    {
+      "id": "4847",
+      "code": "0114",
+      "type": "federal_account",
+      "name": "Railroad Unemployment Insurance Extended Benefit Payments - Recovery Act, Railroad Retirement Board",
+      "amount": -1905.22,
+      "account_number": "060-0114"
+    },
+    {
+      "id": "6334",
+      "code": "0123",
+      "type": "federal_account",
+      "name": "Railroad Unemployment Insurance Waiver of 7 Day Period, Railroad Retirement Board",
+      "amount": -8785.38,
+      "account_number": "060-0123"
+    },
+    {
+      "id": "6333",
+      "code": "0122",
+      "type": "federal_account",
+      "name": "Railroad Unemployment Insurance Enhanced Benefit Payments, Railroad Retirement Board",
+      "amount": -73153.13,
+      "account_number": "060-0122"
+    },
+    {
+      "id": "4850",
+      "code": "0117",
+      "type": "federal_account",
+      "name": "Railroad Unemployment Insurance Extended Benefits Payments, Railroad Retirement Board",
+      "amount": -91574.42,
+      "account_number": "060-0117"
+    }
+  ]
+}

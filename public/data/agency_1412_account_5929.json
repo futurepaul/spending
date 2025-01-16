@@ -1,0 +1,97 @@
+{
+  "total": 5797553085.69,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564029",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMMERCIAL NAVIGATION",
+      "amount": 2737248360.74
+    },
+    {
+      "id": "564007",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MULTIPURPOSE AND OTHER PROGRAMS",
+      "amount": 2606423981.7
+    },
+    {
+      "id": "563973",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FLOOD RISK MANAGEMENT",
+      "amount": 291862158.48
+    },
+    {
+      "id": "564011",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "NON-FEDERAL AGENCIES",
+      "amount": 46594698.09
+    },
+    {
+      "id": "563978",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "OTHER FEDERAL AGENCIES",
+      "amount": 46432151.11
+    },
+    {
+      "id": "564022",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AQUATIC ECOSYSTEM RESTORATION",
+      "amount": 44031607.5
+    },
+    {
+      "id": "564009",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "EMERGENCY MANAGEMENT",
+      "amount": 8580346.37
+    },
+    {
+      "id": "564024",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "DEPARTMENT OF ENERGY",
+      "amount": 8412474.13
+    },
+    {
+      "id": "564000",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEPARTMENT OF HOMELAND SECURITY",
+      "amount": 6002482.62
+    },
+    {
+      "id": "564010",
+      "code": "0808",
+      "type": "program_activity",
+      "name": "INTRA-CORPS",
+      "amount": 1329272.39
+    },
+    {
+      "id": "564005",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "amount": 797327.04
+    },
+    {
+      "id": "564030",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "DEPARTMENT OF VETERAN AFFAIRS",
+      "amount": 346035.84
+    },
+    {
+      "id": "563985",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "HYDROPOWER",
+      "amount": -507810.32
+    }
+  ]
+}

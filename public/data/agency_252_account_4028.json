@@ -1,0 +1,146 @@
+{
+  "total": 701106123.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567399",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "GRANTS TO COMBAT VIOLENCE AGAINST WOMEN (STOP)",
+      "amount": 194683509.75
+    },
+    {
+      "id": "567490",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 170781877.28
+    },
+    {
+      "id": "567457",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "SEXUAL ASSAULT SERVICES",
+      "amount": 79523530.47
+    },
+    {
+      "id": "567382",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "TRANSITIONAL HOUSING",
+      "amount": 43513285.26
+    },
+    {
+      "id": "567479",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "LEGAL ASSISTANCE PROGRAM",
+      "amount": 42700702.3
+    },
+    {
+      "id": "567426",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATION",
+      "amount": 38394447.53
+    },
+    {
+      "id": "567593",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "RURAL DOMESTIC VIOLENCE AND CHILD ABUSE ENFORCEMENT ASSISTANCE",
+      "amount": 37197914.83
+    },
+    {
+      "id": "646703",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "IMPROVING CRIMINAL JUSTICE RESPONSE PROGRAM",
+      "amount": 26913637.97
+    },
+    {
+      "id": "567352",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "JUSTICE FOR FAMILIES",
+      "amount": 17873930.17
+    },
+    {
+      "id": "567397",
+      "code": "0888",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 10334996.31
+    },
+    {
+      "id": "567462",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "CAMPUS VIOLENCE",
+      "amount": 10030521.86
+    },
+    {
+      "id": "567431",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CONSOLIDATED YOUTH ORIENTED PROGRAM",
+      "amount": 8179758.86
+    },
+    {
+      "id": "567484",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "ELDER PROGRAM",
+      "amount": 7982759.37
+    },
+    {
+      "id": "567438",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SPECIAL TRIBAL CRIMINAL JURISDICTION (WAS TRIBAL SPECIAL DOMESTIC VIOLENCE CRIMINAL JURISDICTION)",
+      "amount": 5228876.45
+    },
+    {
+      "id": "567466",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "DISABILITIES PROGRAM",
+      "amount": 4337470.94
+    },
+    {
+      "id": "567403",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "RAPE SURVIVOR CHILD CUSTODY ACT PROGRAM",
+      "amount": 1299767.05
+    },
+    {
+      "id": "662895",
+      "code": "0034",
+      "type": "program_activity",
+      "name": "PL477 TRANSFERS",
+      "amount": 1086503.31
+    },
+    {
+      "id": "567519",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "RESEARCH ON VIOLENCE AGAINST INDIAN WOMEN",
+      "amount": 1000000
+    },
+    {
+      "id": "567420",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "NATIONAL RESOURCE CENTER ON WORKPLACE RESPONSES",
+      "amount": 42633.36
+    },
+    {
+      "id": "567476",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "INDIAN COUNTRY - SEXUAL ASSAULT CLEARINGHOUSE",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "total": 22494302590.21,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564223",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 6422733769.17
+    },
+    {
+      "id": "564497",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SYSTEM DEVELOPMENT & DEMONSTRATION",
+      "amount": 4343238595.05
+    },
+    {
+      "id": "564543",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADVANCED COMPONENT DEVELOPMENT & PROTOTYPES",
+      "amount": 4178494035.44
+    },
+    {
+      "id": "564541",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ADVANCED TECHNOLOGY DEVELOPMENT",
+      "amount": 2162515146.63
+    },
+    {
+      "id": "564824",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "RDT&E MANAGEMENT SUPPORT",
+      "amount": 2133087371.65
+    },
+    {
+      "id": "564556",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "APPLIED RESEARCH",
+      "amount": 1538546330.99
+    },
+    {
+      "id": "564329",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "OPERATIONAL SYSTEM DEVELOPMENT",
+      "amount": 1124087311.91
+    },
+    {
+      "id": "564233",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BASIC RESEARCH",
+      "amount": 554959904.03
+    },
+    {
+      "id": "564404",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "SOFTWARE AND DIGITAL TECHNOLOGY PILOT PROGRAMS",
+      "amount": 95430946.7
+    },
+    {
+      "id": "564292",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 21819066.25
+    },
+    {
+      "id": "624136",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 4298209.09
+    },
+    {
+      "id": "564452",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564840",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 0
+    },
+    {
+      "id": "564871",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 0
+    },
+    {
+      "id": "623601",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564669",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ADVANCED TECHNOLOGY",
+      "amount": -434009.7
+    },
+    {
+      "id": "565033",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -2697798.09
+    },
+    {
+      "id": "564539",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADVANCED",
+      "amount": -5325030.4
+    },
+    {
+      "id": "564915",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -8595860.27
+    },
+    {
+      "id": "564979",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "RDT & E MANAGEMENT SUPPORT",
+      "amount": -8894180.66
+    },
+    {
+      "id": "564678",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADVANCED COMPONENT DEVELOPMENT AND PROTOTYPES",
+      "amount": -17281528.24
+    },
+    {
+      "id": "564413",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SYSTEM DEVELOPMENT AND DEMONSTRATION",
+      "amount": -41679689.34
+    }
+  ]
+}

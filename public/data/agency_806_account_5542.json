@@ -1,0 +1,34 @@
+{
+  "total": 4109949736.82,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570049",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LIHEAP BLOCK GRANT",
+      "amount": 4103033983.82
+    },
+    {
+      "id": "566425",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LIHEAP BLOCK GRANT",
+      "amount": 6915753
+    },
+    {
+      "id": "570023",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "590651",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

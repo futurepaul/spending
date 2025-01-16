@@ -1,0 +1,334 @@
+{
+  "total": 59494109845.26,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4141",
+      "code": "8042",
+      "type": "federal_account",
+      "name": "Unemployment Trust Fund - Treasury Managed, Labor",
+      "amount": 42948635458.71,
+      "account_number": "016-8042"
+    },
+    {
+      "id": "4105",
+      "code": "0174",
+      "type": "federal_account",
+      "name": "Training and Employment Service, Employment and Training Administration, Labor",
+      "amount": 3967307731.21,
+      "account_number": "016-0174"
+    },
+    {
+      "id": "4109",
+      "code": "0179",
+      "type": "federal_account",
+      "name": "State Unemployment Insurance and Employment Service Operations, Employment and Training Administration, Labor",
+      "amount": 3938594492.26,
+      "account_number": "016-0179"
+    },
+    {
+      "id": "4121",
+      "code": "1521",
+      "type": "federal_account",
+      "name": "Special Benefits, Office of Workers Compensation Program, Labor",
+      "amount": 3907523546.33,
+      "account_number": "016-1521"
+    },
+    {
+      "id": "4122",
+      "code": "1523",
+      "type": "federal_account",
+      "name": "Energy Employees Occupational Illness Compensation Fund, Labor",
+      "amount": 2721135306.31,
+      "account_number": "016-1523"
+    },
+    {
+      "id": "4110",
+      "code": "0181",
+      "type": "federal_account",
+      "name": "Office of Job Corps, Employment and Training Administration, Labor",
+      "amount": 1641183307.61,
+      "account_number": "016-0181"
+    },
+    {
+      "id": "4116",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Bureau of Labor Statistics",
+      "amount": 735962485.1,
+      "account_number": "016-0200"
+    },
+    {
+      "id": "4129",
+      "code": "4601",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Labor",
+      "amount": 724551045.76,
+      "account_number": "016-4601"
+    },
+    {
+      "id": "4119",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Occupational Safety and Health Administration",
+      "amount": 634397712.49,
+      "account_number": "016-0400"
+    },
+    {
+      "id": "4098",
+      "code": "0165",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Departmental Management, Labor",
+      "amount": 503939927.8,
+      "account_number": "016-0165"
+    },
+    {
+      "id": "4145",
+      "code": "8144",
+      "type": "federal_account",
+      "name": "Black Lung Disability Trust Fund - Treasury Managed, Labor",
+      "amount": 479754681.85,
+      "account_number": "016-8144"
+    },
+    {
+      "id": "4106",
+      "code": "0175",
+      "type": "federal_account",
+      "name": "Community Service Employment for Older Americans, Employment and Training Administration, Labor",
+      "amount": 409261615.36,
+      "account_number": "016-0175"
+    },
+    {
+      "id": "4120",
+      "code": "1200",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Mine Safety and Health Administration",
+      "amount": 385205325.98,
+      "account_number": "016-1200"
+    },
+    {
+      "id": "4097",
+      "code": "0164",
+      "type": "federal_account",
+      "name": "Veterans Employment and Training, Departmental Management, Labor",
+      "amount": 331956487.45,
+      "account_number": "016-0164"
+    },
+    {
+      "id": "4092",
+      "code": "0143",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Wage and Hour Division, Labor",
+      "amount": 264738156.38,
+      "account_number": "016-0143"
+    },
+    {
+      "id": "4124",
+      "code": "1700",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Employee Benefits Security Administration, Labor",
+      "amount": 197384449.48,
+      "account_number": "016-1700"
+    },
+    {
+      "id": "4104",
+      "code": "0172",
+      "type": "federal_account",
+      "name": "Program Administration, Employment and Training Administration, Labor",
+      "amount": 197242795.29,
+      "account_number": "016-0172"
+    },
+    {
+      "id": "4096",
+      "code": "0163",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office  of Workers' Compensation Programs, Labor",
+      "amount": 162895810.23,
+      "account_number": "016-0163"
+    },
+    {
+      "id": "4123",
+      "code": "1524",
+      "type": "federal_account",
+      "name": "Administrative Expenses, Energy Employees Occupational Illness Compensation Fund, Office of Workers' Compensation Programs, Labor",
+      "amount": 143598241.46,
+      "account_number": "016-1524"
+    },
+    {
+      "id": "4093",
+      "code": "0148",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Federal Contract and Compliance Programs, Labor",
+      "amount": 110757959.09,
+      "account_number": "016-0148"
+    },
+    {
+      "id": "4089",
+      "code": "0106",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Departmental Management, Labor",
+      "amount": 104414386.71,
+      "account_number": "016-0106"
+    },
+    {
+      "id": "4142",
+      "code": "8130",
+      "type": "federal_account",
+      "name": "Relief and Rehabilitation, Longshoremen's and Harbor Workers' Compensation Act, as Amended, Labor",
+      "amount": 89289895.4,
+      "account_number": "016-8130"
+    },
+    {
+      "id": "4133",
+      "code": "5393",
+      "type": "federal_account",
+      "name": "H-1B and L Fraud Protection and Detection Account, Wage and Hour Division, Labor",
+      "amount": 51340809.93,
+      "account_number": "016-5393"
+    },
+    {
+      "id": "4094",
+      "code": "0150",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Labor Management and Standards, Labor",
+      "amount": 48491626.93,
+      "account_number": "016-0150"
+    },
+    {
+      "id": "4099",
+      "code": "0166",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Disability Employment Policy, Labor",
+      "amount": 42561610.12,
+      "account_number": "016-0166"
+    },
+    {
+      "id": "4102",
+      "code": "0169",
+      "type": "federal_account",
+      "name": "Special Benefits for Disabled Coal Miners, Office of Workers' Compensation Program, Labor",
+      "amount": 39365428.2,
+      "account_number": "016-0169"
+    },
+    {
+      "id": "4095",
+      "code": "0162",
+      "type": "federal_account",
+      "name": "IT Modernization, Departmental Management, Labor",
+      "amount": 26021349.46,
+      "account_number": "016-0162"
+    },
+    {
+      "id": "4131",
+      "code": "5152",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, H-1B Funded, Training and Employment Services, Employment and Training Administration, Labor",
+      "amount": 23975522.02,
+      "account_number": "016-5152"
+    },
+    {
+      "id": "4130",
+      "code": "5142",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, H-1B Funded, State Unemployment Insurance and Employment Operations, Employment and Training Administration, Labor",
+      "amount": 16655462.51,
+      "account_number": "016-5142"
+    },
+    {
+      "id": "4144",
+      "code": "8134",
+      "type": "federal_account",
+      "name": "Relief and Rehabilitation, Workmen's Compensation Act, within the District of Columbia, Labor",
+      "amount": 4972109.49,
+      "account_number": "016-8134"
+    },
+    {
+      "id": "4132",
+      "code": "5155",
+      "type": "federal_account",
+      "name": "Panama Canal Commission Compensation Fund, Labor",
+      "amount": 3079205.24,
+      "account_number": "016-5155"
+    },
+    {
+      "id": "4111",
+      "code": "0182",
+      "type": "federal_account",
+      "name": "Office of Job Corps - Recovery Act, Departmental Management, Labor",
+      "amount": 749587.29,
+      "account_number": "016-0182"
+    },
+    {
+      "id": "4134",
+      "code": "5623",
+      "type": "federal_account",
+      "name": "HIRE Vets Medallion Award Fund, Departmental Management, Labor",
+      "amount": 159744.22,
+      "account_number": "016-5623"
+    },
+    {
+      "id": "4113",
+      "code": "0184",
+      "type": "federal_account",
+      "name": "Interior, Bureau of Indian Affairs",
+      "amount": 0,
+      "account_number": "016-0184"
+    },
+    {
+      "id": "4125",
+      "code": "1800",
+      "type": "federal_account",
+      "name": "Federal Additional Unemployment Compensation Program - Recovery Act, Employment and Training Administration, Labor",
+      "amount": 0,
+      "account_number": "016-1800"
+    },
+    {
+      "id": "4143",
+      "code": "8131",
+      "type": "federal_account",
+      "name": "Gifts and Bequests, Departmental Management, Labor",
+      "amount": 0,
+      "account_number": "016-8131"
+    },
+    {
+      "id": "4118",
+      "code": "0327",
+      "type": "federal_account",
+      "name": "Advances to the Unemployment Trust Fund and Other Funds, Employment and Training Administration, Labor",
+      "amount": 0,
+      "account_number": "016-0327"
+    },
+    {
+      "id": "4101",
+      "code": "0168",
+      "type": "federal_account",
+      "name": "Short Time Compensation Programs, Employment and Training Administration, Labor",
+      "amount": -16456465.75,
+      "account_number": "016-0168"
+    },
+    {
+      "id": "4117",
+      "code": "0326",
+      "type": "federal_account",
+      "name": "Federal Unemployment Benefits and Allowances, Employment and Training Administration, Labor",
+      "amount": -258803028.75,
+      "account_number": "016-0326"
+    },
+    {
+      "id": "4126",
+      "code": "1801",
+      "type": "federal_account",
+      "name": "Federal Unemployment Compensation Program, Employment and Training Administration, Labor",
+      "amount": -2490987699,
+      "account_number": "016-1801"
+    },
+    {
+      "id": "4108",
+      "code": "0178",
+      "type": "federal_account",
+      "name": "Payments to the Unemployment Trust Fund, Employment and Training Administration, Labor",
+      "amount": -2596746234.91,
+      "account_number": "016-0178"
+    }
+  ]
+}

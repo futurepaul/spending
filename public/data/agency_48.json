@@ -1,0 +1,254 @@
+{
+  "total": 1133246009.73,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "3362",
+      "code": "1070",
+      "type": "federal_account",
+      "name": "High Intensity Drug Trafficking Areas Program, Funds Appropriated to the President",
+      "amount": 280708119.05,
+      "account_number": "011-1070"
+    },
+    {
+      "id": "3347",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, the White House, Executive Office of the President",
+      "amount": 152498215.33,
+      "account_number": "011-0110"
+    },
+    {
+      "id": "3350",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Management and Budget, Executive Office of the President",
+      "amount": 145134718.64,
+      "account_number": "011-0300"
+    },
+    {
+      "id": "3377",
+      "code": "1460",
+      "type": "federal_account",
+      "name": "Other Federal Drug Control Programs, Executive Office of the President",
+      "amount": 130987196.53,
+      "account_number": "011-1460"
+    },
+    {
+      "id": "3322",
+      "code": "0038",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Administration, Executive",
+      "amount": 113658903.52,
+      "account_number": "011-0038"
+    },
+    {
+      "id": "3320",
+      "code": "0036",
+      "type": "federal_account",
+      "name": "Information Technology Oversight and Reform, Funds Appropriated to the President, Executive Office of the President",
+      "amount": 94101382.13,
+      "account_number": "011-0036"
+    },
+    {
+      "id": "3351",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of the United States Trade Representative, Executive Office of the President",
+      "amount": 68926905.38,
+      "account_number": "011-0400"
+    },
+    {
+      "id": "3376",
+      "code": "1457",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of National Drug Control Policy, Executive Office of the President",
+      "amount": 36061541.49,
+      "account_number": "011-1457"
+    },
+    {
+      "id": "6399",
+      "code": "1800",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of the National Cyber Director, Executive Office of the President",
+      "amount": 22349357.75,
+      "account_number": "011-1800"
+    },
+    {
+      "id": "3382",
+      "code": "2000",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, National Security Council, Executive Office of the President",
+      "amount": 20383018.33,
+      "account_number": "011-2000"
+    },
+    {
+      "id": "3410",
+      "code": "8581",
+      "type": "federal_account",
+      "name": "Trade Enforcement Trust Fund, Office of the U.S. Trade Representative, Executive Office of the President",
+      "amount": 17073182.5,
+      "account_number": "011-8581"
+    },
+    {
+      "id": "3380",
+      "code": "1750",
+      "type": "federal_account",
+      "name": "General Fund Payment to the Trade Enforcement Trust Fund, Office of the U.S. Trade Representative, Executive Office of the President",
+      "amount": 15000000,
+      "account_number": "011-1750"
+    },
+    {
+      "id": "3374",
+      "code": "1453",
+      "type": "federal_account",
+      "name": "Council on Environmental Quality and Office of Environmental Quality, Executive",
+      "amount": 12126304.7,
+      "account_number": "011-1453"
+    },
+    {
+      "id": "3375",
+      "code": "1454",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Special Assistance to the President, Executive Office of the President",
+      "amount": 8941660.91,
+      "account_number": "011-1454"
+    },
+    {
+      "id": "3384",
+      "code": "2600",
+      "type": "federal_account",
+      "name": "Office of Science and Technology Policy, Executive Office of the President",
+      "amount": 7895105.03,
+      "account_number": "011-2600"
+    },
+    {
+      "id": "3381",
+      "code": "1900",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Council of Economic Advisers, Executive Office of the President",
+      "amount": 4456592.56,
+      "account_number": "011-1900"
+    },
+    {
+      "id": "3324",
+      "code": "0048",
+      "type": "federal_account",
+      "name": "National Space Council",
+      "amount": 1457412.38,
+      "account_number": "011-0048"
+    },
+    {
+      "id": "6320",
+      "code": "1751",
+      "type": "federal_account",
+      "name": "Intellectual Property Enforcement Coordinator, Executive Office of the President",
+      "amount": 569066.83,
+      "account_number": "011-1751"
+    },
+    {
+      "id": "3313",
+      "code": "0001",
+      "type": "federal_account",
+      "name": "Compensation of the President, Executive Office of the President",
+      "amount": 448447.73,
+      "account_number": "011-0001"
+    },
+    {
+      "id": "3349",
+      "code": "0211",
+      "type": "federal_account",
+      "name": "Operating Expenses, Official Residence of the Vice President, Executive Office of the President",
+      "amount": 216055.11,
+      "account_number": "011-0211"
+    },
+    {
+      "id": "3321",
+      "code": "0037",
+      "type": "federal_account",
+      "name": "Unanticipated Needs, Executive Office of the President",
+      "amount": 209745.4,
+      "account_number": "011-0037"
+    },
+    {
+      "id": "3386",
+      "code": "3963",
+      "type": "federal_account",
+      "name": "Office of Environmental Quality Management Fund, Council on Environmental Quality and Office of Environmental Quality, Executive Office of the President",
+      "amount": 157395.83,
+      "account_number": "011-3963"
+    },
+    {
+      "id": "3403",
+      "code": "8240",
+      "type": "federal_account",
+      "name": "Gifts and Donations, the White House Conference on Drug Abuse and Control, Executive Office of the President",
+      "amount": 10330.82,
+      "account_number": "011-8240"
+    },
+    {
+      "id": "3317",
+      "code": "0030",
+      "type": "federal_account",
+      "name": "Data-Driven Innovation, Funds Appropriated to the President, Executive Office of the President",
+      "amount": 1844,
+      "account_number": "011-0030"
+    },
+    {
+      "id": "3346",
+      "code": "0109",
+      "type": "federal_account",
+      "name": "White House Repair and Restoration, Executive Office of the President",
+      "amount": 0,
+      "account_number": "011-0109"
+    },
+    {
+      "id": "3348",
+      "code": "0210",
+      "type": "federal_account",
+      "name": "Operating Expenses, Executive Residence at the White House, Executive Office of the President",
+      "amount": 0,
+      "account_number": "011-0210"
+    },
+    {
+      "id": "3389",
+      "code": "4263",
+      "type": "federal_account",
+      "name": "Reimbursable Expenses, Executive Residence at the White House, Executive Office of President",
+      "amount": 0,
+      "account_number": "011-4263"
+    },
+    {
+      "id": "3392",
+      "code": "5512",
+      "type": "federal_account",
+      "name": "Spectrum Relocation Fund, Executive Office of the President",
+      "amount": 0,
+      "account_number": "011-5512"
+    },
+    {
+      "id": "3378",
+      "code": "1461",
+      "type": "federal_account",
+      "name": "Counterdrug Technology Assessment Center, Office of National Drug Control Policy, Executive Office of the President",
+      "amount": -13546.17,
+      "account_number": "011-1461"
+    },
+    {
+      "id": "3345",
+      "code": "0108",
+      "type": "federal_account",
+      "name": "Presidential Transition Administrative Support, Executive Office of the President",
+      "amount": -14800,
+      "account_number": "011-0108"
+    },
+    {
+      "id": "6708",
+      "code": "1802",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Pandemic Preparedness and Response, Executive Office of the President",
+      "amount": -98146.05,
+      "account_number": "011-1802"
+    }
+  ]
+}

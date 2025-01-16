@@ -1,0 +1,69 @@
+{
+  "total": 735962485.1,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570943",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LABOR FORCE STATISTICS",
+      "amount": 315639927.35
+    },
+    {
+      "id": "570950",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PRICES AND COST OF LIVING",
+      "amount": 240139725.57
+    },
+    {
+      "id": "570972",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "COMPENSATION AND WORKING CONDITIONS",
+      "amount": 90819552.14
+    },
+    {
+      "id": "570854",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION AND STAFF SERVICES",
+      "amount": 37285751.06
+    },
+    {
+      "id": "570884",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 37190610.11
+    },
+    {
+      "id": "570907",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PRODUCTIVITY AND TECHNOLOGY",
+      "amount": 12425670.42
+    },
+    {
+      "id": "570864",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "HEADQUARTERS RELOCATION",
+      "amount": 2461248.45
+    },
+    {
+      "id": "570968",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "578590",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHERS",
+      "amount": 0
+    }
+  ]
+}

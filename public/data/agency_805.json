@@ -1,0 +1,30 @@
+{
+  "total": 92511225.58,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5389",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, American Battle Monuments Commission",
+      "amount": 92256317.69,
+      "account_number": "074-0100"
+    },
+    {
+      "id": "5393",
+      "code": "8569",
+      "type": "federal_account",
+      "name": "Contributions, American Battle Monuments Commission",
+      "amount": 254907.89,
+      "account_number": "074-8569"
+    },
+    {
+      "id": "5390",
+      "code": "0101",
+      "type": "federal_account",
+      "name": "Foreign Currency Fluctuations Account, American Battle Monuments Commission",
+      "amount": 0,
+      "account_number": "074-0101"
+    }
+  ]
+}

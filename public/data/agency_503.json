@@ -1,0 +1,134 @@
+{
+  "total": 246114993925.75,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4580",
+      "code": "8135",
+      "type": "federal_account",
+      "name": "Civil Service Retirement and Disability Fund, Office of Personnel Management",
+      "amount": 98784130848.32,
+      "account_number": "024-8135"
+    },
+    {
+      "id": "4582",
+      "code": "8440",
+      "type": "federal_account",
+      "name": "Employees' Health Benefits Fund, Office of Personnel Management",
+      "amount": 69037099353.01,
+      "account_number": "024-8440"
+    },
+    {
+      "id": "4569",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Payment to Civil Service Retirement and Disability Fund, Office of Personnel Management",
+      "amount": 53255231701,
+      "account_number": "024-0200"
+    },
+    {
+      "id": "4570",
+      "code": "0206",
+      "type": "federal_account",
+      "name": "Government Payment for Annuitants, Employees' Health Benefits, Office of Personnel Management",
+      "amount": 15101387357.75,
+      "account_number": "024-0206"
+    },
+    {
+      "id": "4576",
+      "code": "5391",
+      "type": "federal_account",
+      "name": "Postal Service Contributions for Retiree Health Benefits, Office of Personnel Management",
+      "amount": 4542567537.6,
+      "account_number": "024-5391"
+    },
+    {
+      "id": "4581",
+      "code": "8424",
+      "type": "federal_account",
+      "name": "Employees' Life Insurance Fund, Office of Personnel Management",
+      "amount": 3856502932.39,
+      "account_number": "024-8424"
+    },
+    {
+      "id": "4575",
+      "code": "4571",
+      "type": "federal_account",
+      "name": "Revolving Fund, Undistributed SIBAC Chargebacks for Washington, DC, Office of Personnel Management",
+      "amount": 723106698.88,
+      "account_number": "024-4571"
+    },
+    {
+      "id": "4568",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Personnel Management",
+      "amount": 703978580.35,
+      "account_number": "024-0100"
+    },
+    {
+      "id": "4572",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Government Payment for Annuitants, Employee Life Insurance     Benefits, Office of Personnel Management",
+      "amount": 42106168.44,
+      "account_number": "024-0500"
+    },
+    {
+      "id": "4571",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Inspector General, Office of Personnel Management",
+      "amount": 35770880.44,
+      "account_number": "024-0400"
+    },
+    {
+      "id": "4574",
+      "code": "0800",
+      "type": "federal_account",
+      "name": "Flexible Benefits Plan Reserve, Office of Personnel Management",
+      "amount": 14131514.48,
+      "account_number": "024-0800"
+    },
+    {
+      "id": "4573",
+      "code": "0600",
+      "type": "federal_account",
+      "name": "OPM Building Delegation Fund, Office of Personnel Management",
+      "amount": 7385505.98,
+      "account_number": "024-0600"
+    },
+    {
+      "id": "6473",
+      "code": "0813",
+      "type": "federal_account",
+      "name": "Postal Service Health Benefits Program Implementation Fund, Office of Personnel Management",
+      "amount": 6298067.89,
+      "account_number": "024-0813"
+    },
+    {
+      "id": "6475",
+      "code": "1162",
+      "type": "federal_account",
+      "name": "IT Modernization and Working Capital, Office of Personnel Management",
+      "amount": 5183873,
+      "account_number": "024-1162"
+    },
+    {
+      "id": "4583",
+      "code": "8445",
+      "type": "federal_account",
+      "name": "Retired Employees' Health Benefits Fund, Office of Personnel Management",
+      "amount": 113140.2,
+      "account_number": "024-8445"
+    },
+    {
+      "id": "6376",
+      "code": "0806",
+      "type": "federal_account",
+      "name": "Emergency Federal Employee Leave Fund, Office of Personnel Management",
+      "amount": -233.98,
+      "account_number": "024-0806"
+    }
+  ]
+}

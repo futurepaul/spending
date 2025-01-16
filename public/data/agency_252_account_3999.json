@@ -1,0 +1,48 @@
+{
+  "total": 201785315.82,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567374",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "JUSTICE MANAGEMENT DIVISION",
+      "amount": 114210743.48
+    },
+    {
+      "id": "567488",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 28521503.87
+    },
+    {
+      "id": "567590",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "DEPARTMENT LEADERSHIP",
+      "amount": 23026333.77
+    },
+    {
+      "id": "567465",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "INTERGOVERNMENTAL RELATIONS AND EXTERNAL AFFAIRS",
+      "amount": 18413477.41
+    },
+    {
+      "id": "567558",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EXECUTIVE SUPPORT AND PROFESSIONAL RESPONSIBILITY",
+      "amount": 17614981.25
+    },
+    {
+      "id": "567368",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -1723.96
+    }
+  ]
+}

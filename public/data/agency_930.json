@@ -1,0 +1,502 @@
+{
+  "total": 80444054917.17,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5787",
+      "code": "0240",
+      "type": "federal_account",
+      "name": "Weapons Activities, National Nuclear Security Administration, Energy",
+      "amount": 23092700963.72,
+      "account_number": "089-0240"
+    },
+    {
+      "id": "5778",
+      "code": "0222",
+      "type": "federal_account",
+      "name": "Science, Energy Programs, Energy",
+      "amount": 9176926712.46,
+      "account_number": "089-0222"
+    },
+    {
+      "id": "5806",
+      "code": "0321",
+      "type": "federal_account",
+      "name": "Energy Efficiency and Renewable Energy, Energy Programs, Energy",
+      "amount": 7853614566.22,
+      "account_number": "089-0321"
+    },
+    {
+      "id": "5793",
+      "code": "0251",
+      "type": "federal_account",
+      "name": "Defense Environmental Cleanup, Environmental and Other Defense Activities, Energy",
+      "amount": 7449902879.81,
+      "account_number": "089-0251"
+    },
+    {
+      "id": "5803",
+      "code": "0318",
+      "type": "federal_account",
+      "name": "Electricity, Energy Programs, Energy",
+      "amount": 4692912992.28,
+      "account_number": "089-0318"
+    },
+    {
+      "id": "5817",
+      "code": "4045",
+      "type": "federal_account",
+      "name": "Bonneville Power Administration Fund, Power Marketing Administration, Energy",
+      "amount": 3557388549.77,
+      "account_number": "089-4045"
+    },
+    {
+      "id": "5782",
+      "code": "0233",
+      "type": "federal_account",
+      "name": "SPR Petroleum Account, Energy Programs, Energy",
+      "amount": 3516598431.29,
+      "account_number": "089-0233"
+    },
+    {
+      "id": "5804",
+      "code": "0319",
+      "type": "federal_account",
+      "name": "Nuclear Energy, Energy Programs, Energy",
+      "amount": 3182524875.9,
+      "account_number": "089-0319"
+    },
+    {
+      "id": "5798",
+      "code": "0309",
+      "type": "federal_account",
+      "name": "Defense Nuclear Nonproliferation, National Nuclear Security Administration, Energy",
+      "amount": 2577716913.53,
+      "account_number": "089-0309"
+    },
+    {
+      "id": "5771",
+      "code": "0213",
+      "type": "federal_account",
+      "name": "Fossil Energy and Carbon Management, Energy Programs, Energy",
+      "amount": 1849160713.05,
+      "account_number": "089-0213"
+    },
+    {
+      "id": "5801",
+      "code": "0314",
+      "type": "federal_account",
+      "name": "Naval Reactors, National Nuclear Security Administration, Energy",
+      "amount": 1846201999.55,
+      "account_number": "089-0314"
+    },
+    {
+      "id": "6454",
+      "code": "2297",
+      "type": "federal_account",
+      "name": "Clean Energy Demonstrations, Energy Programs, Energy",
+      "amount": 1645925314.52,
+      "account_number": "089-2297"
+    },
+    {
+      "id": "5789",
+      "code": "0243",
+      "type": "federal_account",
+      "name": "Other Defense Activities, Environmental and Other Defense Activities, Energy",
+      "amount": 1572108282.06,
+      "account_number": "089-0243"
+    },
+    {
+      "id": "5823",
+      "code": "5068",
+      "type": "federal_account",
+      "name": "Construction, Rehabilitation, Operation, and Maintenance, Western Area Power Administration, Power Marketing Administration, Energy",
+      "amount": 1093503504.24,
+      "account_number": "089-5068"
+    },
+    {
+      "id": "6642",
+      "code": "4380",
+      "type": "federal_account",
+      "name": "Transmission Facilitation Fund, Energy Programs, Energy",
+      "amount": 1034336500,
+      "account_number": "089-4380"
+    },
+    {
+      "id": "5832",
+      "code": "5231",
+      "type": "federal_account",
+      "name": "Uranium Enrichment Decontamination and Decommissioning Fund, Energy Programs, Energy",
+      "amount": 854949690.52,
+      "account_number": "089-5231"
+    },
+    {
+      "id": "5770",
+      "code": "0212",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Federal Energy Regulatory Commission, Energy",
+      "amount": 536924807.37,
+      "account_number": "089-0212"
+    },
+    {
+      "id": "5800",
+      "code": "0313",
+      "type": "federal_account",
+      "name": "Federal Salaries and Expenses, National Nuclear Security Administration, Energy",
+      "amount": 505856175.45,
+      "account_number": "089-0313"
+    },
+    {
+      "id": "5813",
+      "code": "0337",
+      "type": "federal_account",
+      "name": "Advanced Research Projects Agency-Energy, Energy Programs, Energy",
+      "amount": 496380292.93,
+      "account_number": "089-0337"
+    },
+    {
+      "id": "5781",
+      "code": "0228",
+      "type": "federal_account",
+      "name": "Departmental Administration, Energy Programs, Energy",
+      "amount": 421648216.6,
+      "account_number": "089-0228"
+    },
+    {
+      "id": "5818",
+      "code": "4180",
+      "type": "federal_account",
+      "name": "Expenses, Isotope Production and Distribution Program Fund, Energy",
+      "amount": 385883410.77,
+      "account_number": "089-4180"
+    },
+    {
+      "id": "5802",
+      "code": "0315",
+      "type": "federal_account",
+      "name": "Non-Defense Environmental Cleanup, Energy Programs, Energy",
+      "amount": 383109076.45,
+      "account_number": "089-0315"
+    },
+    {
+      "id": "6281",
+      "code": "2250",
+      "type": "federal_account",
+      "name": "Cybersecurity, Energy Security, and Emergency Response, Energy Programs, Energy",
+      "amount": 345850606.57,
+      "account_number": "089-2250"
+    },
+    {
+      "id": "5807",
+      "code": "0322",
+      "type": "federal_account",
+      "name": "Advanced Technology Vehicles Manufacturing Loan Program, Energy Programs, Energy",
+      "amount": 330647448.8,
+      "account_number": "089-0322"
+    },
+    {
+      "id": "5767",
+      "code": "0208",
+      "type": "federal_account",
+      "name": "Title 17 Innovative Technology Loan Guarantee Program, Energy Programs, Energy",
+      "amount": 301636081.19,
+      "account_number": "089-0208"
+    },
+    {
+      "id": "5822",
+      "code": "4563",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Departmental Administration, Energy",
+      "amount": 260719257.03,
+      "account_number": "089-4563"
+    },
+    {
+      "id": "6491",
+      "code": "0360",
+      "type": "federal_account",
+      "name": "Defense Production Act, Energy Programs, Energy",
+      "amount": 247754485.76,
+      "account_number": "089-0360"
+    },
+    {
+      "id": "5821",
+      "code": "4452",
+      "type": "federal_account",
+      "name": "Colorado River Basins Power Marketing Fund, Western Area Power Administration, Power Marketing Administration, Energy",
+      "amount": 220296496.66,
+      "account_number": "089-4452"
+    },
+    {
+      "id": "5776",
+      "code": "0218",
+      "type": "federal_account",
+      "name": "Strategic Petroleum Reserve, Energy Programs, Energy",
+      "amount": 214683110.94,
+      "account_number": "089-0218"
+    },
+    {
+      "id": "5774",
+      "code": "0216",
+      "type": "federal_account",
+      "name": "Energy Information Administration, Energy Programs, Energy",
+      "amount": 136300060.05,
+      "account_number": "089-0216"
+    },
+    {
+      "id": "6509",
+      "code": "2305",
+      "type": "federal_account",
+      "name": "Energy Projects, Energy Programs, Energy",
+      "amount": 122017191,
+      "account_number": "089-2305"
+    },
+    {
+      "id": "5796",
+      "code": "0303",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Southwestern Power Administration, Power Marketing Administrations, Energy",
+      "amount": 117898485.09,
+      "account_number": "089-0303"
+    },
+    {
+      "id": "5785",
+      "code": "0236",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Energy Programs, Energy",
+      "amount": 99758459.97,
+      "account_number": "089-0236"
+    },
+    {
+      "id": "6280",
+      "code": "0342",
+      "type": "federal_account",
+      "name": "Indian Energy Policy and Programs, Energy Programs, Energy",
+      "amount": 93217879.47,
+      "account_number": "089-0342"
+    },
+    {
+      "id": "5795",
+      "code": "0302",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Southeastern Power Administration, Power Marketing Administrations, Energy",
+      "amount": 79425843.19,
+      "account_number": "089-0302"
+    },
+    {
+      "id": "6492",
+      "code": "2304",
+      "type": "federal_account",
+      "name": "Environmental Reviews, Energy Programs, Energy",
+      "amount": 44960374.21,
+      "account_number": "089-2304"
+    },
+    {
+      "id": "6973",
+      "code": "2301",
+      "type": "federal_account",
+      "name": "Grid Deployment, Energy Programs, Energy",
+      "amount": 21817611.69,
+      "account_number": "089-2301"
+    },
+    {
+      "id": "6463",
+      "code": "0346",
+      "type": "federal_account",
+      "name": "Technology Transitions, Energy Programs, Energy",
+      "amount": 18200857.37,
+      "account_number": "089-0346"
+    },
+    {
+      "id": "5777",
+      "code": "0219",
+      "type": "federal_account",
+      "name": "Naval Petroleum and Oil Shale Reserves, Energy Programs, Energy",
+      "amount": 14299201.23,
+      "account_number": "089-0219"
+    },
+    {
+      "id": "5829",
+      "code": "5227",
+      "type": "federal_account",
+      "name": "Nuclear Waste Disposal, Energy Programs, Energy",
+      "amount": 14179300.06,
+      "account_number": "089-5227"
+    },
+    {
+      "id": "5819",
+      "code": "4404",
+      "type": "federal_account",
+      "name": "Western Area Power Administration, Borrowing Authority - Recovery Act, Energy",
+      "amount": 7159479.83,
+      "account_number": "089-4404"
+    },
+    {
+      "id": "5816",
+      "code": "0350",
+      "type": "federal_account",
+      "name": "Tribal Energy Loan Guarantee Program, Energy Programs, Energy",
+      "amount": 6898148.1,
+      "account_number": "089-0350"
+    },
+    {
+      "id": "5835",
+      "code": "5369",
+      "type": "federal_account",
+      "name": "Northeast Home Heating Oil Reserve, Energy Programs, Energy",
+      "amount": 6830975.37,
+      "account_number": "089-5369"
+    },
+    {
+      "id": "5825",
+      "code": "5105",
+      "type": "federal_account",
+      "name": "Payment to States Under Federal Power Act, Energy",
+      "amount": 3763807.56,
+      "account_number": "089-5105"
+    },
+    {
+      "id": "6393",
+      "code": "2298",
+      "type": "federal_account",
+      "name": "National Energy Technology Laboratory Research and Development, Energy",
+      "amount": 3229261.08,
+      "account_number": "089-2298"
+    },
+    {
+      "id": "5826",
+      "code": "5178",
+      "type": "federal_account",
+      "name": "Falcon and Amistad Operating and Maintenance Fund, Energy",
+      "amount": 3011297.43,
+      "account_number": "089-5178"
+    },
+    {
+      "id": "5841",
+      "code": "5615",
+      "type": "federal_account",
+      "name": "Energy Security and Infrastructure Modernization Fund",
+      "amount": 1741857.4,
+      "account_number": "089-5615"
+    },
+    {
+      "id": "6460",
+      "code": "2300",
+      "type": "federal_account",
+      "name": "Carbon Dioxide Transportation Infrastructure Finance and Innovation Program Account, Energy Programs, Energy",
+      "amount": 1447287.02,
+      "account_number": "089-2300"
+    },
+    {
+      "id": "5860",
+      "code": "8576",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Energy",
+      "amount": 35766.72,
+      "account_number": "089-8576"
+    },
+    {
+      "id": "5824",
+      "code": "5069",
+      "type": "federal_account",
+      "name": "Emergency Fund, Western Area Power Administration, Power Marketing Administration, Energy",
+      "amount": 0,
+      "account_number": "089-5069"
+    },
+    {
+      "id": "5838",
+      "code": "5523",
+      "type": "federal_account",
+      "name": "Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund, Energy",
+      "amount": 0,
+      "account_number": "089-5523"
+    },
+    {
+      "id": "5797",
+      "code": "0304",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Alaska Power Administration, Power Marketing Administration, Energy",
+      "amount": 0,
+      "account_number": "089-0304"
+    },
+    {
+      "id": "5791",
+      "code": "0249",
+      "type": "federal_account",
+      "name": "Defense Environmental Services, Energy",
+      "amount": 0,
+      "account_number": "089-0249"
+    },
+    {
+      "id": "7140",
+      "code": "4397",
+      "type": "federal_account",
+      "name": "American Energy Independence Fund, Energy Programs, Energy",
+      "amount": 0,
+      "account_number": "089-4397"
+    },
+    {
+      "id": "5843",
+      "code": "5653",
+      "type": "federal_account",
+      "name": "Continuing Fund, Southeastern Power Administration, Power Marketing Administration, Energy",
+      "amount": 0,
+      "account_number": "089-5653"
+    },
+    {
+      "id": "5859",
+      "code": "8575",
+      "type": "federal_account",
+      "name": "Advances for Cooperative Work, Departmental Operations, Energy",
+      "amount": 0,
+      "account_number": "089-8575"
+    },
+    {
+      "id": "5842",
+      "code": "5649",
+      "type": "federal_account",
+      "name": "Continuing Fund, Southwestern Power Administration, Power Marketing Administration, Energy",
+      "amount": 0,
+      "account_number": "089-5649"
+    },
+    {
+      "id": "5784",
+      "code": "0235",
+      "type": "federal_account",
+      "name": "Clean Coal Technology, Energy Programs, Energy",
+      "amount": 0,
+      "account_number": "089-0235"
+    },
+    {
+      "id": "5779",
+      "code": "0224",
+      "type": "federal_account",
+      "name": "Energy Supply, Energy",
+      "amount": 0,
+      "account_number": "089-0224"
+    },
+    {
+      "id": "5773",
+      "code": "0215",
+      "type": "federal_account",
+      "name": "Energy Conservation, Energy",
+      "amount": 0,
+      "account_number": "089-0215"
+    },
+    {
+      "id": "5768",
+      "code": "0209",
+      "type": "federal_account",
+      "name": "Title 17-Innovative Technology Loan Guarantee Program-Recovery Act, Energy Programs, Energy",
+      "amount": 0,
+      "account_number": "089-0209"
+    },
+    {
+      "id": "5790",
+      "code": "0244",
+      "type": "federal_account",
+      "name": "Defense Nuclear Waste Disposal, Environmental and Other Defense Activities, Energy",
+      "amount": -582.11,
+      "account_number": "089-0244"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 232635948.63,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567027",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "WORKING CAPITAL FUND, VOLPE NATIONAL TRANSPORTATION SYSTEMS CENT (REIMBURSABLE)",
+      "amount": 231174169.86
+    },
+    {
+      "id": "567279",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NEW BUILDING",
+      "amount": 1461778.77
+    }
+  ]
+}

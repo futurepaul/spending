@@ -1,0 +1,27 @@
+{
+  "total": 26965198.71,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566421",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "IN LIEU PAYMENTS TO CERTIFIED STATES AND TRIBES",
+      "amount": 28576355.95
+    },
+    {
+      "id": "566803",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PRIOR BALANCE PAYMENTS TO CERTIFIED STATES AND TRIBES",
+      "amount": 6694.93
+    },
+    {
+      "id": "566646",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PRIOR BALANCE PAYMENTS TO NON-CERTIFIED STATES",
+      "amount": -1617852.17
+    }
+  ]
+}

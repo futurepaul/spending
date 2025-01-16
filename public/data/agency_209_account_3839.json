@@ -1,0 +1,27 @@
+{
+  "total": 1350818250.14,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566653",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "WCF REIMBURSABLE ACTIVITIES",
+      "amount": 1220217148.92
+    },
+    {
+      "id": "566412",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ENTERPRISE INITIATIVES (DISCRETIONARY)",
+      "amount": 123549972.01
+    },
+    {
+      "id": "566667",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SPECTRUM (MANDATORY)",
+      "amount": 7051129.21
+    }
+  ]
+}

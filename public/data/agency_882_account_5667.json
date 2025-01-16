@@ -1,0 +1,48 @@
+{
+  "total": 10525847263.65,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570543",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "DISASTER ASSISTANCE",
+      "amount": 4164114288.76
+    },
+    {
+      "id": "570598",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "ECONOMIC DEVELOPMENT INITIATIVE",
+      "amount": 3288667786.77
+    },
+    {
+      "id": "570530",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMMUNITY DEVELOPMENT FORMULA GRANTS",
+      "amount": 2960907818.12
+    },
+    {
+      "id": "674858",
+      "code": "0026",
+      "type": "program_activity",
+      "name": "YES IN MY BACKYARD",
+      "amount": 84935899.92
+    },
+    {
+      "id": "570424",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "RECOVERY HOUSING (SUPPORT)",
+      "amount": 27750316
+    },
+    {
+      "id": "570545",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "INDIAN TRIBES",
+      "amount": -528845.92
+    }
+  ]
+}

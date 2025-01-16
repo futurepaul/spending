@@ -1,0 +1,314 @@
+{
+  "total": 4039206343.68,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568560",
+      "code": "0053",
+      "type": "program_activity",
+      "name": "DISASTER SUPPLEMENTAL",
+      "amount": 2242171652.17
+    },
+    {
+      "id": "568766",
+      "code": "PM08",
+      "type": "program_activity",
+      "name": "PENDING MAPPING",
+      "amount": 1121592498.95
+    },
+    {
+      "id": "568678",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "MARKET DISRUPTION: FERTILIZER PRODUCTION EXPANSION",
+      "amount": 264946134
+    },
+    {
+      "id": "589162",
+      "code": "0042",
+      "type": "program_activity",
+      "name": "CARES CFAP - AMS - THE EMERGENCY FOOD ASSISTANCE PROGRAM",
+      "amount": 85000000
+    },
+    {
+      "id": "568870",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "CONSOLIDATED APPROP DIV N: UPLAND COTTON",
+      "amount": 84106411.3
+    },
+    {
+      "id": "568709",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "DISASTER ASSISTANCE PAYMENTS",
+      "amount": 74359438.83
+    },
+    {
+      "id": "568787",
+      "code": "0059",
+      "type": "program_activity",
+      "name": "IRA SEC 22007 (A) TECH ASSISTANCE LINE 6012",
+      "amount": 61864121.17
+    },
+    {
+      "id": "568771",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OFFICE OF COMMUNICATIONS",
+      "amount": 46471787.4
+    },
+    {
+      "id": "568668",
+      "code": "9905",
+      "type": "program_activity",
+      "name": "OTHER UNMAPPED",
+      "amount": 37119657.72
+    },
+    {
+      "id": "568567",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "DEPARTMENTAL ADMINISTRATION (REIMBURSABLE)",
+      "amount": 30191724.26
+    },
+    {
+      "id": "568423",
+      "code": "9903",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL FUNDING",
+      "amount": 22026514.08
+    },
+    {
+      "id": "568626",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OFFICE OF THE SECRETARY",
+      "amount": 13855881.03
+    },
+    {
+      "id": "568516",
+      "code": "0061",
+      "type": "program_activity",
+      "name": "IRA SEC 22007 (E) DISCRIMINATION FINANCIAL ASSISTANCE LINE 6014",
+      "amount": 13620737.52
+    },
+    {
+      "id": "568796",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OUTREACH & ASSISTANCE FOR SOCIALLY DISADVANTAGED FARMERS & RANCHERS & VETERAN FARMERS AND RANCHERS",
+      "amount": 13371848.39
+    },
+    {
+      "id": "568476",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "OFFICE OF PARTNERSHIPS AND PUBLIC ENGAGEMENT",
+      "amount": 8784239.97
+    },
+    {
+      "id": "568925",
+      "code": "0063",
+      "type": "program_activity",
+      "name": "IRA SEC 23005 ADMINISTRATIVE COSTS LINE 6016",
+      "amount": 8368203.22
+    },
+    {
+      "id": "568364",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "OFFICE OF HOMELAND SECURITY AND EMERGENCY COORDINATION",
+      "amount": 6936249.76
+    },
+    {
+      "id": "568454",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "UNDER/ASSISTANT SECRETARIES",
+      "amount": 4423671.27
+    },
+    {
+      "id": "568743",
+      "code": "0064",
+      "type": "program_activity",
+      "name": "IRA SEC 21002 (C) CONSERVATION TECHNICAL ASSISTANCE ADMIN LINE 6011",
+      "amount": 4180465.5
+    },
+    {
+      "id": "568732",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "ARPA SEC. 1003: PANDEMIC PROGRAM ADMINISTRATION",
+      "amount": 3561245.61
+    },
+    {
+      "id": "568869",
+      "code": "0060",
+      "type": "program_activity",
+      "name": "IRA SEC 22005 ADDITIONAL RD ADMINISTRATIVE FUNDS LINE 6013",
+      "amount": 3014499.77
+    },
+    {
+      "id": "568303",
+      "code": "0062",
+      "type": "program_activity",
+      "name": "IRA SEC 22007 (F) ASSISTANCE AND SUPPORT FOR UNDER SERVED FARMERS LINE 6015",
+      "amount": 2457012
+    },
+    {
+      "id": "642576",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "CONSOLIDTED APPROP DIV N: REGIONAL FOOD BUSINESS CENTER",
+      "amount": 1479927.08
+    },
+    {
+      "id": "568420",
+      "code": "0041",
+      "type": "program_activity",
+      "name": "CARES CFAP - PANDEMIC MARKET VOLATILITY ASSISTANCE PROGRAM",
+      "amount": 1478374.26
+    },
+    {
+      "id": "568518",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "DISASTER ASSISTANCE PAYMENTS - ADMINISTRATIVE",
+      "amount": 1081467.8
+    },
+    {
+      "id": "568656",
+      "code": "0051",
+      "type": "program_activity",
+      "name": "CFAP 2.0 FOOD SAFETY COST SHARE",
+      "amount": 413791.69
+    },
+    {
+      "id": "642428",
+      "code": "0032",
+      "type": "program_activity",
+      "name": "CONSOLIDATED APPROP DIV N: FARM AND FOOD WORKER RELIEF",
+      "amount": 402143.21
+    },
+    {
+      "id": "589626",
+      "code": "0033",
+      "type": "program_activity",
+      "name": "CONSOLIDATED APPROP DIV N: TRANSITIONAL AND ORGANIC GROWER ASSISTANCE",
+      "amount": 355935
+    },
+    {
+      "id": "568415",
+      "code": "0052",
+      "type": "program_activity",
+      "name": "CFAP 2.0 COTTON AND WOOL APPAREL",
+      "amount": 280632.54
+    },
+    {
+      "id": "568389",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "INSTITUTE FOR RURAL PARTNERSHIPS",
+      "amount": 237035.42
+    },
+    {
+      "id": "568394",
+      "code": "0058",
+      "type": "program_activity",
+      "name": "IRA SEC 22007 (C) EQUITY COMMISSION LINE 6011",
+      "amount": 19889.25
+    },
+    {
+      "id": "568398",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "MARKET DISRUPTION",
+      "amount": 4239.05
+    },
+    {
+      "id": "568439",
+      "code": "0028",
+      "type": "program_activity",
+      "name": "CONSOLIDATED APPROP DIV N: MEAT AND POULTRY INTERMEDIARY LENDING PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "568904",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "CARES CFAP - FINANCIAL RELIEF FOR FOOD AND AGRICULTURAL WORKERS AND BIOFUELS",
+      "amount": 0
+    },
+    {
+      "id": "568713",
+      "code": "0037",
+      "type": "program_activity",
+      "name": "CFAP 1.0 TRANSITION TO ORGANIC PARTNERSHIPS",
+      "amount": 0
+    },
+    {
+      "id": "568760",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "DROUGHT RELIEF",
+      "amount": 0
+    },
+    {
+      "id": "568666",
+      "code": "0034",
+      "type": "program_activity",
+      "name": "CONSOLIDATED APPROP DIV N:",
+      "amount": 0
+    },
+    {
+      "id": "568477",
+      "code": "0046",
+      "type": "program_activity",
+      "name": "CARES CFAP ORGANIC AND TRANSITIONAL AND CERTIFICATION PROGRAM",
+      "amount": -2762.15
+    },
+    {
+      "id": "568410",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "MARKET DISRUPTION: CONTAINER RELATED PAYMENTS",
+      "amount": -360609.04
+    },
+    {
+      "id": "568884",
+      "code": "0036",
+      "type": "program_activity",
+      "name": "CFAP 1.0 FSA PROGRAMS",
+      "amount": -609527.12
+    },
+    {
+      "id": "568615",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "CONSOLIDATED APPROP DIV N: PANDEMIC RESPONSE AND SAFETY GRANT PROGRAM",
+      "amount": -620457.63
+    },
+    {
+      "id": "568814",
+      "code": "0047",
+      "type": "program_activity",
+      "name": "CARES CFAP SPOT HOG MARKET",
+      "amount": -2091205.4
+    },
+    {
+      "id": "568505",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "CARES CFAP FSA",
+      "amount": -10138330.4
+    },
+    {
+      "id": "568446",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "CFAP 2.0",
+      "amount": -105148193.8
+    }
+  ]
+}

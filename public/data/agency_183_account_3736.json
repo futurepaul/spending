@@ -1,0 +1,20 @@
+{
+  "total": 153118.36,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570671",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GIFTS AND BEQUESTS (DIRECT)",
+      "amount": 118457.36
+    },
+    {
+      "id": "570664",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 34661
+    }
+  ]
+}

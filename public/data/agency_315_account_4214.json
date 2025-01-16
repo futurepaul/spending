@@ -1,0 +1,90 @@
+{
+  "total": 11353872642.02,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570360",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SECURITY-WORLDWIDE SECURITY PROTECTION",
+      "amount": 3982140374.81
+    },
+    {
+      "id": "570315",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "HUMAN RESOURCES",
+      "amount": 3118792078.11
+    },
+    {
+      "id": "570375",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "OVERSEAS PROGRAMS",
+      "amount": 1766373627.69
+    },
+    {
+      "id": "570317",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "DIPLOMATIC POLICY AND SUPPORT",
+      "amount": 1073208753.89
+    },
+    {
+      "id": "570350",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 800552535.8
+    },
+    {
+      "id": "570358",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OVERSEAS PROGRAMS - PUBLIC DIPLOMACY",
+      "amount": 480082961.85
+    },
+    {
+      "id": "570260",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DIPLOMATIC AND CONSULAR PROGRAMS (REIMBURSABLE)",
+      "amount": 119083224.18
+    },
+    {
+      "id": "570263",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SECURITY",
+      "amount": 28453675.05
+    },
+    {
+      "id": "570342",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "SECURITY - WORLDWIDE SECURITY PROTECTION (REIMBURSABLE)",
+      "amount": -215.06
+    },
+    {
+      "id": "570343",
+      "code": "000S",
+      "type": "program_activity",
+      "name": "COVID-19",
+      "amount": -1348676.5
+    },
+    {
+      "id": "570338",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "CONSULAR AND BORDER SECURITY PROGRAMS",
+      "amount": -6567539.95
+    },
+    {
+      "id": "570373",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "OVERSEAS CONTINGENCY OPERATIONS",
+      "amount": -6898157.85
+    }
+  ]
+}

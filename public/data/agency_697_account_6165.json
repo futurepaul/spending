@@ -1,0 +1,62 @@
+{
+  "total": 301772727.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570383",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CASE HANDLING",
+      "amount": 163233053.04
+    },
+    {
+      "id": "570392",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "INTERNAL REVIEW",
+      "amount": 98963024.04
+    },
+    {
+      "id": "570391",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "BOARD ADJUDICATION",
+      "amount": 23832820.98
+    },
+    {
+      "id": "570388",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE LAW JUDGE HEARING",
+      "amount": 10682622.52
+    },
+    {
+      "id": "570384",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MISSION SUPPORT",
+      "amount": 5068522.67
+    },
+    {
+      "id": "570390",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "COMPLIANCE",
+      "amount": -9.35
+    },
+    {
+      "id": "574802",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE LAW JUDGES",
+      "amount": -284.8
+    },
+    {
+      "id": "570386",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FIELD INVESTIGATION",
+      "amount": -7021.12
+    }
+  ]
+}

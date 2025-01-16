@@ -1,0 +1,13 @@
+{
+  "total": 1190466.25,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569756",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "COOPERATIVE RESEARCH AND DEVELOPMENT (CRADA)",
+      "amount": 1190466.25
+    }
+  ]
+}

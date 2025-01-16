@@ -1,0 +1,76 @@
+{
+  "total": 36008292949.53,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564707",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PAY AND ALLOWANCES OF ENLISTED",
+      "amount": 21188287323.25
+    },
+    {
+      "id": "564224",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAY AND ALLOWANCES OF OFFICERS",
+      "amount": 11174102865.89
+    },
+    {
+      "id": "564881",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SUBSISTENCE OF ENLISTED PERSONNEL",
+      "amount": 1592303006.79
+    },
+    {
+      "id": "564613",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PERMANENT CHANGE OF STATION TRAVEL",
+      "amount": 1378760951.27
+    },
+    {
+      "id": "564570",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 530049505.44
+    },
+    {
+      "id": "564427",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OTHER MILITARY PERSONNEL COSTS",
+      "amount": 128351040.25
+    },
+    {
+      "id": "564257",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PAY AND ALLOWANCES OF CADETS",
+      "amount": 97794487.95
+    },
+    {
+      "id": "639946",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 54978259.57
+    },
+    {
+      "id": "564432",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 11112600.9
+    },
+    {
+      "id": "564937",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -147447091.78
+    }
+  ]
+}

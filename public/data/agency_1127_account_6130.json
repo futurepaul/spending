@@ -1,0 +1,27 @@
+{
+  "total": 16570102.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565155",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE LAW JUDGE DETERMINATIONS",
+      "amount": 8801163.77
+    },
+    {
+      "id": "565156",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMMISSION REVIEW",
+      "amount": 7645931.46
+    },
+    {
+      "id": "565154",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 123007.14
+    }
+  ]
+}

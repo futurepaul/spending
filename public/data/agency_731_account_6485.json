@@ -1,0 +1,20 @@
+{
+  "total": 884285.05,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567010",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ADMINISTRATION, INFLATION REDUCTION ACT",
+      "amount": 984285.05
+    },
+    {
+      "id": "566987",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SUSTAINABLE AVIATION FUEL GRANTS, INFLATION REDUCTION ACT",
+      "amount": -100000
+    }
+  ]
+}

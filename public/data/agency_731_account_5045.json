@@ -1,0 +1,20 @@
+{
+  "total": 8475059.61,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567216",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE AND STANDARDS DEVELOPMENT",
+      "amount": 8475059.61
+    },
+    {
+      "id": "567155",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

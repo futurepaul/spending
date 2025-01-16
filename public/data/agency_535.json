@@ -1,0 +1,14 @@
+{
+  "total": 4771885.82,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4587",
+      "code": "4472",
+      "type": "federal_account",
+      "name": "Community Development Revolving Loan Fund, National Credit Union",
+      "amount": 4771885.82,
+      "account_number": "025-4472"
+    }
+  ]
+}

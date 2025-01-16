@@ -1,0 +1,30 @@
+{
+  "total": 984791371.91,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4622",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Nuclear Regulatory Commission",
+      "amount": 971324429.02,
+      "account_number": "031-0200"
+    },
+    {
+      "id": "4623",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Nuclear Regulatory Commission",
+      "amount": 13466942.89,
+      "account_number": "031-0300"
+    },
+    {
+      "id": "4624",
+      "code": "5280",
+      "type": "federal_account",
+      "name": "Nuclear Facilities Fees Fund, Nuclear Regulatory Commission",
+      "amount": 0,
+      "account_number": "031-5280"
+    }
+  ]
+}

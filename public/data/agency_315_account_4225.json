@@ -1,0 +1,27 @@
+{
+  "total": 76132160.94,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570234",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "EMERGENCIES IN THE DIPLOMATIC AND CONSULAR SERVICE",
+      "amount": 76035565.58
+    },
+    {
+      "id": "570268",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 96595.36
+    },
+    {
+      "id": "570258",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "EMERGENCIES IN DIPLOMATIC AND CONSULAR SERVICE (REIMBURSABLE)",
+      "amount": 0
+    }
+  ]
+}

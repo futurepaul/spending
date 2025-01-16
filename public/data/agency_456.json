@@ -1,0 +1,1214 @@
+{
+  "total": 1751997362984.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4324",
+      "code": "0550",
+      "type": "federal_account",
+      "name": "Interest on the Public Debt (Indefinite), Bureau of the Fiscal Service, Treasury",
+      "amount": 1133036890149.16,
+      "account_number": "020-0550"
+    },
+    {
+      "id": "4329",
+      "code": "0903",
+      "type": "federal_account",
+      "name": "Refunding Internal Revenue Collections (Indefinite), Treasury",
+      "amount": 333914315277.14,
+      "account_number": "020-0903"
+    },
+    {
+      "id": "4352",
+      "code": "0949",
+      "type": "federal_account",
+      "name": "Refundable Premium Assistance Tax Credit, Internal Revenue Service, Treasury",
+      "amount": 115756481878.31,
+      "account_number": "020-0949"
+    },
+    {
+      "id": "4331",
+      "code": "0906",
+      "type": "federal_account",
+      "name": "Payment Where Earned Income Credit Exceeds Liability for Tax, Internal Revenue Service, Treasury",
+      "amount": 60011006552.22,
+      "account_number": "020-0906"
+    },
+    {
+      "id": "4336",
+      "code": "0922",
+      "type": "federal_account",
+      "name": "Payment Where Child Tax Credit Exceeds Liability for Tax, Internal Revenue Service, Treasury",
+      "amount": 26246884478.8,
+      "account_number": "020-0922"
+    },
+    {
+      "id": "4389",
+      "code": "1880",
+      "type": "federal_account",
+      "name": "Credit Reform:  Interest Paid on Uninvested Funds (Indefinite),  Bureau of the Fiscal Service, Treasury",
+      "amount": 10246777547.49,
+      "account_number": "020-1880"
+    },
+    {
+      "id": "4398",
+      "code": "4444",
+      "type": "federal_account",
+      "name": "Exchange Stabilization Fund, Office of the Secretary, Treasury",
+      "amount": 9708376208.38,
+      "account_number": "020-4444"
+    },
+    {
+      "id": "4333",
+      "code": "0913",
+      "type": "federal_account",
+      "name": "Enforcement, Internal Revenue Service",
+      "amount": 6487074167.39,
+      "account_number": "020-0913"
+    },
+    {
+      "id": "4334",
+      "code": "0919",
+      "type": "federal_account",
+      "name": "Operations Support, Internal Revenue Service, Treasury",
+      "amount": 6190952786.94,
+      "account_number": "020-0919"
+    },
+    {
+      "id": "4330",
+      "code": "0904",
+      "type": "federal_account",
+      "name": "Refunding Internal Revenue Collections, Interest (Indefinite), Treasury",
+      "amount": 5308375954.03,
+      "account_number": "020-0904"
+    },
+    {
+      "id": "4332",
+      "code": "0912",
+      "type": "federal_account",
+      "name": "Taxpayer Services, Internal Revenue Service, Treasury",
+      "amount": 4105130629.08,
+      "account_number": "020-0912"
+    },
+    {
+      "id": "4402",
+      "code": "4521",
+      "type": "federal_account",
+      "name": "Federal Financing Bank Revolving Fund, Treasury",
+      "amount": 4070807797.68,
+      "account_number": "020-4521"
+    },
+    {
+      "id": "4396",
+      "code": "4159",
+      "type": "federal_account",
+      "name": "United States Mint Public Enterprise Fund, Treasury",
+      "amount": 3220306113.94,
+      "account_number": "020-4159"
+    },
+    {
+      "id": "4401",
+      "code": "4502",
+      "type": "federal_account",
+      "name": "Bureau of Engraving and Printing Fund, Treasury",
+      "amount": 2790763680.01,
+      "account_number": "020-4502"
+    },
+    {
+      "id": "4342",
+      "code": "0932",
+      "type": "federal_account",
+      "name": "Payment Where American Opportunity Credit Exceeds Liability for Tax - Recovery Act, Internal Revenue Service, Treasury",
+      "amount": 2474111206.36,
+      "account_number": "020-0932"
+    },
+    {
+      "id": "4345",
+      "code": "0935",
+      "type": "federal_account",
+      "name": "Build America Bond Payments - Recovery Act, Internal Revenue Service, Treasury",
+      "amount": 2137579691.17,
+      "account_number": "020-0935"
+    },
+    {
+      "id": "6503",
+      "code": "0964",
+      "type": "federal_account",
+      "name": "Clean Vehicle Credit, Internal Revenue Service, Treasury",
+      "amount": 1941401250,
+      "account_number": "020-0964"
+    },
+    {
+      "id": "6417",
+      "code": "0073",
+      "type": "federal_account",
+      "name": "Contribution to the International Development Association, Treasury",
+      "amount": 1630256000,
+      "account_number": "020-0073"
+    },
+    {
+      "id": "4403",
+      "code": "4560",
+      "type": "federal_account",
+      "name": "Treasury Franchise Fund, Treasury",
+      "amount": 1471212431.42,
+      "account_number": "020-4560"
+    },
+    {
+      "id": "4375",
+      "code": "1802",
+      "type": "federal_account",
+      "name": "Financial Agent Services, Bureau of the Fiscal Service, Treasury",
+      "amount": 1344922336.92,
+      "account_number": "020-1802"
+    },
+    {
+      "id": "4335",
+      "code": "0921",
+      "type": "federal_account",
+      "name": "Business Systems Modernization, Internal Revenue Service, Treasury",
+      "amount": 1274159843.23,
+      "account_number": "020-0921"
+    },
+    {
+      "id": "4479",
+      "code": "8413",
+      "type": "federal_account",
+      "name": "Assessment Funds, Office of the Comptroller of the Currency, Treasury",
+      "amount": 1269713115.97,
+      "account_number": "020-8413"
+    },
+    {
+      "id": "4418",
+      "code": "5697",
+      "type": "federal_account",
+      "name": "Treasury Forfeiture Fund, Treasury",
+      "amount": 1125180937.08,
+      "account_number": "020-5697"
+    },
+    {
+      "id": "4412",
+      "code": "5511",
+      "type": "federal_account",
+      "name": "District of Columbia Federal Pension Fund, Treasury",
+      "amount": 961199219.55,
+      "account_number": "020-5511"
+    },
+    {
+      "id": "4341",
+      "code": "0931",
+      "type": "federal_account",
+      "name": "Payment Where Certain Tax Credits Exceeds Liability for Corporate Tax, Internal Revenue Service, Treasury",
+      "amount": 932402905.66,
+      "account_number": "020-0931"
+    },
+    {
+      "id": "4384",
+      "code": "1851",
+      "type": "federal_account",
+      "name": "Payment to the Resolution Funding Corporation, Bureau of the Fiscal Service, Treasury",
+      "amount": 919663271.33,
+      "account_number": "020-1851"
+    },
+    {
+      "id": "4366",
+      "code": "1740",
+      "type": "federal_account",
+      "name": "Judgements, Court of Claims (Indefinite), Bureau of the Fiscal Service, Treasury",
+      "amount": 918065116.92,
+      "account_number": "020-1740"
+    },
+    {
+      "id": "4367",
+      "code": "1741",
+      "type": "federal_account",
+      "name": "Judgements, United States Courts (Indefinite), Bureau of the Fiscal Service, Treasury",
+      "amount": 818501598.67,
+      "account_number": "020-1741"
+    },
+    {
+      "id": "4346",
+      "code": "0936",
+      "type": "federal_account",
+      "name": "U.S. Coronavirus Refundable Credits, Internal Revenue Service, Treasury",
+      "amount": 776014027.79,
+      "account_number": "020-0936"
+    },
+    {
+      "id": "4312",
+      "code": "0142",
+      "type": "federal_account",
+      "name": "State Small Business Credit Initiative, Departmental Offices, Treasury",
+      "amount": 711494815.77,
+      "account_number": "020-0142"
+    },
+    {
+      "id": "4362",
+      "code": "1714",
+      "type": "federal_account",
+      "name": "Federal Payment to the Federal District of Columbia Pension Fund, Treasury",
+      "amount": 680788000,
+      "account_number": "020-1714"
+    },
+    {
+      "id": "4392",
+      "code": "1884",
+      "type": "federal_account",
+      "name": "Federal Reserve Bank Reimbursement Fund,  Bureau of the Fiscal Service, Treasury",
+      "amount": 632705350.02,
+      "account_number": "020-1884"
+    },
+    {
+      "id": "4323",
+      "code": "0520",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Bureau of the Fiscal Service, Treasury",
+      "amount": 603674766.63,
+      "account_number": "020-0520"
+    },
+    {
+      "id": "4314",
+      "code": "0151",
+      "type": "federal_account",
+      "name": "Public Broadcasting Fund, Corporation for Public Broadcasting, Treasury",
+      "amount": 585000000,
+      "account_number": "020-0151"
+    },
+    {
+      "id": "4319",
+      "code": "0501",
+      "type": "federal_account",
+      "name": "Payment to the Legal Services Corporation, Legal Services Corporation",
+      "amount": 563000000,
+      "account_number": "020-0501"
+    },
+    {
+      "id": "4349",
+      "code": "0946",
+      "type": "federal_account",
+      "name": "Payment to Issuer of Qualified School Construction Bonds, Internal Revenue Service, Treasury",
+      "amount": 562271928.65,
+      "account_number": "020-0946"
+    },
+    {
+      "id": "4390",
+      "code": "1881",
+      "type": "federal_account",
+      "name": "Community Development Financial Institutions Fund, Program Account, Treasury",
+      "amount": 504837461.16,
+      "account_number": "020-1881"
+    },
+    {
+      "id": "6502",
+      "code": "0963",
+      "type": "federal_account",
+      "name": "Elective Payment for Energy Property and Electricity Produced from Certain Renewable Resources, Etc., Internal Revenue Service, Treasury",
+      "amount": 468607046.28,
+      "account_number": "020-0963"
+    },
+    {
+      "id": "6420",
+      "code": "0077",
+      "type": "federal_account",
+      "name": "Contribution to the International Bank for Reconstruction and Development, Treasury",
+      "amount": 436495754.9,
+      "account_number": "020-0077"
+    },
+    {
+      "id": "4405",
+      "code": "5081",
+      "type": "federal_account",
+      "name": "Presidential Election Campaign Fund, Treasury",
+      "amount": 403173948.67,
+      "account_number": "020-5081"
+    },
+    {
+      "id": "4419",
+      "code": "5737",
+      "type": "federal_account",
+      "name": "Internal Revenue, Collections for Puerto Rico, Treasury",
+      "amount": 393907569.58,
+      "account_number": "020-5737"
+    },
+    {
+      "id": "4484",
+      "code": "8625",
+      "type": "federal_account",
+      "name": "Gulf Coast Restoration Trust Fund, Bureau of the Fiscal Service, Treasury",
+      "amount": 351538432.03,
+      "account_number": "020-8625"
+    },
+    {
+      "id": "4290",
+      "code": "0101",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Departmental Offices, Treasury",
+      "amount": 335440761.35,
+      "account_number": "020-0101"
+    },
+    {
+      "id": "4480",
+      "code": "8524",
+      "type": "federal_account",
+      "name": "Capital Magnet Fund, Community Development Financial Institutions, Departmental Offices, Treasury",
+      "amount": 323736838.02,
+      "account_number": "020-8524"
+    },
+    {
+      "id": "4376",
+      "code": "1804",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Terrorism and Financial Intelligence, Departmental Offices, Treasury",
+      "amount": 238831112.56,
+      "account_number": "020-1804"
+    },
+    {
+      "id": "6326",
+      "code": "0905",
+      "type": "federal_account",
+      "name": "U.S. Coronavirus Payments, Internal Revenue Service, Treasury",
+      "amount": 232354369.68,
+      "account_number": "020-0905"
+    },
+    {
+      "id": "6504",
+      "code": "0965",
+      "type": "federal_account",
+      "name": "Credit for Previously-Owned Clean Vehicles, Internal Revenue Service, Treasury",
+      "amount": 219124483,
+      "account_number": "020-0965"
+    },
+    {
+      "id": "4296",
+      "code": "0119",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Treasury Inspector General for Tax Administration, Departmental Offices, Treasury",
+      "amount": 208036378.5,
+      "account_number": "020-0119"
+    },
+    {
+      "id": "6422",
+      "code": "0079",
+      "type": "federal_account",
+      "name": "Contribution to the African Development Fund, Treasury",
+      "amount": 197000000,
+      "account_number": "020-0079"
+    },
+    {
+      "id": "4316",
+      "code": "0173",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Financial Crimes Enforcement Network",
+      "amount": 193209030.82,
+      "account_number": "020-0173"
+    },
+    {
+      "id": "4327",
+      "code": "0562",
+      "type": "federal_account",
+      "name": "Reimbursements to Federal Reserve Banks, Bureau of the Fiscal Service, Treasury",
+      "amount": 188390836.1,
+      "account_number": "020-0562"
+    },
+    {
+      "id": "4410",
+      "code": "5445",
+      "type": "federal_account",
+      "name": "Debt Collection Fund, Bureau of the Fiscal Service, Treasury",
+      "amount": 182056813.08,
+      "account_number": "020-5445"
+    },
+    {
+      "id": "4356",
+      "code": "1008",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Alcohol and Tobacco Tax and Trade Bureau, Treasury",
+      "amount": 166022692.8,
+      "account_number": "020-1008"
+    },
+    {
+      "id": "6413",
+      "code": "0066",
+      "type": "federal_account",
+      "name": "Global Environment Facility, Treasury",
+      "amount": 150200000,
+      "account_number": "020-0066"
+    },
+    {
+      "id": "4369",
+      "code": "1743",
+      "type": "federal_account",
+      "name": "Claims for Contract Disputes (Indefinite), Bureau of the Fiscal Service, Treasury",
+      "amount": 143860051.29,
+      "account_number": "020-1743"
+    },
+    {
+      "id": "4415",
+      "code": "5590",
+      "type": "federal_account",
+      "name": "Financial Research Fund, Departmental Offices, Treasury",
+      "amount": 131022993.8,
+      "account_number": "020-5590"
+    },
+    {
+      "id": "4416",
+      "code": "5622",
+      "type": "federal_account",
+      "name": "Special Compliance Personnel Program, Internal Revenue Service, Treasury",
+      "amount": 110789444.96,
+      "account_number": "020-5622"
+    },
+    {
+      "id": "6423",
+      "code": "0080",
+      "type": "federal_account",
+      "name": "Contribution to the Clean Technology Fund, Treasury",
+      "amount": 105000000,
+      "account_number": "020-0080"
+    },
+    {
+      "id": "4399",
+      "code": "4446",
+      "type": "federal_account",
+      "name": "Federal Payment for Water and Sewer Services, Treasury",
+      "amount": 97273993.15,
+      "account_number": "020-4446"
+    },
+    {
+      "id": "4411",
+      "code": "5510",
+      "type": "federal_account",
+      "name": "Private Collection Agent Program, Internal Revenue Service, Treasury",
+      "amount": 93758701.38,
+      "account_number": "020-5510"
+    },
+    {
+      "id": "6428",
+      "code": "0091",
+      "type": "federal_account",
+      "name": "Debt Restructuring, Treasury",
+      "amount": 92320412.51,
+      "account_number": "020-0091"
+    },
+    {
+      "id": "4409",
+      "code": "5433",
+      "type": "federal_account",
+      "name": "Informant Payments, Internal Revenue Service, Treasury",
+      "amount": 87812073.35,
+      "account_number": "020-5433"
+    },
+    {
+      "id": "6414",
+      "code": "0067",
+      "type": "federal_account",
+      "name": "Contribution to the Asian Development Fund, Treasury",
+      "amount": 87220000,
+      "account_number": "020-0067"
+    },
+    {
+      "id": "4291",
+      "code": "0106",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Inspector General, Treasury",
+      "amount": 64165180.89,
+      "account_number": "020-0106"
+    },
+    {
+      "id": "4385",
+      "code": "1855",
+      "type": "federal_account",
+      "name": "Cybersecurity Enhancement Account, Departmental Offices, Treasury",
+      "amount": 61264631.14,
+      "account_number": "020-1855"
+    },
+    {
+      "id": "6484",
+      "code": "0958",
+      "type": "federal_account",
+      "name": "Energy Security, Internal Revenue Service, Treasury",
+      "amount": 59135343.58,
+      "account_number": "020-0958"
+    },
+    {
+      "id": "4395",
+      "code": "4109",
+      "type": "federal_account",
+      "name": "United States Treasury Check Forgery Insurance Fund,  Bureau of the Fiscal Service, Treasury",
+      "amount": 57765013.17,
+      "account_number": "020-4109"
+    },
+    {
+      "id": "6424",
+      "code": "0082",
+      "type": "federal_account",
+      "name": "Contribution to the African Development Bank, Treasury",
+      "amount": 54648752,
+      "account_number": "020-0082"
+    },
+    {
+      "id": "6359",
+      "code": "0161",
+      "type": "federal_account",
+      "name": "Emergency Capital Investment Fund, Departmental Offices, Treasury",
+      "amount": 53773152.22,
+      "account_number": "020-0161"
+    },
+    {
+      "id": "4379",
+      "code": "1817",
+      "type": "federal_account",
+      "name": "Federal Payment for School Improvement, Treasury",
+      "amount": 52500000,
+      "account_number": "020-1817"
+    },
+    {
+      "id": "6429",
+      "code": "1039",
+      "type": "federal_account",
+      "name": "Contribution to the International Fund for Agricultural Development, Treasury",
+      "amount": 51915242,
+      "account_number": "020-1039"
+    },
+    {
+      "id": "4386",
+      "code": "1860",
+      "type": "federal_account",
+      "name": "Interest on Uninvested Funds (Indefinite),  Bureau of the Fiscal Service, Treasury",
+      "amount": 45655318.57,
+      "account_number": "020-1860"
+    },
+    {
+      "id": "6350",
+      "code": "1045",
+      "type": "federal_account",
+      "name": "International Affairs Technical Assistance, Office of Technical Assistance, Treasury",
+      "amount": 40215305.2,
+      "account_number": "020-1045"
+    },
+    {
+      "id": "4364",
+      "code": "1736",
+      "type": "federal_account",
+      "name": "Federal Payment for Resident Tuition Support, Treasury",
+      "amount": 40000000,
+      "account_number": "020-1736"
+    },
+    {
+      "id": "6461",
+      "code": "1699",
+      "type": "federal_account",
+      "name": "Contributions to the International Monetary Fund Facilities and Trust Funds, Treasury",
+      "amount": 39300000,
+      "account_number": "020-1699"
+    },
+    {
+      "id": "4350",
+      "code": "0947",
+      "type": "federal_account",
+      "name": "Payment to Issuer of New Clean Renewable Energy Bonds, Internal Revenue Service, Treasury",
+      "amount": 35083171.49,
+      "account_number": "020-0947"
+    },
+    {
+      "id": "4348",
+      "code": "0945",
+      "type": "federal_account",
+      "name": "Payment to Issuer of Qualified Zone Academy Bonds, Internal Revenue Service, Treasury",
+      "amount": 33930814.15,
+      "account_number": "020-0945"
+    },
+    {
+      "id": "4371",
+      "code": "1771",
+      "type": "federal_account",
+      "name": "Federal Payment for Emergency Planning and Security Costs in the District of Columbia, Treasury",
+      "amount": 30000000,
+      "account_number": "020-1771"
+    },
+    {
+      "id": "4351",
+      "code": "0948",
+      "type": "federal_account",
+      "name": "Payment to Issuer of Qualified Energy Conservation Bonds, Internal Revenue Service, Treasury",
+      "amount": 29083152.65,
+      "account_number": "020-0948"
+    },
+    {
+      "id": "4361",
+      "code": "1713",
+      "type": "federal_account",
+      "name": "Federal Payment to the District of Columbia Judicial Survivors and Annuity Fund, Treasury",
+      "amount": 26806000,
+      "account_number": "020-1713"
+    },
+    {
+      "id": "6425",
+      "code": "0084",
+      "type": "federal_account",
+      "name": "Contribution to the Multilateral Investment Guarantee Agency, Treasury",
+      "amount": 25000000,
+      "account_number": "020-0084"
+    },
+    {
+      "id": "4417",
+      "code": "5688",
+      "type": "federal_account",
+      "name": "Continued Dumping and Subsidy Offset, United States Customs Service, Treasury",
+      "amount": 18422352.71,
+      "account_number": "020-5688"
+    },
+    {
+      "id": "6302",
+      "code": "0165",
+      "type": "federal_account",
+      "name": "Committee on Foreign Investment in the United States Fund, Departmental Offices, Treasury",
+      "amount": 17808503,
+      "account_number": "020-0165"
+    },
+    {
+      "id": "4478",
+      "code": "8212",
+      "type": "federal_account",
+      "name": "District of Columbia Judicial Retirement and Survivor's Annuity Fund, Treasury",
+      "amount": 17603871.82,
+      "account_number": "020-8212"
+    },
+    {
+      "id": "4377",
+      "code": "1807",
+      "type": "federal_account",
+      "name": "Refund of Moneys Erroneously Received and Covered (Indefinite), Treasury",
+      "amount": 16313644.42,
+      "account_number": "020-1807"
+    },
+    {
+      "id": "6356",
+      "code": "0156",
+      "type": "federal_account",
+      "name": "Transportation Services Economic Relief, Department Offices, Treasury",
+      "amount": 15081884.64,
+      "account_number": "020-0156"
+    },
+    {
+      "id": "6340",
+      "code": "1893",
+      "type": "federal_account",
+      "name": "Special Inspector General for Pandemic Recovery, Treasury",
+      "amount": 11817025.15,
+      "account_number": "020-1893"
+    },
+    {
+      "id": "6426",
+      "code": "0088",
+      "type": "federal_account",
+      "name": "Contribution to the European Bank for Reconstruction and Development, Treasury",
+      "amount": 11498289,
+      "account_number": "020-0088"
+    },
+    {
+      "id": "6501",
+      "code": "0962",
+      "type": "federal_account",
+      "name": "Advanced Manufacturing Investment Credit, Internal Revenue Service, Treasury",
+      "amount": 10425531,
+      "account_number": "020-0962"
+    },
+    {
+      "id": "6430",
+      "code": "1475",
+      "type": "federal_account",
+      "name": "Global Agriculture and Food Security Program, Treasury",
+      "amount": 10000000,
+      "account_number": "020-1475"
+    },
+    {
+      "id": "6327",
+      "code": "1889",
+      "type": "federal_account",
+      "name": "Economic Stabilization Program Account, Departmental Offices, Treasury",
+      "amount": 8663660.02,
+      "account_number": "020-1889"
+    },
+    {
+      "id": "6382",
+      "code": "1896",
+      "type": "federal_account",
+      "name": "Coronavirus Capital Projects Fund, Departmental Offices, Treasury",
+      "amount": 8582460.36,
+      "account_number": "020-1896"
+    },
+    {
+      "id": "4373",
+      "code": "1796",
+      "type": "federal_account",
+      "name": "Federal Payment to the District of Columbia Water and Sewer Authority, Treasury",
+      "amount": 8000000,
+      "account_number": "020-1796"
+    },
+    {
+      "id": "4294",
+      "code": "0115",
+      "type": "federal_account",
+      "name": "Department-Wide Systems and Capital Investments Programs, Departmental Offices, Treasury",
+      "amount": 7545598.31,
+      "account_number": "020-0115"
+    },
+    {
+      "id": "4298",
+      "code": "0123",
+      "type": "federal_account",
+      "name": "Terrorism Insurance Program, Departmental Offices, Treasury",
+      "amount": 7093165.03,
+      "account_number": "020-0123"
+    },
+    {
+      "id": "6358",
+      "code": "0160",
+      "type": "federal_account",
+      "name": "Community Development Financial Institutions Fund Program, Emergency Support, Departmental Offices, Treasury",
+      "amount": 6376320.25,
+      "account_number": "020-0160"
+    },
+    {
+      "id": "6379",
+      "code": "0124",
+      "type": "federal_account",
+      "name": "Homeowner Assistance Fund, Departmental Offices, Treasury",
+      "amount": 6064276.48,
+      "account_number": "020-0124"
+    },
+    {
+      "id": "4383",
+      "code": "1824",
+      "type": "federal_account",
+      "name": "Federal Payment for Testing and Treatment of HIV/AIDS, Treasury",
+      "amount": 4000000,
+      "account_number": "020-1824"
+    },
+    {
+      "id": "4305",
+      "code": "0133",
+      "type": "federal_account",
+      "name": "Special Inspector General for the Troubled Asset Relief Program, Salaries and Expenses, Departmental Offices, Treasury",
+      "amount": 2917925.77,
+      "account_number": "020-0133"
+    },
+    {
+      "id": "4408",
+      "code": "5432",
+      "type": "federal_account",
+      "name": "Internal Revenue Service, Miscellaneous Retained Fees, Treasury",
+      "amount": 2619191.98,
+      "account_number": "020-5432"
+    },
+    {
+      "id": "4380",
+      "code": "1818",
+      "type": "federal_account",
+      "name": "Federal Payment to the Criminal Justice Coordinating Council, Treasury",
+      "amount": 2450000,
+      "account_number": "020-1818"
+    },
+    {
+      "id": "4368",
+      "code": "1742",
+      "type": "federal_account",
+      "name": "Claims for Damages (Indefinite), Bureau of the Fiscal Service, Treasury",
+      "amount": 1353641.71,
+      "account_number": "020-1742"
+    },
+    {
+      "id": "4300",
+      "code": "0126",
+      "type": "federal_account",
+      "name": "GSE Mortgage-Backed Securities Purchase Program Account, Departmental Offices, Treasury",
+      "amount": 1174725.52,
+      "account_number": "020-0126"
+    },
+    {
+      "id": "4313",
+      "code": "0146",
+      "type": "federal_account",
+      "name": "Social Impact Demonstration Projects, Departmental Offices, Treasury",
+      "amount": 949013.7,
+      "account_number": "020-0146"
+    },
+    {
+      "id": "4397",
+      "code": "4413",
+      "type": "federal_account",
+      "name": "Federal Tax Lien Revolving Fund, Internal Revenue Service, Treasury",
+      "amount": 841451.22,
+      "account_number": "020-4413"
+    },
+    {
+      "id": "4477",
+      "code": "8209",
+      "type": "federal_account",
+      "name": "Cheyenne River Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund, Bureau of the Fiscal Service, Treasury",
+      "amount": 827261.05,
+      "account_number": "020-8209"
+    },
+    {
+      "id": "4382",
+      "code": "1822",
+      "type": "federal_account",
+      "name": "Federal Payment for Judicial Commissions, Treasury",
+      "amount": 630000,
+      "account_number": "020-1822"
+    },
+    {
+      "id": "4487",
+      "code": "8790",
+      "type": "federal_account",
+      "name": "Gifts and Bequests, Treasury",
+      "amount": 608843.91,
+      "account_number": "020-8790"
+    },
+    {
+      "id": "4358",
+      "code": "1701",
+      "type": "federal_account",
+      "name": "Federal Payment for the District of Columbia National Guard, Treasury",
+      "amount": 600000,
+      "account_number": "020-1701"
+    },
+    {
+      "id": "4476",
+      "code": "8207",
+      "type": "federal_account",
+      "name": "Lower Brule Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund,  Bureau of the Fiscal Service, Treasury",
+      "amount": 340000,
+      "account_number": "020-8207"
+    },
+    {
+      "id": "4388",
+      "code": "1877",
+      "type": "federal_account",
+      "name": "Federal Interest Liabilities to the States, Bureau of the Fiscal Service, Treasury",
+      "amount": 311990,
+      "account_number": "020-1877"
+    },
+    {
+      "id": "6409",
+      "code": "0943",
+      "type": "federal_account",
+      "name": "Child and Dependent Care Tax Credit, Internal Revenue Service, Department of the Treasury",
+      "amount": 266689.02,
+      "account_number": "020-0943"
+    },
+    {
+      "id": "6329",
+      "code": "1894",
+      "type": "federal_account",
+      "name": "Air Carrier Worker Support, Departmental Offices, Department of Treasury",
+      "amount": 145968.84,
+      "account_number": "020-1894"
+    },
+    {
+      "id": "4311",
+      "code": "0141",
+      "type": "federal_account",
+      "name": "Small Business Lending Fund, Departmental Offices, Treasury",
+      "amount": 128205.03,
+      "account_number": "020-0141"
+    },
+    {
+      "id": "4354",
+      "code": "0951",
+      "type": "federal_account",
+      "name": "Payment Where Small Business Health Insurance Tax Credit Exceeds Liability for Tax, Internal Revenue Service, Treasury",
+      "amount": 92455.77,
+      "account_number": "020-0951"
+    },
+    {
+      "id": "6342",
+      "code": "5680",
+      "type": "federal_account",
+      "name": "Guam World War II Claims Fund, Treasury",
+      "amount": 2000,
+      "account_number": "020-5680"
+    },
+    {
+      "id": "7138",
+      "code": "1921",
+      "type": "federal_account",
+      "name": "IT System Modernization and Working Capital Fund",
+      "amount": 0,
+      "account_number": "020-1921"
+    },
+    {
+      "id": "4315",
+      "code": "0159",
+      "type": "federal_account",
+      "name": "Payment to United States Virgin Islands and Puerto Rico for Disaster Tax Relief, Internal Revenue Service, Treasury",
+      "amount": 0,
+      "account_number": "020-0159"
+    },
+    {
+      "id": "4308",
+      "code": "0136",
+      "type": "federal_account",
+      "name": "Troubled Asset Relief Program, Housing Programs, Departmental Offices, Treasury",
+      "amount": 0,
+      "account_number": "020-0136"
+    },
+    {
+      "id": "4306",
+      "code": "0134",
+      "type": "federal_account",
+      "name": "Troubled Asset Relief Program Account, Equity Purchase Program, Departmental Offices, Treasury",
+      "amount": 0,
+      "account_number": "020-0134"
+    },
+    {
+      "id": "3355",
+      "code": "1008",
+      "type": "federal_account",
+      "name": "Contribution to the North American Development Bank, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "011-1008"
+    },
+    {
+      "id": "4318",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Public Debt Principal (Indefinite), Treasury",
+      "amount": 0,
+      "account_number": "020-0500"
+    },
+    {
+      "id": "4413",
+      "code": "5581",
+      "type": "federal_account",
+      "name": "HOPE Reserve Fund, Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-5581"
+    },
+    {
+      "id": "4320",
+      "code": "0503",
+      "type": "federal_account",
+      "name": "Gain/Loss on Buyback of US Treasury Securities, Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-0503"
+    },
+    {
+      "id": "4328",
+      "code": "0575",
+      "type": "federal_account",
+      "name": "Sinking Fund, Treasury",
+      "amount": 0,
+      "account_number": "020-0575"
+    },
+    {
+      "id": "4404",
+      "code": "5080",
+      "type": "federal_account",
+      "name": "Gifts to Reduce Debt Held by the Public, Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-5080"
+    },
+    {
+      "id": "6383",
+      "code": "1897",
+      "type": "federal_account",
+      "name": "Local Assistance and Tribal Consistency Fund, Departmental Offices, Treasury",
+      "amount": 0,
+      "account_number": "020-1897"
+    },
+    {
+      "id": "6411",
+      "code": "0003",
+      "type": "federal_account",
+      "name": "United States Quota, International Monetary Fund, Treasury",
+      "amount": 0,
+      "account_number": "020-0003"
+    },
+    {
+      "id": "6412",
+      "code": "0004",
+      "type": "federal_account",
+      "name": "Maintenance of Value Adjustments, International Monetary Fund, Treasury",
+      "amount": 0,
+      "account_number": "020-0004"
+    },
+    {
+      "id": "6415",
+      "code": "0071",
+      "type": "federal_account",
+      "name": "Contribution to the Strategic Climate Fund, Treasury",
+      "amount": 0,
+      "account_number": "020-0071"
+    },
+    {
+      "id": "6416",
+      "code": "0072",
+      "type": "federal_account",
+      "name": "Contribution to the Inter-American Development Bank, Treasury",
+      "amount": 0,
+      "account_number": "020-0072"
+    },
+    {
+      "id": "6418",
+      "code": "0074",
+      "type": "federal_account",
+      "name": "Loans to the International Monetary Fund, Treasury",
+      "amount": 0,
+      "account_number": "020-0074"
+    },
+    {
+      "id": "6419",
+      "code": "0076",
+      "type": "federal_account",
+      "name": "Contribution to the Asian Development Bank, Treasury",
+      "amount": 0,
+      "account_number": "020-0076"
+    },
+    {
+      "id": "4299",
+      "code": "0125",
+      "type": "federal_account",
+      "name": "Assistance to Federal National Mortgage Association and Federal Home Loan Mortgage Corporation, Departmental Offices, Treasury",
+      "amount": 0,
+      "account_number": "020-0125"
+    },
+    {
+      "id": "6421",
+      "code": "0078",
+      "type": "federal_account",
+      "name": "Contribution to the International Finance Corporation, Treasury",
+      "amount": 0,
+      "account_number": "020-0078"
+    },
+    {
+      "id": "4359",
+      "code": "1706",
+      "type": "federal_account",
+      "name": "Relief of Individuals and Others by Private and Public Laws, Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-1706"
+    },
+    {
+      "id": "4387",
+      "code": "1875",
+      "type": "federal_account",
+      "name": "Restitution of Forgone Interest, Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-1875"
+    },
+    {
+      "id": "4381",
+      "code": "1820",
+      "type": "federal_account",
+      "name": "Federal Payment for Central Library and Branch Locations, Treasury",
+      "amount": 0,
+      "account_number": "020-1820"
+    },
+    {
+      "id": "4295",
+      "code": "0117",
+      "type": "federal_account",
+      "name": "Counterterrorism Fund, Departmental Offices, Treasury",
+      "amount": 0,
+      "account_number": "020-0117"
+    },
+    {
+      "id": "4370",
+      "code": "1748",
+      "type": "federal_account",
+      "name": "Claims for Fire Fighting Services (Indefinite), Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-1748"
+    },
+    {
+      "id": "4374",
+      "code": "1801",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-1801"
+    },
+    {
+      "id": "6741",
+      "code": "4394",
+      "type": "federal_account",
+      "name": "Financial Integrity Fund, Financial Crimes Enforcement Network, Treasury",
+      "amount": 0,
+      "account_number": "020-4394"
+    },
+    {
+      "id": "7039",
+      "code": "1916",
+      "type": "federal_account",
+      "name": "Treasury International Assistance Programs, Bureau of the Fiscal Service, Treasury",
+      "amount": 0,
+      "account_number": "020-1916"
+    },
+    {
+      "id": "6427",
+      "code": "0089",
+      "type": "federal_account",
+      "name": "Contribution to the Enterprise for the Americas Multilateral Investment Fund, Treasury",
+      "amount": 0,
+      "account_number": "020-0089"
+    },
+    {
+      "id": "4360",
+      "code": "1710",
+      "type": "federal_account",
+      "name": "Payment of Government Losses in Shipment, Bureau of the Fiscal Service, Treasury",
+      "amount": -42811.53,
+      "account_number": "020-1710"
+    },
+    {
+      "id": "6483",
+      "code": "0957",
+      "type": "federal_account",
+      "name": "Direct Efile Taskforce, Internal Revenue Service, Treasury",
+      "amount": -97692.5,
+      "account_number": "020-0957"
+    },
+    {
+      "id": "4337",
+      "code": "0923",
+      "type": "federal_account",
+      "name": "Payment Where Health Coverage Tax Credit Exceeds Liability for Tax, Internal Revenue Service, Treasury",
+      "amount": -472156.85,
+      "account_number": "020-0923"
+    },
+    {
+      "id": "6357",
+      "code": "0158",
+      "type": "federal_account",
+      "name": "Pandemic Relief for Aviation Workers, Departmental Offices, Treasury",
+      "amount": -817915.03,
+      "account_number": "020-0158"
+    },
+    {
+      "id": "4302",
+      "code": "0128",
+      "type": "federal_account",
+      "name": "Office of Financial Stability, Departmental Offices, Treasury",
+      "amount": -5156366.93,
+      "account_number": "020-0128"
+    },
+    {
+      "id": "6328",
+      "code": "1892",
+      "type": "federal_account",
+      "name": "Coronavirus Relief Fund, Departmental Offices, Treasury",
+      "amount": -118083038.08,
+      "account_number": "020-1892"
+    },
+    {
+      "id": "6355",
+      "code": "0150",
+      "type": "federal_account",
+      "name": "Emergency Rental Assistance, Departmental Offices, Treasury",
+      "amount": -449246289.76,
+      "account_number": "020-0150"
+    }
+  ]
+}

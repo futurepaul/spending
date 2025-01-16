@@ -1,0 +1,382 @@
+{
+  "total": 362209177331.31,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4649",
+      "code": "0102",
+      "type": "federal_account",
+      "name": "Compensation and Pensions, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 176839311578.23,
+      "account_number": "036-0102"
+    },
+    {
+      "id": "4663",
+      "code": "0160",
+      "type": "federal_account",
+      "name": "Medical Services, Veterans Health Administration, Veterans Affairs",
+      "amount": 70046399376.4,
+      "account_number": "036-0160"
+    },
+    {
+      "id": "4657",
+      "code": "0140",
+      "type": "federal_account",
+      "name": "Medical Community Care, Veterans Health Administration, Veterans Affairs",
+      "amount": 31463833735.21,
+      "account_number": "036-0140"
+    },
+    {
+      "id": "6479",
+      "code": "1126",
+      "type": "federal_account",
+      "name": "Cost of War Toxic Exposures Fund, Departmental Administration, Veterans Affairs",
+      "amount": 19770538021.18,
+      "account_number": "036-1126"
+    },
+    {
+      "id": "4656",
+      "code": "0137",
+      "type": "federal_account",
+      "name": "Readjustment Benefits, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 14270725207.53,
+      "account_number": "036-0137"
+    },
+    {
+      "id": "4661",
+      "code": "0152",
+      "type": "federal_account",
+      "name": "Medical Support and Compliance, Veterans Health Administration, Veterans Affairs",
+      "amount": 10457024039.81,
+      "account_number": "036-0152"
+    },
+    {
+      "id": "4660",
+      "code": "0151",
+      "type": "federal_account",
+      "name": "General Operating Expenses, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 9298458258.9,
+      "account_number": "036-0151"
+    },
+    {
+      "id": "4665",
+      "code": "0162",
+      "type": "federal_account",
+      "name": "Expenses, Medical Facilities, Veterans Health Administration, Veterans Affairs",
+      "amount": 8881864014.32,
+      "account_number": "036-0162"
+    },
+    {
+      "id": "4667",
+      "code": "0167",
+      "type": "federal_account",
+      "name": "Information Technology Systems, Departmental Administration, Veterans Affairs",
+      "amount": 6744725409.7,
+      "account_number": "036-0167"
+    },
+    {
+      "id": "4689",
+      "code": "4537",
+      "type": "federal_account",
+      "name": "Supply Fund, Veterans Affairs",
+      "amount": 2108645149.52,
+      "account_number": "036-4537"
+    },
+    {
+      "id": "4690",
+      "code": "4539",
+      "type": "federal_account",
+      "name": "Franchise Fund, Veterans Affairs",
+      "amount": 1974754131.46,
+      "account_number": "036-4539"
+    },
+    {
+      "id": "4677",
+      "code": "1119",
+      "type": "federal_account",
+      "name": "Veterans Housing Benefit Program Fund, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 1949815051.97,
+      "account_number": "036-1119"
+    },
+    {
+      "id": "4681",
+      "code": "1123",
+      "type": "federal_account",
+      "name": "Veterans Electronic Health Record, Departmental Administration, Veterans Affairs",
+      "amount": 1382057653.2,
+      "account_number": "036-1123"
+    },
+    {
+      "id": "4664",
+      "code": "0161",
+      "type": "federal_account",
+      "name": "Medical and Prosthetic Research, Veterans Health Administration, Veterans Affairs",
+      "amount": 975906691.63,
+      "account_number": "036-0161"
+    },
+    {
+      "id": "4651",
+      "code": "0111",
+      "type": "federal_account",
+      "name": "Construction, Minor Projects, Departmental Administration, Veterans Affairs",
+      "amount": 938661209.63,
+      "account_number": "036-0111"
+    },
+    {
+      "id": "4658",
+      "code": "0142",
+      "type": "federal_account",
+      "name": "General Administration, Departmental Administration, Veterans Affairs",
+      "amount": 937106914.95,
+      "account_number": "036-0142"
+    },
+    {
+      "id": "4682",
+      "code": "4009",
+      "type": "federal_account",
+      "name": "Servicemen's Group Life Insurance Fund, Veterans Affairs",
+      "amount": 818246592,
+      "account_number": "036-4009"
+    },
+    {
+      "id": "4669",
+      "code": "0169",
+      "type": "federal_account",
+      "name": "Joint Department of Defense - Department of Veterans Affairs Medical Facility Demonstration Fund, Veterans Affairs",
+      "amount": 697574523.13,
+      "account_number": "036-0169"
+    },
+    {
+      "id": "4654",
+      "code": "0129",
+      "type": "federal_account",
+      "name": "National Cemetery Administration, Veterans Health Administration, Veterans Affairs",
+      "amount": 482854701.32,
+      "account_number": "036-0129"
+    },
+    {
+      "id": "4650",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Construction, Major Projects, Departmental Administration, Veterans Affairs",
+      "amount": 414161496.85,
+      "account_number": "036-0110"
+    },
+    {
+      "id": "4685",
+      "code": "4014",
+      "type": "federal_account",
+      "name": "Canteen Service Revolving Fund, Veterans Affairs",
+      "amount": 407349059.66,
+      "account_number": "036-4014"
+    },
+    {
+      "id": "4670",
+      "code": "0170",
+      "type": "federal_account",
+      "name": "Office of Inspector General, Departmental Administration, Veterans Affairs",
+      "amount": 281223604.18,
+      "account_number": "036-0170"
+    },
+    {
+      "id": "4680",
+      "code": "1122",
+      "type": "federal_account",
+      "name": "Board of Veterans Appeals, Departmental Administration, Veterans Affairs",
+      "amount": 280715662.95,
+      "account_number": "036-1122"
+    },
+    {
+      "id": "4701",
+      "code": "8132",
+      "type": "federal_account",
+      "name": "National Service Life Insurance Fund, Veterans Affairs",
+      "amount": 218139777.79,
+      "account_number": "036-8132"
+    },
+    {
+      "id": "4684",
+      "code": "4012",
+      "type": "federal_account",
+      "name": "Service-Disabled Veterans Insurance Fund, Veterans Affairs",
+      "amount": 191072348.77,
+      "account_number": "036-4012"
+    },
+    {
+      "id": "4652",
+      "code": "0120",
+      "type": "federal_account",
+      "name": "Veterans Insurance and Indemnities, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 141369729.65,
+      "account_number": "036-0120"
+    },
+    {
+      "id": "4705",
+      "code": "8455",
+      "type": "federal_account",
+      "name": "Veterans Special Life Insurance Fund, Trust Revolving Fund, Veterans Affairs",
+      "amount": 132964756.01,
+      "account_number": "036-8455"
+    },
+    {
+      "id": "6405",
+      "code": "1124",
+      "type": "federal_account",
+      "name": "Recurring Expenses Transformational Fund, Departmental Administration, Veterans Affairs",
+      "amount": 61403729.25,
+      "account_number": "036-1124"
+    },
+    {
+      "id": "4674",
+      "code": "0183",
+      "type": "federal_account",
+      "name": "Grants for Construction of State Veterans Cemeteries, Departmental Administration, Veterans Affairs",
+      "amount": 39994707.19,
+      "account_number": "036-0183"
+    },
+    {
+      "id": "4666",
+      "code": "0165",
+      "type": "federal_account",
+      "name": "DOD-VA Health Care Sharing Incentive Fund, Veterans Affairs",
+      "amount": 32774689.25,
+      "account_number": "036-0165"
+    },
+    {
+      "id": "4704",
+      "code": "8180",
+      "type": "federal_account",
+      "name": "General Post Fund, National Homes, Veterans Affairs",
+      "amount": 18830873.21,
+      "account_number": "036-8180"
+    },
+    {
+      "id": "6481",
+      "code": "4379",
+      "type": "federal_account",
+      "name": "Veteran Affairs Life Insurance, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 8608746.34,
+      "account_number": "036-4379"
+    },
+    {
+      "id": "4683",
+      "code": "4010",
+      "type": "federal_account",
+      "name": "Veterans Reopened Insurance Fund, Veterans Affairs",
+      "amount": 6540146.82,
+      "account_number": "036-4010"
+    },
+    {
+      "id": "4678",
+      "code": "1120",
+      "type": "federal_account",
+      "name": "Native American Veteran Housing Loan Program Account, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 4708213.31,
+      "account_number": "036-1120"
+    },
+    {
+      "id": "4702",
+      "code": "8133",
+      "type": "federal_account",
+      "name": "Post-Vietnam Era, Veterans Education Account, Veterans Affairs",
+      "amount": 3022609.06,
+      "account_number": "036-8133"
+    },
+    {
+      "id": "4676",
+      "code": "1114",
+      "type": "federal_account",
+      "name": "Vocational Rehabilitation Loans Program Account, Veterans Benefits Administration, Veterans Affairs",
+      "amount": 508279.28,
+      "account_number": "036-1114"
+    },
+    {
+      "id": "4700",
+      "code": "8129",
+      "type": "federal_account",
+      "name": "Department of Veterans Affairs Cemetery Gift Fund, Veterans Affairs",
+      "amount": 241212.3,
+      "account_number": "036-8129"
+    },
+    {
+      "id": "4672",
+      "code": "0172",
+      "type": "federal_account",
+      "name": "Veterans Choice Fund, Veterans Health Administration, Veterans Affairs",
+      "amount": 203888.42,
+      "account_number": "036-0172"
+    },
+    {
+      "id": "4687",
+      "code": "4025",
+      "type": "federal_account",
+      "name": "Veterans Housing Benefit Program Fund Liquidating Account, Veterans Affairs",
+      "amount": 182075.97,
+      "account_number": "036-4025"
+    },
+    {
+      "id": "4703",
+      "code": "8150",
+      "type": "federal_account",
+      "name": "United States Government Life Insurance Fund, Veterans Affairs",
+      "amount": 92740.71,
+      "account_number": "036-8150"
+    },
+    {
+      "id": "4686",
+      "code": "4018",
+      "type": "federal_account",
+      "name": "Pershing Hall Revolving Fund, Veterans Affairs",
+      "amount": 67760.15,
+      "account_number": "036-4018"
+    },
+    {
+      "id": "4692",
+      "code": "5392",
+      "type": "federal_account",
+      "name": "National Cemetery Administration Facilities Operation Fund, Veterans Affairs",
+      "amount": 31176.45,
+      "account_number": "036-5392"
+    },
+    {
+      "id": "6384",
+      "code": "0131",
+      "type": "federal_account",
+      "name": "Emergency Department of Veterans Affairs Employee Leave Fund, Veterans Health Administration, Veterans Affairs",
+      "amount": 0,
+      "account_number": "036-0131"
+    },
+    {
+      "id": "4691",
+      "code": "5287",
+      "type": "federal_account",
+      "name": "Medical Care Collections Fund, Veterans Affairs",
+      "amount": 0,
+      "account_number": "036-5287"
+    },
+    {
+      "id": "4679",
+      "code": "1121",
+      "type": "federal_account",
+      "name": "Filipino Veterans Equity Compensation Fund, Benefits Programs, Veterans Affairs",
+      "amount": 0,
+      "account_number": "036-1121"
+    },
+    {
+      "id": "4673",
+      "code": "0181",
+      "type": "federal_account",
+      "name": "Grants for Construction of State Extended Care Facilities, Departmental Administration, Veterans Affairs",
+      "amount": -6791824.37,
+      "account_number": "036-0181"
+    },
+    {
+      "id": "6392",
+      "code": "0173",
+      "type": "federal_account",
+      "name": "Veterans Medical Care and Health Fund, Veterans Health Administration, Veterans Affairs",
+      "amount": -66740387.98,
+      "account_number": "036-0173"
+    }
+  ]
+}

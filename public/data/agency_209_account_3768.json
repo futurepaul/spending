@@ -1,0 +1,55 @@
+{
+  "total": 95509652.21,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566354",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CULTURAL PROGRAMS",
+      "amount": 39854948.71
+    },
+    {
+      "id": "566519",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "HERITAGE PARTNERSHIP PROGRAMS",
+      "amount": 29187829.04
+    },
+    {
+      "id": "566684",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATURAL PROGRAMS",
+      "amount": 18492461.38
+    },
+    {
+      "id": "566749",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NATIONAL RECREATION AND PRESERVATION (REIMBURSABLE)",
+      "amount": 3843885.39
+    },
+    {
+      "id": "566490",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "INTERNATIONAL PARK AFFAIRS",
+      "amount": 2015210.86
+    },
+    {
+      "id": "645417",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "STATUTORY OR CONTRACTUAL AID",
+      "amount": 1640000
+    },
+    {
+      "id": "566674",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL COMPLIANCE AND REVIEW",
+      "amount": 475316.83
+    }
+  ]
+}

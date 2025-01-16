@@ -1,0 +1,41 @@
+{
+  "total": 452883.46,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "671270",
+      "code": "0039",
+      "type": "program_activity",
+      "name": "TRUCKEE RIVER OP AGREEMENT",
+      "amount": 239833.21
+    },
+    {
+      "id": "566776",
+      "code": "0028",
+      "type": "program_activity",
+      "name": "UNDER THE REPORTING THRESHOLD",
+      "amount": 212916.25
+    },
+    {
+      "id": "662708",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58)",
+      "amount": 134
+    },
+    {
+      "id": "566448",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "NAVAJO WATER SETTLEMENT",
+      "amount": 0
+    },
+    {
+      "id": "566642",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "WHITE EARTH",
+      "amount": 0
+    }
+  ]
+}

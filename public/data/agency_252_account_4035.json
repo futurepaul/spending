@@ -1,0 +1,34 @@
+{
+  "total": 1710537253.51,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567387",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "LAW ENFORCEMENT OPERATIONS",
+      "amount": 1165182879.03
+    },
+    {
+      "id": "567413",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "INVESTIGATIVE SUPPORT SERVICES",
+      "amount": 500976203.84
+    },
+    {
+      "id": "624671",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 44378170.65
+    },
+    {
+      "id": "567333",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -0.01
+    }
+  ]
+}

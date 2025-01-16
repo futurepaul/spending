@@ -1,0 +1,69 @@
+{
+  "total": 5315297764.63,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564878",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 4766374818.85
+    },
+    {
+      "id": "564904",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 387410591.55
+    },
+    {
+      "id": "564852",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND SERVICE-WIDE ACTIVITIES",
+      "amount": 159835788.4
+    },
+    {
+      "id": "596645",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 5888085.02
+    },
+    {
+      "id": "564709",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "FOREIGN CURRENCY FLUCTUATION",
+      "amount": 2354582.9
+    },
+    {
+      "id": "564238",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 32173.3
+    },
+    {
+      "id": "564503",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "565048",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": -654644.47
+    },
+    {
+      "id": "564862",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": -5943630.92
+    }
+  ]
+}

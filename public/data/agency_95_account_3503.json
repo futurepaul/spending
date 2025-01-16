@@ -1,0 +1,55 @@
+{
+  "total": 733108002.7,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568360",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "IRA GRANTS",
+      "amount": 704006419.3
+    },
+    {
+      "id": "568437",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "GRANTS",
+      "amount": 46029414.69
+    },
+    {
+      "id": "642512",
+      "code": "0707",
+      "type": "program_activity",
+      "name": "REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 2729789
+    },
+    {
+      "id": "642036",
+      "code": "0708",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 390389
+    },
+    {
+      "id": "568622",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "568781",
+      "code": "0702",
+      "type": "program_activity",
+      "name": "LOAN GUARANTEE SUBSIDY",
+      "amount": -1779675.2
+    },
+    {
+      "id": "568692",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "IRA GRANTS UNDER. TECH",
+      "amount": -18268334.09
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "total": 491564859.51,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566768",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAYMENTS TO STATES FOR SPORT FISH RESTORATION",
+      "amount": 411726878.95
+    },
+    {
+      "id": "566682",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "BOATING INFRASTRUCTURE IMPROVEMENT",
+      "amount": 25900567.18
+    },
+    {
+      "id": "566611",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ADMINISTRATION",
+      "amount": 14676191.89
+    },
+    {
+      "id": "566352",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NORTH AMERICAN WETLANDS CONSERVATION GRANTS",
+      "amount": 13769285.28
+    },
+    {
+      "id": "590743",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "NATIONAL COMMUNICATION AND OUTREACH",
+      "amount": 12831772
+    },
+    {
+      "id": "566734",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "COASTAL WETLANDS CONSERVATION GRANTS",
+      "amount": 8585861.78
+    },
+    {
+      "id": "566726",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "MULTI-STATE CONSERVATION ACTIVITIES",
+      "amount": 3025298.13
+    },
+    {
+      "id": "590834",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "MARINE FISHERIES COMMISSIONS AND BOATING COUNCIL",
+      "amount": 1049004.3
+    }
+  ]
+}

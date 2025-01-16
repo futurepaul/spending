@@ -1,0 +1,62 @@
+{
+  "total": 546556668.65,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566944",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "LOGISTICS",
+      "amount": 307472496.12
+    },
+    {
+      "id": "567166",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "INFORMATION SERVICES",
+      "amount": 116609774.95
+    },
+    {
+      "id": "566877",
+      "code": "0811",
+      "type": "program_activity",
+      "name": "AIRCRAFT MAINTENANCE",
+      "amount": 74076717.69
+    },
+    {
+      "id": "567305",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ACCOUNTING SERVICES",
+      "amount": 40573366.05
+    },
+    {
+      "id": "567306",
+      "code": "0812",
+      "type": "program_activity",
+      "name": "ACQUISITION",
+      "amount": 6875717.3
+    },
+    {
+      "id": "567249",
+      "code": "0808",
+      "type": "program_activity",
+      "name": "INTERNATIONAL TRAINING",
+      "amount": 832362.29
+    },
+    {
+      "id": "567260",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "FLLI",
+      "amount": 116234.25
+    },
+    {
+      "id": "567109",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "MULTI MEDIA",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "total": 46325944.13,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566771",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "REPAIR OF DAMAGED LANDS",
+      "amount": 19058130.97
+    },
+    {
+      "id": "566764",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RIGHT-OF-WAY PROCESSING",
+      "amount": 17240365.72
+    },
+    {
+      "id": "566730",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "RECREATION COST RECOVERY",
+      "amount": 5091314.48
+    },
+    {
+      "id": "566671",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "TRANS ALASKA PIPELINE AUTHORITY",
+      "amount": 2322377.46
+    },
+    {
+      "id": "566595",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ENERGY AND MINERALS COST RECOVERY",
+      "amount": 1738920.81
+    },
+    {
+      "id": "566662",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "COST RECOVERABLE REALTY",
+      "amount": 551983.58
+    },
+    {
+      "id": "566697",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "COPY FEES",
+      "amount": 235879.31
+    },
+    {
+      "id": "566457",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "TIMBER SALE",
+      "amount": 135034.55
+    },
+    {
+      "id": "566545",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "WILD HORSE AND BURRO COST RECOVER",
+      "amount": -48062.75
+    }
+  ]
+}

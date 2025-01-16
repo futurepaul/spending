@@ -1,0 +1,377 @@
+{
+  "total": 44279729579.02,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571063",
+      "code": "00GB",
+      "type": "program_activity",
+      "name": "GREENHOUSE GAS REDUCTION FUND",
+      "amount": 26975385807.09
+    },
+    {
+      "id": "571266",
+      "code": "0081",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE ASSISTANCE:  DRINKING WATER SRF",
+      "amount": 7089626715.81
+    },
+    {
+      "id": "571210",
+      "code": "0080",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE ASSISTANCE:  CLEAN WATER SRF",
+      "amount": 4245396034.43
+    },
+    {
+      "id": "571275",
+      "code": "00H4",
+      "type": "program_activity",
+      "name": "DIESEL EMISSIONS REDUCTION GRANT PROGRAM",
+      "amount": 2009937632.69
+    },
+    {
+      "id": "571194",
+      "code": "00L8",
+      "type": "program_activity",
+      "name": "SAFE WATER FOR SMALL AND DISADVANTAGES COMMUNITIES",
+      "amount": 1043228627.41
+    },
+    {
+      "id": "571238",
+      "code": "0079",
+      "type": "program_activity",
+      "name": "BROWNFIELDS PROJECTS",
+      "amount": 388376760.82
+    },
+    {
+      "id": "571196",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 332531226.96
+    },
+    {
+      "id": "571133",
+      "code": "0082",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE ASSISTANCE:  MEXICO BORDER",
+      "amount": 307555352
+    },
+    {
+      "id": "571083",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  HAZARDOUS WASTE FINANCIAL ASSISTANCE",
+      "amount": 227691746.79
+    },
+    {
+      "id": "571189",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  STATE AND LOCAL AIR QUALITY MANAGEMENT",
+      "amount": 223323444.23
+    },
+    {
+      "id": "571052",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  POLLUTION CONTROL (SEC. 106)",
+      "amount": 221423265.23
+    },
+    {
+      "id": "571076",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  NONPOINT SOURCE (SEC. 319)",
+      "amount": 169010879.02
+    },
+    {
+      "id": "571080",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  PUBLIC WATER SYSTEM SUPERVISION (PWSS)",
+      "amount": 110592347.52
+    },
+    {
+      "id": "571197",
+      "code": "00JM",
+      "type": "program_activity",
+      "name": "SUPPORT FOR DW EMERGENCY SITUATIONS",
+      "amount": 101962975.52
+    },
+    {
+      "id": "571303",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  BROWNFIELDS",
+      "amount": 98315645.96
+    },
+    {
+      "id": "571270",
+      "code": "00MT",
+      "type": "program_activity",
+      "name": "FENCELINE AIR MONITORING AND SCREENING AIR MONITORING",
+      "amount": 82516859.81
+    },
+    {
+      "id": "571075",
+      "code": "00ME",
+      "type": "program_activity",
+      "name": "METHANE EMISSIONS AND WASTE RED",
+      "amount": 80081808.15
+    },
+    {
+      "id": "571282",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  TRIBAL GENERAL ASSISTANCE PROGRAM",
+      "amount": 71655063.92
+    },
+    {
+      "id": "571061",
+      "code": "00M6",
+      "type": "program_activity",
+      "name": "SEWER OVERFLOW CONTROL GRANTS",
+      "amount": 53130821.09
+    },
+    {
+      "id": "571066",
+      "code": "00M1",
+      "type": "program_activity",
+      "name": "LEAD TESTING IN SCHOOLS",
+      "amount": 45161462.68
+    },
+    {
+      "id": "571277",
+      "code": "0078",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE ASSISTANCE:  ALASKA NATIVE VILLAGES",
+      "amount": 38999062.58
+    },
+    {
+      "id": "571285",
+      "code": "00H5",
+      "type": "program_activity",
+      "name": "REDUCE RISKS FROM INDOOR AIR",
+      "amount": 35184088.22
+    },
+    {
+      "id": "571143",
+      "code": "00CG",
+      "type": "program_activity",
+      "name": "AIR POLLUTION",
+      "amount": 31318359.03
+    },
+    {
+      "id": "571203",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  UNDERGROUND INJECTION CONTROL  (UIC)",
+      "amount": 30007823.73
+    },
+    {
+      "id": "571098",
+      "code": "00J9",
+      "type": "program_activity",
+      "name": "TARGETED AIRSHED GRANTS",
+      "amount": 27231051
+    },
+    {
+      "id": "571176",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  PESTICIDES ENFORCEMENT",
+      "amount": 23372498.05
+    },
+    {
+      "id": "571288",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  WETLANDS PROGRAM DEVELOPMENT",
+      "amount": 21752507.9
+    },
+    {
+      "id": "571281",
+      "code": "00MM",
+      "type": "program_activity",
+      "name": "ADMIN: BIL MANAGEMENT AND OVERSIGHT",
+      "amount": 21709408.44
+    },
+    {
+      "id": "571046",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  POLLUTION PREVENTION",
+      "amount": 20768089.29
+    },
+    {
+      "id": "571092",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  TRIBAL AIR QUALITY MANAGEMENT",
+      "amount": 16802590.18
+    },
+    {
+      "id": "571114",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  LEAD",
+      "amount": 16199482.44
+    },
+    {
+      "id": "571112",
+      "code": "00M7",
+      "type": "program_activity",
+      "name": "WATER INFRASTRUCTURE WORKFORCE DEVELOPMENT",
+      "amount": 16077630
+    },
+    {
+      "id": "571195",
+      "code": "00C4",
+      "type": "program_activity",
+      "name": "STRATOSPHERIC OZONE: DOMESTIC PROGRAMS",
+      "amount": 14392568.92
+    },
+    {
+      "id": "571265",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  PESTICIDES PROGRAM IMPLEMENTATION",
+      "amount": 13029884.97
+    },
+    {
+      "id": "571051",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  ENVIRONMENTAL INFORMATION",
+      "amount": 11471798.46
+    },
+    {
+      "id": "571049",
+      "code": "00P8",
+      "type": "program_activity",
+      "name": "WILDFIRE SMOKE PREPAREDNESS",
+      "amount": 10670000
+    },
+    {
+      "id": "571237",
+      "code": "00P7",
+      "type": "program_activity",
+      "name": "RECYCLING INFRASTRUCTURE",
+      "amount": 10612165.23
+    },
+    {
+      "id": "571096",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  RADON",
+      "amount": 9916815.02
+    },
+    {
+      "id": "571074",
+      "code": "00VF",
+      "type": "program_activity",
+      "name": "CLEAN HEAVY DUTY VEHICLES",
+      "amount": 9432923.94
+    },
+    {
+      "id": "571297",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  BEACHES PROTECTION",
+      "amount": 8310315.85
+    },
+    {
+      "id": "571213",
+      "code": "0051",
+      "type": "program_activity",
+      "name": "CONGRESSIONALLY MANDATED PROJECTS",
+      "amount": 5657801.03
+    },
+    {
+      "id": "571057",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  TOXICS SUBSTANCES COMPLIANCE",
+      "amount": 4605497.43
+    },
+    {
+      "id": "571064",
+      "code": "00L9",
+      "type": "program_activity",
+      "name": "REDUCING LEAD IN DRINKING WATER",
+      "amount": 1501572.24
+    },
+    {
+      "id": "571125",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  UNDERGROUND STORAGE TANKS",
+      "amount": 1201986.37
+    },
+    {
+      "id": "688329",
+      "code": "00QR",
+      "type": "program_activity",
+      "name": "STORMWATER INFRASTRUCTURE TECHNOLOGY",
+      "amount": 952155
+    },
+    {
+      "id": "571154",
+      "code": "0074",
+      "type": "program_activity",
+      "name": "INDOOR AIR:  ASTHMA PROGRAM",
+      "amount": 864093.31
+    },
+    {
+      "id": "571229",
+      "code": "00M5",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE FOR TREATMENT WORKS",
+      "amount": 579695
+    },
+    {
+      "id": "571264",
+      "code": "0089",
+      "type": "program_activity",
+      "name": "NATIONAL ESTUARY PROGRAM / COASTAL WATERWAYS",
+      "amount": 222913.78
+    },
+    {
+      "id": "571294",
+      "code": "0091",
+      "type": "program_activity",
+      "name": "OIL SPILL: PREVENTION, PREPAREDNESS AND RESPONSE",
+      "amount": 125373.55
+    },
+    {
+      "id": "571109",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  SECTOR PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "571138",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571129",
+      "code": "00L7",
+      "type": "program_activity",
+      "name": "GOLD KING MINE MONITORING",
+      "amount": -1840.96
+    },
+    {
+      "id": "571139",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "CATEGORICAL GRANT:  MULTIPURPOSE GRANTS",
+      "amount": -143208.11
+    }
+  ]
+}

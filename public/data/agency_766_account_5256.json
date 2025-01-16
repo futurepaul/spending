@@ -1,0 +1,55 @@
+{
+  "total": 42522345.74,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567725",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TRANSFORMATIONAL RESEARCH AND DEVELOPMENT",
+      "amount": 37287811.05
+    },
+    {
+      "id": "567852",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "DETECTION CAPABILITY DEVELOPMENT",
+      "amount": 4971560.84
+    },
+    {
+      "id": "567828",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "NUCLEAR FORENSICS",
+      "amount": 3256903.55
+    },
+    {
+      "id": "567833",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAS - RESEARCH AND DEVELOPMENT",
+      "amount": -7388
+    },
+    {
+      "id": "567676",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "RAPID CAPABILITIES",
+      "amount": -210259.85
+    },
+    {
+      "id": "567682",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "DETECTION CAPABILITY ASSESSMENTS",
+      "amount": -1132451.92
+    },
+    {
+      "id": "567714",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ARCHITECTURE PLANNING AND ANALYSIS",
+      "amount": -1643829.93
+    }
+  ]
+}

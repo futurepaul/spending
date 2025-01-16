@@ -1,0 +1,41 @@
+{
+  "total": 42019831.22,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566153",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DEVELOPMENT GRANTS",
+      "amount": 26481895.28
+    },
+    {
+      "id": "566150",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 8641704.98
+    },
+    {
+      "id": "566152",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PROGRAM IMPLEMENTATION EXPENSES",
+      "amount": 7746605.59
+    },
+    {
+      "id": "566151",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "INVESTMENTS AND LOANS",
+      "amount": 0
+    },
+    {
+      "id": "566148",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEVELOPMENT GRANTS (SPTF)",
+      "amount": -850374.63
+    }
+  ]
+}

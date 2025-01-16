@@ -1,0 +1,20 @@
+{
+  "total": 61403729.25,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569578",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "RETF - MAJOR CONSTRUCTION",
+      "amount": 34915999.98
+    },
+    {
+      "id": "569663",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "RETF - MINOR CONSTRUCTION",
+      "amount": 26487729.27
+    }
+  ]
+}

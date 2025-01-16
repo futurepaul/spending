@@ -1,0 +1,167 @@
+{
+  "total": 14644080515.49,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567235",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "URBANIZED AREA PROGRAMS",
+      "amount": 8617195242.63
+    },
+    {
+      "id": "567212",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "STATE OF GOOD REPAIR GRANTS",
+      "amount": 3526150252
+    },
+    {
+      "id": "566823",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "NON-URBANIZED AREA PROGRAMS",
+      "amount": 1131825870.65
+    },
+    {
+      "id": "567276",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "BUS AND BUS FACILITIES FORMULA GRANTS",
+      "amount": 415372671
+    },
+    {
+      "id": "567072",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SENIORS AND PERSONS WITH DISABILITIES",
+      "amount": 398202133
+    },
+    {
+      "id": "608016",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "BUS AND BUS FACILITIES GRANTS- COMPETITIVE",
+      "amount": 213890003.35
+    },
+    {
+      "id": "566934",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 134171029.55
+    },
+    {
+      "id": "567163",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "OVERSIGHT",
+      "amount": 125139857.68
+    },
+    {
+      "id": "567223",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "PLANNING PROGRAMS",
+      "amount": 50206519
+    },
+    {
+      "id": "567237",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "PUBLIC TRANSPORTATION INNOVATION (RESEARCH)",
+      "amount": 15504087.52
+    },
+    {
+      "id": "567218",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE AND WORKFORCE DEVELOPMENT",
+      "amount": 12934051.09
+    },
+    {
+      "id": "567309",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "PILOT PROGRAM FOR ENHANCED MOBILITY",
+      "amount": 5064989
+    },
+    {
+      "id": "567134",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "TRANSIT ORIENTED DEVELOPMENT",
+      "amount": 3754430
+    },
+    {
+      "id": "633734",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OVER-THE-ROAD BUS",
+      "amount": 0
+    },
+    {
+      "id": "566937",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CLEAN FUELS PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "567041",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "BUS TESTING FACILITY",
+      "amount": 0
+    },
+    {
+      "id": "567219",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "ALTERNATIVES ANALYSIS PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "566917",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "NATIONAL TRANSIT DATABASE",
+      "amount": 0
+    },
+    {
+      "id": "567293",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "ALTERNATIVE TRANSPORTATION IN PARKS AND PUBLIC LANDS",
+      "amount": -6088.82
+    },
+    {
+      "id": "567301",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FIXED GUIDEWAY MODERNIZATION",
+      "amount": -35945
+    },
+    {
+      "id": "566903",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "JOB ACCESS & REVERSE COMMUTE",
+      "amount": -283784.85
+    },
+    {
+      "id": "567190",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "NEW FREEDOM",
+      "amount": -1077392
+    },
+    {
+      "id": "566871",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "POSITIVE TRAIN CONTROL",
+      "amount": -3927410.31
+    }
+  ]
+}

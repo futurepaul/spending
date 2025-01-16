@@ -1,0 +1,27 @@
+{
+  "total": 0,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566977",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CAPITAL AND DEBT GRANT SANDY MITIGATION",
+      "amount": 0
+    },
+    {
+      "id": "567028",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SYSTEM ENG / PROGRAM MGMT",
+      "amount": 0
+    },
+    {
+      "id": "567229",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "SANDY OVERSIGHT",
+      "amount": 0
+    }
+  ]
+}

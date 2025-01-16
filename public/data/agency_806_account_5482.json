@@ -1,0 +1,20 @@
+{
+  "total": 997516441.18,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570105",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE OF ENVIRONMENTAL HEALTH SCIENCES (0862)",
+      "amount": 995882837.27
+    },
+    {
+      "id": "569860",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": 1633603.91
+    }
+  ]
+}

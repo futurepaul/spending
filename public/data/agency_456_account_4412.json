@@ -1,0 +1,34 @@
+{
+  "total": 961199219.55,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569218",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RETIREMENT PAYMENTS",
+      "amount": 566245585.17
+    },
+    {
+      "id": "569205",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "RETIREMENT PAYMENTS (REIMBURSABLE)",
+      "amount": 369458169
+    },
+    {
+      "id": "569224",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE COSTS",
+      "amount": 22525120.56
+    },
+    {
+      "id": "569001",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE COSTS (REIMBURSABLE)",
+      "amount": 2970344.82
+    }
+  ]
+}

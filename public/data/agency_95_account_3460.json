@@ -1,0 +1,160 @@
+{
+  "total": 6144425155.22,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568378",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL QUALITY INCENTIVES PROGRAM",
+      "amount": 1861079563.2
+    },
+    {
+      "id": "568751",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL QUALITY INCENTIVES PROGRAM - INFLATION REDUCTION ACT",
+      "amount": 1583157941.73
+    },
+    {
+      "id": "568793",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "CONSERVATION STEWARDSHIP PROGRAM - 2018",
+      "amount": 858500267.77
+    },
+    {
+      "id": "568549",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "CONSERVATION STEWARDSHIP PROGRAM - INFLATION REDUCTION ACT",
+      "amount": 444593174.24
+    },
+    {
+      "id": "568284",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "AGRICULTURAL CONSERVATION EASEMENT PROGRAM",
+      "amount": 394601128.53
+    },
+    {
+      "id": "568770",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CONSERVATION STEWARDSHIP PROGRAM 2014",
+      "amount": 303091342.35
+    },
+    {
+      "id": "568836",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "CONSERVATION RESERVE PROGRAM - DIRECT",
+      "amount": 180408632.52
+    },
+    {
+      "id": "568500",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "REGIONAL CONSERVATION PARTNERSHIP PROGRAM - INFLATION REDUCTION ACT",
+      "amount": 177257962.25
+    },
+    {
+      "id": "568916",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "AGRICULTURAL CONSERVATION EASEMENT PROGRAM - INFLATION REDUCTION ACT",
+      "amount": 165196155.47
+    },
+    {
+      "id": "568459",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "REGIONAL CONSERVATION PARTNERSHIP PROGRAM",
+      "amount": 152482595.58
+    },
+    {
+      "id": "568746",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITIES",
+      "amount": 8919416
+    },
+    {
+      "id": "568508",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "VOLUNTARY PUBLIC ACCESS AND HABITAT INCENTIVE PROGRAM",
+      "amount": 8473346.46
+    },
+    {
+      "id": "568374",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "AGRICULTURAL MANAGEMENT ASSISTANCE PROGRAM",
+      "amount": 3547401.33
+    },
+    {
+      "id": "568380",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "FERAL SWINE ERADICATION AND CONTROL PILOT PROGRAM",
+      "amount": 3177053.65
+    },
+    {
+      "id": "568841",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "AGRICULTURAL WATER ENHANCEMENT PROGRAM",
+      "amount": 243263.41
+    },
+    {
+      "id": "568800",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "WETLANDS MITIGATION BANKING PROGRAM - DISCRETIONARY",
+      "amount": 21250.22
+    },
+    {
+      "id": "568417",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 15207.67
+    },
+    {
+      "id": "568754",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "GRASSLAND RESERVE PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "568392",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CONSERVATION SECURITY PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "568447",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "568864",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "WILDLIFE HABITAT INCENTIVES PROGRAM",
+      "amount": -106012.88
+    },
+    {
+      "id": "568506",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "URBAN AGRICULTURE AND INNOVATIVE PRODUCTION PROGRAM",
+      "amount": -234534.28
+    }
+  ]
+}

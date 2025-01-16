@@ -1,0 +1,34 @@
+{
+  "total": -40010.46,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570693",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "NTIA NG-911",
+      "amount": 0
+    },
+    {
+      "id": "570698",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570685",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NTIA PROGRAMMATIC AND OVERSIGHT",
+      "amount": -15147.68
+    },
+    {
+      "id": "570707",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "FIRSTNET ADMINISTRATIVE",
+      "amount": -24862.78
+    }
+  ]
+}

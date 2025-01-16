@@ -1,0 +1,657 @@
+{
+  "total": 3952569923.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571221",
+      "code": "0057",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL JUSTICE",
+      "amount": 473035588.37
+    },
+    {
+      "id": "571137",
+      "code": "00J7",
+      "type": "program_activity",
+      "name": "GREAT LAKES RESTORATION",
+      "amount": 372331351.54
+    },
+    {
+      "id": "571038",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 271578213.02
+    },
+    {
+      "id": "571103",
+      "code": "00D4",
+      "type": "program_activity",
+      "name": "SURFACE WATER PROTECTION",
+      "amount": 222739983.29
+    },
+    {
+      "id": "571280",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "CIVIL ENFORCEMENT",
+      "amount": 216985161.46
+    },
+    {
+      "id": "571181",
+      "code": "0063",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM:  CHESAPEAKE BAY",
+      "amount": 182390948.73
+    },
+    {
+      "id": "571169",
+      "code": "0059",
+      "type": "program_activity",
+      "name": "FEDERAL SUPPORT FOR AIR QUALITY MANAGEMENT",
+      "amount": 152435780.29
+    },
+    {
+      "id": "571067",
+      "code": "0053",
+      "type": "program_activity",
+      "name": "DRINKING WATER PROGRAMS",
+      "amount": 147965186.52
+    },
+    {
+      "id": "571258",
+      "code": "0046",
+      "type": "program_activity",
+      "name": "CLIMATE PROTECTION PROGRAM",
+      "amount": 106755451.78
+    },
+    {
+      "id": "571211",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "COMPLIANCE MONITORING",
+      "amount": 106196828.9
+    },
+    {
+      "id": "571230",
+      "code": "00D6",
+      "type": "program_activity",
+      "name": "TOXIC SUBSTANCES:  CHEMICAL RISK REVIEW AND REDUCTION",
+      "amount": 95214914.37
+    },
+    {
+      "id": "571212",
+      "code": "00F8",
+      "type": "program_activity",
+      "name": "IT / DATA MANAGEMENT",
+      "amount": 85905616
+    },
+    {
+      "id": "571135",
+      "code": "00E5",
+      "type": "program_activity",
+      "name": "CENTRAL PLANNING, BUDGETING, AND FINANCE",
+      "amount": 80231892.8
+    },
+    {
+      "id": "571224",
+      "code": "00A1",
+      "type": "program_activity",
+      "name": "RCRA:  WASTE MANAGEMENT",
+      "amount": 73111387.84
+    },
+    {
+      "id": "571207",
+      "code": "0089",
+      "type": "program_activity",
+      "name": "NATIONAL ESTUARY PROGRAM / COASTAL WATERWAYS",
+      "amount": 69920315.28
+    },
+    {
+      "id": "571132",
+      "code": "00K5",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM: PUGET SOUND",
+      "amount": 69269642.55
+    },
+    {
+      "id": "571235",
+      "code": "0052",
+      "type": "program_activity",
+      "name": "CRIMINAL ENFORCEMENT",
+      "amount": 65905448.46
+    },
+    {
+      "id": "571244",
+      "code": "00J1",
+      "type": "program_activity",
+      "name": "PESTICIDES: PROTECT HUMAN HEALTH FROM PESTICIDE RISK",
+      "amount": 62316061.63
+    },
+    {
+      "id": "571216",
+      "code": "0067",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM:  LONG ISLAND SOUND",
+      "amount": 62097197.53
+    },
+    {
+      "id": "571144",
+      "code": "00F9",
+      "type": "program_activity",
+      "name": "LEGAL ADVICE: ENVIRONMENTAL PROGRAM",
+      "amount": 61686472.18
+    },
+    {
+      "id": "571269",
+      "code": "00E8",
+      "type": "program_activity",
+      "name": "CONGRESSIONAL, INTERGOVERNMENTAL, EXTERNAL RELATIONS",
+      "amount": 60778689.66
+    },
+    {
+      "id": "571222",
+      "code": "0068",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM: OTHER",
+      "amount": 59333666.99
+    },
+    {
+      "id": "571047",
+      "code": "00F5",
+      "type": "program_activity",
+      "name": "HUMAN RESOURCES MANAGEMENT",
+      "amount": 57694080.96
+    },
+    {
+      "id": "571290",
+      "code": "00K4",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM: SAN FRANCISCO BAY",
+      "amount": 47153695.7
+    },
+    {
+      "id": "571126",
+      "code": "00J2",
+      "type": "program_activity",
+      "name": "PESTICIDES: PROTECT THE ENVIRONMENT FROM PESTICIDE RISK",
+      "amount": 45951162.29
+    },
+    {
+      "id": "571159",
+      "code": "0099",
+      "type": "program_activity",
+      "name": "RCRA: CORRECTIVE ACTION",
+      "amount": 38359110.05
+    },
+    {
+      "id": "571291",
+      "code": "00F3",
+      "type": "program_activity",
+      "name": "ACQUISITION MANAGEMENT",
+      "amount": 34115053.39
+    },
+    {
+      "id": "571124",
+      "code": "0066",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM:  LAKE CHAMPLAIN",
+      "amount": 32642504.63
+    },
+    {
+      "id": "571260",
+      "code": "00L2",
+      "type": "program_activity",
+      "name": "WATER QUALITY RESEARCH AND SUPPORT GRANTS",
+      "amount": 29788214.72
+    },
+    {
+      "id": "571110",
+      "code": "00G7",
+      "type": "program_activity",
+      "name": "FINANCIAL ASSISTANCE GRANTS / IAG MANAGEMENT",
+      "amount": 28089264.74
+    },
+    {
+      "id": "571250",
+      "code": "0095",
+      "type": "program_activity",
+      "name": "POLLUTION PREVENTION PROGRAM",
+      "amount": 27662793.89
+    },
+    {
+      "id": "571053",
+      "code": "0058",
+      "type": "program_activity",
+      "name": "FEDERAL STATIONARY SOURCE REGULATIONS",
+      "amount": 25554878.27
+    },
+    {
+      "id": "571223",
+      "code": "0090",
+      "type": "program_activity",
+      "name": "NEPA IMPLEMENTATION",
+      "amount": 25489557.09
+    },
+    {
+      "id": "571145",
+      "code": "0043",
+      "type": "program_activity",
+      "name": "BROWNFIELDS",
+      "amount": 25273324.52
+    },
+    {
+      "id": "571286",
+      "code": "00A2",
+      "type": "program_activity",
+      "name": "RCRA:  WASTE MINIMIZATION & RECYCLING",
+      "amount": 25223784.91
+    },
+    {
+      "id": "571069",
+      "code": "0065",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM:  GULF OF MEXICO",
+      "amount": 22817107.74
+    },
+    {
+      "id": "571068",
+      "code": "00E2",
+      "type": "program_activity",
+      "name": "WETLANDS",
+      "amount": 19251633.89
+    },
+    {
+      "id": "571248",
+      "code": "00G1",
+      "type": "program_activity",
+      "name": "LEGAL ADVICE: SUPPORT PROGRAM",
+      "amount": 18878883.3
+    },
+    {
+      "id": "571256",
+      "code": "00H9",
+      "type": "program_activity",
+      "name": "REGULATORY/ECONOMIC-MANAGEMENT AND ANALYSIS",
+      "amount": 18421610.62
+    },
+    {
+      "id": "571093",
+      "code": "00C6",
+      "type": "program_activity",
+      "name": "SUPERFUND:  EMERGENCY RESPONSE AND REMOVAL",
+      "amount": 17118964.64
+    },
+    {
+      "id": "571249",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "CLEAN AIR ALLOWANCE TRADING PROGRAMS",
+      "amount": 15050528.76
+    },
+    {
+      "id": "571192",
+      "code": "00A4",
+      "type": "program_activity",
+      "name": "REGULATORY INNOVATION",
+      "amount": 15036658.46
+    },
+    {
+      "id": "571045",
+      "code": "00H5",
+      "type": "program_activity",
+      "name": "REDUCE RISKS FROM INDOOR AIR",
+      "amount": 14981114.77
+    },
+    {
+      "id": "571268",
+      "code": "00C3",
+      "type": "program_activity",
+      "name": "STATE AND LOCAL PREVENTION AND PREPAREDNESS",
+      "amount": 14839571.21
+    },
+    {
+      "id": "571218",
+      "code": "00C4",
+      "type": "program_activity",
+      "name": "STRATOSPHERIC OZONE: DOMESTIC PROGRAMS",
+      "amount": 14707405.5
+    },
+    {
+      "id": "571292",
+      "code": "00D9",
+      "type": "program_activity",
+      "name": "TRIBAL - CAPACITY BUILDING",
+      "amount": 14689003.96
+    },
+    {
+      "id": "571177",
+      "code": "00F1",
+      "type": "program_activity",
+      "name": "EXCHANGE NETWORK",
+      "amount": 13899256.7
+    },
+    {
+      "id": "571301",
+      "code": "0086",
+      "type": "program_activity",
+      "name": "LUST / UST",
+      "amount": 12292510.66
+    },
+    {
+      "id": "571116",
+      "code": "00D7",
+      "type": "program_activity",
+      "name": "TOXIC SUBSTANCES:  LEAD RISK REDUCTION PROGRAM",
+      "amount": 12056205.27
+    },
+    {
+      "id": "571062",
+      "code": "00E7",
+      "type": "program_activity",
+      "name": "CIVIL RIGHTS/TITLE VI COMPLIANCE",
+      "amount": 12048248.36
+    },
+    {
+      "id": "571178",
+      "code": "00D8",
+      "type": "program_activity",
+      "name": "TRI / RIGHT TO KNOW",
+      "amount": 11716295.52
+    },
+    {
+      "id": "571136",
+      "code": "00K2",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC PROGRAM: SOUTH FLORIDA",
+      "amount": 11637874.91
+    },
+    {
+      "id": "571245",
+      "code": "00F6",
+      "type": "program_activity",
+      "name": "INFORMATION SECURITY",
+      "amount": 11413280.93
+    },
+    {
+      "id": "571082",
+      "code": "0097",
+      "type": "program_activity",
+      "name": "RADIATION:  PROTECTION",
+      "amount": 9781391
+    },
+    {
+      "id": "571073",
+      "code": "00E9",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL EDUCATION",
+      "amount": 9636898.56
+    },
+    {
+      "id": "571099",
+      "code": "0054",
+      "type": "program_activity",
+      "name": "ENDOCRINE DISRUPTORS",
+      "amount": 8858373.82
+    },
+    {
+      "id": "571188",
+      "code": "00J4",
+      "type": "program_activity",
+      "name": "INTERNATIONAL SOURCES OF POLLUTION",
+      "amount": 8495426.17
+    },
+    {
+      "id": "571141",
+      "code": "00C5",
+      "type": "program_activity",
+      "name": "STRATOSPHERIC OZONE: MULTILATERAL FUND",
+      "amount": 8326000
+    },
+    {
+      "id": "571201",
+      "code": "0088",
+      "type": "program_activity",
+      "name": "MARINE POLLUTION",
+      "amount": 8070279.45
+    },
+    {
+      "id": "571284",
+      "code": "00J3",
+      "type": "program_activity",
+      "name": "PESTICIDES: REALIZE THE VALUE OF PESTICIDE AVAILABILITY",
+      "amount": 8037171.35
+    },
+    {
+      "id": "571232",
+      "code": "00ND",
+      "type": "program_activity",
+      "name": "STATE/TRIBE/LOCAL GOV'T OUTREACH",
+      "amount": 6506000.35
+    },
+    {
+      "id": "571242",
+      "code": "00H3",
+      "type": "program_activity",
+      "name": "CHILDREN & OTHER SENSITIVE POPULATIONS: AGENCY COORDINATION",
+      "amount": 6217920.53
+    },
+    {
+      "id": "571231",
+      "code": "00MM",
+      "type": "program_activity",
+      "name": "ADMIN: BIL MANAGEMENT AND OVERSIGHT",
+      "amount": 6191983.5
+    },
+    {
+      "id": "571072",
+      "code": "00J5",
+      "type": "program_activity",
+      "name": "TRADE AND GOVERNANCE",
+      "amount": 6165403.16
+    },
+    {
+      "id": "571170",
+      "code": "00E3",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE LAW",
+      "amount": 5536699.12
+    },
+    {
+      "id": "571151",
+      "code": "0073",
+      "type": "program_activity",
+      "name": "HOMELAND SEC:  PROTECTION OF EPA PERSONNEL & INFRASTRUCTURE",
+      "amount": 4607088.75
+    },
+    {
+      "id": "571261",
+      "code": "00NF",
+      "type": "program_activity",
+      "name": "IMPLEMENTATION / ACCOUNTABILITY",
+      "amount": 4447120.51
+    },
+    {
+      "id": "571272",
+      "code": "00G5",
+      "type": "program_activity",
+      "name": "SCIENCE ADVISORY BOARD",
+      "amount": 3963573.78
+    },
+    {
+      "id": "571263",
+      "code": "0070",
+      "type": "program_activity",
+      "name": "HOMELAND SECURITY:  COMMUNICATION AND INFORMATION",
+      "amount": 3961005.27
+    },
+    {
+      "id": "571105",
+      "code": "00G6",
+      "type": "program_activity",
+      "name": "SMALL MINORITY BUSINESS ASSISTANCE",
+      "amount": 3537998.65
+    },
+    {
+      "id": "571079",
+      "code": "00NC",
+      "type": "program_activity",
+      "name": "INDUSTRY OUTREACH",
+      "amount": 3374437.5
+    },
+    {
+      "id": "571117",
+      "code": "00AK",
+      "type": "program_activity",
+      "name": "ALASKA CONTAMINATED LANDS",
+      "amount": 3242762.31
+    },
+    {
+      "id": "571113",
+      "code": "00NA",
+      "type": "program_activity",
+      "name": "CONSUMER EDUCATION",
+      "amount": 3186802
+    },
+    {
+      "id": "571241",
+      "code": "00E1",
+      "type": "program_activity",
+      "name": "US MEXICO BORDER",
+      "amount": 2847351.36
+    },
+    {
+      "id": "571050",
+      "code": "0076",
+      "type": "program_activity",
+      "name": "INDOOR AIR:  RADON PROGRAM",
+      "amount": 2586562.49
+    },
+    {
+      "id": "571119",
+      "code": "00G9",
+      "type": "program_activity",
+      "name": "SMALL BUSINESS OMBUDSMAN",
+      "amount": 2407545.19
+    },
+    {
+      "id": "571056",
+      "code": "00NB",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE FOR LOW INCOME COMMUNITIES",
+      "amount": 2246000
+    },
+    {
+      "id": "571182",
+      "code": "0098",
+      "type": "program_activity",
+      "name": "RADIATION:  RESPONSE PREPAREDNESS",
+      "amount": 2043092.75
+    },
+    {
+      "id": "571070",
+      "code": "00C2",
+      "type": "program_activity",
+      "name": "SCIENCE POLICY AND BIOTECHNOLOGY",
+      "amount": 1466922
+    },
+    {
+      "id": "571040",
+      "code": "00G4",
+      "type": "program_activity",
+      "name": "REGIONAL SCIENCE AND TECHNOLOGY",
+      "amount": 1310060.37
+    },
+    {
+      "id": "571100",
+      "code": "0042",
+      "type": "program_activity",
+      "name": "BEACH / FISH PROGRAMS",
+      "amount": 1129756.47
+    },
+    {
+      "id": "571041",
+      "code": "0071",
+      "type": "program_activity",
+      "name": "HOMELAND SECURITY:  CRITICAL INFRASTRUCTURE PROTECTION",
+      "amount": 986767.01
+    },
+    {
+      "id": "587580",
+      "code": "00L8",
+      "type": "program_activity",
+      "name": "SAFE WATER FOR SMALL AND DISADVANTAGES COMMUNITIES",
+      "amount": 626869.09
+    },
+    {
+      "id": "571130",
+      "code": "00E4",
+      "type": "program_activity",
+      "name": "ALTERNATIVE DISPUTE RESOLUTION",
+      "amount": 424169.76
+    },
+    {
+      "id": "571128",
+      "code": "00K9",
+      "type": "program_activity",
+      "name": "RESEARCH: CHEMICAL SAFETY AND SUSTAINABILITY",
+      "amount": 113218.15
+    },
+    {
+      "id": "571233",
+      "code": "00NE",
+      "type": "program_activity",
+      "name": "LOW EMISSIONS ELECTRIC",
+      "amount": 70000
+    },
+    {
+      "id": "571262",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 37827.56
+    },
+    {
+      "id": "571164",
+      "code": "00D2",
+      "type": "program_activity",
+      "name": "SUPERFUND:  REMEDIAL",
+      "amount": 34659.53
+    },
+    {
+      "id": "602188",
+      "code": "0080",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE ASSISTANCE:  CLEAN WATER SRF",
+      "amount": 21073.64
+    },
+    {
+      "id": "571153",
+      "code": "0061",
+      "type": "program_activity",
+      "name": "FEDERAL VEHICLE AND FUELS STANDARDS AND CERTIFICATION",
+      "amount": 15903.09
+    },
+    {
+      "id": "571190",
+      "code": "0081",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE ASSISTANCE:  DRINKING WATER SRF",
+      "amount": 8729.15
+    },
+    {
+      "id": "571158",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 8680.43
+    },
+    {
+      "id": "673284",
+      "code": "00L5",
+      "type": "program_activity",
+      "name": "WATER INFRASTRUCTURE FINANCE AND INNOVATION",
+      "amount": 1020.48
+    }
+  ]
+}

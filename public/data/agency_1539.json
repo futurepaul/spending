@@ -1,0 +1,14 @@
+{
+  "total": -2.31,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6345",
+      "code": "1760",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Commission on Combating Synthetic Opioid Trafficking",
+      "amount": -2.31,
+      "account_number": "256-1760"
+    }
+  ]
+}

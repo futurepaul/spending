@@ -1,0 +1,167 @@
+{
+  "total": 7853614566.22,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568021",
+      "code": "0453",
+      "type": "program_activity",
+      "name": "STATE AND COMMUNITY ENERGY PROGRAMS",
+      "amount": 2732210979.99
+    },
+    {
+      "id": "568078",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "HYDROGEN & FUEL CELL TECHNOLOGIES",
+      "amount": 925127529.27
+    },
+    {
+      "id": "567976",
+      "code": "0301",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION & SUPPORT",
+      "amount": 532765483.44
+    },
+    {
+      "id": "568221",
+      "code": "0202",
+      "type": "program_activity",
+      "name": "BUILDING TECHNOLOGIES",
+      "amount": 481777911.75
+    },
+    {
+      "id": "568140",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "VEHICLE TECHNOLOGIES",
+      "amount": 464730884.06
+    },
+    {
+      "id": "568037",
+      "code": "0401",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE INVESTMENT AND JOB ACT",
+      "amount": 440198477.79
+    },
+    {
+      "id": "568051",
+      "code": "0203",
+      "type": "program_activity",
+      "name": "WEATHERIZATION & INTERGOVERNMENTAL ACTIVITIES",
+      "amount": 438133478.05
+    },
+    {
+      "id": "568095",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "SOLAR ENERGY",
+      "amount": 293156277.22
+    },
+    {
+      "id": "568106",
+      "code": "0201",
+      "type": "program_activity",
+      "name": "ADVANCED MANUFACTURING",
+      "amount": 248389586.38
+    },
+    {
+      "id": "568047",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BIOENERGY TECHNOLOGIES",
+      "amount": 202673766.89
+    },
+    {
+      "id": "568030",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "WATER POWER",
+      "amount": 182884160.55
+    },
+    {
+      "id": "568066",
+      "code": "0104",
+      "type": "program_activity",
+      "name": "GEOTHERMAL TECHNOLOGIES",
+      "amount": 167695848.29
+    },
+    {
+      "id": "568204",
+      "code": "0303",
+      "type": "program_activity",
+      "name": "FACILITIES & INFRASTRUCTURE",
+      "amount": 153000000
+    },
+    {
+      "id": "568031",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "ENERGY EFFICIENCY AND RENEWABLE ENERGY (REIMBURSABLE)",
+      "amount": 136131705.97
+    },
+    {
+      "id": "625147",
+      "code": "0205",
+      "type": "program_activity",
+      "name": "ADVANCED MATERIALS AND MANUFACTURING TECHNOLOGIES",
+      "amount": 132340983.76
+    },
+    {
+      "id": "568156",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "WIND ENERGY",
+      "amount": 94225129.88
+    },
+    {
+      "id": "625060",
+      "code": "0206",
+      "type": "program_activity",
+      "name": "INDUSTRIAL EFFICIENCY AND DECARBONIZATION",
+      "amount": 88927589.07
+    },
+    {
+      "id": "568053",
+      "code": "0451",
+      "type": "program_activity",
+      "name": "MANUFACTURING AND ENERGY SUPPLY CHAINS",
+      "amount": 44949784.01
+    },
+    {
+      "id": "568183",
+      "code": "0452",
+      "type": "program_activity",
+      "name": "FEDERAL ENERGY MANAGEMENT PROGRAM",
+      "amount": 43689736.62
+    },
+    {
+      "id": "568184",
+      "code": "0105",
+      "type": "program_activity",
+      "name": "RENEWABLE ENERGY INTEGRATION",
+      "amount": 24455083.09
+    },
+    {
+      "id": "568083",
+      "code": "0302",
+      "type": "program_activity",
+      "name": "STRATEGIC PROGRAMS",
+      "amount": 21275284.49
+    },
+    {
+      "id": "672338",
+      "code": "0204",
+      "type": "program_activity",
+      "name": "ENERGY DELIVERY GRID OPERATIONS TECHNOLOGY",
+      "amount": 4874885.65
+    },
+    {
+      "id": "644634",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

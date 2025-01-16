@@ -1,0 +1,188 @@
+{
+  "total": 3530028126.56,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564083",
+      "code": "0201",
+      "type": "program_activity",
+      "name": "FEDERAL TRIO PROGRAMS",
+      "amount": 1142471599.55
+    },
+    {
+      "id": "564049",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "STRENGTHENING HISTORICALLY BLACK COLLEGES AND UNIVERSITIES (HBCUS)",
+      "amount": 480916408.22
+    },
+    {
+      "id": "564195",
+      "code": "0301",
+      "type": "program_activity",
+      "name": "FUND FOR THE IMPROVEMENT OF POSTSECONDARY EDUCATION (FIPSE)",
+      "amount": 456361146.4
+    },
+    {
+      "id": "564170",
+      "code": "0202",
+      "type": "program_activity",
+      "name": "GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS (GEAR UP)",
+      "amount": 386185935.33
+    },
+    {
+      "id": "564154",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "DEVELOPING HISPANIC-SERVING INSTITUTIONS",
+      "amount": 226107011.26
+    },
+    {
+      "id": "564137",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "STRENGTHENING HISTORICALLY BLACK GRADUATE INSTITUTIONS",
+      "amount": 123531306.25
+    },
+    {
+      "id": "564190",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "STRENGTHENING INSTITUTIONS",
+      "amount": 110703507.66
+    },
+    {
+      "id": "564131",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "DEVELOPING HISPANIC-SERVING INSTITUTION STEM AND ARTICULATION PROGRAMS",
+      "amount": 93053613.33
+    },
+    {
+      "id": "564108",
+      "code": "0104",
+      "type": "program_activity",
+      "name": "INTERNATIONAL EDUCATION AND FOREIGN LANGUAGE STUDIES",
+      "amount": 81463054.74
+    },
+    {
+      "id": "564090",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "STRENGTHENING TRIBALLY CONTROLLED COLLEGES AND UNIVERSITIES",
+      "amount": 80014777.13
+    },
+    {
+      "id": "564158",
+      "code": "0302",
+      "type": "program_activity",
+      "name": "TEACHER QUALITY PARTNERSHIPS",
+      "amount": 69466069.4
+    },
+    {
+      "id": "564104",
+      "code": "0204",
+      "type": "program_activity",
+      "name": "CHILD CARE ACCESS MEANS PARENTS IN SCHOOL",
+      "amount": 63144522.21
+    },
+    {
+      "id": "564073",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "PROMOTING BACCALAUREATE OPPORTUNITIES FOR HISPANIC AMERICANS",
+      "amount": 27229529.7
+    },
+    {
+      "id": "564160",
+      "code": "0203",
+      "type": "program_activity",
+      "name": "GRADUATE ASSISTANCE IN AREAS OF NATIONAL NEED",
+      "amount": 23327645.17
+    },
+    {
+      "id": "564122",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "STRENGTHENING ASIAN AMERICAN- AND NATIVE AMERICAN PACIFIC ISLANDER-SERVING INSTITUTIONS",
+      "amount": 22076026.71
+    },
+    {
+      "id": "564169",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "STRENGTHENING HISTORICALLY BLACK MASTERS PROGRAMS",
+      "amount": 19970257.41
+    },
+    {
+      "id": "564109",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "MINORITY SCIENCE AND ENGINEERING IMPROVEMENT",
+      "amount": 16308097.07
+    },
+    {
+      "id": "564070",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "STRENGTHENING NATIVE AMERICAN-SERVING NONTRIBAL INSTITUTIONS",
+      "amount": 16214701
+    },
+    {
+      "id": "564150",
+      "code": "0303",
+      "type": "program_activity",
+      "name": "HAWKINS CENTERS OF EXCELLENCE",
+      "amount": 14924999.23
+    },
+    {
+      "id": "564074",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STRENGTHENING ALASKA NATIVE- AND NATIVE HAWAIIAN-SERVING INSTITUTIONS",
+      "amount": 14205473.4
+    },
+    {
+      "id": "564082",
+      "code": "0105",
+      "type": "program_activity",
+      "name": "MODEL TRANSITION PROGRAMS FOR STUDENTS WITH INTELLECTUAL DISABILITIES",
+      "amount": 13772400
+    },
+    {
+      "id": "564148",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STRENGTHENING ALASKA NATIVE AND NATIVE HAWAIIAN-SERVING INSTITUTIONS",
+      "amount": 13710471
+    },
+    {
+      "id": "564052",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "STRENGTHENING PREDOMINANTLY BLACK INSTITUTIONS",
+      "amount": 12852774.51
+    },
+    {
+      "id": "564119",
+      "code": "0106",
+      "type": "program_activity",
+      "name": "TRIBALLY CONTROLLED POSTSECONDARY CAREER AND TECHNICAL INSTITUTIONS",
+      "amount": 11953000
+    },
+    {
+      "id": "564092",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "POOLED EVALUATION",
+      "amount": 10063799.88
+    },
+    {
+      "id": "564196",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

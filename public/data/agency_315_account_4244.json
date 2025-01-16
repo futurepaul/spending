@@ -1,0 +1,34 @@
+{
+  "total": 16753887.49,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570328",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AMERICAN SECTIONS, INTERNATIONAL COMMISSIONS (DIRECT)",
+      "amount": 15622433.09
+    },
+    {
+      "id": "570286",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 966122.83
+    },
+    {
+      "id": "570344",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 165331.57
+    },
+    {
+      "id": "688477",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

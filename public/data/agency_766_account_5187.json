@@ -1,0 +1,34 @@
+{
+  "total": 128800386.84,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567628",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CAS - MISSION SUPPORT ASSETS AND INFRASTRUCTURE",
+      "amount": 59894163.17
+    },
+    {
+      "id": "674404",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CAS - CONSTRUCTION & FACILITY IMPROVEMENTS REIMBURSABLE",
+      "amount": 30299954
+    },
+    {
+      "id": "567707",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAS - OPERATIONAL COMMUNICATIONS/INFORMATION TECHNOLOGY",
+      "amount": 21013258.75
+    },
+    {
+      "id": "567891",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CAS - CONSTRUCTION AND FACILITY IMPROVEMENTS",
+      "amount": 17593010.92
+    }
+  ]
+}

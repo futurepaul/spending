@@ -2,15 +2,22 @@ import React from 'react';
 import { TreeViewData } from './TreeView';
 import { useNavigate } from '@tanstack/react-router';
 import { Route as RootRoute } from './routes/__root';
+import { useUserAmount } from './UserAmountContext';
+import { calculatePercentage, calculateUserPortion } from './budgetMath';
+
+// Total budget constant
+const TOTAL_BUDGET = 9.7e12; // 9.7T
 
 interface ListViewProps {
   data: TreeViewData[];
   onItemClick?: (item: TreeViewData) => void;
+  parentPercentage?: number;
 }
 
-export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
+export const ListView: React.FC<ListViewProps> = ({ data, onItemClick, parentPercentage }) => {
   const navigate = useNavigate();
   const { view } = RootRoute.useSearch();
+  const { amount: userAmount, useUserMoney } = useUserAmount();
   const total = data.reduce((sum, item) => sum + item.value, 0);
 
   const formatAmount = (amount: number) => {
@@ -21,13 +28,18 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
   };
 
   const formatPercent = (amount: number) => {
-    return `${((amount / total) * 100).toFixed(2)}%`;
+    return `${calculatePercentage(amount, TOTAL_BUDGET).toFixed(2)}%`;
+  };
+
+  const calculateUserAmount = (value: number) => {
+    if (!useUserMoney || userAmount === 0) return null;
+    return userAmount * (value / TOTAL_BUDGET);
   };
 
   const handleClick = (item: TreeViewData) => {
     if (onItemClick) {
       onItemClick(item);
-    } else if (item.id) {
+    } else if (item.id && !parentPercentage) {
       navigate({ 
         to: '/agency/$agencyId', 
         params: { agencyId: item.id },
@@ -44,6 +56,7 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
             <th style={{ textAlign: 'left' }}>Name</th>
             <th style={{ textAlign: 'right' }}>Obligated Amount</th>
             <th style={{ textAlign: 'right' }}>Percent of Total</th>
+            {useUserMoney && <th style={{ textAlign: 'right' }}>Your Contribution</th>}
           </tr>
         </thead>
         <tbody>
@@ -52,12 +65,17 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
               key={item.id || index}
               onClick={() => item.id && handleClick(item)}
               style={{ 
-                cursor: item.id ? 'pointer' : 'default',
+                cursor: (onItemClick || !parentPercentage) && item.id ? 'pointer' : 'default',
               }}
             >
               <td style={{ textAlign: 'left' }}>{item.name}</td>
               <td style={{ textAlign: 'right' }}>{formatAmount(item.value)}</td>
               <td style={{ textAlign: 'right' }}>{formatPercent(item.value)}</td>
+              {useUserMoney && (
+                <td style={{ textAlign: 'right' }}>
+                  {formatAmount(calculateUserAmount(item.value) || 0)}
+                </td>
+              )}
             </tr>
           ))}
         </tbody>

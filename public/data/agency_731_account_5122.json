@@ -1,0 +1,293 @@
+{
+  "total": 57995040051.82,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567106",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "NATIONAL HIGHWAY PERFORMANCE PROGRAM",
+      "amount": 24540816740.07
+    },
+    {
+      "id": "567040",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SURFACE TRANSPORTATION BLOCK GRANT PROGRAM",
+      "amount": 17878657858.3
+    },
+    {
+      "id": "567220",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "HIGHWAY SAFETY IMPROVEMENT PROGRAM",
+      "amount": 3903828526.45
+    },
+    {
+      "id": "567021",
+      "code": "0058",
+      "type": "program_activity",
+      "name": "OTHER PROGRAMS",
+      "amount": 1546987106.51
+    },
+    {
+      "id": "567006",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "NATIONAL HIGHWAY FREIGHT PROGRAM",
+      "amount": 1383356064.48
+    },
+    {
+      "id": "566868",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "RESEARCH, TECHNOLOGY AND EDUCATION PROGRAM",
+      "amount": 1353248959.88
+    },
+    {
+      "id": "567191",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "CONGESTION MITIGATION AND AIR QUALITY IMPROVEMENT PROGRAM",
+      "amount": 1262328515.71
+    },
+    {
+      "id": "567259",
+      "code": "0040",
+      "type": "program_activity",
+      "name": "PROTECT FORMULA PROGRAM",
+      "amount": 1093735252.24
+    },
+    {
+      "id": "566913",
+      "code": "0211",
+      "type": "program_activity",
+      "name": "EXEMPT PROGRAMS",
+      "amount": 752055858.05
+    },
+    {
+      "id": "567039",
+      "code": "0041",
+      "type": "program_activity",
+      "name": "CARBON REDUCTION PROGRAM",
+      "amount": 721844730.33
+    },
+    {
+      "id": "567004",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "FEDERAL LANDS AND TRIBAL PROGRAMS",
+      "amount": 698863787.95
+    },
+    {
+      "id": "566984",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NATIONALLY SIGNIFICANT FREIGHT AND HIGHWAY PROJECTS",
+      "amount": 637874394.41
+    },
+    {
+      "id": "566842",
+      "code": "0032",
+      "type": "program_activity",
+      "name": "ADMINISTRATION - LAE",
+      "amount": 480649728.83
+    },
+    {
+      "id": "566739",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "FEDERAL LANDS AND TRIBAL PROGRAMS",
+      "amount": 474426631.2
+    },
+    {
+      "id": "566911",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "METROPOLITAN PLANNING PROGRAM",
+      "amount": 393157220.83
+    },
+    {
+      "id": "576566",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "RURAL SURFACE TRANSPORTATION GRANT PROGRAM",
+      "amount": 219411824.04
+    },
+    {
+      "id": "566867",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FEDERAL-AID HIGHWAYS (REIMBURSABLE)",
+      "amount": 148381145.02
+    },
+    {
+      "id": "567207",
+      "code": "0043",
+      "type": "program_activity",
+      "name": "CHARGING AND FUELING INFRASTRUCTURE GRANTS",
+      "amount": 117731763.43
+    },
+    {
+      "id": "566828",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "RESEARCH, TECHNOLOGY AND EDUCATION PROGRAM",
+      "amount": 98790214.49
+    },
+    {
+      "id": "567307",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "TRANSPORTATION ALTERNATIVES",
+      "amount": 93525354.15
+    },
+    {
+      "id": "567042",
+      "code": "0058",
+      "type": "program_activity",
+      "name": "OTHER PROGRAMS",
+      "amount": 83778711.35
+    },
+    {
+      "id": "568547",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "FEDERAL LANDS AND TRIBAL PROGRAMS",
+      "amount": 44180851.78
+    },
+    {
+      "id": "566843",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NATIONALLY SIGNIFICANT FREIGHT AND HIGHWAY PROJECTS",
+      "amount": 25000000
+    },
+    {
+      "id": "686999",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "RURAL SURFACE TRANSPORTATION GRANT PROGRAM",
+      "amount": 10400000
+    },
+    {
+      "id": "564026",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "FEDERAL LANDS AND TRIBAL PROGRAMS",
+      "amount": 8622388.44
+    },
+    {
+      "id": "566914",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FEDERAL-AID HIGHWAYS (REIMBURSABLE)",
+      "amount": 7362104.9
+    },
+    {
+      "id": "662849",
+      "code": "0211",
+      "type": "program_activity",
+      "name": "EXEMPT PROGRAMS",
+      "amount": 5363521.3
+    },
+    {
+      "id": "566926",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "CONGESTION MITIGATION AND AIR QUALITY IMPROVEMENT PROGRAM",
+      "amount": 4879000
+    },
+    {
+      "id": "568982",
+      "code": "0058",
+      "type": "program_activity",
+      "name": "OTHER PROGRAMS",
+      "amount": 1833093.52
+    },
+    {
+      "id": "567117",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SURFACE TRANSPORTATION BLOCK GRANT PROGRAM",
+      "amount": 1525600
+    },
+    {
+      "id": "566855",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "PROTECT DISCRETIONARY PROGRAM",
+      "amount": 1200000
+    },
+    {
+      "id": "566905",
+      "code": "0033",
+      "type": "program_activity",
+      "name": "ADMINISTRATION - ARC",
+      "amount": 942124.72
+    },
+    {
+      "id": "577457",
+      "code": "9905",
+      "type": "program_activity",
+      "name": "OTHER UNMAPPED",
+      "amount": 280979.44
+    },
+    {
+      "id": "568956",
+      "code": "0058",
+      "type": "program_activity",
+      "name": "OTHER PROGRAMS",
+      "amount": 0
+    },
+    {
+      "id": "568963",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SURFACE TRANSPORTATION BLOCK GRANT PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "567308",
+      "code": "0709",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 0
+    },
+    {
+      "id": "564697",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "FEDERAL AID FEDERAL HIGHWAY ADMINISTRATION",
+      "amount": 0
+    },
+    {
+      "id": "595195",
+      "code": "0033",
+      "type": "program_activity",
+      "name": "ADMINISTRATION - ARC",
+      "amount": 0
+    },
+    {
+      "id": "567071",
+      "code": "0042",
+      "type": "program_activity",
+      "name": "BRIDGE INVESTMENT PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "564759",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 0
+    },
+    {
+      "id": "567122",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "NATIONAL HIGHWAY FREIGHT PROGRAM",
+      "amount": 0
+    }
+  ]
+}

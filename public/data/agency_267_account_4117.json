@@ -1,0 +1,27 @@
+{
+  "total": -258803028.75,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570875",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TRADE ADJUSTMENT ASSISTANCE BENEFITS",
+      "amount": 1463063.98
+    },
+    {
+      "id": "571025",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "WAGE INSURANCE PAYMENTS",
+      "amount": -1774488.27
+    },
+    {
+      "id": "570915",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TRADE ADJUSTMENT ASSISTANCE TRAINING AND OTHER ACTIVITIES",
+      "amount": -258491604.46
+    }
+  ]
+}

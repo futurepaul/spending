@@ -1,0 +1,104 @@
+{
+  "total": 489948863.65,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566591",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58)",
+      "amount": 224769463.61
+    },
+    {
+      "id": "566374",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "LEADERSHIP AND ADMINISTRATION - DIRECT",
+      "amount": 111874812.23
+    },
+    {
+      "id": "566696",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "LEADERSHIP AND ADMINISTRATION - REIMBURSABLE",
+      "amount": 85256317.94
+    },
+    {
+      "id": "566640",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "2022 INFLATION REDUCTION ACT (P.L. 117-169)",
+      "amount": 31121360.75
+    },
+    {
+      "id": "566784",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "MANAGEMENT SERVICES - DIRECT",
+      "amount": 25100539.89
+    },
+    {
+      "id": "566781",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58) - REIMB",
+      "amount": 6485694.75
+    },
+    {
+      "id": "566718",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "MANAGEMENT SERVICES - REIMBURSABLE",
+      "amount": 3302381.75
+    },
+    {
+      "id": "566792",
+      "code": "0808",
+      "type": "program_activity",
+      "name": "2022 INFLATION REDUCTION ACT (P.L. 117-169) - REIMBURSABLE",
+      "amount": 1274823.39
+    },
+    {
+      "id": "566536",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58)",
+      "amount": 1076821.32
+    },
+    {
+      "id": "566669",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "DISASTER RELIEF APPROPRIATIONS ACT, 2013",
+      "amount": 239642.62
+    },
+    {
+      "id": "566559",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "598813",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "OFFICE OF NATURAL RESOURCES REVENUE - REIMBURSABLE",
+      "amount": 0
+    },
+    {
+      "id": "566664",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "DISASTER RELIEF APPROPRIATIONS ACT, 2013",
+      "amount": -10.16
+    },
+    {
+      "id": "566528",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "CARES ACT SUPPLEMENTAL (P.L. 116-136)",
+      "amount": -552984.44
+    }
+  ]
+}

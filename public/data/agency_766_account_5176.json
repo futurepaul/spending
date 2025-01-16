@@ -1,0 +1,90 @@
+{
+  "total": 3017015781.86,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567865",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "CAS - PROTECTIVE OPERATIONS",
+      "amount": 1371960425.7
+    },
+    {
+      "id": "567811",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "CAS - FIELD OPERATIONS",
+      "amount": 741545510.41
+    },
+    {
+      "id": "567807",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "CAS - MISSION SUPPORT",
+      "amount": 600651109.29
+    },
+    {
+      "id": "567616",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "CAS - BASIC AND IN-SERVICE TRAINING AND PROFESSIONAL DEVELOPMENT",
+      "amount": 110169820.5
+    },
+    {
+      "id": "567618",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "CAS - PROTECTIVE COUNTERMEASURES",
+      "amount": 87184523.55
+    },
+    {
+      "id": "567797",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "CAS - SUPPORT FOR COMPUTER FORENSICS TRAINING",
+      "amount": 64050865.95
+    },
+    {
+      "id": "567889",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OPERATING EXPENSES (REIMBURSABLE)",
+      "amount": 39196081.66
+    },
+    {
+      "id": "567664",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "CAS - DOMESTIC AND INTERNATIONAL FIELD OPERATIONS",
+      "amount": 2244541.48
+    },
+    {
+      "id": "567674",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "HEADQUARTERS, MANAGEMENT AND ADMINISTRATION",
+      "amount": 11147.99
+    },
+    {
+      "id": "567884",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "CAS - PROTECTION OF PERSONS AND FACILITIES",
+      "amount": 1755.33
+    },
+    {
+      "id": "567757",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "CAS - PRESIDENTIAL CAMPAIGNS AND NATIONAL SPECIAL SECURITY EVENTS",
+      "amount": 0
+    },
+    {
+      "id": "567738",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

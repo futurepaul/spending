@@ -1,0 +1,195 @@
+{
+  "total": 7186261360.31,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "682439",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONAL MARINE FISHERIES SERVICE",
+      "amount": 1877383412.58
+    },
+    {
+      "id": "682553",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL OCEAN SERVICE",
+      "amount": 1674933959.28
+    },
+    {
+      "id": "682386",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATIONAL WEATHER SERVICE",
+      "amount": 1227202889.26
+    },
+    {
+      "id": "682459",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OCEANIC AND ATMOSPHERIC RESEARCH",
+      "amount": 630718637.75
+    },
+    {
+      "id": "682462",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MISSION SUPPORT",
+      "amount": 465972520.96
+    },
+    {
+      "id": "682368",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "OFFICE OF MARINE AND AVIATION OPERATIONS",
+      "amount": 373308126.8
+    },
+    {
+      "id": "682496",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIONAL ENVIRONMENTAL SATELLITE, DATA AND INFORMATION SERVICE",
+      "amount": 305202816.74
+    },
+    {
+      "id": "682350",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "NOAA WIDE SUPPORT SERVICES",
+      "amount": 160516427.51
+    },
+    {
+      "id": "682440",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "NATIONAL WEATHER SERVICE",
+      "amount": 80831490.98
+    },
+    {
+      "id": "682480",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OCEANIC & ATMOSPHERIC RESEARCH",
+      "amount": 66751628.11
+    },
+    {
+      "id": "682518",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NAT'L ENVRNMNTL SATLLTE, DATA & INFO SVC",
+      "amount": 62892022.25
+    },
+    {
+      "id": "682475",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIONAL ENVIRONMENTAL SATELLITE SERVICE",
+      "amount": 50129962.32
+    },
+    {
+      "id": "682416",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "OCEANIC AND ATMOSPHERIC RESEARCH",
+      "amount": 40874634.43
+    },
+    {
+      "id": "682556",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "NATIONAL ENVIRONMENTAL SATELLITE SERVICE",
+      "amount": 39853454.17
+    },
+    {
+      "id": "682501",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "NATIONAL MARINE FISHERIES SERVICE",
+      "amount": 36480195.53
+    },
+    {
+      "id": "682360",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OFFICE OF ATMOSPHERIC RESEARCH",
+      "amount": 34278893.14
+    },
+    {
+      "id": "682441",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NATIONAL OCEAN SERVICE",
+      "amount": 19187243.58
+    },
+    {
+      "id": "682476",
+      "code": "0066",
+      "type": "program_activity",
+      "name": "SPECTRUM RELOCATION PROGRAM",
+      "amount": 17247738.41
+    },
+    {
+      "id": "682502",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 13418298.62
+    },
+    {
+      "id": "682456",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "VARIOUS ACCOUNTING",
+      "amount": 5311780.96
+    },
+    {
+      "id": "682385",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "NOAA WIDE SUPPORT SERVICES",
+      "amount": 1318531.88
+    },
+    {
+      "id": "682454",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "OFFICE OF MARINE AND AVIATION OPERATIONS",
+      "amount": 1248750
+    },
+    {
+      "id": "682398",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 862073.44
+    },
+    {
+      "id": "593705",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 251248.69
+    },
+    {
+      "id": "682384",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OCEANIC AND ATMOSPHERIC RESEARCH",
+      "amount": 103000
+    },
+    {
+      "id": "682445",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATIONAL ENVIRONMENTAL SATELLITE, DATA AND INFORMATION SERVICE",
+      "amount": 0
+    },
+    {
+      "id": "682535",
+      "code": "0068",
+      "type": "program_activity",
+      "name": "SPECTRUM PIPELINE",
+      "amount": -18377.08
+    }
+  ]
+}

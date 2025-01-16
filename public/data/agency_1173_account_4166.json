@@ -1,0 +1,104 @@
+{
+  "total": 28443009660.62,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564816",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADVANCED COMPONENT DEVELOPMENT & PROTOTYPES",
+      "amount": 9179936992.7
+    },
+    {
+      "id": "564296",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SYSTEM DEVELOPMENT & DEMON",
+      "amount": 7074235211.26
+    },
+    {
+      "id": "564754",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "OPERATIONAL SYSTEMS DEVELOPMENT",
+      "amount": 6460422187.07
+    },
+    {
+      "id": "564551",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MANAGEMENT SUPPORT",
+      "amount": 1760082917.36
+    },
+    {
+      "id": "564483",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "APPLIED RESEARCH",
+      "amount": 1439211491.03
+    },
+    {
+      "id": "564241",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ADVANCED TECHNOLOGY DEVELOPMENT",
+      "amount": 1344131489.03
+    },
+    {
+      "id": "564590",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BASIC RESEARCH",
+      "amount": 672039598.02
+    },
+    {
+      "id": "564439",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 491514010.24
+    },
+    {
+      "id": "564481",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "SOFTWARE AND DIGITAL TECHNOLOGY PILOT PROGRAMS",
+      "amount": 21004467.28
+    },
+    {
+      "id": "564798",
+      "code": "009S",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 2735859.42
+    },
+    {
+      "id": "697152",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 22437.3
+    },
+    {
+      "id": "564402",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "RDT&E MANAGEMENT SUPPORT",
+      "amount": 0
+    },
+    {
+      "id": "565052",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "UNMATCHED",
+      "amount": 0
+    },
+    {
+      "id": "564746",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -2327000.09
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "total": 75406021.51,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "687017",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 52026102.9
+    },
+    {
+      "id": "687019",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 14155619
+    },
+    {
+      "id": "593287",
+      "code": "0701",
+      "type": "program_activity",
+      "name": "DIRECT LOAN SUBSIDY",
+      "amount": 8972501
+    },
+    {
+      "id": "567023",
+      "code": "0709",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 251798.61
+    },
+    {
+      "id": "567014",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

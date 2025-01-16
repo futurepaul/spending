@@ -1,0 +1,70 @@
+{
+  "total": 26508984600.29,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4595",
+      "code": "5183",
+      "type": "federal_account",
+      "name": "Universal Service Fund, Federal Communications Commission",
+      "amount": 20564938778.88,
+      "account_number": "027-5183"
+    },
+    {
+      "id": "6360",
+      "code": "1911",
+      "type": "federal_account",
+      "name": "Affordable Connectivity Fund, Federal Communications Commission",
+      "amount": 5225826793.62,
+      "account_number": "027-1911"
+    },
+    {
+      "id": "6292",
+      "code": "5700",
+      "type": "federal_account",
+      "name": "Telecommunications Relay Services Fund, Federal Communications Commission",
+      "amount": 1392174807.89,
+      "account_number": "027-5700"
+    },
+    {
+      "id": "4593",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Federal Communications Commission",
+      "amount": 524350253.11,
+      "account_number": "027-0100"
+    },
+    {
+      "id": "6368",
+      "code": "1912",
+      "type": "federal_account",
+      "name": "Secure and Trusted Communications Networks Reimbursement Program, Federal Communications Commission",
+      "amount": 11499434.18,
+      "account_number": "027-1912"
+    },
+    {
+      "id": "4594",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Spectrum Auction Program Account, Federal Communications Commission",
+      "amount": 0,
+      "account_number": "027-0300"
+    },
+    {
+      "id": "4596",
+      "code": "5610",
+      "type": "federal_account",
+      "name": "TV Broadcaster Relocation Fund, Federal Communications Commission",
+      "amount": -11798003.78,
+      "account_number": "027-5610"
+    },
+    {
+      "id": "6377",
+      "code": "1913",
+      "type": "federal_account",
+      "name": "Emergency Connectivity Fund for Educational Connections and Devices, Federal Communications Commisison",
+      "amount": -1198007463.61,
+      "account_number": "027-1913"
+    }
+  ]
+}

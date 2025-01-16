@@ -1,0 +1,48 @@
+{
+  "total": 6705747811.72,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564324",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TRACKED COMBAT VEHICLES",
+      "amount": 6101422644.06
+    },
+    {
+      "id": "564264",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "WEAPONS AND OTHER COMBAT VEHICLES",
+      "amount": 567665282.53
+    },
+    {
+      "id": "564523",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 31656674.3
+    },
+    {
+      "id": "564599",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 4854319.33
+    },
+    {
+      "id": "564416",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 148891.5
+    },
+    {
+      "id": "564606",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    }
+  ]
+}

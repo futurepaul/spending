@@ -1,0 +1,20 @@
+{
+  "total": 56043215.88,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568289",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BUILDING OPERATIONS AND MAINTENANCE",
+      "amount": 42771876
+    },
+    {
+      "id": "568895",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "AGRICULTURE BUILDINGS AND FACILITIES AND RENTAL PAYMENTS (REIMBURSABLE)",
+      "amount": 13271339.88
+    }
+  ]
+}

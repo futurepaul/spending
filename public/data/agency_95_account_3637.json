@@ -1,0 +1,48 @@
+{
+  "total": 216482052.3,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568604",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SPECIALTY CROPS",
+      "amount": 91313056.21
+    },
+    {
+      "id": "568491",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "POULTRY PRODUCTS",
+      "amount": 82436032.1
+    },
+    {
+      "id": "568495",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MEAT GRADING",
+      "amount": 31321450
+    },
+    {
+      "id": "568875",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DAIRY PRODUCTS",
+      "amount": 11419272.19
+    },
+    {
+      "id": "674051",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "WARE HOUSES",
+      "amount": 13.6
+    },
+    {
+      "id": "568645",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MISCELLANEOUS AGRICULTURAL COMMODITIES",
+      "amount": -7771.8
+    }
+  ]
+}

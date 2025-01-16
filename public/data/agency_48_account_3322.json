@@ -1,0 +1,27 @@
+{
+  "total": 113658903.52,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571863",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SALARIES & EXPENSES",
+      "amount": 103633269.69
+    },
+    {
+      "id": "571868",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT PLAN",
+      "amount": 9998578.99
+    },
+    {
+      "id": "571887",
+      "code": "0880",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 27054.84
+    }
+  ]
+}

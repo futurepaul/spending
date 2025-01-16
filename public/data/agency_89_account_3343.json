@@ -1,0 +1,20 @@
+{
+  "total": 446009846.43,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570634",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT PROGRAM ACTIVITY - PEACE CORPS",
+      "amount": 441059446.26
+    },
+    {
+      "id": "570640",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "PEACE CORPS (REIMBURSABLE)",
+      "amount": 4950400.17
+    }
+  ]
+}

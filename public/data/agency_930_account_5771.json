@@ -1,0 +1,153 @@
+{
+  "total": 1849160713.05,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568122",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "CARBON CAPTURE, UTILIZATION AND STORAGE",
+      "amount": 493708110.6
+    },
+    {
+      "id": "687307",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 365454436.6
+    },
+    {
+      "id": "568082",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CARBON DIOXIDE REMOVAL",
+      "amount": 191143592.27
+    },
+    {
+      "id": "568189",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION - NETL R&D",
+      "amount": 173116147.11
+    },
+    {
+      "id": "568211",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CARBON CAPTURE",
+      "amount": 106146767.68
+    },
+    {
+      "id": "568064",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NATURAL GAS TECHNOLOGIES",
+      "amount": 99862158.13
+    },
+    {
+      "id": "672347",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 81263787.51
+    },
+    {
+      "id": "672400",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "INFLATION REDUCTION ACT",
+      "amount": 78826471.76
+    },
+    {
+      "id": "568096",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CARBON STORAGE",
+      "amount": 64991323.46
+    },
+    {
+      "id": "568180",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CRITICAL MINERALS",
+      "amount": 58079636.97
+    },
+    {
+      "id": "568103",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADVANCED ENERGY SYSTEMS",
+      "amount": 47283339.73
+    },
+    {
+      "id": "568131",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CARBON TRANSPORT AND STORAGE",
+      "amount": 37097982.07
+    },
+    {
+      "id": "672432",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE INVESTMENT AND JOBS ACT/BIPARTISAN INFRASTRUCTURE LAW",
+      "amount": 20626430.73
+    },
+    {
+      "id": "568048",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CROSS-CUTTING RESEARCH",
+      "amount": 9061863.67
+    },
+    {
+      "id": "568080",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE INVESTMENT AND JOBS ACT",
+      "amount": 9000771.7
+    },
+    {
+      "id": "568032",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CARBON ORE PROCESSING",
+      "amount": 4983534.64
+    },
+    {
+      "id": "568094",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL RESTORATION",
+      "amount": 3631577.64
+    },
+    {
+      "id": "568153",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "STEP (SUPERCRITICAL CO2)",
+      "amount": 2418267.94
+    },
+    {
+      "id": "672335",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "ENERGY ASSET TRANSFORMATION",
+      "amount": 1353942.4
+    },
+    {
+      "id": "568000",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "SPECIAL RECRUITMENT PROGRAM",
+      "amount": 1150960.12
+    },
+    {
+      "id": "568050",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "UNCONVENTIONAL FE TECHNOLOGIES",
+      "amount": -40389.68
+    }
+  ]
+}

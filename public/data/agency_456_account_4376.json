@@ -1,0 +1,27 @@
+{
+  "total": 238831112.56,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569084",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TERRORISM AND FINANCIAL INTELLIGENCE",
+      "amount": 226862586.55
+    },
+    {
+      "id": "569399",
+      "code": "0811",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES REIMBURSABLE",
+      "amount": 12322587.13
+    },
+    {
+      "id": "569015",
+      "code": "0811",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": -354061.12
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "total": 3182524875.9,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568093",
+      "code": "0739",
+      "type": "program_activity",
+      "name": "CIVIL NUCLEAR CREDIT PROGRAM",
+      "amount": 1105644042.17
+    },
+    {
+      "id": "672454",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "FUEL CYCLE R&D",
+      "amount": 429439582.58
+    },
+    {
+      "id": "568151",
+      "code": "0401",
+      "type": "program_activity",
+      "name": "IDAHO FACILITIES MANAGEMENT",
+      "amount": 418916267.8
+    },
+    {
+      "id": "568177",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NUCLEAR ENERGY (REIMBURSABLE)",
+      "amount": 296398142.28
+    },
+    {
+      "id": "568100",
+      "code": "0034",
+      "type": "program_activity",
+      "name": "ADVANCED REACTORS DEMONSTRATION PROGRAM (ARDP)",
+      "amount": 271984722.54
+    },
+    {
+      "id": "568098",
+      "code": "0450",
+      "type": "program_activity",
+      "name": "IDAHO NATIONAL LABORATORY SAFEGUARDS AND SECURITY",
+      "amount": 160284206.07
+    },
+    {
+      "id": "672298",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "REACTOR CONCEPTS RD&D",
+      "amount": 153602407.29
+    },
+    {
+      "id": "672425",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "NUCLEAR ENERGY  ENABLING TECHNOLOGIES (NEET)",
+      "amount": 96895588.13
+    },
+    {
+      "id": "568054",
+      "code": "0551",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 90130077.45
+    },
+    {
+      "id": "568216",
+      "code": "0301",
+      "type": "program_activity",
+      "name": "ORNL INFRASTRUCTURE FACILITIES O&M",
+      "amount": 88118166.07
+    },
+    {
+      "id": "568038",
+      "code": "0051",
+      "type": "program_activity",
+      "name": "23-E-200 - LOTUS",
+      "amount": 32000000
+    },
+    {
+      "id": "568079",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NEUP, SBIR/STTR, AND TCF",
+      "amount": 19475612.25
+    },
+    {
+      "id": "568135",
+      "code": "0451",
+      "type": "program_activity",
+      "name": "INTERNATIONAL NUCLEAR SAFETY",
+      "amount": 9567508.35
+    },
+    {
+      "id": "567997",
+      "code": "0082",
+      "type": "program_activity",
+      "name": "INFLATION REDUCTION ACT - HALEU",
+      "amount": 9221146.89
+    },
+    {
+      "id": "687261",
+      "code": "0083",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE INVESTMENT AND JOBS ACT - CIVIL NUCLEAR CREDIT PROGRAM",
+      "amount": 450315.15
+    },
+    {
+      "id": "672301",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NUCLEAR LEADERSHIP DEVELOPMENT PROGRAM",
+      "amount": 382371.05
+    },
+    {
+      "id": "568176",
+      "code": "0081",
+      "type": "program_activity",
+      "name": "INFLATION REDUCTION ACT - INFRASTRUCTURE",
+      "amount": 14772.11
+    },
+    {
+      "id": "672290",
+      "code": "0053",
+      "type": "program_activity",
+      "name": "NAVAL REACTORS DEVELOPMENT",
+      "amount": 0
+    },
+    {
+      "id": "568227",
+      "code": "0501",
+      "type": "program_activity",
+      "name": "SMALL MODULAR REACTOR LICENSING TECHNICAL SUPPORT PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "568199",
+      "code": "0502",
+      "type": "program_activity",
+      "name": "SUPERCRITICAL TRANSFORMATIONAL ELECTRIC POWER GENERATION",
+      "amount": 0
+    },
+    {
+      "id": "568036",
+      "code": "0552",
+      "type": "program_activity",
+      "name": "INTERNATIONAL NUCLEAR ENERGY COOPERATION",
+      "amount": -52.28
+    }
+  ]
+}

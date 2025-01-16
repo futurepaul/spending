@@ -1,0 +1,132 @@
+{
+  "total": 72614355638.95,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564388",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 41787907261.43
+    },
+    {
+      "id": "564511",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND SERVICE-WIDE ACTIVITIES",
+      "amount": 13243602230.94
+    },
+    {
+      "id": "564698",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 10511538431.27
+    },
+    {
+      "id": "564804",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TRAINING AND RECRUITING",
+      "amount": 5692002267.3
+    },
+    {
+      "id": "564623",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MOBILIZATION",
+      "amount": 865682069.49
+    },
+    {
+      "id": "564920",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 351672034.34
+    },
+    {
+      "id": "565011",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMIN & SRVWIDE ACTIVITIES",
+      "amount": 182768159.63
+    },
+    {
+      "id": "632445",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 158250000
+    },
+    {
+      "id": "564883",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 91813231.77
+    },
+    {
+      "id": "564459",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 6892576.01
+    },
+    {
+      "id": "564700",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MAJOR CONSTRUCTION",
+      "amount": 1990785.74
+    },
+    {
+      "id": "640573",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 1833179.21
+    },
+    {
+      "id": "564954",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "MEDICAL ACTIVITIES",
+      "amount": 0
+    },
+    {
+      "id": "567210",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "573507",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED GFEBS",
+      "amount": 0
+    },
+    {
+      "id": "564664",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NONE",
+      "amount": 0
+    },
+    {
+      "id": "564721",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -21435397.75
+    },
+    {
+      "id": "564227",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION & SERVICEWIDE ACTIVITIES",
+      "amount": -260161190.43
+    }
+  ]
+}

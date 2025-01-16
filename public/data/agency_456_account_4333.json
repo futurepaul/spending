@@ -1,0 +1,34 @@
+{
+  "total": 6487074167.39,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569219",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "EXAM AND COLLECTIONS",
+      "amount": 5309960966.57
+    },
+    {
+      "id": "569048",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "INVESTIGATIONS",
+      "amount": 943959501.57
+    },
+    {
+      "id": "569357",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "REGULATORY",
+      "amount": 199168940.46
+    },
+    {
+      "id": "569290",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ENFORCEMENT REIMBURSABLE",
+      "amount": 33984758.79
+    }
+  ]
+}

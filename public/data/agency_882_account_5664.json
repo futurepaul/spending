@@ -1,0 +1,20 @@
+{
+  "total": -6199507.33,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570416",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RENT SUPPLEMENT",
+      "amount": 0
+    },
+    {
+      "id": "570496",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "HOMEOWNERSHIP AND RENTAL HOUSING ASSISTANCE (SECTIONS 235 AND 236)",
+      "amount": -6199507.33
+    }
+  ]
+}

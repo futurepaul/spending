@@ -1,0 +1,27 @@
+{
+  "total": 3916383914.92,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570043",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SUBSTANCE ABUSE TREATMENT",
+      "amount": 3838269270.71
+    },
+    {
+      "id": "570104",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "SAMHSA REIMBURSABLE: PHS EVALUATION",
+      "amount": 78619750.24
+    },
+    {
+      "id": "570146",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "SAMHSA REIMBURSABLES",
+      "amount": -505106.03
+    }
+  ]
+}

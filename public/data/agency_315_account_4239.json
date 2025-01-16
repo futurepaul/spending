@@ -1,0 +1,62 @@
+{
+  "total": 91842.55,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "596174",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 280487.7
+    },
+    {
+      "id": "569720",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GLOBAL HIV/AIDS INITIATIVE",
+      "amount": 98070.43
+    },
+    {
+      "id": "629839",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT GLOBAL HEALTH PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "570942",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "596331",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "GLOBAL HIV/AIDS INITIATIVE",
+      "amount": 0
+    },
+    {
+      "id": "565186",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GLOBAL HIV/AIDS INITIATIVE",
+      "amount": -0.27
+    },
+    {
+      "id": "570295",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GLOBAL HIV/AIDS INITIATIVE",
+      "amount": -60192.03
+    },
+    {
+      "id": "564273",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -226523.28
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "total": 61053277539.19,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564646",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND SERVICE-WIDE ACTIVITIES",
+      "amount": 47486055559.63
+    },
+    {
+      "id": "564790",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 12159029197.57
+    },
+    {
+      "id": "564396",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 1771592368.19
+    },
+    {
+      "id": "564550",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 331505265.42
+    },
+    {
+      "id": "564275",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TRAINING AND RECRUITING",
+      "amount": 327911254.41
+    },
+    {
+      "id": "596429",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 18195105.11
+    },
+    {
+      "id": "564258",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564494",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "565022",
+      "code": "00ZX",
+      "type": "program_activity",
+      "name": "UNIDENTIFIED",
+      "amount": -19196.6
+    },
+    {
+      "id": "564559",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND SERVICEWIDE ACTIVITIES",
+      "amount": -177408499.34
+    },
+    {
+      "id": "696721",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "FAMILY ASSISTANCE PROGRAM  NAVY",
+      "amount": -410965837.96
+    },
+    {
+      "id": "564821",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNSPECIFIED",
+      "amount": -452617677.24
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "total": 960616245.59,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570784",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AMERICORPS*STATE AND NATIONAL",
+      "amount": 540916030.46
+    },
+    {
+      "id": "570768",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "AMERICORPS*VISTA",
+      "amount": 97411670.69
+    },
+    {
+      "id": "570771",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FOSTER GRANDPARENT PROGRAM",
+      "amount": 95124464.96
+    },
+    {
+      "id": "570783",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OPERATING EXPENSES (REIMBURSABLE)",
+      "amount": 54934194.6
+    },
+    {
+      "id": "570778",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "RETIRED SENIOR VOLUNTEER PROGRAM",
+      "amount": 51606148.72
+    },
+    {
+      "id": "570779",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SENIOR COMPANION PROGRAM",
+      "amount": 50698732.5
+    },
+    {
+      "id": "570766",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "AMERICORPS*NCCC",
+      "amount": 45099050.22
+    },
+    {
+      "id": "570780",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "STATE COMM. SUPPORT GRANTS",
+      "amount": 19253186.49
+    },
+    {
+      "id": "570767",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "VOLUNTEER GENERATION FUND",
+      "amount": 7364879.26
+    },
+    {
+      "id": "570775",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "EVALUATIONS",
+      "amount": 5874627.11
+    },
+    {
+      "id": "570769",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SOCIAL INNOVATION FUND",
+      "amount": 369221.12
+    },
+    {
+      "id": "570776",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING EXPENSES (ARP APPROPRIATIONS)",
+      "amount": -8035960.54
+    }
+  ]
+}

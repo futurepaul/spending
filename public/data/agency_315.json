@@ -1,0 +1,494 @@
+{
+  "total": 55064411282.4,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4240",
+      "code": "1031",
+      "type": "federal_account",
+      "name": "Global Health Programs, State",
+      "amount": 11378995531.28,
+      "account_number": "019-1031"
+    },
+    {
+      "id": "4214",
+      "code": "0113",
+      "type": "federal_account",
+      "name": "Diplomatic and Consular Programs, State",
+      "amount": 11353872642.02,
+      "account_number": "019-0113"
+    },
+    {
+      "id": "4252",
+      "code": "1143",
+      "type": "federal_account",
+      "name": "Migration and Refugee Assistance, State",
+      "amount": 5640716068.33,
+      "account_number": "019-1143"
+    },
+    {
+      "id": "4256",
+      "code": "4519",
+      "type": "federal_account",
+      "name": "Working Capital Fund, State",
+      "amount": 5409130398.64,
+      "account_number": "019-4519"
+    },
+    {
+      "id": "6279",
+      "code": "5713",
+      "type": "federal_account",
+      "name": "Consular and Border Security Programs, Administration of Foreign Affairs, State",
+      "amount": 4815212756.08,
+      "account_number": "019-5713"
+    },
+    {
+      "id": "4231",
+      "code": "0535",
+      "type": "federal_account",
+      "name": "Embassy Security, Construction, and Maintenance, State",
+      "amount": 3208291316.92,
+      "account_number": "019-0535"
+    },
+    {
+      "id": "4248",
+      "code": "1124",
+      "type": "federal_account",
+      "name": "Contributions for International Peacekeeping Activities, State",
+      "amount": 1816568797,
+      "account_number": "019-1124"
+    },
+    {
+      "id": "3356",
+      "code": "1022",
+      "type": "federal_account",
+      "name": "International Narcotics Control and Law Enforcement, International Security Assistance, State",
+      "amount": 1766625010.87,
+      "account_number": "011-1022"
+    },
+    {
+      "id": "4250",
+      "code": "1126",
+      "type": "federal_account",
+      "name": "Contributions to International Organizations, State",
+      "amount": 1516493652.62,
+      "account_number": "019-1126"
+    },
+    {
+      "id": "3323",
+      "code": "0040",
+      "type": "federal_account",
+      "name": "United States Emergency Refugee and Migration Assistance Fund, Funds Appropriated to the President, Executive Office of the President",
+      "amount": 1455701385.35,
+      "account_number": "011-0040"
+    },
+    {
+      "id": "4283",
+      "code": "8186",
+      "type": "federal_account",
+      "name": "Foreign Service Retirement and Disability Fund, State",
+      "amount": 1188766820.46,
+      "account_number": "019-8186"
+    },
+    {
+      "id": "3365",
+      "code": "1075",
+      "type": "federal_account",
+      "name": "Non-Proliferation, Anti-Terrorism, Demining and Related Programs, International Security Assistance, State",
+      "amount": 1018809402.03,
+      "account_number": "011-1075"
+    },
+    {
+      "id": "4220",
+      "code": "0209",
+      "type": "federal_account",
+      "name": "Educational and Cultural Exchange Programs, State",
+      "amount": 764064886.9,
+      "account_number": "019-0209"
+    },
+    {
+      "id": "4233",
+      "code": "0540",
+      "type": "federal_account",
+      "name": "Payment to the Foreign Service Retirement and Disability Fund, State",
+      "amount": 609200000,
+      "account_number": "019-0540"
+    },
+    {
+      "id": "3357",
+      "code": "1032",
+      "type": "federal_account",
+      "name": "Peacekeeping Operations, Funds Appropriated to the President",
+      "amount": 482164599.75,
+      "account_number": "011-1032"
+    },
+    {
+      "id": "4237",
+      "code": "1005",
+      "type": "federal_account",
+      "name": "International Organizations and Programs, Funds Appropriated to the Presidend, State",
+      "amount": 434940964,
+      "account_number": "019-1005"
+    },
+    {
+      "id": "4215",
+      "code": "0120",
+      "type": "federal_account",
+      "name": "Capital Investment Fund, State",
+      "amount": 405055356,
+      "account_number": "019-0120"
+    },
+    {
+      "id": "7038",
+      "code": "1160",
+      "type": "federal_account",
+      "name": "Enduring Welcome Administration and Support, State",
+      "amount": 378086362.42,
+      "account_number": "019-1160"
+    },
+    {
+      "id": "4247",
+      "code": "1121",
+      "type": "federal_account",
+      "name": "Democracy Fund, State",
+      "amount": 353862195.22,
+      "account_number": "019-1121"
+    },
+    {
+      "id": "4221",
+      "code": "0210",
+      "type": "federal_account",
+      "name": "National Endowment for Democracy, State",
+      "amount": 315249799.6,
+      "account_number": "019-0210"
+    },
+    {
+      "id": "4229",
+      "code": "0529",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, State",
+      "amount": 128285784.05,
+      "account_number": "019-0529"
+    },
+    {
+      "id": "4242",
+      "code": "1078",
+      "type": "federal_account",
+      "name": "Construction, International Boundary and Water Commission, United States and Mexico, State",
+      "amount": 125841682.96,
+      "account_number": "019-1078"
+    },
+    {
+      "id": "4241",
+      "code": "1069",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, International Boundary and Water Commission, United States and Mexico, State",
+      "amount": 76410142.19,
+      "account_number": "019-1069"
+    },
+    {
+      "id": "4225",
+      "code": "0522",
+      "type": "federal_account",
+      "name": "Emergencies in the Diplomatic and Consular Service, State",
+      "amount": 76132160.94,
+      "account_number": "019-0522"
+    },
+    {
+      "id": "4245",
+      "code": "1087",
+      "type": "federal_account",
+      "name": "International Fisheries Commissions, State",
+      "amount": 65698309.66,
+      "account_number": "019-1087"
+    },
+    {
+      "id": "4262",
+      "code": "5515",
+      "type": "federal_account",
+      "name": "H-1B and L Fraud Prevention and Detection Account, State",
+      "amount": 48938404.34,
+      "account_number": "019-5515"
+    },
+    {
+      "id": "4226",
+      "code": "0523",
+      "type": "federal_account",
+      "name": "Payment to the American Institute in Taiwan, State",
+      "amount": 38685939.86,
+      "account_number": "019-0523"
+    },
+    {
+      "id": "4286",
+      "code": "8340",
+      "type": "federal_account",
+      "name": "Foreign Service National Separation Liability Trust Fund, State",
+      "amount": 35376426.61,
+      "account_number": "019-8340"
+    },
+    {
+      "id": "4224",
+      "code": "0520",
+      "type": "federal_account",
+      "name": "Protection of Foreign Missions and Officials, State",
+      "amount": 30789502.28,
+      "account_number": "019-0520"
+    },
+    {
+      "id": "4288",
+      "code": "8821",
+      "type": "federal_account",
+      "name": "Unconditional Gift Fund, State",
+      "amount": 26494911.99,
+      "account_number": "019-8821"
+    },
+    {
+      "id": "4218",
+      "code": "0202",
+      "type": "federal_account",
+      "name": "East-West Center, State",
+      "amount": 22000000,
+      "account_number": "019-0202"
+    },
+    {
+      "id": "4228",
+      "code": "0525",
+      "type": "federal_account",
+      "name": "Payment to the Asia Foundation, State",
+      "amount": 22000000,
+      "account_number": "019-0525"
+    },
+    {
+      "id": "4261",
+      "code": "5497",
+      "type": "federal_account",
+      "name": "Foreign Service National Defined Contributions Retirement Fund, State",
+      "amount": 18731595.8,
+      "account_number": "019-5497"
+    },
+    {
+      "id": "4244",
+      "code": "1082",
+      "type": "federal_account",
+      "name": "American Sections, International Commissions, State",
+      "amount": 16753887.49,
+      "account_number": "019-1082"
+    },
+    {
+      "id": "4234",
+      "code": "0545",
+      "type": "federal_account",
+      "name": "Representation Expenses, State",
+      "amount": 8154158.21,
+      "account_number": "019-0545"
+    },
+    {
+      "id": "4259",
+      "code": "5151",
+      "type": "federal_account",
+      "name": "International Center, Washington, D. C., State",
+      "amount": 4207741.37,
+      "account_number": "019-5151"
+    },
+    {
+      "id": "4236",
+      "code": "0601",
+      "type": "federal_account",
+      "name": "Repatriation Loans, Program Account, State",
+      "amount": 2945455.1,
+      "account_number": "019-0601"
+    },
+    {
+      "id": "4260",
+      "code": "5177",
+      "type": "federal_account",
+      "name": "International Litigation Fund, State",
+      "amount": 2352065.33,
+      "account_number": "019-5177"
+    },
+    {
+      "id": "4289",
+      "code": "8822",
+      "type": "federal_account",
+      "name": "Conditional Gift Fund, General, State",
+      "amount": 1381455.64,
+      "account_number": "019-8822"
+    },
+    {
+      "id": "4287",
+      "code": "8813",
+      "type": "federal_account",
+      "name": "Center for Middle Eastern-Western Dialogue Trust Fund, State",
+      "amount": 850000,
+      "account_number": "019-8813"
+    },
+    {
+      "id": "3360",
+      "code": "1041",
+      "type": "federal_account",
+      "name": "Global Security Contingency Fund, State",
+      "amount": 485629.56,
+      "account_number": "011-1041"
+    },
+    {
+      "id": "4239",
+      "code": "1030",
+      "type": "federal_account",
+      "name": "Global HIV/AIDS Initiative, State",
+      "amount": 91842.55,
+      "account_number": "019-1030"
+    },
+    {
+      "id": "3363",
+      "code": "1071",
+      "type": "federal_account",
+      "name": "Nonproliferation and Disarmament Fund, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "011-1071"
+    },
+    {
+      "id": "4257",
+      "code": "5116",
+      "type": "federal_account",
+      "name": "Fisherman's Protective Fund, Special Account, State",
+      "amount": 0,
+      "account_number": "019-5116"
+    },
+    {
+      "id": "4258",
+      "code": "5121",
+      "type": "federal_account",
+      "name": "Fishermen's Guaranty Fund, State",
+      "amount": 0,
+      "account_number": "019-5121"
+    },
+    {
+      "id": "4281",
+      "code": "8166",
+      "type": "federal_account",
+      "name": "American Studies Endowment Fund, State",
+      "amount": 0,
+      "account_number": "019-8166"
+    },
+    {
+      "id": "4284",
+      "code": "8271",
+      "type": "federal_account",
+      "name": "Israeli Arab Scholarship Program, State",
+      "amount": 0,
+      "account_number": "019-8271"
+    },
+    {
+      "id": "4285",
+      "code": "8272",
+      "type": "federal_account",
+      "name": "Eastern Europe Student Exchange Endowment Fund, State",
+      "amount": 0,
+      "account_number": "019-8272"
+    },
+    {
+      "id": "4235",
+      "code": "0600",
+      "type": "federal_account",
+      "name": "Repatriation Loans, Liquidating Account, State",
+      "amount": 0,
+      "account_number": "019-0600"
+    },
+    {
+      "id": "4219",
+      "code": "0203",
+      "type": "federal_account",
+      "name": "North/South Center, State",
+      "amount": 0,
+      "account_number": "019-0203"
+    },
+    {
+      "id": "4223",
+      "code": "0507",
+      "type": "federal_account",
+      "name": "Centralized Information Technology Modernization Program, State",
+      "amount": 0,
+      "account_number": "019-0507"
+    },
+    {
+      "id": "4249",
+      "code": "1125",
+      "type": "federal_account",
+      "name": "International Conferences and Contingencies, State",
+      "amount": 0,
+      "account_number": "019-1125"
+    },
+    {
+      "id": "4217",
+      "code": "0201",
+      "type": "federal_account",
+      "name": "International Information Programs, State",
+      "amount": 0,
+      "account_number": "019-0201"
+    },
+    {
+      "id": "4251",
+      "code": "1130",
+      "type": "federal_account",
+      "name": "Arrearage Payments, State",
+      "amount": 0,
+      "account_number": "019-1130"
+    },
+    {
+      "id": "4212",
+      "code": "0107",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, State",
+      "amount": 0,
+      "account_number": "019-0107"
+    },
+    {
+      "id": "4253",
+      "code": "1151",
+      "type": "federal_account",
+      "name": "United States Bilateral Science and Technology Agreements, State",
+      "amount": 0,
+      "account_number": "019-1151"
+    },
+    {
+      "id": "4254",
+      "code": "1154",
+      "type": "federal_account",
+      "name": "Andean Counterdrug Programs, State",
+      "amount": 0,
+      "account_number": "019-1154"
+    },
+    {
+      "id": "4227",
+      "code": "0524",
+      "type": "federal_account",
+      "name": "Buying Power Maintenance Account, State",
+      "amount": 0,
+      "account_number": "019-0524"
+    },
+    {
+      "id": "6576",
+      "code": "1159",
+      "type": "federal_account",
+      "name": "Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America International Technology Security and Innovation Fund, State",
+      "amount": 0,
+      "account_number": "019-1159"
+    },
+    {
+      "id": "4282",
+      "code": "8167",
+      "type": "federal_account",
+      "name": "Trust Funds, State",
+      "amount": -114.56,
+      "account_number": "019-8167"
+    },
+    {
+      "id": "4216",
+      "code": "0121",
+      "type": "federal_account",
+      "name": "Conflict Stabilization Operations, State",
+      "amount": -3644.46,
+      "account_number": "019-0121"
+    }
+  ]
+}

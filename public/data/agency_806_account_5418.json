@@ -1,0 +1,20 @@
+{
+  "total": 81612858.8,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569828",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AHRQ",
+      "amount": 52614611.88
+    },
+    {
+      "id": "570120",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "OFFICE OF THE SECRETARY",
+      "amount": 28998246.92
+    }
+  ]
+}

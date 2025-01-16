@@ -1,0 +1,20 @@
+{
+  "total": 355618469.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570143",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "RURAL HEALTH",
+      "amount": 355618469.07
+    },
+    {
+      "id": "569811",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

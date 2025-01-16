@@ -1,0 +1,22 @@
+{
+  "total": 142288365.14,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6172",
+      "code": "0310",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, National Transportation Safety Board",
+      "amount": 142288365.14,
+      "account_number": "424-0310"
+    },
+    {
+      "id": "6173",
+      "code": "0311",
+      "type": "federal_account",
+      "name": "Emergency Fund, National Transportation Safety Board",
+      "amount": 0,
+      "account_number": "424-0311"
+    }
+  ]
+}

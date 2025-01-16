@@ -1,0 +1,62 @@
+{
+  "total": 709866838.12,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "637267",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 203292106.06
+    },
+    {
+      "id": "637278",
+      "code": "0707",
+      "type": "program_activity",
+      "name": "REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 202003211.05
+    },
+    {
+      "id": "571559",
+      "code": "0701",
+      "type": "program_activity",
+      "name": "DIRECT LOAN SUBSIDY",
+      "amount": 115337816.02
+    },
+    {
+      "id": "571568",
+      "code": "0702",
+      "type": "program_activity",
+      "name": "LOAN GUARANTEE SUBSIDY",
+      "amount": 68145937.27
+    },
+    {
+      "id": "571558",
+      "code": "0715",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE",
+      "amount": 48442282.8
+    },
+    {
+      "id": "637272",
+      "code": "0708",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 42774515.62
+    },
+    {
+      "id": "637285",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 29870969.3
+    },
+    {
+      "id": "571564",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

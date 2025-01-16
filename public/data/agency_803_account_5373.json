@@ -1,0 +1,139 @@
+{
+  "total": 1322668896.32,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "563872",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "DISASTER",
+      "amount": 622116957.27
+    },
+    {
+      "id": "563841",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CAPITAL ACCESS",
+      "amount": 138317547.74
+    },
+    {
+      "id": "563837",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CONGRESSIONAL INITIATIVES",
+      "amount": 116137292.3
+    },
+    {
+      "id": "563870",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "REGIONAL & DISTRICT OFFICES",
+      "amount": 98540762.63
+    },
+    {
+      "id": "563826",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION",
+      "amount": 79194010.09
+    },
+    {
+      "id": "563838",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "GOV. CONTRACTING/ BUS. DEVELOPMENT",
+      "amount": 50475807.64
+    },
+    {
+      "id": "563859",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OFFICE OF CHIEF INFORMATION OFFICER",
+      "amount": 48772464.1
+    },
+    {
+      "id": "563836",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "AGENCY WIDE COSTS",
+      "amount": 48429078.2
+    },
+    {
+      "id": "563819",
+      "code": "0812",
+      "type": "program_activity",
+      "name": "DISASTER",
+      "amount": 36514615.87
+    },
+    {
+      "id": "563849",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CHIEF OPERATING OFFICE",
+      "amount": 35143613.4
+    },
+    {
+      "id": "563868",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "INVESTMENT & INNOVATION",
+      "amount": 23825822.83
+    },
+    {
+      "id": "563835",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ENTREPRENEURIAL DEVELOPMENT",
+      "amount": 15013937.08
+    },
+    {
+      "id": "563821",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "INTERNATIONAL TRADE",
+      "amount": 7453938.45
+    },
+    {
+      "id": "563865",
+      "code": "0813",
+      "type": "program_activity",
+      "name": "INVESTMENT & INNOVATION",
+      "amount": 2792926.86
+    },
+    {
+      "id": "563845",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION",
+      "amount": 20474.21
+    },
+    {
+      "id": "563863",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "OFFICE OF CHIEF INFORMATION OFFICER",
+      "amount": 0
+    },
+    {
+      "id": "563842",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "563830",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "NON CREDIT PROGRAMS",
+      "amount": -18508.65
+    },
+    {
+      "id": "563814",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "CAPITAL ACCESS",
+      "amount": -61843.7
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "total": 1121906095.78,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570445",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PRAC RENEWAL/AMENDMENT",
+      "amount": 841052777
+    },
+    {
+      "id": "570419",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAPITAL ADVANCE AMENDMENTS AND EXPENSES",
+      "amount": 167093627.58
+    },
+    {
+      "id": "570604",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SERVICE COORDINATORS/CONGREGATE SERVICES",
+      "amount": 90216310.1
+    },
+    {
+      "id": "570402",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SENIOR PRESERVATION RENTAL ASSISTANCE CONTRACTS",
+      "amount": 24123937
+    },
+    {
+      "id": "570457",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CONVERSION TO ASSISTED LIVING FACILITIES",
+      "amount": 0
+    },
+    {
+      "id": "570423",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "AGING IN PLACE HOME MODIFICATION GRANTS",
+      "amount": 0
+    },
+    {
+      "id": "570503",
+      "code": "0550",
+      "type": "program_activity",
+      "name": "HOUSING FOR THE ELDERLY (DIRECT)",
+      "amount": 0
+    },
+    {
+      "id": "570585",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "DISASTER ASSISTANCE",
+      "amount": -282606.12
+    },
+    {
+      "id": "570615",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SUPPORT SERVICES DEMONSTRATION",
+      "amount": -297949.78
+    }
+  ]
+}

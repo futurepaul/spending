@@ -1,0 +1,150 @@
+{
+  "total": 41902510930.62,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4730",
+      "code": "4534",
+      "type": "federal_account",
+      "name": "Acquisition Services Fund, General Services Administration",
+      "amount": 27829335484.88,
+      "account_number": "047-4534"
+    },
+    {
+      "id": "4732",
+      "code": "4542",
+      "type": "federal_account",
+      "name": "Federal Buildings Fund, General Services Administration",
+      "amount": 12754563477.87,
+      "account_number": "047-4542"
+    },
+    {
+      "id": "4731",
+      "code": "4540",
+      "type": "federal_account",
+      "name": "Working Capital Fund, General Services Administration",
+      "amount": 839884033.05,
+      "account_number": "047-4540"
+    },
+    {
+      "id": "4735",
+      "code": "4549",
+      "type": "federal_account",
+      "name": "Federal Citizen Services Fund, General Services Administration",
+      "amount": 185615497.33,
+      "account_number": "047-4549"
+    },
+    {
+      "id": "4719",
+      "code": "0401",
+      "type": "federal_account",
+      "name": "Expenses, Government-Wide Policy, General Services Administration",
+      "amount": 106834054.29,
+      "account_number": "047-0401"
+    },
+    {
+      "id": "4715",
+      "code": "0108",
+      "type": "federal_account",
+      "name": "Office of Inspector General, General Services Administration",
+      "amount": 71823321.94,
+      "account_number": "047-0108"
+    },
+    {
+      "id": "4716",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Operating Expenses, General Services Administration",
+      "amount": 53005322.94,
+      "account_number": "047-0110"
+    },
+    {
+      "id": "4727",
+      "code": "0616",
+      "type": "federal_account",
+      "name": "Technology Modernization Fund, General Services Administration",
+      "amount": 16716750.54,
+      "account_number": "047-0616"
+    },
+    {
+      "id": "4740",
+      "code": "5381",
+      "type": "federal_account",
+      "name": "Acquisition Workforce Training Fund, General Services Administration",
+      "amount": 14492958.26,
+      "account_number": "047-5381"
+    },
+    {
+      "id": "4737",
+      "code": "5250",
+      "type": "federal_account",
+      "name": "Expenses of Transportation Audit Contracts and Contract Administration, General Services Administration",
+      "amount": 13831013.15,
+      "account_number": "047-5250"
+    },
+    {
+      "id": "4725",
+      "code": "0610",
+      "type": "federal_account",
+      "name": "Civilian Board of Contract Appeals, General Services Administration",
+      "amount": 9909501.33,
+      "account_number": "047-0610"
+    },
+    {
+      "id": "4713",
+      "code": "0105",
+      "type": "federal_account",
+      "name": "Allowances and Office Staff for Former Presidents, General Services Administration",
+      "amount": 4732098.03,
+      "account_number": "047-0105"
+    },
+    {
+      "id": "4724",
+      "code": "0603",
+      "type": "federal_account",
+      "name": "Pre-Election Presidential Transition, General Services Administration",
+      "amount": 1006874.48,
+      "account_number": "047-0603"
+    },
+    {
+      "id": "4738",
+      "code": "5254",
+      "type": "federal_account",
+      "name": "Expenses, Disposal of Surplus Real and Related Personal Property, General Services Administration",
+      "amount": 582382.29,
+      "account_number": "047-5254"
+    },
+    {
+      "id": "6331",
+      "code": "5594",
+      "type": "federal_account",
+      "name": "Asset Proceeds and Space Management Fund, General Services Administration",
+      "amount": 178160.24,
+      "account_number": "047-5594"
+    },
+    {
+      "id": "4722",
+      "code": "0535",
+      "type": "federal_account",
+      "name": "Real Property Relocation, General Services Administration",
+      "amount": 0,
+      "account_number": "047-0535"
+    },
+    {
+      "id": "4714",
+      "code": "0107",
+      "type": "federal_account",
+      "name": "Expenses, Presidential Transition, General Services Administration",
+      "amount": 0,
+      "account_number": "047-0107"
+    },
+    {
+      "id": "4748",
+      "code": "8198",
+      "type": "federal_account",
+      "name": "Unconditional Gifts of Real, Personal, or Other Property, General Services Administration",
+      "amount": 0,
+      "account_number": "047-8198"
+    }
+  ]
+}

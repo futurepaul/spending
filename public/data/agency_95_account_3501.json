@@ -1,0 +1,76 @@
+{
+  "total": 74926190.08,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568461",
+      "code": "0702",
+      "type": "program_activity",
+      "name": "LOAN GUARANTEE SUBSIDY",
+      "amount": 37435832.32
+    },
+    {
+      "id": "568848",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "RURAL BUSINESS ENTERPRISE GRANTS",
+      "amount": 13927149.97
+    },
+    {
+      "id": "568839",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "RURAL BUSINESS DEVELOPMENT GRANTS",
+      "amount": 10613749.65
+    },
+    {
+      "id": "642485",
+      "code": "0707",
+      "type": "program_activity",
+      "name": "REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 7524258
+    },
+    {
+      "id": "568634",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "DRA AND ARC GRANTS",
+      "amount": 3485000
+    },
+    {
+      "id": "568587",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "RURAL BUSINESS OPPORTUNITY GRANTS",
+      "amount": 1642417.14
+    },
+    {
+      "id": "642460",
+      "code": "0708",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 155066
+    },
+    {
+      "id": "642122",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 109445
+    },
+    {
+      "id": "642643",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 33272
+    },
+    {
+      "id": "568407",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "RISE GRANTS",
+      "amount": 0
+    }
+  ]
+}

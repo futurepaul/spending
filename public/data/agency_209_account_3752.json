@@ -1,0 +1,83 @@
+{
+  "total": 3925024661.87,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566504",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "2022 INFLATION REDUCTION ACT (P.L. 117-169)",
+      "amount": 1210609665.81
+    },
+    {
+      "id": "566411",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58)",
+      "amount": 756848236.97
+    },
+    {
+      "id": "566789",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "WATER AND RELATED RESOURCES (REIMBURSABLE)",
+      "amount": 547847251.28
+    },
+    {
+      "id": "566335",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "WATER AND ENERGY MANAGEMENT AND DEVELOPMENT",
+      "amount": 503511925.84
+    },
+    {
+      "id": "566788",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FACILITY OPERATIONS",
+      "amount": 334799845.09
+    },
+    {
+      "id": "566351",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FACILITY MAINTENANCE AND REHABILITATION",
+      "amount": 302834376.1
+    },
+    {
+      "id": "566465",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "FISH AND WILDLIFE MANAGEMENT AND DEVELOPMENT",
+      "amount": 213131631.07
+    },
+    {
+      "id": "566462",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "LAND MANAGEMENT AND DEVELOPMENT",
+      "amount": 49212712.3
+    },
+    {
+      "id": "566429",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "2022 DISASTER SUPPLEMENTAL (P.L. 117-43)",
+      "amount": 6210091.97
+    },
+    {
+      "id": "566717",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "RESTORATION OF FEDERAL ASSETS (DISASTER SUPPLEMENTAL P.L. 116-20)",
+      "amount": 23697.91
+    },
+    {
+      "id": "566521",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CARES ACT SUPPLEMENTAL (P.L. 116-136)",
+      "amount": -4772.47
+    }
+  ]
+}

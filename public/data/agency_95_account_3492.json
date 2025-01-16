@@ -1,0 +1,153 @@
+{
+  "total": 1169019514.86,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568449",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "AGRICULTURE FOOD AND RESEARCH INITIATIVE",
+      "amount": 324506291.01
+    },
+    {
+      "id": "568545",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAYMENTS UNDER THE HATCH ACT",
+      "amount": 258581085.6
+    },
+    {
+      "id": "568460",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "FEDERAL ADMINISTRATION",
+      "amount": 245898909.06
+    },
+    {
+      "id": "568448",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PAYMENTS TO 1890 COLLEGES AND TUSKEGEE UNIV. AND WEST VIRGINIA STATE UNIVERSITY",
+      "amount": 82264318.19
+    },
+    {
+      "id": "568722",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "HIGHER EDUCATION",
+      "amount": 79429754.34
+    },
+    {
+      "id": "568710",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SPECIAL GRANTS",
+      "amount": 78693829.58
+    },
+    {
+      "id": "568583",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COOPERATIVE FORESTRY RESEARCH",
+      "amount": 34690643.47
+    },
+    {
+      "id": "568845",
+      "code": "9901",
+      "type": "program_activity",
+      "name": "SET ASIDE",
+      "amount": 20700005.65
+    },
+    {
+      "id": "568535",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "RESEARCH AND EDUCATION ACTIVITIES (REIMBURSABLE)",
+      "amount": 16347958.61
+    },
+    {
+      "id": "568432",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "CAPACITY BUILDING FOR NON-LAND GRANT COLLEGES OF AGRICULTURE",
+      "amount": 4986837.76
+    },
+    {
+      "id": "568377",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "VETERINARY MEDICAL SERVICES ACT",
+      "amount": 4125140.41
+    },
+    {
+      "id": "568482",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ANIMAL HEALTH AND DISEASE RESEARCH",
+      "amount": 3667994.76
+    },
+    {
+      "id": "568305",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "ALFALFA SEED AND ALFALFA FORAGE SYSTEMS",
+      "amount": 3652821.35
+    },
+    {
+      "id": "568790",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "VETERINARY SERVICES GRANT PROGRAM",
+      "amount": 3579008.02
+    },
+    {
+      "id": "568453",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "SUN GRANT PROGRAM",
+      "amount": 2801160
+    },
+    {
+      "id": "568276",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "AGRICULTURAL GENOME TO PHENOME INITIATIVE",
+      "amount": 1857553
+    },
+    {
+      "id": "568907",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "FARM BUSINESS MANAGEMENT AND BENCHMARKING",
+      "amount": 1719984.05
+    },
+    {
+      "id": "568821",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "RESEARCH ACTIVITIES ACT",
+      "amount": 959740
+    },
+    {
+      "id": "568480",
+      "code": "PM08",
+      "type": "program_activity",
+      "name": "PENDING MAPPING",
+      "amount": 462480
+    },
+    {
+      "id": "695703",
+      "code": "9902",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 94000
+    },
+    {
+      "id": "568472",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "BIOPRODUCTS PILOT PROGRAM",
+      "amount": 0
+    }
+  ]
+}

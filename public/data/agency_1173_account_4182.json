@@ -1,0 +1,20 @@
+{
+  "total": -502.59,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564940",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564847",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "WILDLIFE CONSERVATION",
+      "amount": -502.59
+    }
+  ]
+}

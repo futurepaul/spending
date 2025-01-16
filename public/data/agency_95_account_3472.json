@@ -1,0 +1,48 @@
+{
+  "total": 5530597977.12,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568874",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "WILDLAND FIRE MANAGEMENT",
+      "amount": 4720064711.7
+    },
+    {
+      "id": "577595",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "WFM INFLATION REDUCTION ACT",
+      "amount": 633573717.8
+    },
+    {
+      "id": "577672",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "WFM BIPARTISAN INFRASTRUCTURE LAW",
+      "amount": 138349205.83
+    },
+    {
+      "id": "568768",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "WILDLAND FIRE MANAGEMENT (REIMBURSABLE)",
+      "amount": 38555435.44
+    },
+    {
+      "id": "568532",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 54906.35
+    },
+    {
+      "id": "577520",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "WFM DISASTER",
+      "amount": 0
+    }
+  ]
+}

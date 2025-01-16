@@ -1,0 +1,104 @@
+{
+  "total": 482647149.55,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567688",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE ACTIVITY",
+      "amount": 299148463.53
+    },
+    {
+      "id": "567690",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CAS - TRADE AND TRAVEL ASSETS AND INFRASTRUCTURE",
+      "amount": 100878466.48
+    },
+    {
+      "id": "567772",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CAS - INTEGRATED OPERATIONS ASSETS AND INFRASTRUCTURE",
+      "amount": 73344758.18
+    },
+    {
+      "id": "567874",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "CAS - CONSTRUCTION AND FACILITY IMPROVEMENTS",
+      "amount": 60369317.34
+    },
+    {
+      "id": "567849",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "INFLATION REDUCTION ACT - (PL 117-169, 136 STAT 2086, SEC. 70001)",
+      "amount": 34430775.91
+    },
+    {
+      "id": "567637",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CAS - MISSION SUPPORT ASSETS AND INFRASTRUCTURE",
+      "amount": 10649002.86
+    },
+    {
+      "id": "567791",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PROGRAM OVERSIGHT",
+      "amount": 0
+    },
+    {
+      "id": "567671",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "BORDER SECURITY TEOAF FUNDING",
+      "amount": 0
+    },
+    {
+      "id": "567611",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "TECHNOLOGY MODERNIZATION FUND FY 2020 SECTION 1078 (A)(3)(A) (PL115-91)",
+      "amount": 0
+    },
+    {
+      "id": "567651",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "FACILITIES CONSTRUCTION AND SUSTAINMENT",
+      "amount": -867.59
+    },
+    {
+      "id": "567872",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "EMERGENCY HURRICANE SUPPLEMENTAL",
+      "amount": -2148.86
+    },
+    {
+      "id": "567645",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CONSTRUCTION CARRYOVER",
+      "amount": -625933.57
+    },
+    {
+      "id": "567729",
+      "code": "9901",
+      "type": "program_activity",
+      "name": "EXPIRED FUNDS ACTIVITY",
+      "amount": -2319613.16
+    },
+    {
+      "id": "567634",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CAS - BORDER SECURITY ASSETS AND INFRASTRUCTURE",
+      "amount": -93225071.57
+    }
+  ]
+}

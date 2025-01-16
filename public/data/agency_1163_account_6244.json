@@ -1,0 +1,27 @@
+{
+  "total": 884980425.78,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566163",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "UNITED STATES AGENCY FOR GLOBAL MEDIA",
+      "amount": 867052676.45
+    },
+    {
+      "id": "566164",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "INTERNATIONAL BROADCASTING OPERATIONS (REIMBURSABLE)",
+      "amount": 17927749.33
+    },
+    {
+      "id": "566159",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    }
+  ]
+}

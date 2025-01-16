@@ -1,0 +1,62 @@
+{
+  "total": 4577149565.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564877",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "OTHER MISSILES",
+      "amount": 2897022850.91
+    },
+    {
+      "id": "564488",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "OTHER SUPPORT",
+      "amount": 1201817121.96
+    },
+    {
+      "id": "564924",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MODIFICATION OF INSERVICE MISSILES",
+      "amount": 226721447.07
+    },
+    {
+      "id": "564363",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 113087680.37
+    },
+    {
+      "id": "564867",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MISSILES SPARES AND REPAIR PARTS",
+      "amount": 84178538.33
+    },
+    {
+      "id": "564614",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BALLISTIC MISSILES",
+      "amount": 54321926.33
+    },
+    {
+      "id": "565056",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 1.01
+    },
+    {
+      "id": "564322",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 0
+    }
+  ]
+}

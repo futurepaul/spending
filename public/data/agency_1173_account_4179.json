@@ -1,0 +1,83 @@
+{
+  "total": 14038496340.94,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564354",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SHIPS SUPPORT EQUIPMENT",
+      "amount": 5371741066.6
+    },
+    {
+      "id": "564538",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COMMUNICATIONS AND ELECTRONICS EQUIPMENT",
+      "amount": 3828082448.87
+    },
+    {
+      "id": "564990",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ORDNANCE SUPPORT EQUIPMENT",
+      "amount": 1256231737.48
+    },
+    {
+      "id": "564777",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "SPARES AND REPAIR PARTS",
+      "amount": 1074522548.54
+    },
+    {
+      "id": "564381",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AVIATION SUPPORT EQUIPMENT",
+      "amount": 931671609.21
+    },
+    {
+      "id": "565021",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SUPPLY SUPPORT EQUIPMENT",
+      "amount": 678044027.9
+    },
+    {
+      "id": "564907",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "PERSONNEL & COMMAND SUPPORT EQUIP",
+      "amount": 577624240.05
+    },
+    {
+      "id": "564403",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CIVIL ENGINEERING SUPP EQUIP",
+      "amount": 182137998.47
+    },
+    {
+      "id": "564773",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 149856524.85
+    },
+    {
+      "id": "564321",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AVIATION  SUPPORT EQUIPMENT",
+      "amount": -1788140.59
+    },
+    {
+      "id": "565017",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -9627720.44
+    }
+  ]
+}

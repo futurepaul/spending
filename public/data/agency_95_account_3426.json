@@ -1,0 +1,20 @@
+{
+  "total": 1354710.35,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568574",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OFFICE OF THE SECRETARY",
+      "amount": 1199710.35
+    },
+    {
+      "id": "568375",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "OFFICE OF THE SECRETARY (REIMBURSABLE)",
+      "amount": 155000
+    }
+  ]
+}

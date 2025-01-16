@@ -1,0 +1,27 @@
+{
+  "total": 1440007612.4,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570459",
+      "code": "0709",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 1059754922.4
+    },
+    {
+      "id": "570427",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SERVICING EXPENSES",
+      "amount": 380252690
+    },
+    {
+      "id": "570458",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

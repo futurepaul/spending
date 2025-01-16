@@ -1,0 +1,20 @@
+{
+  "total": 102905840,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "607755",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "RAILROAD CROSSING ELIMINATION GRANTS (IIJA SUPP)",
+      "amount": 94402680
+    },
+    {
+      "id": "628280",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "PLANNING PROJECTS (IIJA SUPP)",
+      "amount": 8503160
+    }
+  ]
+}

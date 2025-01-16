@@ -1,0 +1,97 @@
+{
+  "total": 1992241345.12,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567822",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF THE CHIEF INFORMATION OFFICER",
+      "amount": 662324699.86
+    },
+    {
+      "id": "567691",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF BIOMETRIC IDENTITY MANAGEMENT",
+      "amount": 254644252.37
+    },
+    {
+      "id": "567901",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF THE CHIEF READINESS SUPPORT OFFICER",
+      "amount": 224944651.41
+    },
+    {
+      "id": "567666",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF THE CHIEF SECURITY OFFICER",
+      "amount": 201079782.74
+    },
+    {
+      "id": "567715",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF THE CHIEF HUMAN CAPITAL OFFICER",
+      "amount": 156115202.96
+    },
+    {
+      "id": "567602",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "CIO - REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 133069478.81
+    },
+    {
+      "id": "567683",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF THE CHIEF FINANCIAL OFFICER",
+      "amount": 122955962.66
+    },
+    {
+      "id": "567844",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "USM/CFO REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 100044536.97
+    },
+    {
+      "id": "567670",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "CAS - CHIEF PROCUREMENT OFFICER",
+      "amount": 97603479.27
+    },
+    {
+      "id": "567678",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF PROGRAM ACCOUNTABILITY AND RISK MANAGEMENT",
+      "amount": 18212434.27
+    },
+    {
+      "id": "567656",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "WORKFORCE HEALTH AND SAFETY PROGRAM",
+      "amount": 15545101.84
+    },
+    {
+      "id": "567815",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "CAS - IMMEDIATE OFFICE OF THE UNDER SECRETARY OF MANAGEMENT",
+      "amount": 5704566.24
+    },
+    {
+      "id": "567818",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "COVID-19 SUPPLEMENTAL FY20",
+      "amount": -2804.28
+    }
+  ]
+}

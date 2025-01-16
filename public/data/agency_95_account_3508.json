@@ -1,0 +1,34 @@
+{
+  "total": 4126074,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568788",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "GRANTS",
+      "amount": 2763224.28
+    },
+    {
+      "id": "568847",
+      "code": "0701",
+      "type": "program_activity",
+      "name": "DIRECT LOAN SUBSIDY",
+      "amount": 826883.72
+    },
+    {
+      "id": "642405",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 323441
+    },
+    {
+      "id": "642065",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 212525
+    }
+  ]
+}

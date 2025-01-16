@@ -1,0 +1,34 @@
+{
+  "total": 484606822.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567878",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CAS - LAW ENFORCEMENT TRAINING",
+      "amount": 316101118.08
+    },
+    {
+      "id": "567601",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 135340542.88
+    },
+    {
+      "id": "567719",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CAS - MISSION SUPPORT",
+      "amount": 32685448.22
+    },
+    {
+      "id": "567753",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LAW ENFORCEMENT TRAINING",
+      "amount": 479713.48
+    }
+  ]
+}

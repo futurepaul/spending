@@ -1,0 +1,69 @@
+{
+  "total": 8544368997.72,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564611",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 6583837715.67
+    },
+    {
+      "id": "564856",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAJOR CONSTRUCTION",
+      "amount": 1529044886.08
+    },
+    {
+      "id": "565034",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PLANNING AND DESIGN",
+      "amount": 372651500.12
+    },
+    {
+      "id": "564708",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MINOR CONSTRUCTION",
+      "amount": 48231671.04
+    },
+    {
+      "id": "686698",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAJOR CONSTRUCTION",
+      "amount": 20000000
+    },
+    {
+      "id": "564265",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SUPPORT ACTIVITIES",
+      "amount": 2731491.1
+    },
+    {
+      "id": "696861",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "REIMBURSABLE CONSTRUCTION",
+      "amount": 82237.06
+    },
+    {
+      "id": "564444",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 8308.74
+    },
+    {
+      "id": "564744",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -12218812.09
+    }
+  ]
+}

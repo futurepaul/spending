@@ -1,0 +1,167 @@
+{
+  "total": 717447189.78,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568840",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SMITH-LEVER ACT, 3(B) AND 3(C)",
+      "amount": 315612112.97
+    },
+    {
+      "id": "568396",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "EXTENSION ACTIVITIES (REIMBURSABLE)",
+      "amount": 76479504.49
+    },
+    {
+      "id": "568897",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EXPANDED FOOD AND NUTRITION EDUCATION PROGRAM (EFNEP)",
+      "amount": 69400475.3
+    },
+    {
+      "id": "568294",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "PAYMENTS TO 1890 COLLEGES AND TUSKEGEE UNIV. AND WEST VIRGINIA STATE UNIVERSITY",
+      "amount": 69028064.98
+    },
+    {
+      "id": "568881",
+      "code": "0037",
+      "type": "program_activity",
+      "name": "THE GUS SCHUMACHER NUTRITION INCENTIVE PROGRAM",
+      "amount": 47500573.36
+    },
+    {
+      "id": "568630",
+      "code": "9902",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 28685762
+    },
+    {
+      "id": "568550",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "BEGINNING FARMERS AND RANCHERS PROGRAM",
+      "amount": 22994685.32
+    },
+    {
+      "id": "568504",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "1890 FACILITIES (SECTION 1447)",
+      "amount": 21201288.06
+    },
+    {
+      "id": "568370",
+      "code": "0032",
+      "type": "program_activity",
+      "name": "FOOD SAFETY OUTREACH PROGRAM",
+      "amount": 8550407.06
+    },
+    {
+      "id": "568355",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "1994 INSTITUTIONS ACTIVITIES",
+      "amount": 8380483.75
+    },
+    {
+      "id": "568734",
+      "code": "0026",
+      "type": "program_activity",
+      "name": "RISK MANAGEMENT EDUCATION",
+      "amount": 7933070.97
+    },
+    {
+      "id": "568595",
+      "code": "0036",
+      "type": "program_activity",
+      "name": "FARM STRESS ASSISTANCE NETWORK",
+      "amount": 7878384.93
+    },
+    {
+      "id": "568562",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "YOUTH AT RISK",
+      "amount": 7294469.38
+    },
+    {
+      "id": "568412",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FARM SAFETY AND YOUTH FARM SAFETY",
+      "amount": 4543305.23
+    },
+    {
+      "id": "568625",
+      "code": "0034",
+      "type": "program_activity",
+      "name": "ENHANCING AGRICULTURAL OPPORTUNITIES FOR MILITARY VETERANS",
+      "amount": 4169421.18
+    },
+    {
+      "id": "568311",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "FEDERALLY RECOGNIZED TRIBES EXTENSION PROGRAM",
+      "amount": 3833948.71
+    },
+    {
+      "id": "568706",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "RENEWABLE RESOURCES EXTENSION ACT",
+      "amount": 3796823.04
+    },
+    {
+      "id": "568816",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "RURAL HEALTH AND SAFETY EDUCATION",
+      "amount": 3541942.52
+    },
+    {
+      "id": "568366",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "FOOD ANIMAL RESIDUE AVOIDANCE DATABASE",
+      "amount": 1919943.18
+    },
+    {
+      "id": "568368",
+      "code": "0038",
+      "type": "program_activity",
+      "name": "WOMEN AND MINORITIES IN STEM",
+      "amount": 1798414.8
+    },
+    {
+      "id": "568473",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "NEW TECHNOLOGIES FOR AG. EXTENSION",
+      "amount": 1536000
+    },
+    {
+      "id": "568708",
+      "code": "0035",
+      "type": "program_activity",
+      "name": "FOOD AND AG SERVICE LEARNING",
+      "amount": 888108.55
+    },
+    {
+      "id": "568711",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "FEDERAL ADMINISTRATION",
+      "amount": 480000
+    }
+  ]
+}

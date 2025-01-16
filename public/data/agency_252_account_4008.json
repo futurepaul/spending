@@ -1,0 +1,69 @@
+{
+  "total": 818659881.9,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567514",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "21ST CENTURY FACILITIES PROGRAM",
+      "amount": 695568198.57
+    },
+    {
+      "id": "635199",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "JEFFERSON DORM RENOVATIONS",
+      "amount": 90729346
+    },
+    {
+      "id": "567474",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SECURE WORK ENVIRONMENT PROGRAM",
+      "amount": 29231075.55
+    },
+    {
+      "id": "567452",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "QUANTICO",
+      "amount": 3159682.13
+    },
+    {
+      "id": "567376",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "OTHER FBI CONSTRUCTION PROJECTS",
+      "amount": 65469.96
+    },
+    {
+      "id": "567445",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "HAZARDOUS DEVICES SCHOOL",
+      "amount": 43641
+    },
+    {
+      "id": "567559",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "CJIS CAMPUS",
+      "amount": 16827.2
+    },
+    {
+      "id": "567372",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567498",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "DOJ CONSOLIDATED DATA CENTER",
+      "amount": -154358.51
+    }
+  ]
+}

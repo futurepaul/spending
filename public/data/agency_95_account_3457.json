@@ -1,0 +1,69 @@
+{
+  "total": 1660908906.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568348",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONSERVATION TECHNICAL ASSISTANCE",
+      "amount": 1175476974.32
+    },
+    {
+      "id": "568652",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "PARTNERSHIPS FOR CLIMATE-SMART COMMODITIES",
+      "amount": 235894195.01
+    },
+    {
+      "id": "568429",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CONSERVATION TECHNICAL ASSISTANCE - INFLATION REDUCTION ACT",
+      "amount": 108849021.54
+    },
+    {
+      "id": "568483",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SOIL SURVEYS",
+      "amount": 89719790.07
+    },
+    {
+      "id": "568669",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REIMBURSABLE AGENCY ACTIVITY",
+      "amount": 22086044.71
+    },
+    {
+      "id": "568382",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SNOW SURVEY AND WATER FORECASTING",
+      "amount": 17924870.69
+    },
+    {
+      "id": "568900",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PLANT MATERIALS CENTERS",
+      "amount": 10693255.51
+    },
+    {
+      "id": "568323",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 270239.3
+    },
+    {
+      "id": "568371",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "WATERSHED PROJECTS",
+      "amount": -5484.38
+    }
+  ]
+}

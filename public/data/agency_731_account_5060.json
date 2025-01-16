@@ -1,0 +1,104 @@
+{
+  "total": 213474684.42,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566894",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ACADEMY OPERATIONS",
+      "amount": 91025533.37
+    },
+    {
+      "id": "567008",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "MARAD OPERATIONS",
+      "amount": 68943682.82
+    },
+    {
+      "id": "567217",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "USMMA CAPITAL ASSET MANAGEMENT PROGRAM",
+      "amount": 26766373.84
+    },
+    {
+      "id": "567280",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SHORT SEA TRANSPORTATION",
+      "amount": 10161309.32
+    },
+    {
+      "id": "566972",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "MARITIME ENVIRONMENT AND TECHNICAL ASSISTANCE",
+      "amount": 5566775.47
+    },
+    {
+      "id": "566932",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OPERATIONS AND TRAINING (REIMBURSABLE)",
+      "amount": 5299863.4
+    },
+    {
+      "id": "566835",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "TITLE XI ADMINISTRATIVE EXPENSES",
+      "amount": 2935271.45
+    },
+    {
+      "id": "567049",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "AMERICA'S MARINE HIGHWAY GRANTS-IIJA",
+      "amount": 1991963
+    },
+    {
+      "id": "567251",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "USMMA COLLECTIONS",
+      "amount": 578759.75
+    },
+    {
+      "id": "566846",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "GRANT ADMINISTRATION-IIJA",
+      "amount": 205152
+    },
+    {
+      "id": "566950",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "FUEL ASSISTANCE PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "567180",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SCHOOLSHIP MAINTENANCE & REPAIR",
+      "amount": 0
+    },
+    {
+      "id": "567130",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "HURRICANE SUPPLEMENTAL - BEAUMONT RESERVER FLEET DREDGING",
+      "amount": 0
+    },
+    {
+      "id": "567017",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "OTHER MARITIME PROGRAMS",
+      "amount": 0
+    }
+  ]
+}

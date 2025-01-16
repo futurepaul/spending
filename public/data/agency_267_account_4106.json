@@ -1,0 +1,34 @@
+{
+  "total": 409261615.36,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570859",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMMUNITY SERVICE EMPLOYMENT FOR OLDER AMERICANS - MINORITY NATIONAL SPONSORS",
+      "amount": 292712098.17
+    },
+    {
+      "id": "570991",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COMMUNITY SERVICE EMPLOYMENT FOR OLDER AMERICANS - STATE AGENCIES",
+      "amount": 116549517.19
+    },
+    {
+      "id": "570961",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "647298",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHERS",
+      "amount": 0
+    }
+  ]
+}

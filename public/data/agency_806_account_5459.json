@@ -1,0 +1,48 @@
+{
+  "total": 480057116427.09,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569974",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL CONTRIBUTION TO MATCH PREMIUMS (SMI)",
+      "amount": 375967160931.34
+    },
+    {
+      "id": "570182",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PART D BENEFITS (RX DRUG)",
+      "amount": 102110021351.75
+    },
+    {
+      "id": "570175",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "GENERAL FUND TRANSFERS TO HI",
+      "amount": 1419000000
+    },
+    {
+      "id": "569874",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PART D FEDERAL ADMINISTRATION (RX DRUG)",
+      "amount": 493000000
+    },
+    {
+      "id": "641628",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FEDERAL BUREAU OF INVESTIGATION (HCFAC)",
+      "amount": 168346704
+    },
+    {
+      "id": "569901",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "STATE LOW INCOME DETERMINATIONS",
+      "amount": -100412560
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "total": 3768600.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6090",
+      "code": "8281",
+      "type": "federal_account",
+      "name": "Trust Fund, Barry Goldwater Scholarship and Excellence in Education",
+      "amount": 2768600.77,
+      "account_number": "313-8281"
+    },
+    {
+      "id": "6508",
+      "code": "1535",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Barry Goldwater Scholarship and Excellence in Education Foundation",
+      "amount": 1000000,
+      "account_number": "313-1535"
+    }
+  ]
+}

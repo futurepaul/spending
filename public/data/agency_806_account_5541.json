@@ -1,0 +1,41 @@
+{
+  "total": 4996624714.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569767",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "STATE CHILD SUPPORT ADMINISTRATIVE COSTS",
+      "amount": 4278836942.54
+    },
+    {
+      "id": "569920",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CHILD SUPPORT INCENTIVE PAYMENTS",
+      "amount": 662406356.72
+    },
+    {
+      "id": "569892",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "PAYMENTS TO TERRITORIES",
+      "amount": 29929890.75
+    },
+    {
+      "id": "569737",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "REPATRIATION",
+      "amount": 16577950.64
+    },
+    {
+      "id": "570127",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ACCESS AND VISITATION GRANTS",
+      "amount": 8873574.14
+    }
+  ]
+}

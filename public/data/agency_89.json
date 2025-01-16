@@ -1,0 +1,54 @@
+{
+  "total": 449737520.46,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "3343",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Peace Corps, Funds Appropriated to the President",
+      "amount": 446009846.43,
+      "account_number": "011-0100"
+    },
+    {
+      "id": "3391",
+      "code": "5395",
+      "type": "federal_account",
+      "name": "Host Country Resident Contractors Separation Liability Fund, Peace Corps",
+      "amount": 3000000,
+      "account_number": "011-5395"
+    },
+    {
+      "id": "3407",
+      "code": "8245",
+      "type": "federal_account",
+      "name": "Gifts and Contributions, Peace Corps",
+      "amount": 914834.66,
+      "account_number": "011-8245"
+    },
+    {
+      "id": "3344",
+      "code": "0101",
+      "type": "federal_account",
+      "name": "Foreign Currency Fluctuations, Peace Corps",
+      "amount": 0,
+      "account_number": "011-0101"
+    },
+    {
+      "id": "3408",
+      "code": "8246",
+      "type": "federal_account",
+      "name": "Advances from Foreign Governments, Peace Corps",
+      "amount": 0,
+      "account_number": "011-8246"
+    },
+    {
+      "id": "3409",
+      "code": "8345",
+      "type": "federal_account",
+      "name": "Foreign Service National Separation Liability Trust Fund, Peace Corps",
+      "amount": -187160.63,
+      "account_number": "011-8345"
+    }
+  ]
+}

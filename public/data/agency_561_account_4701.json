@@ -1,0 +1,104 @@
+{
+  "total": 218139777.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569498",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DEATH CLAIMS",
+      "amount": 113610738.7
+    },
+    {
+      "id": "569693",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CASH SURRENDERS",
+      "amount": 59317134.67
+    },
+    {
+      "id": "569670",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MATURED ENDOWMENTS",
+      "amount": 27711916.82
+    },
+    {
+      "id": "569592",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "DIVIDENDS",
+      "amount": 5393624.5
+    },
+    {
+      "id": "569651",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEATH CLAIMS",
+      "amount": 3905910.51
+    },
+    {
+      "id": "569641",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "PAYMENT TO GOE",
+      "amount": 3657353.23
+    },
+    {
+      "id": "569662",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "CASH SURRENDERS",
+      "amount": 2030952.39
+    },
+    {
+      "id": "569683",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "MATURED ENDOWMENTS",
+      "amount": 948825.06
+    },
+    {
+      "id": "569611",
+      "code": "0201",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT: POLICY LOANS",
+      "amount": 885342.6
+    },
+    {
+      "id": "569711",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "INTEREST PAID ON DIVIDEND CREDITS AND DEPOSITS",
+      "amount": 355898.39
+    },
+    {
+      "id": "569676",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "DIVIDENDS",
+      "amount": 184671.67
+    },
+    {
+      "id": "569541",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "PAYMENT TO GOE",
+      "amount": 125223.69
+    },
+    {
+      "id": "569650",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "INTEREST PAID ON DIVIDEND CREDITS AND DEPOSITS",
+      "amount": 12185.56
+    },
+    {
+      "id": "569640",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "DISABILITY CLAIMS",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "total": 447281826.64,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570449",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "HOPWA FORMULA GRANTS",
+      "amount": 393410901.85
+    },
+    {
+      "id": "570436",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "HOPWA COMPETITIVE GRANTS",
+      "amount": 53955734.52
+    },
+    {
+      "id": "570469",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DOJ VAWA",
+      "amount": 195143.41
+    },
+    {
+      "id": "570501",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "DISASTER ASSISTANCE",
+      "amount": -279953.14
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "total": 330767878.64,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567401",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "YOUTH MENTORING",
+      "amount": 87625347.68
+    },
+    {
+      "id": "567472",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PART B: FORMULA GRANTS",
+      "amount": 56495100.69
+    },
+    {
+      "id": "567400",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "MISSING AND EXPLOITED CHILDREN",
+      "amount": 53192209.54
+    },
+    {
+      "id": "567517",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "VICTIMS OF CHILD ABUSE",
+      "amount": 35839268
+    },
+    {
+      "id": "567369",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATION",
+      "amount": 32246333.94
+    },
+    {
+      "id": "567497",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "TRIBAL YOUTH PROGRAM",
+      "amount": 14447343.62
+    },
+    {
+      "id": "567406",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "DELINQUENCY PREVENTION PROGRAM  (TITLE V - LOCAL DELINQ. PREVENTION INCENTIVE GRANTS)",
+      "amount": 13682305.15
+    },
+    {
+      "id": "567331",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "OPIOID AFFECTED YOUTH INITIATIVE",
+      "amount": 9001162.12
+    },
+    {
+      "id": "567345",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "CHILDREN EXPOSED TO VIOLENCE",
+      "amount": 7063171.78
+    },
+    {
+      "id": "567577",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "JUVENILE JUSTICE PROGRAMS (REIMBURSABLE)",
+      "amount": 6750000
+    },
+    {
+      "id": "567513",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "CHILD ABUSE TRAINING FOR JUDICIAL PERSONNEL AND PRACTITIONERS",
+      "amount": 5087514
+    },
+    {
+      "id": "567353",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "GIRLS IN THE JUVENILE JUSTICE SYSTEM",
+      "amount": 3721295.51
+    },
+    {
+      "id": "567510",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "PREVENTION OF TRAFFICKING OF GIRLS",
+      "amount": 3487889.05
+    },
+    {
+      "id": "567573",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "INDIGENT DEFENSE INITIATIVE-- IMPROVING JUVENILE INDIGENT DEFENSE PROGRAM",
+      "amount": 2186502
+    },
+    {
+      "id": "567443",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "EMERGENCY PLANNING - JUVENILE DETENTION FACILITIES",
+      "amount": 401037.39
+    },
+    {
+      "id": "609161",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "PROTECTING VULNERABLE AND AT-RISK YOUTH",
+      "amount": 10400
+    },
+    {
+      "id": "567384",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "CHILDREN OF INCARCERATED PARENTS WEB PORTAL",
+      "amount": 2600
+    },
+    {
+      "id": "567572",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "COMMUNITY-BASED VIOLENCE PREVENTION INITIATIVES",
+      "amount": 0
+    },
+    {
+      "id": "567371",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "609156",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "JUVENILE ACCOUNTABILITY BLOCK GRANT PROGRAM",
+      "amount": -5000
+    },
+    {
+      "id": "609150",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "YOUTH VIOLENCE PREVENTION",
+      "amount": -466601.83
+    }
+  ]
+}

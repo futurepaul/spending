@@ -1,0 +1,69 @@
+{
+  "total": 1058296379.34,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567642",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OTHER ACQUISITION PROGRAMS",
+      "amount": 707008461.04
+    },
+    {
+      "id": "567677",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "VESSELS",
+      "amount": 107520399.1
+    },
+    {
+      "id": "567751",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "AIRCRAFT",
+      "amount": 105203129.9
+    },
+    {
+      "id": "567885",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SHORE FACILITIES AND AIDS TO NAVIGATION",
+      "amount": 62853443.46
+    },
+    {
+      "id": "567793",
+      "code": "0904",
+      "type": "program_activity",
+      "name": "PC&I PL 117-58 - INFRASTRUCTURE, INVESTMENT AND JOB ACT",
+      "amount": 45415247.01
+    },
+    {
+      "id": "567816",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "PROCUREMENT, CONSTRUCTION, AND IMPROVEMENTS (REIMBURSABLE)",
+      "amount": 18829220.22
+    },
+    {
+      "id": "567689",
+      "code": "0902",
+      "type": "program_activity",
+      "name": "PC&I PL 117-328 - HURRICANE SUPPLEMENTS FOR FIONA AND IAN IAW THE CONSOLIDATED APPROPRIATIONS ACT OF 2023",
+      "amount": 11466478.61
+    },
+    {
+      "id": "688142",
+      "code": "9901",
+      "type": "program_activity",
+      "name": "EXPIRED FUNDS ACTIVITY",
+      "amount": 0
+    },
+    {
+      "id": "567782",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

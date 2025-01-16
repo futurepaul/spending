@@ -1,0 +1,55 @@
+{
+  "total": 6807583.16,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564470",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CONSTRUCTION IMPROVEMENTS",
+      "amount": 10670684.74
+    },
+    {
+      "id": "564758",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PLANNING AND DESIGN",
+      "amount": 9370358.21
+    },
+    {
+      "id": "623981",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 41423.97
+    },
+    {
+      "id": "564576",
+      "code": "00ZZ",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564431",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564359",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564947",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "FOREIGN CURRENCY FLUCTUATION",
+      "amount": -13274883.76
+    }
+  ]
+}

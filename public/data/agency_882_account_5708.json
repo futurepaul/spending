@@ -1,0 +1,34 @@
+{
+  "total": -2200,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570489",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "DELTA CAPITAL COMMUNITY INITIATIVE",
+      "amount": 0
+    },
+    {
+      "id": "570497",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "APPALACHIA ECONOMIC DEVELOPMENT INITIATIVE",
+      "amount": 0
+    },
+    {
+      "id": "570621",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BORDER CAPITAL COMMUNITY INITIATIVE",
+      "amount": 0
+    },
+    {
+      "id": "570551",
+      "code": "0550",
+      "type": "program_activity",
+      "name": "RURAL HOUSING AND ECONOMIC DEVELOPMENT (DIRECT)",
+      "amount": -2200
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 10933880.32,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566232",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "PRESIDENTIAL LIBRARIES",
+      "amount": 10035417.59
+    },
+    {
+      "id": "566233",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALES",
+      "amount": 898462.73
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 79425843.19,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567995",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PURCHASE POWER AND WHEELING",
+      "amount": 70886135.13
+    },
+    {
+      "id": "568002",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ANNUAL EXPENSES",
+      "amount": 8539708.06
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "total": 7419717035.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566209",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MATHEMATICAL AND PHYSICAL SCIENCES",
+      "amount": 1527396917.35
+    },
+    {
+      "id": "566194",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "GEOSCIENCES",
+      "amount": 1009273401.28
+    },
+    {
+      "id": "566188",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COMPUTER AND INFORMATION SCIENCE AND ENGINEERING",
+      "amount": 963733520.38
+    },
+    {
+      "id": "566215",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BIOLOGICAL SCIENCES",
+      "amount": 804553016.63
+    },
+    {
+      "id": "566192",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "TECHNOLOGY, INNOVATION, AND PARTNERSHIPS",
+      "amount": 761961962.85
+    },
+    {
+      "id": "566210",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ENGINEERING",
+      "amount": 743601989.67
+    },
+    {
+      "id": "566195",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "INTEGRATIVE ACTIVITIES",
+      "amount": 598169591.38
+    },
+    {
+      "id": "566200",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "OFFICE OF POLAR PROGRAMS",
+      "amount": 568127078.93
+    },
+    {
+      "id": "566191",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SOCIAL, BEHAVIORAL AND ECONOMIC SCIENCES",
+      "amount": 290924391.08
+    },
+    {
+      "id": "566196",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "RESEARCH AND RELATED ACTIVITIES (REIMBURSABLE)",
+      "amount": 87892872.12
+    },
+    {
+      "id": "566198",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "OFFICE OF INTERNATIONAL SCIENCE AND ENGINEERING",
+      "amount": 65389257.47
+    },
+    {
+      "id": "566214",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "ARCTIC RESEARCH COMMISSION",
+      "amount": 1750000
+    },
+    {
+      "id": "566207",
+      "code": "00U2",
+      "type": "program_activity",
+      "name": "OTHER UNMAPPED",
+      "amount": 0
+    },
+    {
+      "id": "566187",
+      "code": "0401",
+      "type": "program_activity",
+      "name": "AMERICAN RESCUE PLAN (ARP)",
+      "amount": -3056963.35
+    }
+  ]
+}

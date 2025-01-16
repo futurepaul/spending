@@ -1,0 +1,13 @@
+{
+  "total": 8000000,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569173",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "WATER AND SEWER AUTHORITY",
+      "amount": 8000000
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "total": 184550689.99,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568690",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "HIGHER BLENDS INFRASTRUCTURE INCENTIVE PROGRAM IRA",
+      "amount": 147009183
+    },
+    {
+      "id": "568542",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "BIOENERGY PROGRAM FOR ADVANCED BIOFUELS PAYMENTS (FARM BILL-MANDATORY)",
+      "amount": 21381040.04
+    },
+    {
+      "id": "568395",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "REPOWERING ASSISTANCE PAYMENTS",
+      "amount": 15711850.88
+    },
+    {
+      "id": "568361",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "HIGHER BLENDS INFRASTRUCTURE INCENTIVE PROGRAM (FARM BILL-MANDATORY)",
+      "amount": 448616.07
+    }
+  ]
+}

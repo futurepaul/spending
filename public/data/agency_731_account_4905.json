@@ -1,0 +1,34 @@
+{
+  "total": 193452862.87,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566857",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GENERAL ADMINISTRATION",
+      "amount": 170022435.86
+    },
+    {
+      "id": "567112",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SCASDP GRANTS",
+      "amount": 16542375.71
+    },
+    {
+      "id": "566838",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 6888051.3
+    },
+    {
+      "id": "567034",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "COVID FUNDS",
+      "amount": 0
+    }
+  ]
+}

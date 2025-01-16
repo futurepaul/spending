@@ -1,0 +1,13 @@
+{
+  "total": 12284106.06,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569778",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "ADMIN EXPENSE",
+      "amount": 12284106.06
+    }
+  ]
+}

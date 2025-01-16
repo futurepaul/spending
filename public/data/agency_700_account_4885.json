@@ -1,0 +1,34 @@
+{
+  "total": 16488318.86,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571039",
+      "code": "00A1",
+      "type": "program_activity",
+      "name": "RCRA:  WASTE MANAGEMENT",
+      "amount": 16430790.54
+    },
+    {
+      "id": "571131",
+      "code": "00E5",
+      "type": "program_activity",
+      "name": "CENTRAL PLANNING, BUDGETING, AND FINANCE",
+      "amount": 57528.32
+    },
+    {
+      "id": "571094",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571246",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 0
+    }
+  ]
+}

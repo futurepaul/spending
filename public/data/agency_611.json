@@ -1,0 +1,22 @@
+{
+  "total": 451337965.8,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4706",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Equal Employment Opportunity Commission",
+      "amount": 446576719.38,
+      "account_number": "045-0100"
+    },
+    {
+      "id": "4707",
+      "code": "4019",
+      "type": "federal_account",
+      "name": "EEOC Education, Technical Assistance and Training Revolving Fund, Equal Employment Opportunity Commission",
+      "amount": 4761246.42,
+      "account_number": "045-4019"
+    }
+  ]
+}

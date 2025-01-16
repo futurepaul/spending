@@ -1,0 +1,48 @@
+{
+  "total": 383109076.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568042",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "GASEOUS DIFFUSION PLANTS",
+      "amount": 140416069
+    },
+    {
+      "id": "568074",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SMALL SITES",
+      "amount": 104036291.85
+    },
+    {
+      "id": "568165",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "WEST VALLEY DEMONSTRATION PROJECT",
+      "amount": 86275182.14
+    },
+    {
+      "id": "568018",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NON-DEFENSE ENVIRONMENTAL CLEANUP (REIMBURSABLE)",
+      "amount": 48836108.46
+    },
+    {
+      "id": "568179",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FAST FLUX TEST FACILITY",
+      "amount": 3200000
+    },
+    {
+      "id": "568010",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND STORAGE OF ELEMENTAL MERCURY",
+      "amount": 345425
+    }
+  ]
+}

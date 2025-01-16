@@ -1,0 +1,13 @@
+{
+  "total": 13104142.38,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566308",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (DIRECT)",
+      "amount": 13104142.38
+    }
+  ]
+}

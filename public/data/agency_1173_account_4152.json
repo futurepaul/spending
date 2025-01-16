@@ -1,0 +1,20 @@
+{
+  "total": 1102941000,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564718",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "HEALTH CARE CONTRIBUTION- ENLISTED",
+      "amount": 964324000
+    },
+    {
+      "id": "564968",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "HEALTH CARE CONTRIBUTION - OFFICERS",
+      "amount": 138617000
+    }
+  ]
+}

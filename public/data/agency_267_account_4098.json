@@ -1,0 +1,125 @@
+{
+  "total": 503939927.8,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570933",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "LEGAL SERVICES",
+      "amount": 141893736.82
+    },
+    {
+      "id": "570996",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "INTERNATIONAL LABOR AFFAIRS",
+      "amount": 113634154.61
+    },
+    {
+      "id": "571013",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "ADJUDICATION",
+      "amount": 65024795.06
+    },
+    {
+      "id": "570956",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION AND SUPPORT",
+      "amount": 32490824.97
+    },
+    {
+      "id": "570927",
+      "code": "0343",
+      "type": "program_activity",
+      "name": "USMCA TECHNICAL ASSISTANCE",
+      "amount": 31404631.6
+    },
+    {
+      "id": "570901",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND MANAGEMENT",
+      "amount": 30719534.92
+    },
+    {
+      "id": "570920",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "WOMEN'S BUREAU",
+      "amount": 22528655.62
+    },
+    {
+      "id": "571014",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "DEPARTMENTAL PROGRAM EVALUATION",
+      "amount": 19124828.07
+    },
+    {
+      "id": "571035",
+      "code": "0902",
+      "type": "program_activity",
+      "name": "REIMBURSABLE - SOL",
+      "amount": 16211189.65
+    },
+    {
+      "id": "570924",
+      "code": "0904",
+      "type": "program_activity",
+      "name": "OASAM REIMBURSABLE",
+      "amount": 12290174.68
+    },
+    {
+      "id": "570937",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CIVIL RIGHTS",
+      "amount": 6972034.94
+    },
+    {
+      "id": "570931",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CHIEF FINANCIAL OFFICER",
+      "amount": 5662670.73
+    },
+    {
+      "id": "570882",
+      "code": "0373",
+      "type": "program_activity",
+      "name": "USMCA S AND E",
+      "amount": 4341259.28
+    },
+    {
+      "id": "570861",
+      "code": "0903",
+      "type": "program_activity",
+      "name": "ILAB REIMBURSABLE",
+      "amount": 1000000
+    },
+    {
+      "id": "571031",
+      "code": "0212",
+      "type": "program_activity",
+      "name": "ARPA UNEMPLOYMENT INSURANCE",
+      "amount": 472754.26
+    },
+    {
+      "id": "695459",
+      "code": "0901",
+      "type": "program_activity",
+      "name": "PDS REIMBURSABLE",
+      "amount": 168682.59
+    },
+    {
+      "id": "570953",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

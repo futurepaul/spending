@@ -1,0 +1,97 @@
+{
+  "total": 164928818.38,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568852",
+      "code": "0086",
+      "type": "program_activity",
+      "name": "SPECIALTY CROP RESEARCH INITIATIVE",
+      "amount": 73426302.32
+    },
+    {
+      "id": "568838",
+      "code": "0089",
+      "type": "program_activity",
+      "name": "ORGANIC RESEARCH AND EXTENSION INITIATIVE",
+      "amount": 46483349.72
+    },
+    {
+      "id": "568906",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "CROP PROTECTION/PEST MANAGEMENT",
+      "amount": 19665923.35
+    },
+    {
+      "id": "568868",
+      "code": "0071",
+      "type": "program_activity",
+      "name": "HOMELAND SECURITY (FOOD AND AGRICULTURE DEFENSE INITIATIVE)",
+      "amount": 7405363.04
+    },
+    {
+      "id": "568612",
+      "code": "0088",
+      "type": "program_activity",
+      "name": "ORGANIC TRANSITION",
+      "amount": 6963855.79
+    },
+    {
+      "id": "568756",
+      "code": "0087",
+      "type": "program_activity",
+      "name": "REGIONAL RURAL DEVELOPMENT CENTERS",
+      "amount": 2419506.35
+    },
+    {
+      "id": "568426",
+      "code": "0080",
+      "type": "program_activity",
+      "name": "URBAN, INDOOR, AND OTHER EMERGING AGRICULTRUAL PRODUCTION RESEARCH, EDUCATION, AND EXTENSION INITIATIVE",
+      "amount": 1927378.99
+    },
+    {
+      "id": "568769",
+      "code": "0070",
+      "type": "program_activity",
+      "name": "METHYL BROMIDE TRANSITION PROGRAM",
+      "amount": 1840586.41
+    },
+    {
+      "id": "568529",
+      "code": "9901",
+      "type": "program_activity",
+      "name": "SET ASIDE",
+      "amount": 1827667.03
+    },
+    {
+      "id": "589633",
+      "code": "9902",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 1789076.79
+    },
+    {
+      "id": "568570",
+      "code": "0085",
+      "type": "program_activity",
+      "name": "EMERGENCY CITRUS RESEARCH AND EXTENSION PROGRAM",
+      "amount": 1179808.59
+    },
+    {
+      "id": "568667",
+      "code": "PM08",
+      "type": "program_activity",
+      "name": "PENDING MAPPING",
+      "amount": 0
+    },
+    {
+      "id": "568304",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

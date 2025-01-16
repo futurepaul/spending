@@ -1,0 +1,83 @@
+{
+  "total": 3208291316.92,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570368",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 1254728990.21
+    },
+    {
+      "id": "570293",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "CAPITAL SECURITY COST SHARING",
+      "amount": 937022349.37
+    },
+    {
+      "id": "570252",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAPITAL SECURITY CONSTRUCTION",
+      "amount": 661237235.65
+    },
+    {
+      "id": "570297",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COMPOUND SECURITY",
+      "amount": 198743971.68
+    },
+    {
+      "id": "570369",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OCO",
+      "amount": 73342739.44
+    },
+    {
+      "id": "570299",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "REPAIR AND CONSTRUCTION",
+      "amount": 37942354.98
+    },
+    {
+      "id": "570319",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "OTHER REIMBURSABLE",
+      "amount": 35488952.11
+    },
+    {
+      "id": "570324",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ASSET MANAGEMENT",
+      "amount": 29130104.81
+    },
+    {
+      "id": "565159",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OPERATIONS",
+      "amount": 0
+    },
+    {
+      "id": "570292",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL APPROPRIATIONS",
+      "amount": -141937.65
+    },
+    {
+      "id": "570309",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OPERATIONS",
+      "amount": -19203443.68
+    }
+  ]
+}

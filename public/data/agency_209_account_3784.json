@@ -1,0 +1,111 @@
+{
+  "total": 1783177752.36,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566485",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PREPAREDNESS",
+      "amount": 486816012.43
+    },
+    {
+      "id": "566709",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "FIRE SUPPRESSION OPERATIONS",
+      "amount": 382943391.17
+    },
+    {
+      "id": "566714",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58)",
+      "amount": 260775302.13
+    },
+    {
+      "id": "566539",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "WILDFIRE SUPPRESSION CAP ADJUSTMENT",
+      "amount": 252206816.77
+    },
+    {
+      "id": "566597",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FUELS MANAGEMENT",
+      "amount": 221494630.7
+    },
+    {
+      "id": "566395",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FIRE REIMBURSABLE",
+      "amount": 93174493.93
+    },
+    {
+      "id": "566572",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "2023 DISASTER SUPPLEMENTAL (P.L. 117-328)",
+      "amount": 57135665.06
+    },
+    {
+      "id": "566594",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "FACILITIES CONSTRUCTION AND MAINTENANCE",
+      "amount": 13302790.74
+    },
+    {
+      "id": "566636",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "BURNED AREA REHABILITATION",
+      "amount": 10316630.49
+    },
+    {
+      "id": "566797",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "JOINT FIRE SCIENCE",
+      "amount": 2800787.59
+    },
+    {
+      "id": "566376",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "2022 DISASTER SUPPLEMENTAL (P.L. 117-43)",
+      "amount": 2211231.35
+    },
+    {
+      "id": "566805",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "598844",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "SHIFTED BASE",
+      "amount": 0
+    },
+    {
+      "id": "604006",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "EMERGENCY SUPPRESSION",
+      "amount": 0
+    },
+    {
+      "id": "671401",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

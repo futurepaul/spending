@@ -1,0 +1,55 @@
+{
+  "total": -449246289.76,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569283",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 2332603.93
+    },
+    {
+      "id": "569073",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "PAYMENTS TO HIGH NEED GRANTEES ARP",
+      "amount": 0
+    },
+    {
+      "id": "569250",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "TERRITORIES ARP",
+      "amount": 0
+    },
+    {
+      "id": "569071",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "STATES AND OTHER ENTITIES ARP",
+      "amount": -982394.83
+    },
+    {
+      "id": "569069",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TERRITORIES",
+      "amount": -2786237.38
+    },
+    {
+      "id": "569099",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TRIBAL GOVERNMENTS AND HAWAIIAN HOME LANDS",
+      "amount": -140982643.29
+    },
+    {
+      "id": "569377",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STATE AND LOCAL GOVERNMENTS AND THE DC",
+      "amount": -306827618.19
+    }
+  ]
+}

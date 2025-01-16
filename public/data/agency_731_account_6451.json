@@ -1,0 +1,34 @@
+{
+  "total": 123063040,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567275",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MOTOR CARRIER SAFETY ASSISTANCE PROGRAM",
+      "amount": 79550000
+    },
+    {
+      "id": "567129",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "HIGH PRIORITY ACTIVITIES PROGRAM (HPAP)",
+      "amount": 28734723
+    },
+    {
+      "id": "567313",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COMMERCIAL DRIVERS LICENSE (CDL) PROGRAM IMPROVEMENT GRANTS",
+      "amount": 12578317
+    },
+    {
+      "id": "566887",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "COMMERCIAL MOTOR VEHICLE OPERATOR (CMV) GRANT",
+      "amount": 2200000
+    }
+  ]
+}

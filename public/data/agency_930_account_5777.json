@@ -1,0 +1,20 @@
+{
+  "total": 14299201.23,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568019",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PRODUCTION AND OPERATIONS",
+      "amount": 13579271.25
+    },
+    {
+      "id": "568028",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NAVAL PETROLEUM AND OIL SHALE RESERVES PROGRAM DIRECTION",
+      "amount": 719929.98
+    }
+  ]
+}

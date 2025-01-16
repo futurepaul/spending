@@ -1,0 +1,125 @@
+{
+  "total": 11378995531.28,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565180",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT GLOBAL HEALTH PROGRAM ACTIVITY",
+      "amount": 8266745095.51
+    },
+    {
+      "id": "570011",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT GLOBAL HEALTH PROGRAM ACTIVITY",
+      "amount": 2018518209.76
+    },
+    {
+      "id": "570288",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 924773972.22
+    },
+    {
+      "id": "564320",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 165219323.12
+    },
+    {
+      "id": "570632",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT GLOBAL HEALTH PROGRAM",
+      "amount": 28554148.16
+    },
+    {
+      "id": "564822",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 14262493.62
+    },
+    {
+      "id": "570283",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT GLOBAL HEALTH PROGRAM ACTIVITY",
+      "amount": 6034497.47
+    },
+    {
+      "id": "570341",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 4140556.5
+    },
+    {
+      "id": "697194",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 67472.38
+    },
+    {
+      "id": "565135",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT GLOBAL HEALTH PROGRAM ACTIVITY",
+      "amount": 0
+    },
+    {
+      "id": "570639",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570872",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "688432",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564722",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -26983.77
+    },
+    {
+      "id": "565175",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY - WCF",
+      "amount": -200500
+    },
+    {
+      "id": "564443",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND SERVICE-WIDE ACTIVITIES",
+      "amount": -1157535.87
+    },
+    {
+      "id": "564597",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -47935217.82
+    }
+  ]
+}

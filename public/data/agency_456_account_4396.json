@@ -1,0 +1,34 @@
+{
+  "total": 3220306113.94,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569332",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "TOTAL OPERATING",
+      "amount": 3153780741.81
+    },
+    {
+      "id": "569139",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "CIRCULATING AND PROTECTION CAPITAL",
+      "amount": 39901601.75
+    },
+    {
+      "id": "569189",
+      "code": "0808",
+      "type": "program_activity",
+      "name": "NUMISMATIC CAPITAL",
+      "amount": 26623770.38
+    },
+    {
+      "id": "671205",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "total": 697475023,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570590",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PERSONNEL COMPENSATION",
+      "amount": 297805620.5
+    },
+    {
+      "id": "570472",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NON-PERSONNEL COSTS",
+      "amount": 285608831.71
+    },
+    {
+      "id": "570480",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BENEFITS",
+      "amount": 113212573.06
+    },
+    {
+      "id": "570410",
+      "code": "0850",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE SUPPORT OFFICES S&E (REIMBURSABLE)",
+      "amount": 928400.99
+    },
+    {
+      "id": "570502",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570437",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "DISASTER-RELATED EXPENSES",
+      "amount": -80403.26
+    }
+  ]
+}

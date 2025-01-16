@@ -1,0 +1,111 @@
+{
+  "total": 5774037295.89,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564206",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SUPPORTING EFFECTIVE INSTRUCTION STATE GRANTS",
+      "amount": 2194936001.93
+    },
+    {
+      "id": "564187",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "STUDENT SUPPORT AND ACADEMIC ENRICHMENT",
+      "amount": 1363421898.36
+    },
+    {
+      "id": "564071",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "21ST CENTURY COMMUNITY LEARNING CENTERS",
+      "amount": 1324156951.3
+    },
+    {
+      "id": "564085",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STATE ASSESSMENTS",
+      "amount": 396838575.69
+    },
+    {
+      "id": "564113",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "RURAL EDUCATION",
+      "amount": 216087890.81
+    },
+    {
+      "id": "564075",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EDUCATION FOR HOMELESS CHILDREN AND YOUTHS",
+      "amount": 128565498.68
+    },
+    {
+      "id": "564178",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "COMPREHENSIVE CENTERS",
+      "amount": 49999999.79
+    },
+    {
+      "id": "564204",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIVE HAWAIIANS EDUCATION",
+      "amount": 45418428.4
+    },
+    {
+      "id": "564055",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ALASKA NATIVE EDUCATION",
+      "amount": 42515777.44
+    },
+    {
+      "id": "564147",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "POOLED EVALUATION",
+      "amount": 8151875.92
+    },
+    {
+      "id": "564193",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "TRAINING AND ADVISORY SERVICES",
+      "amount": 6574999.98
+    },
+    {
+      "id": "694332",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564069",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "566496",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ALASKA NATIVE EDUCATION",
+      "amount": 0
+    },
+    {
+      "id": "564159",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL EDUCATION GRANTS",
+      "amount": -2630602.41
+    }
+  ]
+}

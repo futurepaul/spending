@@ -1,0 +1,34 @@
+{
+  "total": 143598241.46,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570849",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ENERGY PART E",
+      "amount": 75996996.05
+    },
+    {
+      "id": "570945",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ENERGY PART B",
+      "amount": 67601245.41
+    },
+    {
+      "id": "570993",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "571017",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

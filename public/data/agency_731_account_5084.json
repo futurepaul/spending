@@ -1,0 +1,41 @@
+{
+  "total": 206581709.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566980",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATIONS",
+      "amount": 113538967.52
+    },
+    {
+      "id": "566935",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "GRANTS",
+      "amount": 82803563.8
+    },
+    {
+      "id": "567125",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "RESEARCH AND DEVELOPMENT",
+      "amount": 10225311.23
+    },
+    {
+      "id": "566841",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 13866.52
+    },
+    {
+      "id": "567208",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

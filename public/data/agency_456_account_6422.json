@@ -1,0 +1,27 @@
+{
+  "total": 197000000,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569129",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FUND",
+      "amount": 197000000
+    },
+    {
+      "id": "569291",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BANK",
+      "amount": 0
+    },
+    {
+      "id": "671152",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

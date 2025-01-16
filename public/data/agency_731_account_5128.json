@@ -1,0 +1,62 @@
+{
+  "total": 3239157478.11,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567105",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PROCUREMENT AND MODERNIZATION OF AIR TRAFFIC CONTROL (ATC) FACILITIES AND EQUIPMENT",
+      "amount": 1974002065.57
+    },
+    {
+      "id": "567050",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PERSONNEL AND RELATED EXPENSES",
+      "amount": 601272747.91
+    },
+    {
+      "id": "567282",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MISSION SUPPORT",
+      "amount": 243832327.92
+    },
+    {
+      "id": "566891",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PROCUREMENT AND MODERNIZATION OF NON-ATC FACILITIES AND EQUIPMENT",
+      "amount": 189042977.5
+    },
+    {
+      "id": "567266",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ENGINEERING, DEVELOPMENT, TEST AND EVALUATION",
+      "amount": 147147142.43
+    },
+    {
+      "id": "567030",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FACILITIES AND EQUIPMENT (AIRPORT AND AIRWAY TRUST FUND) (REIMBURSABLE)",
+      "amount": 82629693.85
+    },
+    {
+      "id": "567297",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "2017 HURRICANES / 2018 SUPPLEMENTAL",
+      "amount": 1230522.93
+    },
+    {
+      "id": "567001",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "HURRICANE SANDY",
+      "amount": 0
+    }
+  ]
+}

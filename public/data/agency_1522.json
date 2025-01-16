@@ -1,0 +1,62 @@
+{
+  "total": 1789018515.52,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6317",
+      "code": "4483",
+      "type": "federal_account",
+      "name": "Corporate Capital Account, United States International Development Finance Corporation",
+      "amount": 1069000232.28,
+      "account_number": "077-4483"
+    },
+    {
+      "id": "6310",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Program Account, United States International Development Finance Corporation",
+      "amount": 709866838.12,
+      "account_number": "077-0110"
+    },
+    {
+      "id": "6311",
+      "code": "0111",
+      "type": "federal_account",
+      "name": "Inspector General, United States International Development Finance Corporation",
+      "amount": 7151834.22,
+      "account_number": "077-0111"
+    },
+    {
+      "id": "6315",
+      "code": "4340",
+      "type": "federal_account",
+      "name": "Housing and Other Credit Guaranty Programs Liquidating Account, United States International Development Finance Corporation",
+      "amount": 2999610.9,
+      "account_number": "077-4340"
+    },
+    {
+      "id": "6313",
+      "code": "0401",
+      "type": "federal_account",
+      "name": "Program Account, Urban and Environmental Credit, United States International Development Finance Corporation",
+      "amount": 0,
+      "account_number": "077-0401"
+    },
+    {
+      "id": "6312",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Program Account, Microenterprise and Small Enterprise Development, United States International Development Finance Corporation",
+      "amount": 0,
+      "account_number": "077-0400"
+    },
+    {
+      "id": "6314",
+      "code": "4103",
+      "type": "federal_account",
+      "name": "Economic Assistance Loans Liquidating Account, United States International Development Finance Corporation",
+      "amount": 0,
+      "account_number": "077-4103"
+    }
+  ]
+}

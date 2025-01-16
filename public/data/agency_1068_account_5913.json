@@ -1,0 +1,20 @@
+{
+  "total": 540876,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564081",
+      "code": "0715",
+      "type": "program_activity",
+      "name": "DEFAULT COLLECTIONS COSTS",
+      "amount": 540823
+    },
+    {
+      "id": "564145",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 53
+    }
+  ]
+}

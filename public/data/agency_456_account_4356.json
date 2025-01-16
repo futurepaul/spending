@@ -1,0 +1,34 @@
+{
+  "total": 166022692.8,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569040",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COLLECT REVENUE",
+      "amount": 86134565.19
+    },
+    {
+      "id": "569113",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PROTECT THE PUBLIC",
+      "amount": 72012210.17
+    },
+    {
+      "id": "569029",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "COLLECT REVENUE",
+      "amount": 4479614.74
+    },
+    {
+      "id": "568988",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "PROTECT THE PUBLIC",
+      "amount": 3396302.7
+    }
+  ]
+}

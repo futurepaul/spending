@@ -1,0 +1,83 @@
+{
+  "total": 93030953.62,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571123",
+      "code": "0087",
+      "type": "program_activity",
+      "name": "LUST COOPERATIVE AGREEMENTS",
+      "amount": 54485989.23
+    },
+    {
+      "id": "571122",
+      "code": "00J6",
+      "type": "program_activity",
+      "name": "LUST PREVENTION",
+      "amount": 25735790.67
+    },
+    {
+      "id": "571058",
+      "code": "0086",
+      "type": "program_activity",
+      "name": "LUST / UST",
+      "amount": 10558713.44
+    },
+    {
+      "id": "571106",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "CIVIL ENFORCEMENT",
+      "amount": 618644.2
+    },
+    {
+      "id": "571108",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 586276.95
+    },
+    {
+      "id": "571102",
+      "code": "00E5",
+      "type": "program_activity",
+      "name": "CENTRAL PLANNING, BUDGETING, AND FINANCE",
+      "amount": 580424.59
+    },
+    {
+      "id": "571300",
+      "code": "00K8",
+      "type": "program_activity",
+      "name": "RESEARCH: SUSTAINABLE AND HEALTHY COMMUNITIES",
+      "amount": 354537.98
+    },
+    {
+      "id": "571298",
+      "code": "00F3",
+      "type": "program_activity",
+      "name": "ACQUISITION MANAGEMENT",
+      "amount": 111736.81
+    },
+    {
+      "id": "571086",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571048",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571187",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": -1160.25
+    }
+  ]
+}

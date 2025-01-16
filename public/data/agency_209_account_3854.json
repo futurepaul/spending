@@ -1,0 +1,55 @@
+{
+  "total": 401331312.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566398",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "GAOA - STATE ASSISTANCE",
+      "amount": 354487057.24
+    },
+    {
+      "id": "566622",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "GAOA - FEDERAL LAND ACQUISITION",
+      "amount": 44826641.09
+    },
+    {
+      "id": "566603",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "GAOA - AMERICAN BATTLEFIELD PROTECTION PROGRAM",
+      "amount": 13212979.34
+    },
+    {
+      "id": "566413",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LAND ACQUISITION",
+      "amount": 4376624.68
+    },
+    {
+      "id": "566647",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "LAND ACQUISITION ADMINISTRATION",
+      "amount": -678.35
+    },
+    {
+      "id": "566795",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "STATE GRANT ADMINISTRATION",
+      "amount": -40000
+    },
+    {
+      "id": "566649",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "GRANTS TO STATES",
+      "amount": -15531311.15
+    }
+  ]
+}

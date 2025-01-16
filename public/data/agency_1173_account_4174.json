@@ -1,0 +1,20 @@
+{
+  "total": 7541058783.08,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564696",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FLEET BALLISTIC MISSILE SHIPS",
+      "amount": 7541058783.08
+    },
+    {
+      "id": "564892",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    }
+  ]
+}

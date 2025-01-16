@@ -1,0 +1,174 @@
+{
+  "total": 1510796941.78,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566397",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "LAND RESOURCES",
+      "amount": 275552584.67
+    },
+    {
+      "id": "566467",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "ENERGY AND MINERALS",
+      "amount": 217637564.29
+    },
+    {
+      "id": "566676",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "WORKFORCE AND ORGANIZATIONAL SUPPORT",
+      "amount": 174163601.47
+    },
+    {
+      "id": "566651",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "RESOURCE PROTECTION",
+      "amount": 148311995.56
+    },
+    {
+      "id": "566501",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "WILDLIFE HABITAT MANAGEMENT",
+      "amount": 141469674.02
+    },
+    {
+      "id": "566786",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "2022 INFLATION REDUCTION ACT (P.L. 117-169)",
+      "amount": 137249764.25
+    },
+    {
+      "id": "566663",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "REALTY AND OWNERSHIP MANAGEMENT",
+      "amount": 86672759.01
+    },
+    {
+      "id": "566318",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "RECREATION MANAGEMENT",
+      "amount": 69967240.63
+    },
+    {
+      "id": "566606",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "TRANSPORTATION AND FACILITIES MAINTENANCE",
+      "amount": 62430788.82
+    },
+    {
+      "id": "566380",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "AQUATIC RESOURCES MANAGEMENT",
+      "amount": 54950698.02
+    },
+    {
+      "id": "590917",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "NATIONAL MONUMENTS AND NCA",
+      "amount": 47484975.55
+    },
+    {
+      "id": "566648",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "MINING LAW ADMINISTRATION",
+      "amount": 41634984.44
+    },
+    {
+      "id": "566589",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "MANAGEMENT OF LANDS AND RESOURCES (REIMBURSABLE)",
+      "amount": 24570850.51
+    },
+    {
+      "id": "566478",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "2023 DISASTER SUPPLEMENTAL (P.L. 117-328)",
+      "amount": 11321838.32
+    },
+    {
+      "id": "590639",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "GSA TECH MODERN (P.L. 115-141)",
+      "amount": 6464467.09
+    },
+    {
+      "id": "566420",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "CADASTRAL REIMBURSABLE PROGRAM",
+      "amount": 6325981.41
+    },
+    {
+      "id": "566625",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "ENERGY AND MINERALS",
+      "amount": 2974655.04
+    },
+    {
+      "id": "566702",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "COMMUNICATION SITE RENTAL FEES",
+      "amount": 1495143.45
+    },
+    {
+      "id": "566568",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "APD FEES",
+      "amount": 46041.92
+    },
+    {
+      "id": "566360",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "2022 DISASTER SUPPLEMENTAL (P.L. 117-43)",
+      "amount": 42230
+    },
+    {
+      "id": "694043",
+      "code": "0026",
+      "type": "program_activity",
+      "name": "CHALLENGE COST SHARE",
+      "amount": 17004.64
+    },
+    {
+      "id": "566756",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "WILDLIFE AND FISHERIES",
+      "amount": 12078.66
+    },
+    {
+      "id": "566796",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "THREATENED AND ENDANGERED SPECIES",
+      "amount": 20.01
+    },
+    {
+      "id": "694255",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

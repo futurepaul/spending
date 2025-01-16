@@ -1,0 +1,27 @@
+{
+  "total": 1091340903.03,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565164",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ASSISTANCE FOR EUROPE, EURASIA AND CENTRAL ASIA (DIRECT)",
+      "amount": 825877848.01
+    },
+    {
+      "id": "570275",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 265597267.38
+    },
+    {
+      "id": "570242",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ASSISTANCE FOR EUROPE, EURASIA, AND CENTRAL ASIA (DIRECT)",
+      "amount": -134212.36
+    }
+  ]
+}

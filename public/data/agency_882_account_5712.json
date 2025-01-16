@@ -1,0 +1,34 @@
+{
+  "total": 18443159.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570544",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PERSONNEL COSTS",
+      "amount": 11932873.79
+    },
+    {
+      "id": "570394",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BENEFITS",
+      "amount": 4013796.95
+    },
+    {
+      "id": "570398",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NON-PERSONNEL COSTS",
+      "amount": 2450084.29
+    },
+    {
+      "id": "694642",
+      "code": "0850",
+      "type": "program_activity",
+      "name": "EXECUTIVE OFFICES S&E (REIMBURSABLE)",
+      "amount": 46404.63
+    }
+  ]
+}

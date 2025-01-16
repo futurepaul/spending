@@ -1,0 +1,83 @@
+{
+  "total": 8750529972.42,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569936",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CHILD CARE BLOCK GRANT PAYMENTS TO STATES",
+      "amount": 8454669189.45
+    },
+    {
+      "id": "566798",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CHILD CARE BLOCK GRANT PAYMENTS TO STATES",
+      "amount": 190026524
+    },
+    {
+      "id": "569991",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CHILD CARE BLOCK GRANT PAYMENTS TO STATES [DISASTER SUPPLEMENTAL]",
+      "amount": 88590131.73
+    },
+    {
+      "id": "570061",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CHILD CARE RESEARCH AND EVALUATION FUND",
+      "amount": 29585828.47
+    },
+    {
+      "id": "570030",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CHILD CARE BLOCK GRANT PAYMENTS TO STATES [ARP]",
+      "amount": 0
+    },
+    {
+      "id": "569729",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "566808",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CHILD CARE STABILIZATION FUND [ARP]",
+      "amount": 0
+    },
+    {
+      "id": "570084",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CHILD CARE BLOCK GRANT PAYMENTS TO STATES [CRRSA]",
+      "amount": -633628.89
+    },
+    {
+      "id": "570004",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CHILD CARE BLOCK GRANT PAYMENTS TO STATES [CARES SUPPLEMENTAL FUNDING]",
+      "amount": -901599.05
+    },
+    {
+      "id": "570066",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CHILD CARE BLOCK GRANT PAYMENTS TO STATES (ARP)",
+      "amount": -4791666.67
+    },
+    {
+      "id": "569893",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CHILD CARE STABILIZATION FUND [ARP]",
+      "amount": -6014806.62
+    }
+  ]
+}

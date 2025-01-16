@@ -1,0 +1,48 @@
+{
+  "total": 220783708.25,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564586",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COUNTER-ISIL TRAIN AND EQUIP",
+      "amount": 234985480.42
+    },
+    {
+      "id": "564400",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED GFEBS",
+      "amount": 9017821.54
+    },
+    {
+      "id": "697210",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 2948.04
+    },
+    {
+      "id": "564555",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564715",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -1233591.93
+    },
+    {
+      "id": "564751",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COUNTER-ISIL TRAIN AND EQUIP FUND",
+      "amount": -21988949.82
+    }
+  ]
+}

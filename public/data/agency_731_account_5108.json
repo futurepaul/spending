@@ -1,0 +1,55 @@
+{
+  "total": 938186635.06,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567029",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SEC. 402 - HIGHWAY SAFETY PROGRAMS",
+      "amount": 377210798.6
+    },
+    {
+      "id": "566858",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SEC. 405 - NATIONAL PRIORITY SAFETY PROGRAMS",
+      "amount": 351175858.2
+    },
+    {
+      "id": "567070",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SEC. 154 / SEC. 164",
+      "amount": 141058828.38
+    },
+    {
+      "id": "566896",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SEC. 404 -HIGH-VISIBILITY ENFORCEMENT PROGRAM",
+      "amount": 40250789.1
+    },
+    {
+      "id": "567173",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 28559689.59
+    },
+    {
+      "id": "566822",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "SECTION 406 SAFETY BELT PERFORMANCE NASS MODERNIZATION (NO-YEAR LIMITATION)",
+      "amount": -9351
+    },
+    {
+      "id": "566878",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "SECTION 406 SAFETY BELT PERFORMANCE NASS MODERNIZATION",
+      "amount": -59977.81
+    }
+  ]
+}

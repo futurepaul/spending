@@ -1,0 +1,41 @@
+{
+  "total": 365460550.05,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570003",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PUBLIC HEALTH AND SOCIAL SERVICES EMERGENCY FUND",
+      "amount": 373094321.18
+    },
+    {
+      "id": "569471",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PUBLIC HEALTH AND SOCIAL SERVICES EMERGENCY FUND",
+      "amount": 0
+    },
+    {
+      "id": "570033",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY (OPP)",
+      "amount": 0
+    },
+    {
+      "id": "608738",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "569754",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM (FEMA)",
+      "amount": -7633771.13
+    }
+  ]
+}

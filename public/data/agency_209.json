@@ -1,0 +1,1518 @@
+{
+  "total": 43208620706.08,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "3752",
+      "code": "0680",
+      "type": "federal_account",
+      "name": "Water and Related Resources, Bureau of Reclamation, Interior",
+      "amount": 3925024661.87,
+      "account_number": "014-0680"
+    },
+    {
+      "id": "3844",
+      "code": "5003",
+      "type": "federal_account",
+      "name": "Payments to States from Receipts Under Mineral Leasing, Public and Acquired Military Lands, Office of Natural Resources Revenue, Interior",
+      "amount": 3841534011.27,
+      "account_number": "014-5003"
+    },
+    {
+      "id": "3842",
+      "code": "4529",
+      "type": "federal_account",
+      "name": "Interior Franchise Fund, Departmental Management",
+      "amount": 3103156788.15,
+      "account_number": "014-4529"
+    },
+    {
+      "id": "3765",
+      "code": "1036",
+      "type": "federal_account",
+      "name": "Operation of the National Park System, National Park Service, Interior",
+      "amount": 3034206922.61,
+      "account_number": "014-1036"
+    },
+    {
+      "id": "3760",
+      "code": "0804",
+      "type": "federal_account",
+      "name": "Surveys, Investigations and Research, U.S. Geological Survey",
+      "amount": 2324978254.79,
+      "account_number": "014-0804"
+    },
+    {
+      "id": "3807",
+      "code": "2100",
+      "type": "federal_account",
+      "name": "Operation of Indian Programs, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 2273278661.51,
+      "account_number": "014-2100"
+    },
+    {
+      "id": "3791",
+      "code": "1611",
+      "type": "federal_account",
+      "name": "Resource Management, United States Fish and Wildlife Service, Interior",
+      "amount": 2082193893.84,
+      "account_number": "014-1611"
+    },
+    {
+      "id": "3784",
+      "code": "1125",
+      "type": "federal_account",
+      "name": "Wildland Fire Management, Department-Wide Programs, Interior",
+      "amount": 1783177752.36,
+      "account_number": "014-1125"
+    },
+    {
+      "id": "6308",
+      "code": "2106",
+      "type": "federal_account",
+      "name": "Operation of Indian Education Programs, Bureau of Indian Education, Interior",
+      "amount": 1592523812.12,
+      "account_number": "014-2106"
+    },
+    {
+      "id": "3846",
+      "code": "5015",
+      "type": "federal_account",
+      "name": "Abandoned Mine Reclamation Fund, Office of Surface Mining Reclamation and Enforcement",
+      "amount": 1519537874.85,
+      "account_number": "014-5015"
+    },
+    {
+      "id": "3773",
+      "code": "1109",
+      "type": "federal_account",
+      "name": "Management of Lands and Resources, Bureau of Land Management, Interior",
+      "amount": 1510796941.78,
+      "account_number": "014-1109"
+    },
+    {
+      "id": "3839",
+      "code": "4523",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Departmental Management",
+      "amount": 1350818250.14,
+      "account_number": "014-4523"
+    },
+    {
+      "id": "3851",
+      "code": "5029",
+      "type": "federal_account",
+      "name": "Federal Aid to Wildlife Restoration, United States Fish and Wildlife Service",
+      "amount": 1111057554.53,
+      "account_number": "014-5029"
+    },
+    {
+      "id": "3748",
+      "code": "0415",
+      "type": "federal_account",
+      "name": "Compact of Free Association, Insular Affairs, Interior",
+      "amount": 882007419.75,
+      "account_number": "014-0415"
+    },
+    {
+      "id": "6351",
+      "code": "5715",
+      "type": "federal_account",
+      "name": "National Parks and Public Land Legacy Restoration Fund, Department-Wide Programs, Interior",
+      "amount": 818580918.86,
+      "account_number": "014-5715"
+    },
+    {
+      "id": "3803",
+      "code": "1804",
+      "type": "federal_account",
+      "name": "Supplemental Payments to UMWA Health Plans, Office of Surface Mining Reclamation and Enforcement",
+      "amount": 719366916,
+      "account_number": "014-1804"
+    },
+    {
+      "id": "3840",
+      "code": "4524",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Bureau of Reclamation",
+      "amount": 657962878.76,
+      "account_number": "014-4524"
+    },
+    {
+      "id": "3777",
+      "code": "1114",
+      "type": "federal_account",
+      "name": "Payments in Lieu of Taxes, Departmental Management",
+      "amount": 621629018,
+      "account_number": "014-1114"
+    },
+    {
+      "id": "6435",
+      "code": "2641",
+      "type": "federal_account",
+      "name": "Energy Community Revitalization Program,  Department-Wide Programs, Interior",
+      "amount": 605958697.48,
+      "account_number": "014-2641"
+    },
+    {
+      "id": "3766",
+      "code": "1039",
+      "type": "federal_account",
+      "name": "Construction, National Park Service, Interior",
+      "amount": 561034047.35,
+      "account_number": "014-1039"
+    },
+    {
+      "id": "3988",
+      "code": "8151",
+      "type": "federal_account",
+      "name": "Sport Fish Restoration Account, United States Fish and Wildlife Service",
+      "amount": 491564859.51,
+      "account_number": "014-8151"
+    },
+    {
+      "id": "3739",
+      "code": "0102",
+      "type": "federal_account",
+      "name": "Departmental Operations, Office of the Secretary, Interior",
+      "amount": 489948863.65,
+      "account_number": "014-0102"
+    },
+    {
+      "id": "6458",
+      "code": "5624",
+      "type": "federal_account",
+      "name": "Aging Infrastructure Account, Bureau of Reclamation, Interior",
+      "amount": 464207026.97,
+      "account_number": "014-5624"
+    },
+    {
+      "id": "3854",
+      "code": "5035",
+      "type": "federal_account",
+      "name": "Land Acquisition and State Assistance, National Park Service",
+      "amount": 401331312.85,
+      "account_number": "014-5035"
+    },
+    {
+      "id": "3932",
+      "code": "5535",
+      "type": "federal_account",
+      "name": "State's Share from Certain Gulf of Mexico Leases, Office of Natural Resources Revenue, Interior",
+      "amount": 353625000,
+      "account_number": "014-5535"
+    },
+    {
+      "id": "3874",
+      "code": "5110",
+      "type": "federal_account",
+      "name": "Recreation Enhancement Fee Program, National Park Service",
+      "amount": 351726352.5,
+      "account_number": "014-5110"
+    },
+    {
+      "id": "3891",
+      "code": "5198",
+      "type": "federal_account",
+      "name": "Natural Resource Damage Assessment and Restoration Fund, Office of the Secretary",
+      "amount": 329743692.31,
+      "account_number": "014-5198"
+    },
+    {
+      "id": "3841",
+      "code": "4525",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Bureau of Land Management",
+      "amount": 327798580.2,
+      "account_number": "014-4525"
+    },
+    {
+      "id": "3811",
+      "code": "2240",
+      "type": "federal_account",
+      "name": "Contract Support Costs, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 317632116.21,
+      "account_number": "014-2240"
+    },
+    {
+      "id": "3799",
+      "code": "1700",
+      "type": "federal_account",
+      "name": "Offshore Safety and Environmental Enforcement, Bureau of Safety and Environmental Enforcement, Interior",
+      "amount": 295859688.23,
+      "account_number": "014-1700"
+    },
+    {
+      "id": "3750",
+      "code": "0418",
+      "type": "federal_account",
+      "name": "Payment to the United States Territories, Fiscal Assistance, Insular Affairs, Interior",
+      "amount": 257470739,
+      "account_number": "014-0418"
+    },
+    {
+      "id": "3892",
+      "code": "5232",
+      "type": "federal_account",
+      "name": "Southern Nevada Public Land Management, Bureau of Land Management",
+      "amount": 253920068.61,
+      "account_number": "014-5232"
+    },
+    {
+      "id": "3804",
+      "code": "1917",
+      "type": "federal_account",
+      "name": "Ocean Energy Management, Bureau of Ocean Energy Management, Interior",
+      "amount": 238138703.52,
+      "account_number": "014-1917"
+    },
+    {
+      "id": "6307",
+      "code": "2105",
+      "type": "federal_account",
+      "name": "Education Construction, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 204860171.02,
+      "account_number": "014-2105"
+    },
+    {
+      "id": "3881",
+      "code": "5140",
+      "type": "federal_account",
+      "name": "Historic Preservation Fund, National Park Service",
+      "amount": 201670462.27,
+      "account_number": "014-5140"
+    },
+    {
+      "id": "3983",
+      "code": "8030",
+      "type": "federal_account",
+      "name": "Tribal Trust Fund, Bureau of Trust Funds Administration, Interior",
+      "amount": 195388131.06,
+      "account_number": "014-8030"
+    },
+    {
+      "id": "3776",
+      "code": "1113",
+      "type": "federal_account",
+      "name": "Office of Natural Resources Revenue, Department-Wide Programs, Interior",
+      "amount": 165491570.97,
+      "account_number": "014-1113"
+    },
+    {
+      "id": "3812",
+      "code": "2301",
+      "type": "federal_account",
+      "name": "Construction, Bureau of Indian Affairs",
+      "amount": 159388935.19,
+      "account_number": "014-2301"
+    },
+    {
+      "id": "6391",
+      "code": "5740",
+      "type": "federal_account",
+      "name": "Selis-Qlispe Ksanka Settlement Trust Fund, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 129890023.73,
+      "account_number": "014-5740"
+    },
+    {
+      "id": "3742",
+      "code": "0107",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of the Solicitor, Interior",
+      "amount": 125373770.38,
+      "account_number": "014-0107"
+    },
+    {
+      "id": "3850",
+      "code": "5020",
+      "type": "federal_account",
+      "name": "Land Acquisition, United States Fish and Wildlife Service",
+      "amount": 121104125.47,
+      "account_number": "014-5020"
+    },
+    {
+      "id": "3933",
+      "code": "5536",
+      "type": "federal_account",
+      "name": "Outer Continental Shelf Revenues, LWCF Share from Certain Leases, National Park Service",
+      "amount": 114400132.19,
+      "account_number": "014-5536"
+    },
+    {
+      "id": "3778",
+      "code": "1116",
+      "type": "federal_account",
+      "name": "Oregon and California Grant Lands, Bureau of Land Management",
+      "amount": 114269723.95,
+      "account_number": "014-1116"
+    },
+    {
+      "id": "3746",
+      "code": "0412",
+      "type": "federal_account",
+      "name": "Assistance to Territories, Insular Affairs, Interior",
+      "amount": 113179394.92,
+      "account_number": "014-0412"
+    },
+    {
+      "id": "3883",
+      "code": "5143",
+      "type": "federal_account",
+      "name": "Cooperative Endangered Species Conservation Fund, United States Fish and Wildlife Service",
+      "amount": 111322321.85,
+      "account_number": "014-5143"
+    },
+    {
+      "id": "3953",
+      "code": "5656",
+      "type": "federal_account",
+      "name": "Colorado River Dam Fund, Boulder Canyon Project, Bureau of Reclamation",
+      "amount": 111305514.3,
+      "account_number": "014-5656"
+    },
+    {
+      "id": "3843",
+      "code": "4556",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Geological Survey",
+      "amount": 110653827.09,
+      "account_number": "014-4556"
+    },
+    {
+      "id": "3800",
+      "code": "1801",
+      "type": "federal_account",
+      "name": "Regulation and Technology, Office of Surface Mining Reclamation and Enforcement",
+      "amount": 109926782.85,
+      "account_number": "014-1801"
+    },
+    {
+      "id": "3744",
+      "code": "0120",
+      "type": "federal_account",
+      "name": "Federal Trust Programs, Bureau of Trust Funds Administration, Interior",
+      "amount": 105418008.85,
+      "account_number": "014-0120"
+    },
+    {
+      "id": "3834",
+      "code": "4081",
+      "type": "federal_account",
+      "name": "Upper Colorado River Basin Fund, Bureau of Reclamation",
+      "amount": 103552750.52,
+      "account_number": "014-4081"
+    },
+    {
+      "id": "3947",
+      "code": "5593",
+      "type": "federal_account",
+      "name": "Reclamation Water Settlements Fund, Bureau of Reclamation, Interior",
+      "amount": 100974819.22,
+      "account_number": "014-5593"
+    },
+    {
+      "id": "3952",
+      "code": "5648",
+      "type": "federal_account",
+      "name": "Power Systems, Indian Irrigation Projects, Bureau of Indian Affairs",
+      "amount": 99130779.01,
+      "account_number": "014-5648"
+    },
+    {
+      "id": "3768",
+      "code": "1042",
+      "type": "federal_account",
+      "name": "National Recreation and Preservation, National Park Service, Interior",
+      "amount": 95509652.21,
+      "account_number": "014-1042"
+    },
+    {
+      "id": "3912",
+      "code": "5431",
+      "type": "federal_account",
+      "name": "Park Concessions Franchise Fees, National Park Service",
+      "amount": 93687556.25,
+      "account_number": "014-5431"
+    },
+    {
+      "id": "3880",
+      "code": "5137",
+      "type": "federal_account",
+      "name": "Migratory Bird Conservation Account, United States Fish and Wildlife Service",
+      "amount": 92471099.39,
+      "account_number": "014-5137"
+    },
+    {
+      "id": "3792",
+      "code": "1612",
+      "type": "federal_account",
+      "name": "Construction, United States Fish and Wildlife Service",
+      "amount": 92042834.92,
+      "account_number": "014-1612"
+    },
+    {
+      "id": "3833",
+      "code": "4079",
+      "type": "federal_account",
+      "name": "Lower Colorado River Basin Development Fund, Bureau of Reclamation",
+      "amount": 78807062.55,
+      "account_number": "014-4079"
+    },
+    {
+      "id": "3740",
+      "code": "0104",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of the Inspector General, Interior",
+      "amount": 76261366.03,
+      "account_number": "014-0104"
+    },
+    {
+      "id": "3853",
+      "code": "5033",
+      "type": "federal_account",
+      "name": "Land Acquisition, Bureau of Land Management",
+      "amount": 75408171,
+      "account_number": "014-5033"
+    },
+    {
+      "id": "3984",
+      "code": "8037",
+      "type": "federal_account",
+      "name": "Donations, National Park Service",
+      "amount": 74640687.26,
+      "account_number": "014-8037"
+    },
+    {
+      "id": "3918",
+      "code": "5474",
+      "type": "federal_account",
+      "name": "State and Tribal Wildlife Grants, U.S. Fish and Wildlife Service",
+      "amount": 73366486.94,
+      "account_number": "014-5474"
+    },
+    {
+      "id": "3900",
+      "code": "5248",
+      "type": "federal_account",
+      "name": "Payments to States, Flood Control Act of 1954, Office of Natural Resources Revenue, Interior",
+      "amount": 67326323.74,
+      "account_number": "014-5248"
+    },
+    {
+      "id": "3866",
+      "code": "5065",
+      "type": "federal_account",
+      "name": "Policy and Administration, Bureau of Reclamation, Interior",
+      "amount": 65008690.75,
+      "account_number": "014-5065"
+    },
+    {
+      "id": "3922",
+      "code": "5479",
+      "type": "federal_account",
+      "name": "Cooperative Endangered Species Conservation Fund, from Land and Water Conservation Fund, U.S. Fish and Wildlife Service",
+      "amount": 64290221.92,
+      "account_number": "014-5479"
+    },
+    {
+      "id": "6367",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Payments for Tribal Leases, Bureau of Indian Affairs, Interior",
+      "amount": 57437739.84,
+      "account_number": "014-0200"
+    },
+    {
+      "id": "3895",
+      "code": "5241",
+      "type": "federal_account",
+      "name": "North American Wetlands Conservation Fund, United States Fish and Wildlife Service",
+      "amount": 48751221.69,
+      "account_number": "014-5241"
+    },
+    {
+      "id": "3942",
+      "code": "5573",
+      "type": "federal_account",
+      "name": "Permit Processing Fund, Bureau of Land Management",
+      "amount": 46996725.87,
+      "account_number": "014-5573"
+    },
+    {
+      "id": "3889",
+      "code": "5173",
+      "type": "federal_account",
+      "name": "Central Valley Project Restoration Fund, Bureau of Reclamation",
+      "amount": 46611319.09,
+      "account_number": "014-5173"
+    },
+    {
+      "id": "3848",
+      "code": "5017",
+      "type": "federal_account",
+      "name": "Service Charges, Deposits and Forfeitures, Bureau of Land Management",
+      "amount": 46325944.13,
+      "account_number": "014-5017"
+    },
+    {
+      "id": "3763",
+      "code": "1034",
+      "type": "federal_account",
+      "name": "Contribution for Annuity Benefits, National Park Service, Interior",
+      "amount": 40883226.41,
+      "account_number": "014-1034"
+    },
+    {
+      "id": "3894",
+      "code": "5240",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Indian Irrigation Systems, Bureau of Indian Affairs (T)",
+      "amount": 34252331.12,
+      "account_number": "014-5240"
+    },
+    {
+      "id": "3756",
+      "code": "0687",
+      "type": "federal_account",
+      "name": "California Bay-Delta Restoration, Bureau of Reclamation, Interior",
+      "amount": 32607290.69,
+      "account_number": "014-0687"
+    },
+    {
+      "id": "3909",
+      "code": "5413",
+      "type": "federal_account",
+      "name": "Recreation Enhancement Fee Program, Bureau of Land Management",
+      "amount": 31017698.66,
+      "account_number": "014-5413"
+    },
+    {
+      "id": "3796",
+      "code": "1652",
+      "type": "federal_account",
+      "name": "Multinational Species Conservation Fund, United States Fish and Wildlife Service",
+      "amount": 29299389.26,
+      "account_number": "014-1652"
+    },
+    {
+      "id": "3882",
+      "code": "5141",
+      "type": "federal_account",
+      "name": "National Indian Gaming Commission, Gaming Activity Fees",
+      "amount": 29163558.93,
+      "account_number": "014-5141"
+    },
+    {
+      "id": "3858",
+      "code": "5049",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, National Park Service",
+      "amount": 28424416.18,
+      "account_number": "014-5049"
+    },
+    {
+      "id": "3960",
+      "code": "5884",
+      "type": "federal_account",
+      "name": "Payments to Counties, Oregon and California Grant Lands, Bureau of Land Management",
+      "amount": 28143441.29,
+      "account_number": "014-5884"
+    },
+    {
+      "id": "3875",
+      "code": "5129",
+      "type": "federal_account",
+      "name": "Payments to State and County from Clark County, Nevada Land Sales, Bureau of Land Management",
+      "amount": 27634519,
+      "account_number": "014-5129"
+    },
+    {
+      "id": "3802",
+      "code": "1803",
+      "type": "federal_account",
+      "name": "Payments in Lieu of Coal Fee Receipts, Office of Surface Mining Reclamation and Enforcement",
+      "amount": 26965198.71,
+      "account_number": "014-1803"
+    },
+    {
+      "id": "3887",
+      "code": "5165",
+      "type": "federal_account",
+      "name": "Forest Ecosystems Health and Recovery, Bureau of Land Management",
+      "amount": 23612208.25,
+      "account_number": "014-5165"
+    },
+    {
+      "id": "3986",
+      "code": "8069",
+      "type": "federal_account",
+      "name": "Land and Resources Management Trust Fund, Bureau of Land Management",
+      "amount": 23225740.19,
+      "account_number": "014-8069"
+    },
+    {
+      "id": "3941",
+      "code": "5571",
+      "type": "federal_account",
+      "name": "Departmental Operations, Land and Water Conservation Fund, Departmental Offices, Interior",
+      "amount": 21870071.36,
+      "account_number": "014-5571"
+    },
+    {
+      "id": "3783",
+      "code": "1121",
+      "type": "federal_account",
+      "name": "Central Hazardous Materials Fund, Department-Wide Programs, Interior",
+      "amount": 21500194.44,
+      "account_number": "014-1121"
+    },
+    {
+      "id": "3856",
+      "code": "5045",
+      "type": "federal_account",
+      "name": "Payments to Alaska from Oil and Gas Leases, National Petroleum Reserve, Office of Natural Resources Revenue, Interior",
+      "amount": 18866267.3,
+      "account_number": "014-5045"
+    },
+    {
+      "id": "3829",
+      "code": "2645",
+      "type": "federal_account",
+      "name": "Centennial Challenge, National Park Service, Interior",
+      "amount": 18762029.35,
+      "account_number": "014-2645"
+    },
+    {
+      "id": "3758",
+      "code": "0787",
+      "type": "federal_account",
+      "name": "Central Utah Project Completion Account, Central Utah Project, Interior",
+      "amount": 18118799.04,
+      "account_number": "014-0787"
+    },
+    {
+      "id": "3993",
+      "code": "8370",
+      "type": "federal_account",
+      "name": "Oil Spill Research, Bureau of Safety and Environmental Enforcement, Interior",
+      "amount": 14895535.82,
+      "account_number": "014-8370"
+    },
+    {
+      "id": "3819",
+      "code": "2628",
+      "type": "federal_account",
+      "name": "Indian Guaranteed Loan Program Account, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 14606529.23,
+      "account_number": "014-2628"
+    },
+    {
+      "id": "3885",
+      "code": "5163",
+      "type": "federal_account",
+      "name": "Park Buildings Lease and Maintenance Fund, National Park Service",
+      "amount": 13476670.37,
+      "account_number": "014-5163"
+    },
+    {
+      "id": "3797",
+      "code": "1691",
+      "type": "federal_account",
+      "name": "National Wildlife Refuge Fund, United States Fish and Wildlife Service",
+      "amount": 13228000,
+      "account_number": "014-1691"
+    },
+    {
+      "id": "3890",
+      "code": "5174",
+      "type": "federal_account",
+      "name": "Utah Reclamation Mitigation and Conservation Account, Interior",
+      "amount": 11297658.72,
+      "account_number": "014-5174"
+    },
+    {
+      "id": "3794",
+      "code": "1618",
+      "type": "federal_account",
+      "name": "Natural Resource Damage Assessment Fund, Natural Resource Damage Assessment and Restoration, Interior",
+      "amount": 9604674.62,
+      "account_number": "014-1618"
+    },
+    {
+      "id": "3877",
+      "code": "5132",
+      "type": "federal_account",
+      "name": "Range Improvements, Bureau of Land Management",
+      "amount": 8627433.59,
+      "account_number": "014-5132"
+    },
+    {
+      "id": "3869",
+      "code": "5091",
+      "type": "federal_account",
+      "name": "National Wildlife Refuge Fund, United States Fish and Wildlife Service",
+      "amount": 8141048.74,
+      "account_number": "014-5091"
+    },
+    {
+      "id": "3902",
+      "code": "5252",
+      "type": "federal_account",
+      "name": "Recreation Fee Enhancement Program, U.S. Fish and Wildlife Service",
+      "amount": 6782643,
+      "account_number": "014-5252"
+    },
+    {
+      "id": "3860",
+      "code": "5051",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, Bureau of Indian Affairs",
+      "amount": 5788790.91,
+      "account_number": "014-5051"
+    },
+    {
+      "id": "3924",
+      "code": "5483",
+      "type": "federal_account",
+      "name": "San Gabriel Basin Restoration Fund, Bureau of Reclamation",
+      "amount": 5504433.4,
+      "account_number": "014-5483"
+    },
+    {
+      "id": "3943",
+      "code": "5574",
+      "type": "federal_account",
+      "name": "Geothermal Lease Revenues, Payment to Counties, Office of Natural Resources Revenue, Interior",
+      "amount": 5302176.14,
+      "account_number": "014-5574"
+    },
+    {
+      "id": "3798",
+      "code": "1696",
+      "type": "federal_account",
+      "name": "Neotropical Migratory Bird Conservation, U.S. Fish and Wildlife Service",
+      "amount": 5146054.11,
+      "account_number": "014-1696"
+    },
+    {
+      "id": "3897",
+      "code": "5243",
+      "type": "federal_account",
+      "name": "Payments to States, National Forest Fund, Office of Natural Resources Revenue, Interior",
+      "amount": 4291218.01,
+      "account_number": "014-5243"
+    },
+    {
+      "id": "3849",
+      "code": "5018",
+      "type": "federal_account",
+      "name": "Expenses, Road Maintenance Deposits, Bureau of Land Management",
+      "amount": 3970135.24,
+      "account_number": "014-5018"
+    },
+    {
+      "id": "3990",
+      "code": "8216",
+      "type": "federal_account",
+      "name": "Contributed Funds, United States Fish and Wildlife Service",
+      "amount": 3440119.2,
+      "account_number": "014-8216"
+    },
+    {
+      "id": "3809",
+      "code": "2103",
+      "type": "federal_account",
+      "name": "Indian Land Consolidation, Bureau of Indian Affairs, Interior",
+      "amount": 3396831.68,
+      "account_number": "014-2103"
+    },
+    {
+      "id": "3859",
+      "code": "5050",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, United States Fish and Wildlife Service",
+      "amount": 3169118.79,
+      "account_number": "014-5050"
+    },
+    {
+      "id": "3743",
+      "code": "0118",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, National Indian Gaming Commission, Interior",
+      "amount": 3148513.95,
+      "account_number": "014-0118"
+    },
+    {
+      "id": "3905",
+      "code": "5265",
+      "type": "federal_account",
+      "name": "Tribal Special Fund, Bureau of Trust Funds Administration, Interior",
+      "amount": 2986933.72,
+      "account_number": "014-5265"
+    },
+    {
+      "id": "3888",
+      "code": "5169",
+      "type": "federal_account",
+      "name": "Concessioner Improvement Accounts, National Park Service",
+      "amount": 2710980.62,
+      "account_number": "014-5169"
+    },
+    {
+      "id": "3901",
+      "code": "5249",
+      "type": "federal_account",
+      "name": "Timber Sales Pipeline Restoration Fund, Bureau of Land Management",
+      "amount": 2440692.56,
+      "account_number": "014-5249"
+    },
+    {
+      "id": "6303",
+      "code": "5668",
+      "type": "federal_account",
+      "name": "Blackfeet Water Settlement Implementation Fund, Bureau of Reclamation, Interior",
+      "amount": 2200113.43,
+      "account_number": "014-5668"
+    },
+    {
+      "id": "3925",
+      "code": "5485",
+      "type": "federal_account",
+      "name": "Title II Projects on Federal Lands, Bureau of Land Management",
+      "amount": 2145064.7,
+      "account_number": "014-5485"
+    },
+    {
+      "id": "6939",
+      "code": "8367",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Bureau of Indian Affairs and Bureau of Indian, Interior",
+      "amount": 1700000,
+      "account_number": "014-8367"
+    },
+    {
+      "id": "3991",
+      "code": "8361",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Bureau of Indian Affairs",
+      "amount": 1570922.81,
+      "account_number": "014-8361"
+    },
+    {
+      "id": "3916",
+      "code": "5469",
+      "type": "federal_account",
+      "name": "Lincoln County Land Act, Bureau of Land Management",
+      "amount": 1325534.8,
+      "account_number": "014-5469"
+    },
+    {
+      "id": "3852",
+      "code": "5032",
+      "type": "federal_account",
+      "name": "Payments to States from Grazing Receipts, Etc., Public Lands within Grazing Districts, Bureau of Land Management",
+      "amount": 1303107.03,
+      "account_number": "014-5032"
+    },
+    {
+      "id": "3878",
+      "code": "5133",
+      "type": "federal_account",
+      "name": "Payments to States (Proceeds of Sales), Bureau of Land Management",
+      "amount": 1054943.56,
+      "account_number": "014-5133"
+    },
+    {
+      "id": "3994",
+      "code": "8562",
+      "type": "federal_account",
+      "name": "Contributed Funds, Geological Survey, Interior",
+      "amount": 956093.6,
+      "account_number": "014-8562"
+    },
+    {
+      "id": "3847",
+      "code": "5016",
+      "type": "federal_account",
+      "name": "Payments to States from Grazing Receipts, Etc., Public Lands Outside Grazing Districts, Bureau of Land Management",
+      "amount": 861263.37,
+      "account_number": "014-5016"
+    },
+    {
+      "id": "3857",
+      "code": "5048",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, Bureau of Land Management",
+      "amount": 757305.13,
+      "account_number": "014-5048"
+    },
+    {
+      "id": "3873",
+      "code": "5109",
+      "type": "federal_account",
+      "name": "Recreation Enhancement Fee Program, Bureau of Reclamation",
+      "amount": 755966.46,
+      "account_number": "014-5109"
+    },
+    {
+      "id": "3818",
+      "code": "2627",
+      "type": "federal_account",
+      "name": "Indian Direct Loan Program Account, Bureau of Indian Affairs, Interior",
+      "amount": 652891,
+      "account_number": "014-2627"
+    },
+    {
+      "id": "3884",
+      "code": "5157",
+      "type": "federal_account",
+      "name": "Lahontan Valley and Pyramid Lake Fish and Wildlife Fund, United States Fish and Wildlife Service",
+      "amount": 612823.52,
+      "account_number": "014-5157"
+    },
+    {
+      "id": "3871",
+      "code": "5103",
+      "type": "federal_account",
+      "name": "Payments to Local Units, Klamath Reclamation Area, Bureau of Reclamation",
+      "amount": 556628.07,
+      "account_number": "014-5103"
+    },
+    {
+      "id": "3899",
+      "code": "5247",
+      "type": "federal_account",
+      "name": "User Fees for Filming and Photography on Public Lands, National Park Service",
+      "amount": 533549.64,
+      "account_number": "014-5247"
+    },
+    {
+      "id": "3855",
+      "code": "5044",
+      "type": "federal_account",
+      "name": "Payments to States from Grazing Receipts, Etc., Public Lands within Grazing Districts, Miscellaneous, Bureau of Land Management",
+      "amount": 494892.63,
+      "account_number": "014-5044"
+    },
+    {
+      "id": "3814",
+      "code": "2303",
+      "type": "federal_account",
+      "name": "Indian Land and Water Claim Settlements and Miscellaneous Payments to Indians, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 452883.46,
+      "account_number": "014-2303"
+    },
+    {
+      "id": "3870",
+      "code": "5092",
+      "type": "federal_account",
+      "name": "Proceeds from Sales, Water Resource Development Projects, United States Fish and Wildlife Service",
+      "amount": 356450.56,
+      "account_number": "014-5092"
+    },
+    {
+      "id": "3961",
+      "code": "5896",
+      "type": "federal_account",
+      "name": "Payments to Counties, National Grasslands, Bureau of Land Management",
+      "amount": 356097.25,
+      "account_number": "014-5896"
+    },
+    {
+      "id": "3946",
+      "code": "5579",
+      "type": "federal_account",
+      "name": "Coastal Impact Assistance, Fish and Wildlife Service, Interior",
+      "amount": 344321.99,
+      "account_number": "014-5579"
+    },
+    {
+      "id": "3987",
+      "code": "8070",
+      "type": "federal_account",
+      "name": "Reclamation Trust Funds, Bureau of Reclamation",
+      "amount": 309575.1,
+      "account_number": "014-8070"
+    },
+    {
+      "id": "6341",
+      "code": "5621",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, Bureau of Indian Education, Interior",
+      "amount": 308044.18,
+      "account_number": "014-5621"
+    },
+    {
+      "id": "3962",
+      "code": "5898",
+      "type": "federal_account",
+      "name": "Payments to Coos and Douglas Counties, Oregon, from Receipts, Coos Bay Wagon Road Grant Lands, Bureau of Land Management",
+      "amount": 279779.48,
+      "account_number": "014-5898"
+    },
+    {
+      "id": "3896",
+      "code": "5242",
+      "type": "federal_account",
+      "name": "Alaska Resupply Program, Bureau of Indian Affairs",
+      "amount": 258935.98,
+      "account_number": "014-5242"
+    },
+    {
+      "id": "3755",
+      "code": "0685",
+      "type": "federal_account",
+      "name": "Bureau of Reclamation Loans Program Account, Bureau of Reclamation, Interior",
+      "amount": 193836.1,
+      "account_number": "014-0685"
+    },
+    {
+      "id": "3810",
+      "code": "2204",
+      "type": "federal_account",
+      "name": "White Earth Economic Development and Tribal Government Fund, Bureau of Indian Affairs",
+      "amount": 182023.53,
+      "account_number": "014-2204"
+    },
+    {
+      "id": "3876",
+      "code": "5130",
+      "type": "federal_account",
+      "name": "Indian Arts and Crafts Fund, Departmental Management",
+      "amount": 171363.56,
+      "account_number": "014-5130"
+    },
+    {
+      "id": "3886",
+      "code": "5164",
+      "type": "federal_account",
+      "name": "Transportation Systems Fund, National Park Service",
+      "amount": 87471.18,
+      "account_number": "014-5164"
+    },
+    {
+      "id": "3931",
+      "code": "5506",
+      "type": "federal_account",
+      "name": "Stewardship Contracting Product Sales, Bureau of Land Management",
+      "amount": 83873.49,
+      "account_number": "014-5506"
+    },
+    {
+      "id": "3861",
+      "code": "5053",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, Bureau of Reclamation, Interior",
+      "amount": 82706.25,
+      "account_number": "014-5053"
+    },
+    {
+      "id": "3934",
+      "code": "5537",
+      "type": "federal_account",
+      "name": "San Joaquin River Restoration Fund, Bureau of Reclamation, Interior",
+      "amount": 71414.43,
+      "account_number": "014-5537"
+    },
+    {
+      "id": "3928",
+      "code": "5496",
+      "type": "federal_account",
+      "name": "Landowner Incentive Program, U.S. Fish and Wildlife Service",
+      "amount": 70565.8,
+      "account_number": "014-5496"
+    },
+    {
+      "id": "3817",
+      "code": "2623",
+      "type": "federal_account",
+      "name": "Claims and Treaty Obligations, Bureau of Indian Affairs (Indefinite)",
+      "amount": 40500,
+      "account_number": "014-2623"
+    },
+    {
+      "id": "3903",
+      "code": "5260",
+      "type": "federal_account",
+      "name": "Federal Land Disposal Account, Bureau of Land Management",
+      "amount": 28081.89,
+      "account_number": "014-5260"
+    },
+    {
+      "id": "3862",
+      "code": "5055",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, Geological Survey",
+      "amount": 26071.54,
+      "account_number": "014-5055"
+    },
+    {
+      "id": "3945",
+      "code": "5576",
+      "type": "federal_account",
+      "name": "Naval Petroleum Reserve Numbered 2 Lease Revenue Account",
+      "amount": 15399.78,
+      "account_number": "014-5576"
+    },
+    {
+      "id": "3956",
+      "code": "5666",
+      "type": "federal_account",
+      "name": "Payment for Tax Losses on Land Acquired for Grand Teton National Park, National Park Service",
+      "amount": 14287.16,
+      "account_number": "014-5666"
+    },
+    {
+      "id": "3867",
+      "code": "5076",
+      "type": "federal_account",
+      "name": "Delaware Water Gap Route 209 Operations, National Park Service",
+      "amount": 8281.96,
+      "account_number": "014-5076"
+    },
+    {
+      "id": "3938",
+      "code": "5558",
+      "type": "federal_account",
+      "name": "Carson City Special Account, Bureau of Land Management, Interior",
+      "amount": 7681.84,
+      "account_number": "014-5558"
+    },
+    {
+      "id": "3879",
+      "code": "5134",
+      "type": "federal_account",
+      "name": "Payment to Oklahoma (Royalties), Office of Natural Resources Revenue, Interior",
+      "amount": 7097.41,
+      "account_number": "014-5134"
+    },
+    {
+      "id": "3907",
+      "code": "5397",
+      "type": "federal_account",
+      "name": "White Pine County Special Account, Bureau of Land Management",
+      "amount": 5484.61,
+      "account_number": "014-5397"
+    },
+    {
+      "id": "6474",
+      "code": "5620",
+      "type": "federal_account",
+      "name": "Navajo Utah Settlement Trust Fund, Bureau of Indian Affairs, Interior",
+      "amount": 30,
+      "account_number": "014-5620"
+    },
+    {
+      "id": "7071",
+      "code": "5611",
+      "type": "federal_account",
+      "name": "San Juan County, New Mexico Federal Land Conveyance, Bureau of Land Management, Interior",
+      "amount": 0,
+      "account_number": "014-5611"
+    },
+    {
+      "id": "3863",
+      "code": "5058",
+      "type": "federal_account",
+      "name": "Operation, Maintenance, and Replacement of Project Works, North Platte Project (Gering and Fort Laramie, Goshen, and Pathfinder Irrigation Districts), Bureau of Reclamation",
+      "amount": 0,
+      "account_number": "014-5058"
+    },
+    {
+      "id": "3906",
+      "code": "5294",
+      "type": "federal_account",
+      "name": "Use of Receipts from Mineral Leasing Activities on Certain Naval Oil Shale Reserves, Bureau of Land Management",
+      "amount": 0,
+      "account_number": "014-5294"
+    },
+    {
+      "id": "3910",
+      "code": "5425",
+      "type": "federal_account",
+      "name": "Environmental Improvement and Restoration Fund, Office of Natural Resources Revenue, Interior",
+      "amount": 0,
+      "account_number": "014-5425"
+    },
+    {
+      "id": "3911",
+      "code": "5430",
+      "type": "federal_account",
+      "name": "Water and Related Resources, Reclamation Fund, Bureau of Reclamation",
+      "amount": 0,
+      "account_number": "014-5430"
+    },
+    {
+      "id": "3838",
+      "code": "4488",
+      "type": "federal_account",
+      "name": "Visitor Experience Improvements Fund, National Park Service, Interior",
+      "amount": 0,
+      "account_number": "014-4488"
+    },
+    {
+      "id": "3837",
+      "code": "4410",
+      "type": "federal_account",
+      "name": "Indian Loan Guaranty and Insurance Fund, Liquidating Account, Bureau of Indian Affairs",
+      "amount": 0,
+      "account_number": "014-4410"
+    },
+    {
+      "id": "3929",
+      "code": "5501",
+      "type": "federal_account",
+      "name": "Community Partnership Enhancement, U.S. Fish and Wildlife Service",
+      "amount": 0,
+      "account_number": "014-5501"
+    },
+    {
+      "id": "3930",
+      "code": "5505",
+      "type": "federal_account",
+      "name": "Indian Water Rights and Habitat Acquisition Program, Bureau of Indian Affairs",
+      "amount": 0,
+      "account_number": "014-5505"
+    },
+    {
+      "id": "3836",
+      "code": "4409",
+      "type": "federal_account",
+      "name": "Revolving Fund for Loans, Liquidating Account, Bureau of Indian Affairs",
+      "amount": 0,
+      "account_number": "014-4409"
+    },
+    {
+      "id": "3936",
+      "code": "5554",
+      "type": "federal_account",
+      "name": "Washington County, Utah Land Acquisition Account, Bureau of Land Management, Interior",
+      "amount": 0,
+      "account_number": "014-5554"
+    },
+    {
+      "id": "3937",
+      "code": "5556",
+      "type": "federal_account",
+      "name": "Owyhee Land Acquisition Account, Bureau of Land Management, Interior",
+      "amount": 0,
+      "account_number": "014-5556"
+    },
+    {
+      "id": "3939",
+      "code": "5559",
+      "type": "federal_account",
+      "name": "Silver Saddle Endowment Account, Bureau of Land Management, Interior",
+      "amount": 0,
+      "account_number": "014-5559"
+    },
+    {
+      "id": "3940",
+      "code": "5561",
+      "type": "federal_account",
+      "name": "State Share, Carson City Land Sales, Bureau of Land Management, Interior",
+      "amount": 0,
+      "account_number": "014-5561"
+    },
+    {
+      "id": "3827",
+      "code": "2638",
+      "type": "federal_account",
+      "name": "Taos Settlement Fund, Bureau of Reclamation, Interior",
+      "amount": 0,
+      "account_number": "014-2638"
+    },
+    {
+      "id": "3944",
+      "code": "5575",
+      "type": "federal_account",
+      "name": "Geothermal Steam Implementation Fund",
+      "amount": 0,
+      "account_number": "014-5575"
+    },
+    {
+      "id": "3948",
+      "code": "5612",
+      "type": "federal_account",
+      "name": "Ojito Land Acquisition, Interior",
+      "amount": 0,
+      "account_number": "014-5612"
+    },
+    {
+      "id": "3949",
+      "code": "5637",
+      "type": "federal_account",
+      "name": "High-Hazard Indian Dam Safety Deferred Maintenance Fund, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 0,
+      "account_number": "014-5637"
+    },
+    {
+      "id": "3950",
+      "code": "5638",
+      "type": "federal_account",
+      "name": "Low-Hazard Indian Dam Safety Deferred Maintenance Fund, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 0,
+      "account_number": "014-5638"
+    },
+    {
+      "id": "3951",
+      "code": "5639",
+      "type": "federal_account",
+      "name": "Indian Irrigation Fund, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 0,
+      "account_number": "014-5639"
+    },
+    {
+      "id": "3955",
+      "code": "5663",
+      "type": "federal_account",
+      "name": "Educational Expenses, Children of Employees, Yellowstone National Park, National Park Service",
+      "amount": 0,
+      "account_number": "014-5663"
+    },
+    {
+      "id": "3805",
+      "code": "1920",
+      "type": "federal_account",
+      "name": "Oil Spill Research, Bureau of Safety and Environmental Enforcement",
+      "amount": 0,
+      "account_number": "014-1920"
+    },
+    {
+      "id": "3985",
+      "code": "8052",
+      "type": "federal_account",
+      "name": "Preservation, Birthplace of Abraham Lincoln, National Park Service",
+      "amount": 0,
+      "account_number": "014-8052"
+    },
+    {
+      "id": "3780",
+      "code": "1118",
+      "type": "federal_account",
+      "name": "Cook Inlet Region, Incorporated Property Account, Bureau of Land Management",
+      "amount": 0,
+      "account_number": "014-1118"
+    },
+    {
+      "id": "3992",
+      "code": "8369",
+      "type": "federal_account",
+      "name": "Gifts and Bequest, Take Pride in America, Interior",
+      "amount": 0,
+      "account_number": "014-8369"
+    },
+    {
+      "id": "3774",
+      "code": "1110",
+      "type": "federal_account",
+      "name": "Construction, Bureau of Land Management",
+      "amount": 0,
+      "account_number": "014-1110"
+    },
+    {
+      "id": "6306",
+      "code": "0130",
+      "type": "federal_account",
+      "name": "Wildfire Suppression Operations Reserve Fund, Department-Wide Programs, Interior",
+      "amount": 0,
+      "account_number": "014-0130"
+    },
+    {
+      "id": "3762",
+      "code": "1031",
+      "type": "federal_account",
+      "name": "Operation of the National Park System, National Park Service, Interior",
+      "amount": 0,
+      "account_number": "014-1031"
+    },
+    {
+      "id": "3761",
+      "code": "0959",
+      "type": "federal_account",
+      "name": "Mines and Minerals, Bureau of Mines, Interior",
+      "amount": 0,
+      "account_number": "014-0959"
+    },
+    {
+      "id": "6354",
+      "code": "5488",
+      "type": "federal_account",
+      "name": "Payments to Alaska, Arctic National Wildlife Refuge, Office of Natural Resources Revenue, Interior",
+      "amount": 0,
+      "account_number": "014-5488"
+    },
+    {
+      "id": "6387",
+      "code": "5762",
+      "type": "federal_account",
+      "name": "National Park Medical Services Fund, National Park Service, Interior",
+      "amount": 0,
+      "account_number": "014-5762"
+    },
+    {
+      "id": "3753",
+      "code": "0681",
+      "type": "federal_account",
+      "name": "Water and Related Resources - Recovery Act, Bureau of Reclamation, Interior",
+      "amount": 0,
+      "account_number": "014-0681"
+    },
+    {
+      "id": "3751",
+      "code": "0667",
+      "type": "federal_account",
+      "name": "Loan Program, Liquidating Account, Bureau of Reclamation, Interior",
+      "amount": 0,
+      "account_number": "014-0667"
+    },
+    {
+      "id": "6436",
+      "code": "2699",
+      "type": "federal_account",
+      "name": "Indian Water Rights Settlement Completion Fund, Bureau of Indian Affairs and Bureau of Indian Education, Interior",
+      "amount": 0,
+      "account_number": "014-2699"
+    },
+    {
+      "id": "3865",
+      "code": "5063",
+      "type": "federal_account",
+      "name": "Regulation and Technology, Civil Penalties, Office of Surface Mining Reclamation and Enforcement",
+      "amount": -110,
+      "account_number": "014-5063"
+    },
+    {
+      "id": "3958",
+      "code": "5670",
+      "type": "federal_account",
+      "name": "Trust Land Consolidation Fund, Bureau of Trust Funds Administration, Interior",
+      "amount": -8401.57,
+      "account_number": "014-5670"
+    },
+    {
+      "id": "3828",
+      "code": "2640",
+      "type": "federal_account",
+      "name": "Abandoned Well Remediation Fund, Bureau of Land Management, Interior",
+      "amount": -28218.75,
+      "account_number": "014-2640"
+    },
+    {
+      "id": "3769",
+      "code": "1046",
+      "type": "federal_account",
+      "name": "Historic Preservation Fund, National Park Service, Interior",
+      "amount": -303103.41,
+      "account_number": "014-1046"
+    },
+    {
+      "id": "3832",
+      "code": "4053",
+      "type": "federal_account",
+      "name": "Helium Fund, Bureau of Land Management",
+      "amount": -2622019.07,
+      "account_number": "014-4053"
+    }
+  ]
+}

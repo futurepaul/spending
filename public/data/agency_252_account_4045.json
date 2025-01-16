@@ -1,0 +1,20 @@
+{
+  "total": 140729778.56,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567502",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL SECURITY DIVISION",
+      "amount": 138592413.56
+    },
+    {
+      "id": "567440",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 2137365
+    }
+  ]
+}

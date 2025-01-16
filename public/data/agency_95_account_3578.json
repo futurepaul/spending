@@ -1,0 +1,20 @@
+{
+  "total": 84668026.38,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568528",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LAND ACQUISITION (12X5004 LALW) DISCRETIONARY",
+      "amount": 84668026.38
+    },
+    {
+      "id": "610545",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 0
+    }
+  ]
+}

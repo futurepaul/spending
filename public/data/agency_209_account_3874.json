@@ -1,0 +1,20 @@
+{
+  "total": 351726352.5,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566758",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RECREATIONAL FEE PROGRAM",
+      "amount": 341726352.5
+    },
+    {
+      "id": "590886",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "RECREATION FEE PERMANENT APPROPRIATIONS (REIMBURSABLE)",
+      "amount": 10000000
+    }
+  ]
+}

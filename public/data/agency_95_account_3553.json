@@ -1,0 +1,34 @@
+{
+  "total": 176769096.3,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568704",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NUTRITION PROGRAMS ADMINISTRATION",
+      "amount": 174805651.57
+    },
+    {
+      "id": "568670",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CONGRESSIONAL HUNGER CENTER FELLOWSHIP",
+      "amount": 2000000
+    },
+    {
+      "id": "568663",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "568635",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CROSS-PROGRAM TECHNICAL ASSISTANCE FOR TRIBAL COMMUNITIES",
+      "amount": -36555.27
+    }
+  ]
+}

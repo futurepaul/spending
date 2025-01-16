@@ -1,0 +1,318 @@
+{
+  "total": 223977848277.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5887",
+      "code": "0243",
+      "type": "federal_account",
+      "name": "Federal Direct Student Loan Program, Education",
+      "amount": 113081806576.65,
+      "account_number": "091-0243"
+    },
+    {
+      "id": "5873",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Student Financial Assistance, Education",
+      "amount": 38373220335.48,
+      "account_number": "091-0200"
+    },
+    {
+      "id": "5901",
+      "code": "0900",
+      "type": "federal_account",
+      "name": "Education for the Disadvantaged, Education",
+      "amount": 19095949457.95,
+      "account_number": "091-0900"
+    },
+    {
+      "id": "5891",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Special Education, Education",
+      "amount": 15428673731.21,
+      "account_number": "091-0300"
+    },
+    {
+      "id": "5883",
+      "code": "0231",
+      "type": "federal_account",
+      "name": "Federal Family Education Loan Program Account, Education",
+      "amount": 13299696292,
+      "account_number": "091-0231"
+    },
+    {
+      "id": "5903",
+      "code": "1000",
+      "type": "federal_account",
+      "name": "School Improvement Programs,  Education",
+      "amount": 5774037295.89,
+      "account_number": "091-1000"
+    },
+    {
+      "id": "5892",
+      "code": "0301",
+      "type": "federal_account",
+      "name": "Rehabilitation Services, Education",
+      "amount": 3990411155.19,
+      "account_number": "091-0301"
+    },
+    {
+      "id": "5874",
+      "code": "0201",
+      "type": "federal_account",
+      "name": "Higher Education, Department of Education",
+      "amount": 3530028126.56,
+      "account_number": "091-0201"
+    },
+    {
+      "id": "5875",
+      "code": "0202",
+      "type": "federal_account",
+      "name": "Student and Administration, Education",
+      "amount": 2219648751.78,
+      "account_number": "091-0202"
+    },
+    {
+      "id": "5894",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Career, Technical, and Adult Education, Education",
+      "amount": 2162975358.58,
+      "account_number": "091-0400"
+    },
+    {
+      "id": "5867",
+      "code": "0102",
+      "type": "federal_account",
+      "name": "Impact AID, Education",
+      "amount": 1637246467.62,
+      "account_number": "091-0102"
+    },
+    {
+      "id": "5877",
+      "code": "0204",
+      "type": "federal_account",
+      "name": "Innovation and Improvement, Education",
+      "amount": 1255913176.11,
+      "account_number": "091-0204"
+    },
+    {
+      "id": "5906",
+      "code": "1300",
+      "type": "federal_account",
+      "name": "English Language Acquisition, Education",
+      "amount": 886297681.44,
+      "account_number": "091-1300"
+    },
+    {
+      "id": "5905",
+      "code": "1100",
+      "type": "federal_account",
+      "name": "Institute of Education Sciences, Department of Education",
+      "amount": 811979675.58,
+      "account_number": "091-1100"
+    },
+    {
+      "id": "5876",
+      "code": "0203",
+      "type": "federal_account",
+      "name": "Safe Schools and Citizenship Education,  Education",
+      "amount": 595895125.46,
+      "account_number": "091-0203"
+    },
+    {
+      "id": "5900",
+      "code": "0800",
+      "type": "federal_account",
+      "name": "Program Administration, Departmental Management,  Education",
+      "amount": 417800842.67,
+      "account_number": "091-0800"
+    },
+    {
+      "id": "5898",
+      "code": "0603",
+      "type": "federal_account",
+      "name": "Howard University,  Education",
+      "amount": 304018000,
+      "account_number": "091-0603"
+    },
+    {
+      "id": "5912",
+      "code": "4257",
+      "type": "federal_account",
+      "name": "Federal Student Loan Reserve Fund, Education",
+      "amount": 299467023,
+      "account_number": "091-4257"
+    },
+    {
+      "id": "5866",
+      "code": "0101",
+      "type": "federal_account",
+      "name": "Indian Education, Office of Elementary and Secondary Education,  Education",
+      "amount": 181867721.83,
+      "account_number": "091-0101"
+    },
+    {
+      "id": "5897",
+      "code": "0602",
+      "type": "federal_account",
+      "name": "Gallaudet University, Special Institutions for Persons with Disabilities, Education",
+      "amount": 167361000,
+      "account_number": "091-0602"
+    },
+    {
+      "id": "5899",
+      "code": "0700",
+      "type": "federal_account",
+      "name": "Office for Civil Rights, Departmental Management, Education",
+      "amount": 138481273.96,
+      "account_number": "091-0700"
+    },
+    {
+      "id": "5896",
+      "code": "0601",
+      "type": "federal_account",
+      "name": "National Technical Institute for the Deaf, Special Institutions for Persons with Disabilities, Department of Education",
+      "amount": 92149330.3,
+      "account_number": "091-0601"
+    },
+    {
+      "id": "6296",
+      "code": "0249",
+      "type": "federal_account",
+      "name": "Department of Education Nonrecurring Expenses Fund",
+      "amount": 76857206.66,
+      "account_number": "091-0249"
+    },
+    {
+      "id": "5907",
+      "code": "1400",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Departmental Management, Education",
+      "amount": 68680384.31,
+      "account_number": "091-1400"
+    },
+    {
+      "id": "5909",
+      "code": "1901",
+      "type": "federal_account",
+      "name": "Historically Black College and University Capital Financing Program Account, Education",
+      "amount": 63059240.04,
+      "account_number": "091-1901"
+    },
+    {
+      "id": "5879",
+      "code": "0206",
+      "type": "federal_account",
+      "name": "Teach Grant Program Account,  Education",
+      "amount": 61393611,
+      "account_number": "091-0206"
+    },
+    {
+      "id": "5895",
+      "code": "0600",
+      "type": "federal_account",
+      "name": "American Printing House for the Blind, Special Institutions for Persons with Disabilities, Education",
+      "amount": 42674461.78,
+      "account_number": "091-0600"
+    },
+    {
+      "id": "5882",
+      "code": "0230",
+      "type": "federal_account",
+      "name": "Guaranteed Student Loans, Liquidating Account, Education",
+      "amount": 3866901.83,
+      "account_number": "091-0230"
+    },
+    {
+      "id": "5889",
+      "code": "0248",
+      "type": "federal_account",
+      "name": "Iraq and Afghanistan Service Grants Program, Office of Federal Student AID, Education",
+      "amount": 632875.86,
+      "account_number": "091-0248"
+    },
+    {
+      "id": "5913",
+      "code": "4299",
+      "type": "federal_account",
+      "name": "Health Education Assistance Loans Liquidating Account, Education",
+      "amount": 540876,
+      "account_number": "091-4299"
+    },
+    {
+      "id": "5885",
+      "code": "0241",
+      "type": "federal_account",
+      "name": "College Housing and Academic Facilities Loans Program,  Education",
+      "amount": 499447.15,
+      "account_number": "091-0241"
+    },
+    {
+      "id": "5888",
+      "code": "0247",
+      "type": "federal_account",
+      "name": "Health Education Assistance Loans Program Account, Education",
+      "amount": 409048,
+      "account_number": "091-0247"
+    },
+    {
+      "id": "5920",
+      "code": "8258",
+      "type": "federal_account",
+      "name": "Contributions,  Education",
+      "amount": 390825.86,
+      "account_number": "091-8258"
+    },
+    {
+      "id": "5911",
+      "code": "4250",
+      "type": "federal_account",
+      "name": "College Housing Loans, Education",
+      "amount": 161895.03,
+      "account_number": "091-4250"
+    },
+    {
+      "id": "5884",
+      "code": "0240",
+      "type": "federal_account",
+      "name": "Higher Education Facilities Loans and Insurance,  Education",
+      "amount": 11972,
+      "account_number": "091-0240"
+    },
+    {
+      "id": "5886",
+      "code": "0242",
+      "type": "federal_account",
+      "name": "College Housing and Academic Facilities Loans, Liquidating Account, Education",
+      "amount": 0,
+      "account_number": "091-0242"
+    },
+    {
+      "id": "5914",
+      "code": "5557",
+      "type": "federal_account",
+      "name": "Student Financial Assistance Debt Collection, Education",
+      "amount": -6803.13,
+      "account_number": "091-5557"
+    },
+    {
+      "id": "5865",
+      "code": "0013",
+      "type": "federal_account",
+      "name": "Hurricane Education Recovery, Office of Elementary and Secondary Education, Education",
+      "amount": -12192893.73,
+      "account_number": "091-0013"
+    },
+    {
+      "id": "6337",
+      "code": "0251",
+      "type": "federal_account",
+      "name": "Education Stabilization Fund, Department of Education",
+      "amount": -74055170.07,
+      "account_number": "091-0251"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "total": 13104142.38,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6233",
+      "code": "3850",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Chemical Safety and Hazard Investigation Board",
+      "amount": 13104142.38,
+      "account_number": "510-3850"
+    },
+    {
+      "id": "6234",
+      "code": "3851",
+      "type": "federal_account",
+      "name": "Emergency Fund, Chemical Safety and Hazard Investigation Board",
+      "amount": 0,
+      "account_number": "510-3851"
+    }
+  ]
+}

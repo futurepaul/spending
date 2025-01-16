@@ -1,0 +1,13 @@
+{
+  "total": 781265174.95,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568372",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT PROGRAM ACTIVITY",
+      "amount": 781265174.95
+    }
+  ]
+}

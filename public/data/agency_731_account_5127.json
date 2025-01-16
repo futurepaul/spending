@@ -1,0 +1,83 @@
+{
+  "total": 3333557855.67,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566993",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GRANTS-IN-AID FOR AIRPORTS",
+      "amount": 3338941458.46
+    },
+    {
+      "id": "566985",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SMALL COMMUNITY AIR SERVICE",
+      "amount": 10000000
+    },
+    {
+      "id": "567022",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "GRANTS-IN-AID FOR AIRPORTS (AIRPORT AND AIRWAY TRUST FUND) (REIMBURSABLE)",
+      "amount": 761386.39
+    },
+    {
+      "id": "566947",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "AIRPORT COOPERATIVE RESEARCH",
+      "amount": 16052.2
+    },
+    {
+      "id": "567043",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567182",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES - GENERAL FUND APPROPRIATION",
+      "amount": -1004.91
+    },
+    {
+      "id": "566861",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY ACT, P.L. 116-136",
+      "amount": -125888.25
+    },
+    {
+      "id": "566839",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AIRPORT TECHNOLOGY RESEARCH",
+      "amount": -303329.52
+    },
+    {
+      "id": "566832",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CORONAVIRUS RESPONSE AND RELIEF SUPPLEMENTAL APPROPRIATIONS (CRRSA) ACT - GRANTS PROGRAM",
+      "amount": -396364.69
+    },
+    {
+      "id": "567090",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PERSONNEL AND RELATED EXPENSES",
+      "amount": -482753.44
+    },
+    {
+      "id": "567033",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "GRANTS-IN-AID FOR AIRPORTS - GENERAL FUND APPROPRIATION",
+      "amount": -14851700.57
+    }
+  ]
+}

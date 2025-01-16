@@ -1,0 +1,14 @@
+{
+  "total": 28792407.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4784",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Federal Labor Relations Authority",
+      "amount": 28792407.37,
+      "account_number": "054-0100"
+    }
+  ]
+}

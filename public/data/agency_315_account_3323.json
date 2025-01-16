@@ -1,0 +1,27 @@
+{
+  "total": 1455701385.35,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570331",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 1455701463.62
+    },
+    {
+      "id": "610410",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "UNITED STATES EMERGENCY REFUGEE AND MIGRATION ASSISTANCE FUND (DIRECT)",
+      "amount": 0
+    },
+    {
+      "id": "570257",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "UNITED STATES EMERGENCY REFUGEE AND MIGRATION ASSISTANCE FUND (DIRECT)",
+      "amount": -78.27
+    }
+  ]
+}

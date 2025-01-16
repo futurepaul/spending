@@ -1,0 +1,62 @@
+{
+  "total": 1409562324.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6219",
+      "code": "2728",
+      "type": "federal_account",
+      "name": "Operating Expenses, Corporation for National and Community Service",
+      "amount": 960616245.59,
+      "account_number": "485-2728"
+    },
+    {
+      "id": "6218",
+      "code": "2726",
+      "type": "federal_account",
+      "name": "Payment to National Service Trust, Corporation for National and Community Service",
+      "amount": 180000000,
+      "account_number": "485-2726"
+    },
+    {
+      "id": "6216",
+      "code": "2722",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Corporation for National and Community Service",
+      "amount": 134448277.54,
+      "account_number": "485-2722"
+    },
+    {
+      "id": "6225",
+      "code": "8267",
+      "type": "federal_account",
+      "name": "National Service Trust, Corporation for National and Community Service",
+      "amount": 118429704.55,
+      "account_number": "485-8267"
+    },
+    {
+      "id": "6215",
+      "code": "2721",
+      "type": "federal_account",
+      "name": "Office of Inspector General, Corporation for National and Community Service",
+      "amount": 9038050.37,
+      "account_number": "485-2721"
+    },
+    {
+      "id": "6217",
+      "code": "2723",
+      "type": "federal_account",
+      "name": "Vista Advance Payment Revolving Fund, Corporation for National and Community Service",
+      "amount": 5484433.43,
+      "account_number": "485-2723"
+    },
+    {
+      "id": "6226",
+      "code": "8981",
+      "type": "federal_account",
+      "name": "Gifts and Contributions, Corporation for National and Community Service",
+      "amount": 1545613.5,
+      "account_number": "485-8981"
+    }
+  ]
+}

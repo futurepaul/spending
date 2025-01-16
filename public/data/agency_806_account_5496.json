@@ -1,0 +1,20 @@
+{
+  "total": 529562010.75,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570090",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE ON DEAFNESS AND OTHER COMMUNICATION DISORDER (0890)",
+      "amount": 529577257.41
+    },
+    {
+      "id": "569923",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": -15246.66
+    }
+  ]
+}

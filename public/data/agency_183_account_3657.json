@@ -1,0 +1,27 @@
+{
+  "total": 224521285.32,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570722",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 130859302.46
+    },
+    {
+      "id": "570656",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OPERATIONS AND ADMINISTRATION",
+      "amount": 93648932.87
+    },
+    {
+      "id": "570682",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 13049.99
+    }
+  ]
+}

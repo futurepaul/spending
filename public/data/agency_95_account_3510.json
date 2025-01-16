@@ -1,0 +1,97 @@
+{
+  "total": 889668710.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568602",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "WATER AND WASTE DISPOSAL SYSTEMS GRANTS",
+      "amount": 440112652.01
+    },
+    {
+      "id": "642410",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 155681264
+    },
+    {
+      "id": "568558",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "2023 DISASTER GRANTS",
+      "amount": 99564800
+    },
+    {
+      "id": "568479",
+      "code": "0701",
+      "type": "program_activity",
+      "name": "DIRECT LOAN SUBSIDY",
+      "amount": 77622539.43
+    },
+    {
+      "id": "642606",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 70957168
+    },
+    {
+      "id": "568761",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "EMERGENCY COMMUNITY WATER ASSISTANCE GRANTS",
+      "amount": 31103255.68
+    },
+    {
+      "id": "568563",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "SOLID WASTE MANAGEMENT GRANTS",
+      "amount": 9038760.07
+    },
+    {
+      "id": "568343",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "771 WATER AND WASTE PILOT PROGRAM GRANTS",
+      "amount": 6150072
+    },
+    {
+      "id": "642107",
+      "code": "0707",
+      "type": "program_activity",
+      "name": "REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 4343
+    },
+    {
+      "id": "642557",
+      "code": "0708",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 9
+    },
+    {
+      "id": "568804",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "EMERGENCY COMMUNITY WATER ASSISTANCE GRANTS",
+      "amount": 0
+    },
+    {
+      "id": "568313",
+      "code": "0702",
+      "type": "program_activity",
+      "name": "LOAN GUARANTEE SUBSIDY",
+      "amount": -3375.6
+    },
+    {
+      "id": "568561",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": -562777.14
+    }
+  ]
+}

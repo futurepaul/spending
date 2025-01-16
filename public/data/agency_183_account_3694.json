@@ -1,0 +1,153 @@
+{
+  "total": 940102750.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "682355",
+      "code": "6031",
+      "type": "program_activity",
+      "name": "REGIONAL TECHNOLOGY AND INNOVATION HUB PROGRAM (P.L. 117-328 DIVISION N)",
+      "amount": 337500011.21
+    },
+    {
+      "id": "682466",
+      "code": "6029",
+      "type": "program_activity",
+      "name": "2023 DISASTER SUPPLEMENTAL (P.L. 117-328 DIVISION N)",
+      "amount": 328328733
+    },
+    {
+      "id": "682540",
+      "code": "6030",
+      "type": "program_activity",
+      "name": "RECOMPETE PILOT PROGRAM (P.L. 117-328 DIVISION N)",
+      "amount": 144742324.89
+    },
+    {
+      "id": "682417",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "ASSISTANCE TO COAL COMMUNITIES",
+      "amount": 68035472.15
+    },
+    {
+      "id": "682486",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PUBLIC WORKS",
+      "amount": 55482156.93
+    },
+    {
+      "id": "682387",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PLANNING",
+      "amount": 29765863.33
+    },
+    {
+      "id": "682541",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ECONOMIC ADJUSTMENT",
+      "amount": 24106970.55
+    },
+    {
+      "id": "682489",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "TRADE ADJUSTMENT ASSISTANCE",
+      "amount": 13499997.83
+    },
+    {
+      "id": "682522",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE",
+      "amount": 11740334.93
+    },
+    {
+      "id": "682391",
+      "code": "6027",
+      "type": "program_activity",
+      "name": "ECONOMIC DEVELOPMENT ASSISTANCE PROGRAM",
+      "amount": 10589953
+    },
+    {
+      "id": "682393",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "DISASTER RELIEF ACT, 2019 (DISASTER SUPPLEMENTAL)",
+      "amount": 10494429.02
+    },
+    {
+      "id": "682429",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "RESEARCH",
+      "amount": 1094312.56
+    },
+    {
+      "id": "682464",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL APPROPRIATIONS ACT 2010 FLOODS",
+      "amount": 0
+    },
+    {
+      "id": "682359",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "2008 DISASTER SUPPLEMENTAL",
+      "amount": 0
+    },
+    {
+      "id": "682364",
+      "code": "0072",
+      "type": "program_activity",
+      "name": "ECONOMIC DEVELOPMENT PROGRAMS 2008 DISASTER SUPPLEMENTAL II",
+      "amount": 0
+    },
+    {
+      "id": "682531",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "CONSOLIDATED AND FURTHER CONTINUING APPROPRIATIONS ACT, 2012 (DISASTER RELIEF)",
+      "amount": 0
+    },
+    {
+      "id": "682520",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "2023 DISASTER SUPPLEMENTAL",
+      "amount": -160.68
+    },
+    {
+      "id": "682487",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "STEM APPRENTICESHIP PROGRAM",
+      "amount": -16838.37
+    },
+    {
+      "id": "682463",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "REGIONAL INNOVATION",
+      "amount": -1126387.35
+    },
+    {
+      "id": "682377",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "ASSISTANCE TO NUCLEAR CLOSURE COMMUNITIES",
+      "amount": -1685231
+    },
+    {
+      "id": "682543",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "DISASTER SUPPLEMENTALS",
+      "amount": -92449191.21
+    }
+  ]
+}

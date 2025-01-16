@@ -1,0 +1,34 @@
+{
+  "total": 19423532914.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570134",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GRANTS TO STATES AND US TERRITORIES",
+      "amount": 19305398836.72
+    },
+    {
+      "id": "672859",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CHIP REDISTRIBUTION FUND",
+      "amount": 128909787
+    },
+    {
+      "id": "570067",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CHILD HEALTH QUALITY",
+      "amount": 8708934.73
+    },
+    {
+      "id": "570163",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PERFORMANCE BONUS PAYMENTS",
+      "amount": -19484644
+    }
+  ]
+}

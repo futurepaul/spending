@@ -1,0 +1,111 @@
+{
+  "total": 1645925314.52,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568160",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "UPGRADING OUR ELECTRIC GRID AND ENSURING RELIABILITY AND RESILIENCY",
+      "amount": 910132636.34
+    },
+    {
+      "id": "568164",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "ADVANCED REACTOR DEMONSTRATION PROGRAM",
+      "amount": 199043795.09
+    },
+    {
+      "id": "568026",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "REGIONAL CLEAN HYDROGEN HUBS",
+      "amount": 127474868.07
+    },
+    {
+      "id": "687250",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "ADVANCED INDUSTRIAL FACILITIES DEPLOYMENT PROGRAM",
+      "amount": 75817049
+    },
+    {
+      "id": "568155",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "CARBON CAPTURE DEMONSTRATION PROJECTS PROGRAM",
+      "amount": 63242459.55
+    },
+    {
+      "id": "568024",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "ENERGY IMPROVEMENT IN RURAL AND REMOTE AREAS",
+      "amount": 60252149.05
+    },
+    {
+      "id": "567981",
+      "code": "0033",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION-IIJA",
+      "amount": 56321986.36
+    },
+    {
+      "id": "568119",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CLEAN ENERGY DEMONSTRATIONS (BASE PROGRAM)",
+      "amount": 39280768.57
+    },
+    {
+      "id": "567978",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION (BASE)",
+      "amount": 31984748.16
+    },
+    {
+      "id": "568207",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "LONG-DURATION DEMONSTRATION INITIATIVE AND JOINT PROGRAM",
+      "amount": 23868453.67
+    },
+    {
+      "id": "567987",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "ENERGY STORAGE DEMONSTRATION PILOT GRANT PROGRAM",
+      "amount": 20142832.02
+    },
+    {
+      "id": "568118",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "CLEAN ENERGY DEMONSTRATION PROGRAM ON CURRENT AND FORMER MINE LAND",
+      "amount": 16965297.46
+    },
+    {
+      "id": "568041",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "CARBON CAPTURE LARGE-SCALE PILOT PROJECTS",
+      "amount": 16927108.06
+    },
+    {
+      "id": "672407",
+      "code": "0051",
+      "type": "program_activity",
+      "name": "INFLATION REDUCTION ACT - ADMINISTRATIVE EXPENSES",
+      "amount": 2430960.48
+    },
+    {
+      "id": "568185",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "INDUSTRIAL EMISSION DEMONSTRATION PROJECTS",
+      "amount": 2040202.64
+    }
+  ]
+}

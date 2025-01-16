@@ -1,0 +1,76 @@
+{
+  "total": 811979675.58,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564110",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RESEARCH, DEVELOPMENT, AND DISSEMINATION",
+      "amount": 293231507.52
+    },
+    {
+      "id": "564191",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATIONAL ASSESSMENT",
+      "amount": 208674014
+    },
+    {
+      "id": "564186",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "STATISTICS",
+      "amount": 114251649.11
+    },
+    {
+      "id": "564095",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "RESEARCH IN SPECIAL EDUCATION",
+      "amount": 69151619.73
+    },
+    {
+      "id": "564172",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "REGIONAL EDUCATIONAL LABORATORIES",
+      "amount": 56841577.38
+    },
+    {
+      "id": "564077",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "STATEWIDE LONGITUDINAL DATA SYSTEMS",
+      "amount": 48512206.27
+    },
+    {
+      "id": "564058",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "SPECIAL EDUCATION STUDIES AND EVALUATIONS",
+      "amount": 11611758.73
+    },
+    {
+      "id": "564072",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 4858747.96
+    },
+    {
+      "id": "564197",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIONAL ASSESSMENT GOVERNING BOARD",
+      "amount": 3177360.39
+    },
+    {
+      "id": "564105",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 1669234.49
+    }
+  ]
+}

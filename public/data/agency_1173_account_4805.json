@@ -1,0 +1,69 @@
+{
+  "total": 1113131980.54,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564529",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAJOR CONSTRUCTION",
+      "amount": 3978357304.74
+    },
+    {
+      "id": "564600",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PLANNING",
+      "amount": 320153890.35
+    },
+    {
+      "id": "564581",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MINOR CONSTRUCTION",
+      "amount": 105851093.19
+    },
+    {
+      "id": "564753",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 75420125.23
+    },
+    {
+      "id": "567077",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PLANNING",
+      "amount": 2461.39
+    },
+    {
+      "id": "567197",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564453",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 0
+    },
+    {
+      "id": "564456",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "FOREIGN CURRENCY FLUCTUATION",
+      "amount": -14288877.1
+    },
+    {
+      "id": "564725",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -3352364017.26
+    }
+  ]
+}

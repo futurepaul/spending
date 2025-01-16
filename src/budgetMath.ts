@@ -31,6 +31,24 @@ export function scaleToUserAmount(
   };
 }
 
+export function calculatePercentage(amount: number, total: number): number {
+  return (amount / total) * 100;
+}
+
+export function calculateUserPortion(
+  userAmount: number,
+  itemAmount: number,
+  totalBudget: number,
+  parentAmount?: number
+): number {
+  // First calculate the percentage of the total budget (or parent if provided)
+  const baseAmount = parentAmount || totalBudget;
+  const percentage = itemAmount / baseAmount;
+  
+  // Then apply that percentage to the user's amount
+  return userAmount * percentage;
+}
+
 export function calculateAgencyAmount(
   userAmount: number,
   agencyAmount: number,

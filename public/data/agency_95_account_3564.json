@@ -1,0 +1,48 @@
+{
+  "total": 22057108643.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568488",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM - INDEMNITIES",
+      "amount": 19992619631.01
+    },
+    {
+      "id": "568540",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "DELIVERY EXPENSES",
+      "amount": 2435859769.49
+    },
+    {
+      "id": "568283",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "UNDERWRITING GAINS",
+      "amount": 2111181623.3
+    },
+    {
+      "id": "568421",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM - PROGRAMS AND ACTIVITIES",
+      "amount": 75683859
+    },
+    {
+      "id": "568436",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ALL OTHERS",
+      "amount": 67345017.91
+    },
+    {
+      "id": "568795",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "INDEMNITIES",
+      "amount": -2625581257.26
+    }
+  ]
+}

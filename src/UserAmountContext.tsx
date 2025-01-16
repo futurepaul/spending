@@ -10,8 +10,8 @@ interface UserAmountContextType {
 const UserAmountContext = createContext<UserAmountContextType | undefined>(undefined);
 
 export function UserAmountProvider({ children }: { children: React.ReactNode }) {
-  const [amount, setAmount] = useState(0);
-  const [useUserMoney, setUseUserMoney] = useState(true);
+  const [amount, setAmount] = useState(1);
+  const [useUserMoney, setUseUserMoney] = useState(false);
 
   return (
     <UserAmountContext.Provider value={{ amount, setAmount, useUserMoney, setUseUserMoney }}>

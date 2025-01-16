@@ -1,0 +1,153 @@
+{
+  "total": 8881864014.32,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569563",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "NON-RECURRING MAINTENANCE",
+      "amount": 2458417451.47
+    },
+    {
+      "id": "569493",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "PLANT OPERATION",
+      "amount": 1856298780.58
+    },
+    {
+      "id": "569601",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ENGINEERING & ENVIRONMENTAL MANAGEMENT SERVICES",
+      "amount": 1304938441.12
+    },
+    {
+      "id": "569647",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ENGINEERING SERVICE",
+      "amount": 980801673.8
+    },
+    {
+      "id": "569639",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "RECURRING MAINTENANCE & REPAIR",
+      "amount": 575712358.82
+    },
+    {
+      "id": "569500",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "OPERATING EQUIPMENT MAINTENANCE & REPAIR",
+      "amount": 553909297.6
+    },
+    {
+      "id": "569642",
+      "code": "0109",
+      "type": "program_activity",
+      "name": "PLANT OPERATION",
+      "amount": 307407928.03
+    },
+    {
+      "id": "569714",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "TRANSPORTATION",
+      "amount": 262639556.41
+    },
+    {
+      "id": "569482",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "TEXTILE CARE PROCESSING & MANAGEMENT",
+      "amount": 187747773.8
+    },
+    {
+      "id": "569695",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "GROUNDS MAINTENANCE & FIRE PROTECTION",
+      "amount": 152861999.88
+    },
+    {
+      "id": "569680",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "OTHER FACILITIES OPERATION SUPPORT",
+      "amount": 107803697.11
+    },
+    {
+      "id": "569566",
+      "code": "0111",
+      "type": "program_activity",
+      "name": "TEXTILE CARE PROCESSING & MANAGEMENT",
+      "amount": 28122112.77
+    },
+    {
+      "id": "569715",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "MEDICAL FACILITIES (REIMBURSABLE)",
+      "amount": 20916811.78
+    },
+    {
+      "id": "569517",
+      "code": "0107",
+      "type": "program_activity",
+      "name": "OPERATING EQUIPMENT MAINTENANCE & REPAIR",
+      "amount": 20585777.56
+    },
+    {
+      "id": "569509",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "ENGINEERING SERVICE",
+      "amount": 19418162.15
+    },
+    {
+      "id": "569612",
+      "code": "0110",
+      "type": "program_activity",
+      "name": "RECURRING MAINTENANCE & REPAIR",
+      "amount": 16964661.24
+    },
+    {
+      "id": "569571",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "ENGINEERING & ENVIRONMENTAL MANAGEMENT SERVICES",
+      "amount": 13319230.06
+    },
+    {
+      "id": "569617",
+      "code": "0104",
+      "type": "program_activity",
+      "name": "GROUNDS MAINTENANCE & FIRE PROTECTION",
+      "amount": 8005032.71
+    },
+    {
+      "id": "569504",
+      "code": "0122",
+      "type": "program_activity",
+      "name": "TRANSPORTATION",
+      "amount": 3617506.34
+    },
+    {
+      "id": "569595",
+      "code": "0108",
+      "type": "program_activity",
+      "name": "OTHER FACILITIES OPERATION SUPPORT",
+      "amount": 3086046
+    },
+    {
+      "id": "569699",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -710284.91
+    }
+  ]
+}

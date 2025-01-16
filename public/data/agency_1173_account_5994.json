@@ -1,0 +1,118 @@
+{
+  "total": -503392.6,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564380",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 0
+    },
+    {
+      "id": "564463",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564568",
+      "code": "0099",
+      "type": "program_activity",
+      "name": "BRAC III",
+      "amount": 0
+    },
+    {
+      "id": "564931",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564950",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MILITARY FAMILY HOUSING",
+      "amount": 0
+    },
+    {
+      "id": "564963",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564973",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONSTRUCTION",
+      "amount": 0
+    },
+    {
+      "id": "564629",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "HOMEOWNERS ASSISTANCE",
+      "amount": 0
+    },
+    {
+      "id": "564659",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MILITARY PERSONNEL PCS",
+      "amount": 0
+    },
+    {
+      "id": "564734",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "MILITARY FAMILY HOUSING CONSTRUCTION",
+      "amount": 0
+    },
+    {
+      "id": "564811",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 0
+    },
+    {
+      "id": "564929",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAJOR CONSTRUCTION",
+      "amount": 0
+    },
+    {
+      "id": "564959",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OPERATION AND MAINTENANCE",
+      "amount": -1262.01
+    },
+    {
+      "id": "564738",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OPERATIONS & MAINTENANCE",
+      "amount": -74154.65
+    },
+    {
+      "id": "564992",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -156318.74
+    },
+    {
+      "id": "564588",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL",
+      "amount": -271657.2
+    }
+  ]
+}

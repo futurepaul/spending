@@ -1,0 +1,69 @@
+{
+  "total": 8035539796.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570165",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CLINICAL SERVICES",
+      "amount": 4827194001.61
+    },
+    {
+      "id": "569769",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "INDIAN HEALTH SERVICES (REIMBURSABLE)",
+      "amount": 2543877959.31
+    },
+    {
+      "id": "570094",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PREVENTIVE HEALTH",
+      "amount": 216557030.49
+    },
+    {
+      "id": "570131",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "DIABETES FUNDS",
+      "amount": 157884724.08
+    },
+    {
+      "id": "570083",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "DIRECT OPERATIONS",
+      "amount": 110481304.51
+    },
+    {
+      "id": "569971",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "URBAN HEALTH",
+      "amount": 89533464.44
+    },
+    {
+      "id": "569796",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "INDIAN HEALTH PROFESSIONS",
+      "amount": 80481827.42
+    },
+    {
+      "id": "569809",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SELF-GOVERNANCE",
+      "amount": 6995497.9
+    },
+    {
+      "id": "570087",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "TRIBAL MANAGEMENT",
+      "amount": 2533986.31
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "total": 92042834.92,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566722",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "2023 DISASTER SUPPLEMENTAL (P.L. 117-328)",
+      "amount": 39136546.01
+    },
+    {
+      "id": "566774",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "2022 DISASTER SUPPLEMENTAL (P.L. 117-43)",
+      "amount": 16771562.19
+    },
+    {
+      "id": "566744",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LINE ITEM CONSTRUCTION PROJECTS",
+      "amount": 16207491.15
+    },
+    {
+      "id": "566563",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "RESTORATION OF FEDERAL ASSETS (DISASTER SUPPLEMENTAL P.L. 116-20)",
+      "amount": 6550726.16
+    },
+    {
+      "id": "566576",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONWIDE ENGINEERING SERVICE",
+      "amount": 6008912.23
+    },
+    {
+      "id": "566660",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "BRIDGE, DAM AND SEISMIC SAFETY",
+      "amount": 2876094.36
+    },
+    {
+      "id": "566707",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "RESTORATION OF FEDERAL ASSETS (HURRICANE SUPPLEMENTAL P.L. 115-123)",
+      "amount": 2339182.35
+    },
+    {
+      "id": "566330",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CONSTRUCTION DEFERRED MAINTENANCE",
+      "amount": 2152320.47
+    },
+    {
+      "id": "566480",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CONSTRUCTION (REIMBURSABLE)",
+      "amount": 0
+    }
+  ]
+}

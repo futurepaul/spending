@@ -1,0 +1,153 @@
+{
+  "total": 421648216.6,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567992",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "MANAGEMENT",
+      "amount": 67531867.13
+    },
+    {
+      "id": "568148",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CHIEF FINANCIAL OFFICER",
+      "amount": 64259049.93
+    },
+    {
+      "id": "568107",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "INTERNATIONAL AFFAIRS",
+      "amount": 53842364.37
+    },
+    {
+      "id": "568117",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "HUMAN CAPITAL MANAGEMENT",
+      "amount": 49181358.71
+    },
+    {
+      "id": "672362",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "ENERGY JUSTICE AND EQUITY",
+      "amount": 36420611.35
+    },
+    {
+      "id": "568210",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "GENERAL COUNSEL",
+      "amount": 36094345.52
+    },
+    {
+      "id": "567996",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "OFFICE OF POLICY",
+      "amount": 24739495.26
+    },
+    {
+      "id": "568141",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEPARTMENTAL ADMINISTRATION (REIMBURSABLE)",
+      "amount": 23002881.39
+    },
+    {
+      "id": "568116",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CHIEF INFORMATION OFFICER",
+      "amount": 15635136.6
+    },
+    {
+      "id": "568069",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "PROJECT MANAGEMENT OVERSIGHT AND ASSESSMENT",
+      "amount": 14644915.27
+    },
+    {
+      "id": "568136",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "STRATEGIC PARTNERSHIP PROJECTS",
+      "amount": 11622417.74
+    },
+    {
+      "id": "568056",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OFFICE OF THE SECRETARY",
+      "amount": 7321132.04
+    },
+    {
+      "id": "568186",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "OFFICE OF PUBLIC AFFAIRS",
+      "amount": 6581850.06
+    },
+    {
+      "id": "568159",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OFFICE OF CONGRESSIONAL AND INTERGOVERNMENTAL AFFAIRS",
+      "amount": 5991372.45
+    },
+    {
+      "id": "568192",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "OFFICE OF SMALL AND DISADVANTAGED BUSINESS UTILIZATION",
+      "amount": 4317986.74
+    },
+    {
+      "id": "687243",
+      "code": "0035",
+      "type": "program_activity",
+      "name": "INDUSTRIAL EMISSIONS AND TECHNOLOGY COORDINATION",
+      "amount": 1427170.68
+    },
+    {
+      "id": "568138",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COST OF WORK",
+      "amount": 386882.36
+    },
+    {
+      "id": "568130",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "ARTIFICIAL INTELLIGENCE TECHNOLOGY OFFICE",
+      "amount": 225796.61
+    },
+    {
+      "id": "568208",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "CARES ACT IT SUPPLEMENTAL",
+      "amount": -2882.51
+    },
+    {
+      "id": "568007",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "OFFICE OF TECHNOLOGY TRANSITIONS",
+      "amount": -74240.04
+    },
+    {
+      "id": "568172",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "INDIAN ENERGY POLICY",
+      "amount": -1501295.06
+    }
+  ]
+}

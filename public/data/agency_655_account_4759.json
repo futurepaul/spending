@@ -1,0 +1,27 @@
+{
+  "total": 95996438.1,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566185",
+      "code": "0302",
+      "type": "program_activity",
+      "name": "LOW INCOME SCHOLARSHIP PROGRAM",
+      "amount": 66719793.3
+    },
+    {
+      "id": "566201",
+      "code": "0303",
+      "type": "program_activity",
+      "name": "ITEST GRANTS FOR MATHEMATICS, SCIENCE, OR ENGINEERING ENRICHMENT COURSES",
+      "amount": 29276644.8
+    },
+    {
+      "id": "566193",
+      "code": "00U2",
+      "type": "program_activity",
+      "name": "OTHER UNMAPPED",
+      "amount": 0
+    }
+  ]
+}

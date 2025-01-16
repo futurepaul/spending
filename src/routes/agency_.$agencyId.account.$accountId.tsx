@@ -18,8 +18,8 @@ export const Route = createFileRoute('/agency_/$agencyId/account/$accountId')<{
   validateSearch: searchSchema,
   loader: async ({ params, context }) => {
     const [agencyData, accountData] = await Promise.all([
-      context.fetchAgencySpending(params.agencyId),
-      context.fetchAccountSpending(params.accountId, params.agencyId),
+      context.fetchLocalAgencySpending(params.agencyId),
+      context.fetchLocalAccountSpending(params.accountId, params.agencyId),
     ])
     return { agencyData, accountData }
   },
@@ -39,6 +39,9 @@ function RouteComponent() {
   // Find the account name from the agency data
   const account = agencyData.results.find((item) => item.id === accountId)
   const accountName = account?.name || `Account ${accountId}`
+
+  // Calculate the account's percentage of the agency's total
+  const accountPercentage = account ? account.amount / agencyData.total : 0
 
   const treeData: TreeViewData[] = accountData.results.map((item) => ({
     name: item.name,
@@ -76,9 +79,9 @@ function RouteComponent() {
         }}
       />
       {search.view === 'tree' ? (
-        <TreeView data={treeData} title={`${accountName} Programs`} />
+        <TreeView data={treeData} title={`${accountName} Programs`} onItemClick={undefined} parentPercentage={accountPercentage} />
       ) : (
-        <ListView data={treeData} />
+        <ListView data={treeData} onItemClick={undefined} parentPercentage={accountPercentage} />
       )}
     </div>
   )

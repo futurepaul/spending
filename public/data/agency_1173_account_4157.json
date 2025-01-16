@@ -1,0 +1,41 @@
+{
+  "total": 314492305.94,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564702",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 302023425.74
+    },
+    {
+      "id": "564941",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMIN & SRVWD ACTIVITIES",
+      "amount": 11286301.39
+    },
+    {
+      "id": "564217",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 1187572.23
+    },
+    {
+      "id": "564874",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "UNMATCHED",
+      "amount": 7162.1
+    },
+    {
+      "id": "564458",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -12155.52
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "total": 1688745.65,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567344",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATION",
+      "amount": 1688745.65
+    },
+    {
+      "id": "567569",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "VICTIM COMPENSATION",
+      "amount": 0
+    },
+    {
+      "id": "567575",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "total": 50482992.97,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "563816",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "INVESTIGATIONS",
+      "amount": 27981644.29
+    },
+    {
+      "id": "563833",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AUDIT",
+      "amount": 14644121.04
+    },
+    {
+      "id": "563839",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND OPERATIONS",
+      "amount": 3717722.99
+    },
+    {
+      "id": "563848",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "IMMEDIATE OFFICE AND COUNSEL",
+      "amount": 2513160.39
+    },
+    {
+      "id": "563861",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "TECHNOLOGY SOLUTIONS DIVISION",
+      "amount": 1626344.26
+    },
+    {
+      "id": "563824",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

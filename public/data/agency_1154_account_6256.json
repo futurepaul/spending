@@ -1,0 +1,55 @@
+{
+  "total": 1695609101.34,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565134",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COUNTRY PROGRAMS ASSISTANCE (COMPACTS)",
+      "amount": 1411855238.53
+    },
+    {
+      "id": "565131",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 134946979.13
+    },
+    {
+      "id": "565138",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MONITORING AND EVALUATION (DUE DILIGENCE)",
+      "amount": 68357929.01
+    },
+    {
+      "id": "565133",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "THRESHOLD PROGRAMS",
+      "amount": 60000000
+    },
+    {
+      "id": "565132",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "609(G) COMPACT ASSISTANCE",
+      "amount": 16911832.39
+    },
+    {
+      "id": "565136",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "USAID INSPECTOR GENERAL",
+      "amount": 2402661.67
+    },
+    {
+      "id": "565137",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "REIMBURSABLE AGREEMENTS",
+      "amount": 1134460.61
+    }
+  ]
+}

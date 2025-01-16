@@ -1,0 +1,20 @@
+{
+  "total": 26071.54,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566537",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATURAL HAZARDS",
+      "amount": 20588.96
+    },
+    {
+      "id": "566446",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ECOSYSTEMS",
+      "amount": 5482.58
+    }
+  ]
+}

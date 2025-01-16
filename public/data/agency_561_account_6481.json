@@ -1,0 +1,20 @@
+{
+  "total": 8608746.34,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569682",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "PAYMENT TO INSURANCE ACCOUNT",
+      "amount": 5814296.08
+    },
+    {
+      "id": "569487",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEATH CLAIMS",
+      "amount": 2794450.26
+    }
+  ]
+}

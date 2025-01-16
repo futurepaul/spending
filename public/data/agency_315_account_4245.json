@@ -1,0 +1,20 @@
+{
+  "total": 65698309.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570267",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "OTHER COMMISSIONS AND MARINE SCIENCE ORGANIZATIONS",
+      "amount": 65698309.66
+    },
+    {
+      "id": "570259",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

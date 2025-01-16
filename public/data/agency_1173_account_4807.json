@@ -1,0 +1,97 @@
+{
+  "total": 65293485520.84,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564837",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 48847995829.14
+    },
+    {
+      "id": "564234",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND SERVICE-WIDE ACTIVITIES",
+      "amount": 6169081399.36
+    },
+    {
+      "id": "564736",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MOBILIZATION",
+      "amount": 3729885610.93
+    },
+    {
+      "id": "564786",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 3371829125.22
+    },
+    {
+      "id": "564397",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TRAINING AND RECRUITING",
+      "amount": 3141116381.12
+    },
+    {
+      "id": "564553",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 27357505.32
+    },
+    {
+      "id": "566946",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 22964167.41
+    },
+    {
+      "id": "564401",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 1027939.53
+    },
+    {
+      "id": "573798",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND SERVICE-WIDE ACTIVITES",
+      "amount": 957894.95
+    },
+    {
+      "id": "564995",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "564269",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564464",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": -12.65
+    },
+    {
+      "id": "564998",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "FOREIGN CURRENCY FLUCTUATION",
+      "amount": -18730319.49
+    }
+  ]
+}

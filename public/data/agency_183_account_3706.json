@@ -1,0 +1,55 @@
+{
+  "total": 980182473.08,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570706",
+      "code": "0820",
+      "type": "program_activity",
+      "name": "MANAGEMENT, ADMINISTRATION, AND IT INFRASTRUCTURE",
+      "amount": 522487826.49
+    },
+    {
+      "id": "570705",
+      "code": "0813",
+      "type": "program_activity",
+      "name": "OTHER PROGRAMS",
+      "amount": 360896702.4
+    },
+    {
+      "id": "570708",
+      "code": "0828",
+      "type": "program_activity",
+      "name": "COST COLLECTION",
+      "amount": 93559647.45
+    },
+    {
+      "id": "638016",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "ECONOMIC PROGRAMS",
+      "amount": 8579103.33
+    },
+    {
+      "id": "570680",
+      "code": "0811",
+      "type": "program_activity",
+      "name": "DEMOGRAPHIC PROGRAMS",
+      "amount": 8972.09
+    },
+    {
+      "id": "570730",
+      "code": "0821",
+      "type": "program_activity",
+      "name": "IT MODERNIZATION & FACILITIES INFRASTRUCTURE IMPROVEMENT",
+      "amount": -79506.78
+    },
+    {
+      "id": "570696",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -5270271.9
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "total": 285462185.57,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567960",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMMUNITY SUPERVISION PROGRAM",
+      "amount": 199679862.72
+    },
+    {
+      "id": "567959",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PRETRIAL SERVICES AGENCY",
+      "amount": 85782322.85
+    },
+    {
+      "id": "567961",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

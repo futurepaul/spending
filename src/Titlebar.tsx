@@ -15,7 +15,7 @@ interface TitlebarProps {
 }
 
 export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = [] }) => {
-  const { amount, setAmount, useUserMoney } = useUserAmount();
+  const { amount, setAmount } = useUserAmount();
 
   const formatDisplayAmount = (amount: number) => {
     if (amount >= 1e12) return `$${(amount / 1e12).toFixed(1)} Trillion`;
@@ -24,23 +24,87 @@ export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = 
     return `$${amount.toLocaleString()}`;
   };
 
-  const isAgencyView = breadcrumbs.length > 0;
+  // Calculate percentages for agency and account views
+  const getPercentageInfo = () => {
+    if (!title) return null;
 
-  // Calculate scaled amount for agency view
-  const getScaledAmount = () => {
-    if (!isAgencyView || !title) return 0;
+    // For agency view
     const matchingAgency = fy2024Data.results.find(a => a.name === title);
-    if (!matchingAgency) return 0;
-    
-    // Calculate the percentage directly
-    const percentage = matchingAgency.amount / fy2024Data.total;
-    return amount * percentage;
+    if (matchingAgency) {
+      const percentage = (matchingAgency.amount / fy2024Data.total) * 100;
+      const userPortion = amount * (percentage / 100);
+      return {
+        amount: matchingAgency.amount,
+        percentage,
+        userPortion
+      };
+    }
+
+    // For account view (if we're in an account and have breadcrumbs)
+    if (breadcrumbs.length > 1) {
+      const agencyName = breadcrumbs[1].name;
+      const matchingAgency = fy2024Data.results.find(a => a.name === agencyName);
+      if (matchingAgency) {
+        const accountPercentage = (total / matchingAgency.amount) * 100;
+        const totalPercentage = (total / fy2024Data.total) * 100;
+        const userPortion = amount * (totalPercentage / 100);
+        return {
+          amount: total,
+          percentage: accountPercentage,
+          totalPercentage,
+          userPortion
+        };
+      }
+    }
+
+    return null;
   };
 
+  const percentageInfo = getPercentageInfo();
+
   return (
-    <div>
+    <div style={{ textAlign: 'left', padding: '1rem' }}>
+      <h1>💸 SPENDING.LOL 💸</h1>
+      
+      {/* Always show total government spending */}
+      <div style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>
+        The US government spent {formatDisplayAmount(fy2024Data.total)}
+      </div>
+
+      {/* User contribution input */}
+      <div style={{ fontSize: '1.2rem', marginBottom: '1rem' }}>
+        <div>How much did you contribute?</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+          <span>$</span>
+          <input
+            type="text"
+            value={amount}
+            onChange={(e) => setAmount(Number(e.target.value))}
+            style={{
+              fontSize: '1.2rem',
+              width: '200px',
+              padding: '0.5rem',
+              border: '1px solid #ccc',
+              borderRadius: '4px'
+            }}
+          />
+        </div>
+      </div>
+
+      {/* Agency/Account information if available */}
+      {percentageInfo && (
+        <div style={{ fontSize: '1.2rem' }}>
+          <div>
+            {title} spent {formatDisplayAmount(percentageInfo.amount)} ({percentageInfo.percentage.toFixed(1)}%
+            {percentageInfo.totalPercentage && ` of agency, ${percentageInfo.totalPercentage.toFixed(1)}% of total`})
+          </div>
+          <div>Your portion: {formatDisplayAmount(percentageInfo.userPortion)}</div>
+        </div>
+      )}
+
+      {/* Navigation breadcrumbs */}
       {breadcrumbs.length > 0 && (
-        <div>
+        <div style={{ marginTop: '1rem', fontSize: '0.9rem' }}>
           {breadcrumbs.map((crumb, index) => (
             <span key={crumb.to}>
               {index > 0 && <span style={{ margin: '0 0.5rem' }}>&gt;</span>}
@@ -53,48 +117,12 @@ export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = 
               </Link>
             </span>
           ))}
-          <span style={{ margin: '0 0.5rem' }}>&gt;</span>
-          { title && <span>{title}</span> }
-        </div>
-      )}
-      <h1>💸 SPENDING.LOL 💸</h1>
-      <div style={{ fontSize: '2rem', marginBottom: '1rem' }}>
-        {isAgencyView ? `${title} spent` : 'The US government spent'}
-      </div>
-      <h1>{formatDisplayAmount(total)}</h1>
-      <div style={{ fontSize: '2rem', margin: '2rem 0 1rem' }}>
-        {isAgencyView ? 'Your contribution to this agency:' : 'How much did you contribute?'}
-      </div>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem' }}>
-        {isAgencyView ? (
-          <div style={{ fontSize: '2rem', fontWeight: 'bold' }}>
-            {formatDisplayAmount(getScaledAmount())}
-          </div>
-        ) : (
-          <>
-            <span style={{ fontSize: '2rem', fontWeight: 'bold' }}>$</span>
-            <input
-              type="text"
-              value={amount}
-              placeholder="0.00"
-              onChange={(e) => {
-                setAmount(Number(e.target.value))
-              }}
-              style={{
-                fontSize: '2rem',
-                fontWeight: 'bold',
-                width: '200px',
-                border: '1px solid #ccc',
-                padding: '0.5rem',
-                borderRadius: '4px'
-              }}
-            />
-          </>
-        )}
-      </div>
-      {isAgencyView && useUserMoney && amount > 0 && (
-        <div style={{ fontSize: '1.5rem', marginTop: '1rem', opacity: 0.8 }}>
-          This is your contribution scaled by this agency's percentage of the total budget
+          {title && (
+            <>
+              <span style={{ margin: '0 0.5rem' }}>&gt;</span>
+              <span>{title}</span>
+            </>
+          )}
         </div>
       )}
     </div>

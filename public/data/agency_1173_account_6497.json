@@ -1,0 +1,104 @@
+{
+  "total": 1265583527.24,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564932",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAY AND ALLOWANCES OF OFFICERS",
+      "amount": 772060794.7
+    },
+    {
+      "id": "564844",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PAY AND ALLOWANCES OF ENLISTED",
+      "amount": 417162000.03
+    },
+    {
+      "id": "564471",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PERMANENT CHANGE OF STATION TRAVEL",
+      "amount": 44880387.7
+    },
+    {
+      "id": "564525",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SUBSISTENCE OF ENLISTED PERSONNEL",
+      "amount": 24522000
+    },
+    {
+      "id": "564364",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OTHER MILITARY PERSONNEL COSTS",
+      "amount": 2454363.69
+    },
+    {
+      "id": "668109",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 2159999.99
+    },
+    {
+      "id": "668197",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 1576000.01
+    },
+    {
+      "id": "668579",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 424000
+    },
+    {
+      "id": "564477",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 300000
+    },
+    {
+      "id": "667912",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 32000
+    },
+    {
+      "id": "564742",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 11981.12
+    },
+    {
+      "id": "623802",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564540",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ENLISTED PERSONNEL SUBSISTENCE",
+      "amount": 0
+    },
+    {
+      "id": "564834",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    }
+  ]
+}

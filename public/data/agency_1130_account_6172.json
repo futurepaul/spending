@@ -1,0 +1,83 @@
+{
+  "total": 142288365.14,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "563805",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AVIATION SAFETY",
+      "amount": 37620519.71
+    },
+    {
+      "id": "563808",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "POLICY AND DIRECTION",
+      "amount": 28940472.74
+    },
+    {
+      "id": "563807",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "RESEARCH AND ENGINEERING",
+      "amount": 15609402.55
+    },
+    {
+      "id": "563810",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "RAILROAD, PIPELINE, AND HAZARDOUS MATERIALS INVESTIGATIONS",
+      "amount": 14504460
+    },
+    {
+      "id": "563809",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "INFORMATION TECHNOLOGY AND SERVICES",
+      "amount": 11225648.41
+    },
+    {
+      "id": "563803",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "HIGHWAY SAFETY",
+      "amount": 10473469.81
+    },
+    {
+      "id": "563804",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SAFETY RECOMMENDATIONS AND COMMUNICATIONS",
+      "amount": 9977140.18
+    },
+    {
+      "id": "563811",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "MARINE SAFETY",
+      "amount": 6286419.76
+    },
+    {
+      "id": "563806",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "HUMAN CAPITAL MANAGEMENT AND TRAINING",
+      "amount": 4500463.49
+    },
+    {
+      "id": "563813",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE LAW JUDGES",
+      "amount": 3153924
+    },
+    {
+      "id": "563812",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "NTSB TRAINING CENTER",
+      "amount": -3555.51
+    }
+  ]
+}

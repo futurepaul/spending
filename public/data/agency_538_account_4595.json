@@ -1,0 +1,20 @@
+{
+  "total": 20564938778.88,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571529",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "UNIVERSAL SERVICE FUND (USF)",
+      "amount": 20264410140.51
+    },
+    {
+      "id": "571540",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT-USF",
+      "amount": 300528638.37
+    }
+  ]
+}

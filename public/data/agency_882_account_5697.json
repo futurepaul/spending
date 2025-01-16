@@ -1,0 +1,97 @@
+{
+  "total": -5020847.1,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570448",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "JUVENILE REENTRY LEGAL ASSISTANCE PROGRAM - DOJ (REIMBURSABLE)",
+      "amount": 0
+    },
+    {
+      "id": "570422",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EMERGENCY/DISASTER RESERVE (RECEIVERSHIP PHAS)",
+      "amount": 0
+    },
+    {
+      "id": "570442",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE",
+      "amount": 0
+    },
+    {
+      "id": "570533",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "OTHER HEALTH HAZARDS",
+      "amount": 0
+    },
+    {
+      "id": "570573",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "EMERGENCY/DISASTER RESERVE",
+      "amount": -50585.76
+    },
+    {
+      "id": "570592",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "SAFETY AND SECURITY",
+      "amount": -120237.08
+    },
+    {
+      "id": "570483",
+      "code": "0550",
+      "type": "program_activity",
+      "name": "PUBLIC HOUSING CAPITAL FUND (DIRECT)",
+      "amount": -163979.58
+    },
+    {
+      "id": "570597",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE RECEIVERSHIP",
+      "amount": -204395.56
+    },
+    {
+      "id": "570500",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "FINANCIAL AND PHYSICAL ASSESSMENT SUPPORT",
+      "amount": -225299.15
+    },
+    {
+      "id": "570506",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "RESIDENT OPPORTUNITIES AND SUPPORTIVE SERVICES",
+      "amount": -254315.54
+    },
+    {
+      "id": "570439",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "JOBS-PLUS PILOT",
+      "amount": -293333.68
+    },
+    {
+      "id": "570495",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "LEAD BASED HAZARDS",
+      "amount": -1252495.87
+    },
+    {
+      "id": "570550",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAPITAL GRANTS (MODERNIZATION)",
+      "amount": -2456204.88
+    }
+  ]
+}

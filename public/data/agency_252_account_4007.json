@@ -1,0 +1,76 @@
+{
+  "total": 11824301831.03,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567527",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COUNTERTERRORISM/COUNTERINTELLIGENCE",
+      "amount": 4501825373.61
+    },
+    {
+      "id": "567551",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CRIMINAL ENTERPRISES AND FEDERAL CRIMES",
+      "amount": 4223578785.93
+    },
+    {
+      "id": "567388",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "INTELLIGENCE",
+      "amount": 1960706768.94
+    },
+    {
+      "id": "567415",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CRIMINAL JUSTICE SERVICES",
+      "amount": 1112451786.28
+    },
+    {
+      "id": "567584",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "NICS SUPPLEMENTAL FUNDS",
+      "amount": 28070983.33
+    },
+    {
+      "id": "567520",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567545",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CJIS AND COVID-19 FUNDING",
+      "amount": -418020.2
+    },
+    {
+      "id": "567582",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "UKRAINE EMERGENCY SUPPLEMENT FUND",
+      "amount": -592012.31
+    },
+    {
+      "id": "567487",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "AFGHAN RESETTLEMENT SUPPLEMENTAL",
+      "amount": -620509.23
+    },
+    {
+      "id": "567516",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "AFGHANISTAN SUPPLEMENT FUND",
+      "amount": -701325.32
+    }
+  ]
+}

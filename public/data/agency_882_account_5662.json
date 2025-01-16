@@ -1,0 +1,20 @@
+{
+  "total": 168995.53,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570486",
+      "code": "0850",
+      "type": "program_activity",
+      "name": "OLHCHH REIMBURSABLE S&E (REIMBURSABLE)",
+      "amount": 168995.53
+    },
+    {
+      "id": "570605",
+      "code": "0550",
+      "type": "program_activity",
+      "name": "OLHCHH REIMBURSABLE S&E (DIRECT)",
+      "amount": 0
+    }
+  ]
+}

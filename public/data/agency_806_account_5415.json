@@ -1,0 +1,48 @@
+{
+  "total": 2550282623.68,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570018",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "AGING SERVICES PROGRAMS",
+      "amount": 1872266117.16
+    },
+    {
+      "id": "569915",
+      "code": "0104",
+      "type": "program_activity",
+      "name": "DISABILITY SERVICES PROGRAMS",
+      "amount": 337167130.23
+    },
+    {
+      "id": "570137",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ACL REIMBURSABLE PROGRAMS",
+      "amount": 138230210.57
+    },
+    {
+      "id": "570117",
+      "code": "0105",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE ON DISABILITY, INDEPENDENT LIVING & REHAB RESEARCH",
+      "amount": 117752876.07
+    },
+    {
+      "id": "569795",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "ACL PROGRAM ADMINISTRATION",
+      "amount": 46300641.13
+    },
+    {
+      "id": "569886",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "INTEGRATED AGING AND DISABILITY SERVICES PROGRAMS",
+      "amount": 38565648.52
+    }
+  ]
+}

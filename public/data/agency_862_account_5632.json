@@ -1,0 +1,20 @@
+{
+  "total": 4741380852.95,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566292",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SAFETY, SECURITY AND MISSION SERVICES (DIRECT)",
+      "amount": 3125620478.96
+    },
+    {
+      "id": "566298",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CROSS AGENCY SUPPORT (REIMBURSABLE)",
+      "amount": 1615760373.99
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 932402905.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569126",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CREDIT FOR PRIOR YEAR MINIMUM TAX LIABILITY OF CORPORATIONS",
+      "amount": 821412227
+    },
+    {
+      "id": "569225",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAYMENT WHERE CERTAIN TAX CREDITS EXCEED LIABILITY FOR CORPORATE DIRECT",
+      "amount": 110990678.66
+    }
+  ]
+}

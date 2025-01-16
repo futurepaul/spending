@@ -1,0 +1,41 @@
+{
+  "total": 2072392595.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566967",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL INFRASTRUCTURE INVESTMENTS GRANTS",
+      "amount": 2072907977.62
+    },
+    {
+      "id": "566881",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567298",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567252",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "AWARD & OVERSIGHT",
+      "amount": -30809.27
+    },
+    {
+      "id": "567103",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "AWARD & OVERSIGHT",
+      "amount": -484572.98
+    }
+  ]
+}

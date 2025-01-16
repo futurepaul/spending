@@ -1,0 +1,20 @@
+{
+  "total": 1607611051.49,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568427",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RENTAL ASSISTANCE PROGRAM",
+      "amount": 1607734944.83
+    },
+    {
+      "id": "568428",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "AMERICAN RESCUE ACT",
+      "amount": -123893.34
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "total": 350483511.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6113",
+      "code": "1712",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Federal Payment to the District of Columbia Courts",
+      "amount": 304687723.05,
+      "account_number": "349-1712"
+    },
+    {
+      "id": "6114",
+      "code": "1736",
+      "type": "federal_account",
+      "name": "Payments, Federal Payment for Defender Services in District of Columbia Courts",
+      "amount": 39652869.21,
+      "account_number": "349-1736"
+    },
+    {
+      "id": "6115",
+      "code": "5676",
+      "type": "federal_account",
+      "name": "District of Columbia Crime Victims Compensation Fund, District of Columbia Courts",
+      "amount": 6142919.51,
+      "account_number": "349-5676"
+    }
+  ]
+}

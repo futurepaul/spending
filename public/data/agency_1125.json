@@ -1,0 +1,14 @@
+{
+  "total": 55735026.93,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5922",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Federal Mediation and Conciliation Service",
+      "amount": 55735026.93,
+      "account_number": "093-0100"
+    }
+  ]
+}

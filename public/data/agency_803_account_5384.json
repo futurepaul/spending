@@ -1,0 +1,27 @@
+{
+  "total": 266860.69,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "563825",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "OTHER EXPENSES",
+      "amount": 207960.9
+    },
+    {
+      "id": "563834",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "INTEREST EXPENSE TO TREASURY",
+      "amount": 58899.79
+    },
+    {
+      "id": "563846",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

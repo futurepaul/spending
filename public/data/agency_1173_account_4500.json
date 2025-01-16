@@ -1,0 +1,146 @@
+{
+  "total": 51423905183.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564593",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ENLISTED PAY AND ALLOWANCES",
+      "amount": 29443361449.58
+    },
+    {
+      "id": "564501",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OFFICER PAY & ALLOWANCES",
+      "amount": 16118955931.87
+    },
+    {
+      "id": "564762",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ENLISTED PERSONNEL SUBSISTENCE",
+      "amount": 2351293153.08
+    },
+    {
+      "id": "564645",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PERMANENT CHANGE OF STATION (PCS) TRAVEL",
+      "amount": 1750945627.3
+    },
+    {
+      "id": "564424",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 1063745131.62
+    },
+    {
+      "id": "696850",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 264254000
+    },
+    {
+      "id": "564502",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OTHER MILITARY PERSONNEL COSTS",
+      "amount": 229805899.99
+    },
+    {
+      "id": "564248",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 158255043.6
+    },
+    {
+      "id": "640433",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 117358000
+    },
+    {
+      "id": "564889",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CADETS PAY AND ALLOWANCES",
+      "amount": 107630413.5
+    },
+    {
+      "id": "640091",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 61592000
+    },
+    {
+      "id": "640060",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 5079000
+    },
+    {
+      "id": "574217",
+      "code": "005D",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 27761.96
+    },
+    {
+      "id": "564984",
+      "code": "005C",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 6793.98
+    },
+    {
+      "id": "564589",
+      "code": "005A",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 608.83
+    },
+    {
+      "id": "564455",
+      "code": "005B",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564817",
+      "code": "00ZB",
+      "type": "program_activity",
+      "name": "ADVANCE PAYMENTS TO OTHERS",
+      "amount": 0
+    },
+    {
+      "id": "640289",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564694",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OTHER MILITARY PERSONNEL",
+      "amount": -12604497.13
+    },
+    {
+      "id": "564934",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED GFEBS",
+      "amount": -235801134.81
+    }
+  ]
+}

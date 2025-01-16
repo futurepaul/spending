@@ -1,0 +1,167 @@
+{
+  "total": 21042388699.69,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567790",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CAS - BORDER SECURITY OPERATIONS",
+      "amount": 6184916717.45
+    },
+    {
+      "id": "567706",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CAS - TRADE AND TRAVEL OPERATIONS",
+      "amount": 5904171972.07
+    },
+    {
+      "id": "567835",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE ACTIVITY",
+      "amount": 2705379473.95
+    },
+    {
+      "id": "567721",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CAS - MISSION SUPPORT",
+      "amount": 2267668187.57
+    },
+    {
+      "id": "567597",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CAS - INTEGRATED OPERATIONS",
+      "amount": 1731868033.23
+    },
+    {
+      "id": "567769",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "P.L. 117-328, DIV. F., TITLE V, SEC. 546 - BORDER MANAGEMENT",
+      "amount": 1596400007.65
+    },
+    {
+      "id": "567629",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BORDER SECURITY, AT POES",
+      "amount": 673192708.87
+    },
+    {
+      "id": "567701",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "FY2022 INFRASTRUCTURE INVESTMENT & JOBS ACT (PL 117-58; 135 STAT 1384)",
+      "amount": 28985972.73
+    },
+    {
+      "id": "567675",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "TFF STRATEGIC SUPPORT",
+      "amount": 19124669.34
+    },
+    {
+      "id": "567834",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "SECRETARY'S ENFORCEMENT FUND",
+      "amount": 6959337.96
+    },
+    {
+      "id": "567599",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "INFLATION REDUCTION ACT - (PL 117-169, 136 STAT 2086, SEC. 70001)",
+      "amount": 2930491.06
+    },
+    {
+      "id": "674397",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 624000
+    },
+    {
+      "id": "567698",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "FY20 COVID-19 SUPPLEMENTAL (PL 116-136)",
+      "amount": 0
+    },
+    {
+      "id": "567615",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "HARBOR MAINT FEE DONOR PORT PAYMENTS (WRRDA 2014)",
+      "amount": 0
+    },
+    {
+      "id": "567843",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FY 2022 OPERATIONS ALLIES WELCOME (PL 117-70)",
+      "amount": -6.36
+    },
+    {
+      "id": "567624",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SEC. 542 USER FEE SHORTFALL",
+      "amount": -12.41
+    },
+    {
+      "id": "567839",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "USDA APHIS FEE TRANS (PL 116-260, EMERGENCY)?",
+      "amount": -8080.88
+    },
+    {
+      "id": "567620",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "HEALTH LIFE AND SAFETY ISSUES AT EXISTING BORDER PATROL FACILITIES",
+      "amount": -58370.73
+    },
+    {
+      "id": "567869",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "HEADQUARTERS M&A",
+      "amount": -89501.44
+    },
+    {
+      "id": "567747",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "EMERGENCY HURRICANE SUPPLEMENTAL",
+      "amount": -785841.1
+    },
+    {
+      "id": "567853",
+      "code": "0New",
+      "type": "program_activity",
+      "name": "HUMANITARIAN CARE",
+      "amount": -12327815.31
+    },
+    {
+      "id": "567873",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SEC. 543 SWB",
+      "amount": -17620282.24
+    },
+    {
+      "id": "567659",
+      "code": "9901",
+      "type": "program_activity",
+      "name": "EXPIRED FUNDS ACTIVITY",
+      "amount": -48942961.72
+    }
+  ]
+}

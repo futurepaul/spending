@@ -1,0 +1,62 @@
+{
+  "total": 975906691.63,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569534",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BIO-MEDICAL LABORATORY SCIENCE RESEARCH (821)",
+      "amount": 390454788.59
+    },
+    {
+      "id": "569656",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CLINICAL SCIENCE RESEARCH (829)",
+      "amount": 221714400.02
+    },
+    {
+      "id": "569529",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "HEALTH SERVICES RESEARCH (824)",
+      "amount": 119067373.08
+    },
+    {
+      "id": "569587",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "REHABILITATION RESEARCH (822)",
+      "amount": 109753306.33
+    },
+    {
+      "id": "569499",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MILLION VETERANS PROGRAM (826)",
+      "amount": 88860631.38
+    },
+    {
+      "id": "569585",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "MEDICAL AND PROSTHETIC RESEARCH (REIMBURSABLE)",
+      "amount": 46232794.65
+    },
+    {
+      "id": "569684",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MILLION VETERANS PROGRAM 5-YEAR (826)",
+      "amount": 0
+    },
+    {
+      "id": "569674",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -176602.42
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "total": 4070807797.68,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568972",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "INTEREST ON BORROWINGS FROM TREASURY",
+      "amount": 3919903412.27
+    },
+    {
+      "id": "568997",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "INTEREST ON BORROWINGS FROM CRSDF",
+      "amount": 138376091.13
+    },
+    {
+      "id": "569275",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 12528294.28
+    },
+    {
+      "id": "671113",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

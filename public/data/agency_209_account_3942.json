@@ -1,0 +1,41 @@
+{
+  "total": 46996725.87,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566729",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "PERMIT PROCESSING IMPROVEMENT FUND",
+      "amount": 44120868.88
+    },
+    {
+      "id": "566687",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "PERMIT PROCESSING IMPROVEMENT FUND",
+      "amount": 2012462.98
+    },
+    {
+      "id": "568580",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "PERMIT PROCESSING IMPROVEMENT FUND",
+      "amount": 645219.52
+    },
+    {
+      "id": "602151",
+      "code": "0053",
+      "type": "program_activity",
+      "name": "DRINKING WATER PROGRAMS",
+      "amount": 218174.49
+    },
+    {
+      "id": "602029",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    }
+  ]
+}

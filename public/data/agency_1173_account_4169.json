@@ -1,0 +1,62 @@
+{
+  "total": 37397556106.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564298",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PAY & ALLOWANCES OF ENLISTED",
+      "amount": 24092277719.82
+    },
+    {
+      "id": "564406",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAY & ALLOWANCES OF OFFICERS",
+      "amount": 10024099451.75
+    },
+    {
+      "id": "564467",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SUBSISTENCE OF ENLISTED PERSONNEL",
+      "amount": 1531917578.9
+    },
+    {
+      "id": "564267",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PERMANENT CHANGE OF STATION TRAVEL",
+      "amount": 1030082738.72
+    },
+    {
+      "id": "564270",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 473432087.64
+    },
+    {
+      "id": "564654",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PAY & ALLOWANCES OF MIDSHIPMEN",
+      "amount": 111547119.26
+    },
+    {
+      "id": "564347",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OTHER MILITARY PERSONNEL COSTS",
+      "amount": 97712401.06
+    },
+    {
+      "id": "564833",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 36487008.92
+    }
+  ]
+}

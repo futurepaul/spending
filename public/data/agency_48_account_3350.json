@@ -1,0 +1,97 @@
+{
+  "total": 145134718.64,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571851",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "OMB-WIDE OFFICES",
+      "amount": 45116863.62
+    },
+    {
+      "id": "571845",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "INFORMATION AND REGULATORY AFFAIRS",
+      "amount": 15863195.1
+    },
+    {
+      "id": "571857",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL SECURITY PROGRAMS",
+      "amount": 15117767.89
+    },
+    {
+      "id": "627790",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "GENERAL GOVERNMENT PROGRAMS",
+      "amount": 13754343.3
+    },
+    {
+      "id": "571865",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 11385057.11
+    },
+    {
+      "id": "571854",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CLIMATE, ENERGY, ENVIRONMENT, AND SCIENCE PROGRAMS",
+      "amount": 10890396.31
+    },
+    {
+      "id": "571849",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "HEALTH PROGRAMS",
+      "amount": 9751783.36
+    },
+    {
+      "id": "571831",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "EDUCATION, INCOME MAINTENANCE, AND LABOR PROGRAMS",
+      "amount": 8256808.51
+    },
+    {
+      "id": "627802",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "IRA",
+      "amount": 5336814.26
+    },
+    {
+      "id": "571837",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "OFFICE OF FEDERAL FINANCIAL MANAGEMENT",
+      "amount": 5082510.59
+    },
+    {
+      "id": "571834",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "OFFICE OF FEDERAL PROCUREMENT POLICY",
+      "amount": 4594162.82
+    },
+    {
+      "id": "571830",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TRANSPORTATION, HOMELAND SECURITY, JUSTICE, AND SERVICES PROGRAMS",
+      "amount": 4321.47
+    },
+    {
+      "id": "571859",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "HOUSING, TREASURY, AND COMMERCE PROGRAMS",
+      "amount": -19305.7
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "total": 4891048655.74,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567603",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAS - GRANTS",
+      "amount": 4098613652.3
+    },
+    {
+      "id": "638281",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 454500000
+    },
+    {
+      "id": "567756",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CAS - EDUCATION, TRAINING, AND EXERCISES (INCL USFA)",
+      "amount": 336289990.75
+    },
+    {
+      "id": "567900",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CAS - EDUCATION, TRAINING, AND EXERCISES REIMBURSABLE",
+      "amount": 1645012.69
+    }
+  ]
+}

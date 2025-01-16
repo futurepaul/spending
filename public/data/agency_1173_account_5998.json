@@ -1,0 +1,48 @@
+{
+  "total": 48138742.63,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564851",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "UTILITIES",
+      "amount": 36528890.64
+    },
+    {
+      "id": "564362",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "MAINTENANCE",
+      "amount": 13224507.88
+    },
+    {
+      "id": "564336",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 489808.72
+    },
+    {
+      "id": "697239",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 199.41
+    },
+    {
+      "id": "564598",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OPERATION",
+      "amount": -88839.84
+    },
+    {
+      "id": "564642",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -2015824.18
+    }
+  ]
+}

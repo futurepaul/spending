@@ -1,0 +1,20 @@
+{
+  "total": 6332141.34,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567655",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "APPLIED R&D",
+      "amount": 5480656.2
+    },
+    {
+      "id": "567895",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "RESEARCH, DEVELOPMENT, TEST, AND EVALUATION (REIMBURSABLE)",
+      "amount": 851485.14
+    }
+  ]
+}

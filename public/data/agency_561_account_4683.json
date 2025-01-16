@@ -1,0 +1,34 @@
+{
+  "total": 6540146.82,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569636",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEATH CLAIMS",
+      "amount": 4766700.42
+    },
+    {
+      "id": "569687",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "ALL OTHER",
+      "amount": 1442782.89
+    },
+    {
+      "id": "569569",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "DIVIDENDS",
+      "amount": 304656.96
+    },
+    {
+      "id": "569523",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT: POLICY LOANS",
+      "amount": 26006.55
+    }
+  ]
+}

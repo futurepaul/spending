@@ -1,0 +1,90 @@
+{
+  "total": 9298458258.9,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569600",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "COMPENSATION AND PENSIONS",
+      "amount": 5271329893.4
+    },
+    {
+      "id": "569689",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "COMPENSATION AND PENSIONS",
+      "amount": 2810096116.43
+    },
+    {
+      "id": "569527",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "EDUCATION",
+      "amount": 417301006.07
+    },
+    {
+      "id": "569579",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "VRE",
+      "amount": 344177105.91
+    },
+    {
+      "id": "569575",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "HOUSING",
+      "amount": 193164856.08
+    },
+    {
+      "id": "569624",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "TRANSITION AND ECONOMIC DEVELOPMENT",
+      "amount": 92645114.05
+    },
+    {
+      "id": "569655",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "HOUSING",
+      "amount": 61230429.35
+    },
+    {
+      "id": "569548",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 55109619.79
+    },
+    {
+      "id": "569709",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "INSURANCE",
+      "amount": 45202365.41
+    },
+    {
+      "id": "569615",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "INSURANCE",
+      "amount": 8014124.89
+    },
+    {
+      "id": "591589",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "EDUCATION",
+      "amount": 186082.67
+    },
+    {
+      "id": "591708",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "VRE",
+      "amount": 1544.85
+    }
+  ]
+}

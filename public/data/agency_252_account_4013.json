@@ -1,0 +1,62 @@
+{
+  "total": 1746547764.25,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567435",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "USMS SALARIES AND EXPENSES - FUGITIVE APPREHENSION",
+      "amount": 689803026.73
+    },
+    {
+      "id": "567549",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "USMS SALARIES AND EXPENSES - JUDICIAL AND COURTHOUSE SECURITY",
+      "amount": 587497044.61
+    },
+    {
+      "id": "567463",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "USMS SALARIES AND EXPENSES - PRISONER SECURITY AND TRANSPORTATION",
+      "amount": 254959435.81
+    },
+    {
+      "id": "567338",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "USMS SALARIES AND EXPENSES - TACTICAL OPERATIONS",
+      "amount": 90441516.41
+    },
+    {
+      "id": "567486",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "USMS SALARIES AND EXPENSES - PROTECTION OF WITNESSES",
+      "amount": 76105456.25
+    },
+    {
+      "id": "692968",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "USMS SALARIES AND EXPENSES - DETENTION OPERATIONS",
+      "amount": 27183291.68
+    },
+    {
+      "id": "567583",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "USMS SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 20557992.76
+    },
+    {
+      "id": "567442",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

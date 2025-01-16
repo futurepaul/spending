@@ -1,0 +1,34 @@
+{
+  "total": 32568175.49,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571156",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 26377661.27
+    },
+    {
+      "id": "571091",
+      "code": "0073",
+      "type": "program_activity",
+      "name": "HOMELAND SEC:  PROTECTION OF EPA PERSONNEL & INFRASTRUCTURE",
+      "amount": 6190514.22
+    },
+    {
+      "id": "571111",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571162",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 0
+    }
+  ]
+}

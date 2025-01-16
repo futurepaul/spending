@@ -1,0 +1,160 @@
+{
+  "total": 32819402479.95,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568315",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "BELOW 130 OF POVERTY",
+      "amount": 26587372034.66
+    },
+    {
+      "id": "625659",
+      "code": "0306",
+      "type": "program_activity",
+      "name": "SUMMER EBT (BENEFITS)",
+      "amount": 3095168971
+    },
+    {
+      "id": "568566",
+      "code": "0304",
+      "type": "program_activity",
+      "name": "COMMODITY PROCUREMENT",
+      "amount": 1912928947.48
+    },
+    {
+      "id": "568828",
+      "code": "0303",
+      "type": "program_activity",
+      "name": "STATE ADMINISTRATIVE EXPENSES",
+      "amount": 468570003
+    },
+    {
+      "id": "568590",
+      "code": "0501",
+      "type": "program_activity",
+      "name": "FRESH FRUIT AND VEGETABLE PROGRAM",
+      "amount": 216339549.46
+    },
+    {
+      "id": "568631",
+      "code": "0307",
+      "type": "program_activity",
+      "name": "SUMMER EBT (50% ADMIN)",
+      "amount": 162787244.83
+    },
+    {
+      "id": "568349",
+      "code": "0203",
+      "type": "program_activity",
+      "name": "BELOW 130 OF POVERTY",
+      "amount": 122957430.06
+    },
+    {
+      "id": "568352",
+      "code": "0340",
+      "type": "program_activity",
+      "name": "OTHER MANDATORY PROGRAM COSTS",
+      "amount": 92480523.53
+    },
+    {
+      "id": "568775",
+      "code": "0325",
+      "type": "program_activity",
+      "name": "COMPUTER SUPPORT AND PROCESSING",
+      "amount": 43594577.97
+    },
+    {
+      "id": "568299",
+      "code": "0320",
+      "type": "program_activity",
+      "name": "CN STUDIES AND EVALUATIONS",
+      "amount": 39474136.24
+    },
+    {
+      "id": "568543",
+      "code": "0401",
+      "type": "program_activity",
+      "name": "TEAM NUTRITION AND HEALTHIERUS SCHOOLS CHALLENGE",
+      "amount": 19089068.7
+    },
+    {
+      "id": "568694",
+      "code": "0301",
+      "type": "program_activity",
+      "name": "SUMMER FOOD SERVICE PROGRAM",
+      "amount": 16479189.68
+    },
+    {
+      "id": "568399",
+      "code": "0520",
+      "type": "program_activity",
+      "name": "OTHER PERMANENT PROGRAMS",
+      "amount": 15429008.62
+    },
+    {
+      "id": "568614",
+      "code": "0310",
+      "type": "program_activity",
+      "name": "COORDINATED REVIEW EFFORT",
+      "amount": 8665558.2
+    },
+    {
+      "id": "568617",
+      "code": "0504",
+      "type": "program_activity",
+      "name": "NATIONAL FOOD SERVICE MANAGEMENT INST./INFORMATION CLEARINGHOUSE",
+      "amount": 7227053.21
+    },
+    {
+      "id": "568596",
+      "code": "0502",
+      "type": "program_activity",
+      "name": "TECH. ASSIST. PROGRAM INTEGRITY/ADMINISTRATIVE REVIEWS",
+      "amount": 6836756.92
+    },
+    {
+      "id": "568274",
+      "code": "0415",
+      "type": "program_activity",
+      "name": "SCHOOL MEALS EQUIPMENT GRANTS 2 YEAR",
+      "amount": 5161035.25
+    },
+    {
+      "id": "568605",
+      "code": "0315",
+      "type": "program_activity",
+      "name": "FOOD SAFETY EDUCATION",
+      "amount": 2890659.56
+    },
+    {
+      "id": "568385",
+      "code": "0402",
+      "type": "program_activity",
+      "name": "CHILD NUTRITION TRAINING/ICN",
+      "amount": 1119610.68
+    },
+    {
+      "id": "568310",
+      "code": "0507",
+      "type": "program_activity",
+      "name": "DIRECT CERTIFICATION TECHNICAL ASSISTANCE (SECT. 749)",
+      "amount": 170731.04
+    },
+    {
+      "id": "568320",
+      "code": "0416",
+      "type": "program_activity",
+      "name": "SCHOOL BREAKFAST EXPANSION GRANTS",
+      "amount": -584474.51
+    },
+    {
+      "id": "568913",
+      "code": "0405",
+      "type": "program_activity",
+      "name": "SUMMER EBT DEMONSTRATION",
+      "amount": -4755135.63
+    }
+  ]
+}

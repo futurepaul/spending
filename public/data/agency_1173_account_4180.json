@@ -1,0 +1,62 @@
+{
+  "total": 31512933.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565030",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "OPERATIONS  MAINTENANCE AND LEASE",
+      "amount": 32584485.97
+    },
+    {
+      "id": "564781",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 0
+    },
+    {
+      "id": "564717",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "READY RESERVE FORCES",
+      "amount": 0
+    },
+    {
+      "id": "564981",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564475",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STRATEGIC SEALIFT SUPPORT",
+      "amount": -2337.26
+    },
+    {
+      "id": "564399",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "RESEARCH AND DEVELOPMENT",
+      "amount": -9288.07
+    },
+    {
+      "id": "564333",
+      "code": "009U",
+      "type": "program_activity",
+      "name": "OTA REIMBURSABLE PROGRAMS",
+      "amount": -261682.76
+    },
+    {
+      "id": "564826",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONSTRUCTION AND CONVERSION",
+      "amount": -798244.03
+    }
+  ]
+}

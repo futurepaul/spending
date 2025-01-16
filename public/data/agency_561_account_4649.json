@@ -1,0 +1,118 @@
+{
+  "total": 176839311578.23,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569678",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "VETERANS",
+      "amount": 160137595503.96
+    },
+    {
+      "id": "569524",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "SURVIVORS",
+      "amount": 11247856087.48
+    },
+    {
+      "id": "569706",
+      "code": "0302",
+      "type": "program_activity",
+      "name": "VETERANS",
+      "amount": 1991708726.35
+    },
+    {
+      "id": "569481",
+      "code": "0204",
+      "type": "program_activity",
+      "name": "MEDICAL EXAM PILOT PROGRAM",
+      "amount": 1742881013.21
+    },
+    {
+      "id": "569603",
+      "code": "0303",
+      "type": "program_activity",
+      "name": "SURVIVORS",
+      "amount": 1495837228.16
+    },
+    {
+      "id": "569621",
+      "code": "0202",
+      "type": "program_activity",
+      "name": "CLOTHING ALLOWANCE",
+      "amount": 137893920.05
+    },
+    {
+      "id": "569593",
+      "code": "0504",
+      "type": "program_activity",
+      "name": "SERVICE-CONNECTED DEATHS",
+      "amount": 113194549.2
+    },
+    {
+      "id": "569675",
+      "code": "0506",
+      "type": "program_activity",
+      "name": "HEADSTONES AND MARKERS",
+      "amount": 83193872.2
+    },
+    {
+      "id": "569497",
+      "code": "0203",
+      "type": "program_activity",
+      "name": "MISC ASSISTANCE (EAJ, SAFD)",
+      "amount": 44921527.42
+    },
+    {
+      "id": "569480",
+      "code": "0503",
+      "type": "program_activity",
+      "name": "BURIAL PLOTS",
+      "amount": 39301749.64
+    },
+    {
+      "id": "569668",
+      "code": "0502",
+      "type": "program_activity",
+      "name": "BURIAL ALLOWANCE",
+      "amount": 38882078.49
+    },
+    {
+      "id": "569672",
+      "code": "0508",
+      "type": "program_activity",
+      "name": "GRAVELINERS",
+      "amount": 26013095.88
+    },
+    {
+      "id": "569502",
+      "code": "0201",
+      "type": "program_activity",
+      "name": "CHAPTER 18",
+      "amount": 22833927.3
+    },
+    {
+      "id": "569703",
+      "code": "0501",
+      "type": "program_activity",
+      "name": "CASKETS AND URNS",
+      "amount": 303880.45
+    },
+    {
+      "id": "569654",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -1629355.76
+    },
+    {
+      "id": "693108",
+      "code": "0401",
+      "type": "program_activity",
+      "name": "REIMBURSEMENTS TO GOE, IT AND VHA",
+      "amount": -281476225.8
+    }
+  ]
+}

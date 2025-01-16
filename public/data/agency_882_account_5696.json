@@ -1,0 +1,76 @@
+{
+  "total": 16020200813.72,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570478",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONTRACT RENEWALS",
+      "amount": 13357828046.18
+    },
+    {
+      "id": "570578",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "PROJECT-BASED RENTAL ASSISTANCE (EMERGENCY)",
+      "amount": 1999741680.54
+    },
+    {
+      "id": "570465",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CONTRACT ADMINISTRATORS",
+      "amount": 468000000
+    },
+    {
+      "id": "570593",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "MOD REHAB AND SRO RENEWALS",
+      "amount": 144086525
+    },
+    {
+      "id": "570452",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "RAD CONTRACT RENEWALS",
+      "amount": 22142258
+    },
+    {
+      "id": "570561",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "RAD CONVERSIONS FROM SEC 202",
+      "amount": 10779469
+    },
+    {
+      "id": "570537",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SECTION 8 AMENDMENTS",
+      "amount": 9000000
+    },
+    {
+      "id": "570618",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "TENANT INFORMATION AND OUTREACH",
+      "amount": 8733781
+    },
+    {
+      "id": "570479",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570612",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "DISASTER ASSISTANCE",
+      "amount": -110946
+    }
+  ]
+}

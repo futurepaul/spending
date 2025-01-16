@@ -1,0 +1,300 @@
+{
+  "total": 9882299402.26,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568443",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MARKETING LOANS -- NON-RECOURSE",
+      "amount": 5307695822.32
+    },
+    {
+      "id": "568641",
+      "code": "0026",
+      "type": "program_activity",
+      "name": "CONSERVATION RESERVE PROGRAM FINANCIAL ASSISTANCE",
+      "amount": 1373415978.03
+    },
+    {
+      "id": "568564",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "LIVESTOCK FORAGE PROGRAM",
+      "amount": 1184516167.45
+    },
+    {
+      "id": "568664",
+      "code": "9902",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 569297733.63
+    },
+    {
+      "id": "568698",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "ELAP",
+      "amount": 440594483.62
+    },
+    {
+      "id": "568747",
+      "code": "0032",
+      "type": "program_activity",
+      "name": "FOOD FOR PROGRESS",
+      "amount": 232938342.98
+    },
+    {
+      "id": "568577",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "MARKET ACCESS PROGRAM",
+      "amount": 193785730.04
+    },
+    {
+      "id": "568331",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "NON-INSURED ASSISTANCE PROGRAM",
+      "amount": 180401314.49
+    },
+    {
+      "id": "568835",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "LIVESTOCK INDEMNITY PROGRAM",
+      "amount": 91098879.97
+    },
+    {
+      "id": "568413",
+      "code": "0041",
+      "type": "program_activity",
+      "name": "CHARTER ACT, SECTION 4",
+      "amount": 86412749.95
+    },
+    {
+      "id": "568830",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "SECTION 11 REIMBURSABLE AGREEMENTS WITH STATE AND FEDERAL AGENCIES",
+      "amount": 51799275.67
+    },
+    {
+      "id": "568530",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MARKETING LOANS -- RECOURSE",
+      "amount": 35488247.97
+    },
+    {
+      "id": "568322",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "FOREIGN MARKET DEVELOPMENT PROGRAM",
+      "amount": 32320984.45
+    },
+    {
+      "id": "568785",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "CONSERVATION RESERVE PROGRAM TECHNICAL ASSISTANCE",
+      "amount": 25176234.88
+    },
+    {
+      "id": "673777",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "TREE ASSISTANCE PROGRAM",
+      "amount": 25100701.86
+    },
+    {
+      "id": "589312",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "EMERGENCY CITRUS TRUST FUND",
+      "amount": 25000000
+    },
+    {
+      "id": "568682",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "ECO. ADJUST.ASSIST. FOR TEXTILE MILLS (UPLAND COTTON)",
+      "amount": 21402283.49
+    },
+    {
+      "id": "568381",
+      "code": "0034",
+      "type": "program_activity",
+      "name": "SECTION 4 CONTRACTS",
+      "amount": 18142316.44
+    },
+    {
+      "id": "568455",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CONSERVATION RESERVE PROGRAMS- TECHNICAL ASSISTANCE",
+      "amount": 12717797.03
+    },
+    {
+      "id": "568892",
+      "code": "0043",
+      "type": "program_activity",
+      "name": "ORGANIC CERTIFICATION COST SHARE",
+      "amount": 8728322.05
+    },
+    {
+      "id": "568278",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "EMERGING MARKETS PROGRAM",
+      "amount": 8107762.57
+    },
+    {
+      "id": "568665",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE FOR SPECIALTY CROPS",
+      "amount": 7129058.85
+    },
+    {
+      "id": "568481",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "LOAN DEFICIENCY PAYMENTS",
+      "amount": 5969445.01
+    },
+    {
+      "id": "568621",
+      "code": "0052",
+      "type": "program_activity",
+      "name": "ALL OTHER",
+      "amount": 4914098.17
+    },
+    {
+      "id": "568926",
+      "code": "0040",
+      "type": "program_activity",
+      "name": "NONINSURED ASSISTANCE PROGRAM LOSS ADJUSTER",
+      "amount": 2038717.55
+    },
+    {
+      "id": "568805",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "QUALITY SAMPLES PROGRAM",
+      "amount": 1510222.95
+    },
+    {
+      "id": "568386",
+      "code": "0042",
+      "type": "program_activity",
+      "name": "CHARTER ACT, SECTION 11",
+      "amount": 1310288.28
+    },
+    {
+      "id": "568831",
+      "code": "0038",
+      "type": "program_activity",
+      "name": "ELECTRONIC WAREHOUSE RECEIPTS",
+      "amount": 1069068.41
+    },
+    {
+      "id": "568592",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PRICE LOSS COVERAGE",
+      "amount": 476235.5
+    },
+    {
+      "id": "568469",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "COTTON TRANSITION ASSISTANCE PROGRAM",
+      "amount": 7964.17
+    },
+    {
+      "id": "610905",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "ORIENTAL FRUIT FLY",
+      "amount": 1919.95
+    },
+    {
+      "id": "568362",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "TREE ASSISTANCE PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "568335",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "568686",
+      "code": "9903",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL FUNDING",
+      "amount": 0
+    },
+    {
+      "id": "568660",
+      "code": "0035",
+      "type": "program_activity",
+      "name": "FARM BILL IMPLEMENTATION",
+      "amount": -138.14
+    },
+    {
+      "id": "568406",
+      "code": "0037",
+      "type": "program_activity",
+      "name": "COTTON GINNING COST SHARE",
+      "amount": -1937.5
+    },
+    {
+      "id": "568661",
+      "code": "0051",
+      "type": "program_activity",
+      "name": "SEAFOOD TRADE RELIEF PROGRAM",
+      "amount": -12914.06
+    },
+    {
+      "id": "568509",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "DIRECT, COUNTERCYCLICAL AN ACRE PAYMENTS",
+      "amount": -159212.59
+    },
+    {
+      "id": "568911",
+      "code": "0048",
+      "type": "program_activity",
+      "name": "AGRICULTURAL TRADE PROMOTION PROGRAM",
+      "amount": -196462.74
+    },
+    {
+      "id": "565157",
+      "code": "0035",
+      "type": "program_activity",
+      "name": "BILL EMERSON HUMANITARIAN TRUST",
+      "amount": -220032.11
+    },
+    {
+      "id": "568400",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "PRICE SUPPORT LOAD IN CHARGES",
+      "amount": -478389.36
+    },
+    {
+      "id": "568853",
+      "code": "0047",
+      "type": "program_activity",
+      "name": "ALL OTHER PROGRAMS",
+      "amount": -65199658.97
+    }
+  ]
+}

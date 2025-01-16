@@ -1,0 +1,34 @@
+{
+  "total": 2726164762.61,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569884",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MENTAL HEALTH",
+      "amount": 2662758612.56
+    },
+    {
+      "id": "570002",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "SAMHSA REIMBURSABLES",
+      "amount": 31418969.63
+    },
+    {
+      "id": "569859",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "SAMHSA REIMBURSABLE: PHS EVALUATION",
+      "amount": 20099170.42
+    },
+    {
+      "id": "570106",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "SAMHSA PREVENTION FUND",
+      "amount": 11888010
+    }
+  ]
+}

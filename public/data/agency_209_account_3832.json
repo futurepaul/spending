@@ -1,0 +1,27 @@
+{
+  "total": -2622019.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566619",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "TRANSMISSION AND STORAGE",
+      "amount": 1681713.08
+    },
+    {
+      "id": "566700",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "ADMINISTRATION AND OTHER EXPENSES",
+      "amount": 985857.79
+    },
+    {
+      "id": "566405",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "PRODUCTION AND SALES",
+      "amount": -5289589.94
+    }
+  ]
+}

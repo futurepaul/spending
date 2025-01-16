@@ -27,72 +27,31 @@ export interface SpendingResponse {
   }>
 }
 
-async function fetchAgencySpending(agency: string): Promise<SpendingResponse> {
-  console.log('fetching data for agency', agency)
-
-  const data: SpendingData = {
-    type: 'federal_account',
-    filters: {
-      fy: '2024',
-      period: '12',
-      agency,
-    },
-  }
-
-  const response = await fetch('https://api.usaspending.gov/api/v2/spending/', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(data),
-  })
-
+async function fetchLocalAgencySpending(agency: string): Promise<SpendingResponse> {
+  console.log('fetching local data for agency', agency)
+  const response = await fetch(`/data/agency_${agency}.json`)
   if (!response.ok) {
-    const errorText = await response.text()
-    console.error('API Error:', errorText)
-    throw new Error(`HTTP error! status: ${response.status} - ${errorText}`)
+    throw new Error(`Failed to fetch local agency data: ${response.status}`)
   }
-
-  const jsonData = (await response.json()) as SpendingResponse
-  console.log('received data:', jsonData)
-  return jsonData
+  const data = await response.json()
+  console.log('received local data:', data)
+  return data
 }
 
-async function fetchAccountSpending(account: string, agency: string): Promise<SpendingResponse> {
-  console.log('fetching data for account', account, 'agency', agency)
-
-  const data: SpendingData = {
-    type: 'program_activity',
-    filters: {
-      fy: '2024',
-      period: '12',
-      agency,
-      federal_account: account,
-    },
-  }
-
-  const response = await fetch('https://api.usaspending.gov/api/v2/spending/', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(data),
-  })
-
+async function fetchLocalAccountSpending(account: string, agency: string): Promise<SpendingResponse> {
+  console.log('fetching local data for account', account, 'agency', agency)
+  const response = await fetch(`/data/agency_${agency}_account_${account}.json`)
   if (!response.ok) {
-    const errorText = await response.text()
-    console.error('API Error:', errorText)
-    throw new Error(`HTTP error! status: ${response.status} - ${errorText}`)
+    throw new Error(`Failed to fetch local account data: ${response.status}`)
   }
-
-  const jsonData = (await response.json()) as SpendingResponse
-  console.log('received data:', jsonData)
-  return jsonData
+  const data = await response.json()
+  console.log('received local data:', data)
+  return data
 }
 
 export interface RouterContext {
-  fetchAgencySpending: (agency: string) => Promise<SpendingResponse>
-  fetchAccountSpending: (account: string, agency: string) => Promise<SpendingResponse>
+  fetchLocalAgencySpending: (agency: string) => Promise<SpendingResponse>
+  fetchLocalAccountSpending: (account: string, agency: string) => Promise<SpendingResponse>
 }
 
 export const searchSchema = z.object({
@@ -121,7 +80,7 @@ export const Route = createRootRoute({
   ),
   validateSearch: searchSchema,
   context: (): RouterContext => ({
-    fetchAgencySpending,
-    fetchAccountSpending,
+    fetchLocalAgencySpending,
+    fetchLocalAccountSpending,
   })
 })

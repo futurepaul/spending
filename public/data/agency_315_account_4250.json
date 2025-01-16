@@ -1,0 +1,27 @@
+{
+  "total": 1516493652.62,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570289",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONTRIBUTIONS TO INTERNATIONAL ORGANIZATIONS",
+      "amount": 1497340186.77
+    },
+    {
+      "id": "570244",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 19153465.85
+    },
+    {
+      "id": "570245",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CONTRIBUTIONS TO INTERNATIONAL ORGANIZATIONS - OCO",
+      "amount": 0
+    }
+  ]
+}

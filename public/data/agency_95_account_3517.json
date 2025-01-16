@@ -1,0 +1,76 @@
+{
+  "total": 1014256933.94,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568419",
+      "code": "0709",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 412254000
+    },
+    {
+      "id": "642620",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 259940610
+    },
+    {
+      "id": "642716",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 123168137.35
+    },
+    {
+      "id": "568369",
+      "code": "0701",
+      "type": "program_activity",
+      "name": "DIRECT LOAN SUBSIDY",
+      "amount": 105912458.03
+    },
+    {
+      "id": "642285",
+      "code": "0707",
+      "type": "program_activity",
+      "name": "REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 88270130
+    },
+    {
+      "id": "642454",
+      "code": "0708",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 17891868
+    },
+    {
+      "id": "568347",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "FARM LABOR HOUSING GRANTS",
+      "amount": 7360099
+    },
+    {
+      "id": "568409",
+      "code": "0702",
+      "type": "program_activity",
+      "name": "LOAN GUARANTEE SUBSIDY",
+      "amount": 0
+    },
+    {
+      "id": "568748",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "MPR GRANTS",
+      "amount": -65548
+    },
+    {
+      "id": "568302",
+      "code": "0703",
+      "type": "program_activity",
+      "name": "SUBSIDY FOR MODIFICATIONS OF DIRECT LOANS",
+      "amount": -474820.44
+    }
+  ]
+}

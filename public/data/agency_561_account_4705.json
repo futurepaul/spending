@@ -1,0 +1,48 @@
+{
+  "total": 132964756.01,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569605",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEATH CLAIMS",
+      "amount": 112259294.86
+    },
+    {
+      "id": "569718",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "CASH SURRENDERS",
+      "amount": 17417766.72
+    },
+    {
+      "id": "569562",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT",
+      "amount": 1304626.36
+    },
+    {
+      "id": "569521",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "ALL OTHER",
+      "amount": 1239924.76
+    },
+    {
+      "id": "569568",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "DIVIDENDS",
+      "amount": 743143.31
+    },
+    {
+      "id": "569538",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "PAYMENTS TO INSURANCE ACCOUNT",
+      "amount": 0
+    }
+  ]
+}

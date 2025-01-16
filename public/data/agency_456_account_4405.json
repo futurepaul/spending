@@ -1,0 +1,41 @@
+{
+  "total": 403173948.67,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "636666",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "PAYMENT TO UNITED STATES SECRET SERVICE",
+      "amount": 320000000
+    },
+    {
+      "id": "636774",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PAYMENT TO ELECTION ASSISTANCE COMMISSION",
+      "amount": 55000000
+    },
+    {
+      "id": "636509",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PAYMENT TO OFFICE OF JUSTICE PROGRAMS",
+      "amount": 25000000
+    },
+    {
+      "id": "569025",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PRESIDENTIAL ELECTION CAMPAIGNS",
+      "amount": 3173948.67
+    },
+    {
+      "id": "569004",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NIH PEDIATRIC RESEARCH FUND TRANSFER",
+      "amount": 0
+    }
+  ]
+}

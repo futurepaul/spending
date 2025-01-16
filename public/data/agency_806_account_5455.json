@@ -1,0 +1,41 @@
+{
+  "total": 1158275800.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "672884",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "QIO BENEFICIARY AND FAMILY CENTERED CARE",
+      "amount": 604064483.79
+    },
+    {
+      "id": "569741",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "QIO SUPPORT CONTRACTS",
+      "amount": 474316637.1
+    },
+    {
+      "id": "569952",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "QIO ADMINISTRATION",
+      "amount": 79921679.18
+    },
+    {
+      "id": "569894",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "AMERICAN RESCUE PLAN ACT - SNF INFECTION CONTROL SUPPORT",
+      "amount": 0
+    },
+    {
+      "id": "672504",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "QIO CLINICAL QUALITY IMPROVEMENT",
+      "amount": -27000
+    }
+  ]
+}

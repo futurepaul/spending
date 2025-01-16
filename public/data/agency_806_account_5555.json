@@ -1,0 +1,62 @@
+{
+  "total": 3541281664.84,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569816",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MATCHING CHILD CARE",
+      "amount": 2147385491.93
+    },
+    {
+      "id": "569802",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MANDATORY CHILD CARE",
+      "amount": 1177210027.85
+    },
+    {
+      "id": "570187",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CHILD CARE TERRITORY GRANTS",
+      "amount": 87795605.63
+    },
+    {
+      "id": "570138",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CHILD CARE TRIBAL GRANTS",
+      "amount": 58207734.61
+    },
+    {
+      "id": "566344",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CHILD CARE TRIBAL GRANTS",
+      "amount": 38633006
+    },
+    {
+      "id": "570176",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CHILD CARE RESEARCH",
+      "amount": 16801397.76
+    },
+    {
+      "id": "570051",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CHILD CARE TRAINING AND TECHNICAL ASSISTANCE",
+      "amount": 15248401.06
+    },
+    {
+      "id": "569983",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

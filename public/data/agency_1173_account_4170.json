@@ -1,0 +1,69 @@
+{
+  "total": 14080392594.78,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564293",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMBAT AIRCRAFT",
+      "amount": 5412764921.88
+    },
+    {
+      "id": "564242",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MODIFICATION OF AIRCRAFT",
+      "amount": 3843716857.92
+    },
+    {
+      "id": "565010",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "AIRCRAFT SPARES AND REPAIR PARTS",
+      "amount": 2557823913.98
+    },
+    {
+      "id": "564676",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "AIRCRAFT SUPPORT EQUIPMENT AND FACILITIES",
+      "amount": 1096870332.23
+    },
+    {
+      "id": "565018",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OTHER AIRCRAFT",
+      "amount": 852187327.75
+    },
+    {
+      "id": "564500",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TRAINER AIRCRAFT",
+      "amount": 305971007.65
+    },
+    {
+      "id": "564770",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 25909089.99
+    },
+    {
+      "id": "564905",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "AIRLIFT AIRCRAFT",
+      "amount": -1272563.15
+    },
+    {
+      "id": "564701",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -13578293.47
+    }
+  ]
+}

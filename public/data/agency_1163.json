@@ -1,0 +1,54 @@
+{
+  "total": 890206697.28,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6244",
+      "code": "0206",
+      "type": "federal_account",
+      "name": "International Broadcasting Operations, United States Agency for Global Media",
+      "amount": 884980425.78,
+      "account_number": "514-0206"
+    },
+    {
+      "id": "6243",
+      "code": "0204",
+      "type": "federal_account",
+      "name": "Broadcasting Capital Improvements, Broadcasting Board of Governors",
+      "amount": 5019427.93,
+      "account_number": "514-0204"
+    },
+    {
+      "id": "6251",
+      "code": "8285",
+      "type": "federal_account",
+      "name": "Foreign Service National Separation Liability Trust Fund, United States Agency for Global Media",
+      "amount": 206843.57,
+      "account_number": "514-8285"
+    },
+    {
+      "id": "6245",
+      "code": "0208",
+      "type": "federal_account",
+      "name": "Broadcasting to Cuba, United States Agency for Global Media",
+      "amount": 0,
+      "account_number": "514-0208"
+    },
+    {
+      "id": "6246",
+      "code": "1147",
+      "type": "federal_account",
+      "name": "Buying Power Maintenance, United States Agency for Global Media",
+      "amount": 0,
+      "account_number": "514-1147"
+    },
+    {
+      "id": "6252",
+      "code": "8286",
+      "type": "federal_account",
+      "name": "Miscellaneous Trust Fund, United States Agency for Global Media",
+      "amount": 0,
+      "account_number": "514-8286"
+    }
+  ]
+}

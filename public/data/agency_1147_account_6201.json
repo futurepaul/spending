@@ -1,0 +1,48 @@
+{
+  "total": 248260058.01,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "588514",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SPILL IMPACT PROGRAM AND PROJECTS",
+      "amount": 578528245.12
+    },
+    {
+      "id": "568967",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "COMPREHENSIVE PLAN PROGRAM EXPENSES",
+      "amount": 349692820.92
+    },
+    {
+      "id": "568970",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMPREHENSIVE PLAN ADMINISTRATIVE EXPENSE",
+      "amount": 1745930.46
+    },
+    {
+      "id": "568969",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "COMPREHENSIVE PLAN ADMINISTRATIVE EXPENSE",
+      "amount": -284921.75
+    },
+    {
+      "id": "568968",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "COMPREHENSIVE PLAN PROGRAM EXPENSES",
+      "amount": -174087172.47
+    },
+    {
+      "id": "568971",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "SPILL IMPACT PROGRAM AND PROJECTS",
+      "amount": -507334844.27
+    }
+  ]
+}

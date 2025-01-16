@@ -1,0 +1,104 @@
+{
+  "total": 335440761.35,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569009",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "DOMESTIC FINANCE AND TAX POLICY",
+      "amount": 94813838.75
+    },
+    {
+      "id": "569277",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "INTERNATIONAL AFFAIRS AND ECONOMIC POLICY",
+      "amount": 67600030.69
+    },
+    {
+      "id": "569153",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION",
+      "amount": 48718601.37
+    },
+    {
+      "id": "569012",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "TREASURY WIDE MANAGEMENT AND PROGRAMS",
+      "amount": 45891287.04
+    },
+    {
+      "id": "569215",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CFIUS",
+      "amount": 44145892.76
+    },
+    {
+      "id": "569385",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "IRA TAX REGULATION PROMULGATION",
+      "amount": 13660833.24
+    },
+    {
+      "id": "569323",
+      "code": "0811",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES REIMBURSABLE",
+      "amount": 12601411.09
+    },
+    {
+      "id": "569104",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "IRA OVERSIGHT AND IMPLEMENTATION",
+      "amount": 8358204.56
+    },
+    {
+      "id": "569134",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "UKRAINE RESPONSE",
+      "amount": 5569.5
+    },
+    {
+      "id": "569032",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CORONAVIRUS RESPONSE SUPPORT TO SBA",
+      "amount": 0
+    },
+    {
+      "id": "569183",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "569281",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "TERRORISM AND FINANCIAL INTELLIGENCE",
+      "amount": 0
+    },
+    {
+      "id": "569234",
+      "code": "0811",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": -38035.83
+    },
+    {
+      "id": "569070",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "TREASURY-WIDE MANAGEMENT AND PROGRAMS",
+      "amount": -316871.82
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "total": 2223000,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "682512",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "OFFICE OF MARINE AND AVIATION OPERATIONS",
+      "amount": 2223000
+    }
+  ]
+}

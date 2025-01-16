@@ -1,0 +1,69 @@
+{
+  "total": 27829335484.88,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568233",
+      "code": "0850",
+      "type": "program_activity",
+      "name": "ASSISTED ACQUISITION SERVICES (AAS) - FLOW-THRU",
+      "amount": 19481980609.87
+    },
+    {
+      "id": "568230",
+      "code": "0853",
+      "type": "program_activity",
+      "name": "TRAVEL, TRANSPORTATION, AND LOGISTICS CATEGORIES (TTL) FLOW-THRU",
+      "amount": 4523585419.28
+    },
+    {
+      "id": "568241",
+      "code": "0852",
+      "type": "program_activity",
+      "name": "GENERAL SUPPLIES AND SERVICES (GSS) - FLOW-THRU",
+      "amount": 1653870080.31
+    },
+    {
+      "id": "568245",
+      "code": "0857",
+      "type": "program_activity",
+      "name": "ACQUISITION SERVICES FUND - OPERATING (TOTAL OPERATING EXP + RESERVES)",
+      "amount": 1528031782.02
+    },
+    {
+      "id": "568242",
+      "code": "0851",
+      "type": "program_activity",
+      "name": "INFORMATION TECHNOLOGY CATEGORY (ITC) - FLOW-THRU",
+      "amount": 430711170.45
+    },
+    {
+      "id": "568256",
+      "code": "0856",
+      "type": "program_activity",
+      "name": "INTEGRATED AWARD ENVIRONMENT (TOTAL OPERATING EXP + RESERVES)",
+      "amount": 133815598.93
+    },
+    {
+      "id": "568266",
+      "code": "0854",
+      "type": "program_activity",
+      "name": "TECHNOLOGY TRANSFORMATION SERVICES (TTS) - FLOW THRU",
+      "amount": 55088200.76
+    },
+    {
+      "id": "568231",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MULTIYEAR 2021-2025 ARP TRANSFERRED FUNDS",
+      "amount": 18792623.26
+    },
+    {
+      "id": "568229",
+      "code": "0858",
+      "type": "program_activity",
+      "name": "PROFESSIONAL SERVICES AND HUMAN CAPITAL (PSHC) FLOW-THRU",
+      "amount": 3460000
+    }
+  ]
+}

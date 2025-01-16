@@ -1,0 +1,14 @@
+{
+  "total": 51515948.33,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6142",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Merit Systems Protection Board",
+      "amount": 51515948.33,
+      "account_number": "389-0100"
+    }
+  ]
+}

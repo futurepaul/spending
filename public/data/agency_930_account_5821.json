@@ -1,0 +1,20 @@
+{
+  "total": 220296496.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568085",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "EQUIPMENT, CONTRACTS AND RELATED EXPENSES",
+      "amount": 137116305.24
+    },
+    {
+      "id": "568219",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 83180191.42
+    }
+  ]
+}

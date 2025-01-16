@@ -1,0 +1,41 @@
+{
+  "total": 109907931.28,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570428",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CAPACITY BUILDING",
+      "amount": 83000000
+    },
+    {
+      "id": "570438",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SELF HELP HOUSING OPPORTUNITY PROGRAM",
+      "amount": 25924130.16
+    },
+    {
+      "id": "570494",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "VETERAN HOME REHAB AND MOD PILOT",
+      "amount": 1000000
+    },
+    {
+      "id": "570515",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570613",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "RURAL CAPACITY BUILDING",
+      "amount": -16198.88
+    }
+  ]
+}

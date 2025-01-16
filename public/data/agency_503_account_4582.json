@@ -1,0 +1,34 @@
+{
+  "total": 69037099353.01,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570229",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "BENEFIT PAYMENTS",
+      "amount": 68755063059.33
+    },
+    {
+      "id": "570196",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "PAYMENTS FROM OPM CONTINGENCY RESERVE",
+      "amount": 210797337.5
+    },
+    {
+      "id": "570205",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "ADMINISTRATION (OPM AND OIG)",
+      "amount": 71238956.18
+    },
+    {
+      "id": "570192",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "ADMINISTRATION - DENTAL AND VISION PROGRAM",
+      "amount": 0
+    }
+  ]
+}

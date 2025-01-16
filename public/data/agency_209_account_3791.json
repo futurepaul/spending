@@ -1,0 +1,111 @@
+{
+  "total": 2082193893.84,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566546",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONAL WILDLIFE REFUGE SYSTEM",
+      "amount": 544832457.43
+    },
+    {
+      "id": "566679",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ECOLOGICAL SERVICES",
+      "amount": 287553475.83
+    },
+    {
+      "id": "566389",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY ALL OTHER",
+      "amount": 269386733.54
+    },
+    {
+      "id": "566358",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "FISHERIES AND AQUATIC RESOURCE CONSERVATION",
+      "amount": 226583288.25
+    },
+    {
+      "id": "566428",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CONSERVATION AND ENFORCEMENT",
+      "amount": 205433409.27
+    },
+    {
+      "id": "566670",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "GENERAL OPERATIONS",
+      "amount": 159006537.95
+    },
+    {
+      "id": "566356",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58)",
+      "amount": 117440060.37
+    },
+    {
+      "id": "566775",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "2022 INFLATION REDUCTION ACT (P.L. 117-169)",
+      "amount": 80235311.36
+    },
+    {
+      "id": "566652",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "GREAT LAKES RESTORATION INITIATIVE",
+      "amount": 72707702.64
+    },
+    {
+      "id": "566601",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "HABITAT CONSERVATION",
+      "amount": 70192300.07
+    },
+    {
+      "id": "566816",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "SCIENCE SUPPORT",
+      "amount": 33170995.4
+    },
+    {
+      "id": "566685",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "STEWARDSHIP PRIORITIES",
+      "amount": 15758202.14
+    },
+    {
+      "id": "566523",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "AMERICAN RESCUE PLAN (P.L. 117-2)",
+      "amount": -5603.9
+    },
+    {
+      "id": "566569",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "COOPERATIVE LANDSCAPE CONSERVATION",
+      "amount": -18645.92
+    },
+    {
+      "id": "566533",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "USMCA SUPPLEMENTAL (P.L. 116-113)",
+      "amount": -82330.59
+    }
+  ]
+}

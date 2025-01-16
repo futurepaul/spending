@@ -1,0 +1,27 @@
+{
+  "total": 81994931.54,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568883",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SPECIALTY CROP BLOCK GRANTS",
+      "amount": 81193750.04
+    },
+    {
+      "id": "568903",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAYMENTS TO STATES AND POSSESSIONS",
+      "amount": 809607.17
+    },
+    {
+      "id": "568555",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MICRO GRANTS FOR FOOD SECURITY",
+      "amount": -8425.67
+    }
+  ]
+}

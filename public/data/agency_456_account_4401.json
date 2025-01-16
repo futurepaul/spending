@@ -1,0 +1,20 @@
+{
+  "total": 2790763680.01,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569282",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CURRENCY PROGRAM",
+      "amount": 2790763680.01
+    },
+    {
+      "id": "569327",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "OTHER PROGRAMS",
+      "amount": 0
+    }
+  ]
+}

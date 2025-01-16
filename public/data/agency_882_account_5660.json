@@ -1,0 +1,48 @@
+{
+  "total": 96048182.51,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570569",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONTRACTS, GRANTS AND COOPERATIVE AGREEMENTS",
+      "amount": 62516103.84
+    },
+    {
+      "id": "570491",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE",
+      "amount": 25112698.81
+    },
+    {
+      "id": "570435",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "RESEARCH AND DEMONSTRATIONS",
+      "amount": 8419379.86
+    },
+    {
+      "id": "570451",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "PD&R EVICTION PREVENTION ASSISTANCE",
+      "amount": 0
+    },
+    {
+      "id": "570572",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "BJA PAY FOR SUCCESS EVALUATION",
+      "amount": 0
+    },
+    {
+      "id": "570610",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

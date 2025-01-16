@@ -1,0 +1,41 @@
+{
+  "total": 18118799.04,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566561",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CENTRAL UTAH PROJECT CONSTRUCTION",
+      "amount": 12481500
+    },
+    {
+      "id": "566593",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "FISH AND WILDLIFE",
+      "amount": 3878000
+    },
+    {
+      "id": "566517",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PROGRAM ADMINISTRATION",
+      "amount": 1759299.04
+    },
+    {
+      "id": "566587",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "2022 BIPARTISAN INFRASTRUCTURE LAW (P.L. 117-58)",
+      "amount": 0
+    },
+    {
+      "id": "566637",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

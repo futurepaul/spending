@@ -1,0 +1,55 @@
+{
+  "total": 43317778.4,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571199",
+      "code": "00J1",
+      "type": "program_activity",
+      "name": "PESTICIDES: PROTECT HUMAN HEALTH FROM PESTICIDE RISK",
+      "amount": 24274260.67
+    },
+    {
+      "id": "571065",
+      "code": "00J2",
+      "type": "program_activity",
+      "name": "PESTICIDES: PROTECT THE ENVIRONMENT FROM PESTICIDE RISK",
+      "amount": 17436963.41
+    },
+    {
+      "id": "571107",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 1206000
+    },
+    {
+      "id": "571289",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "COMPLIANCE MONITORING",
+      "amount": 287644.46
+    },
+    {
+      "id": "571200",
+      "code": "00G2",
+      "type": "program_activity",
+      "name": "AUDITS, EVALUATIONS, AND INVESTIGATIONS",
+      "amount": 112909.86
+    },
+    {
+      "id": "571184",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571172",
+      "code": "00J3",
+      "type": "program_activity",
+      "name": "PESTICIDES: REALIZE THE VALUE OF PESTICIDE AVAILABILITY",
+      "amount": 0
+    }
+  ]
+}

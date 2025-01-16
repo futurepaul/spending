@@ -1,0 +1,41 @@
+{
+  "total": 3034206922.61,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566762",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PARK MANAGEMENT",
+      "amount": 2628276760.99
+    },
+    {
+      "id": "566340",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "EXTERNAL ADMINISTRATIVE COSTS",
+      "amount": 216462565.15
+    },
+    {
+      "id": "566406",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "2022 INFLATION REDUCTION ACT (P.L. 117-169)",
+      "amount": 109623016.62
+    },
+    {
+      "id": "566680",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OPERATION OF THE NATIONAL PARK SYSTEM (REIMBURSABLE)",
+      "amount": 71008027.38
+    },
+    {
+      "id": "567241",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PARK MANAGEMENT",
+      "amount": 8836552.47
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "total": 14270725207.53,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569702",
+      "code": "0303",
+      "type": "program_activity",
+      "name": "ALL-VOLUNTEER ASSISTANCE:  BASIC BENEFITS AND ALL OTHER",
+      "amount": 9534634176.1
+    },
+    {
+      "id": "569505",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "SONS AND DAUGHTERS",
+      "amount": 1857175120.02
+    },
+    {
+      "id": "569546",
+      "code": "0201",
+      "type": "program_activity",
+      "name": "VOCATIONAL REHABILITATION TRAINING",
+      "amount": 1121545762.36
+    },
+    {
+      "id": "569657",
+      "code": "0202",
+      "type": "program_activity",
+      "name": "SUBSISTENCE ALLOWANCE",
+      "amount": 927042851.58
+    },
+    {
+      "id": "569627",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "SPOUSES",
+      "amount": 407873284.98
+    },
+    {
+      "id": "569540",
+      "code": "0204",
+      "type": "program_activity",
+      "name": "HOUSING GRANTS",
+      "amount": 147457772
+    },
+    {
+      "id": "569707",
+      "code": "0203",
+      "type": "program_activity",
+      "name": "AUTOMOBILES AND ADAPTIVE EQUIPMENT",
+      "amount": 142947460.6
+    },
+    {
+      "id": "569594",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "CHAPTER 1606 RESERVISTS BENEFITS",
+      "amount": 95950155.55
+    },
+    {
+      "id": "569490",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "CHAPTER 33 DOD REIMBURSEMENTS",
+      "amount": 35307632.81
+    },
+    {
+      "id": "569669",
+      "code": "0301",
+      "type": "program_activity",
+      "name": "WORK STUDY",
+      "amount": 20534189.13
+    },
+    {
+      "id": "569557",
+      "code": "0310",
+      "type": "program_activity",
+      "name": "CONTRACT COUNSELING",
+      "amount": 5428458.72
+    },
+    {
+      "id": "569618",
+      "code": "0305",
+      "type": "program_activity",
+      "name": "TUITION ASSISTANCE",
+      "amount": 1973508.29
+    },
+    {
+      "id": "569572",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "CHAPTER 1606 RESERVISTS SUPPLEMENTARY BENEFITS",
+      "amount": 1256594.82
+    },
+    {
+      "id": "569614",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "VETERANS AND SERVICEPERSONS SUPPLEMENTARY BENEFITS",
+      "amount": 951951.78
+    },
+    {
+      "id": "569661",
+      "code": "0205",
+      "type": "program_activity",
+      "name": "HOUSING TECHNOLOGY GRANTS",
+      "amount": 815544.33
+    },
+    {
+      "id": "569685",
+      "code": "0309",
+      "type": "program_activity",
+      "name": "REIMBURSEMENT TO GOE",
+      "amount": 243405.48
+    },
+    {
+      "id": "569526",
+      "code": "0306",
+      "type": "program_activity",
+      "name": "LICENSING AND CERTIFICATION",
+      "amount": 148561.78
+    },
+    {
+      "id": "569552",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "CHAPTER 1607 RESERVISTS BENEFITS",
+      "amount": -54612.02
+    },
+    {
+      "id": "569516",
+      "code": "0302",
+      "type": "program_activity",
+      "name": "PAYMENTS TO STATES",
+      "amount": -15163509.76
+    },
+    {
+      "id": "569644",
+      "code": "0307",
+      "type": "program_activity",
+      "name": "VETERANS RAPID RETRAINING ASSISTANCE PROGRAM",
+      "amount": -15343101.02
+    }
+  ]
+}

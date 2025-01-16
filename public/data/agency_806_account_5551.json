@@ -1,0 +1,202 @@
+{
+  "total": 14839067136.39,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569844",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "HEAD START",
+      "amount": 12317111516.85
+    },
+    {
+      "id": "569819",
+      "code": "0301",
+      "type": "program_activity",
+      "name": "COMMUNITY SERVICES BLOCK GRANT",
+      "amount": 779784751.68
+    },
+    {
+      "id": "570170",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "PRESCHOOL DEVELOPMENT GRANTS",
+      "amount": 308420183.1
+    },
+    {
+      "id": "570142",
+      "code": "0112",
+      "type": "program_activity",
+      "name": "CHILD WELFARE SERVICES",
+      "amount": 266756710.76
+    },
+    {
+      "id": "570031",
+      "code": "0308",
+      "type": "program_activity",
+      "name": "DOMESTIC VIOLENCE HOTLINE",
+      "amount": 248711186.19
+    },
+    {
+      "id": "570190",
+      "code": "0128",
+      "type": "program_activity",
+      "name": "ACF FEDERAL ADMINISTRATION",
+      "amount": 214998228.61
+    },
+    {
+      "id": "570181",
+      "code": "0109",
+      "type": "program_activity",
+      "name": "CHILD ABUSE STATE GRANTS",
+      "amount": 102663905.19
+    },
+    {
+      "id": "569948",
+      "code": "0125",
+      "type": "program_activity",
+      "name": "SOCIAL SERVICES AND INCOME MAINTENANCE RESEARCH",
+      "amount": 71353453.3
+    },
+    {
+      "id": "569987",
+      "code": "0111",
+      "type": "program_activity",
+      "name": "COMMUNITY-BASED CHILD ABUSE PREVENTION",
+      "amount": 68741105.01
+    },
+    {
+      "id": "569738",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "RUNAWAY AND HOMELESS YOUTH (BASIC CENTERS)",
+      "amount": 65979327.14
+    },
+    {
+      "id": "569807",
+      "code": "0124",
+      "type": "program_activity",
+      "name": "NATIVE AMERICAN PROGRAMS",
+      "amount": 56354302.55
+    },
+    {
+      "id": "569849",
+      "code": "0104",
+      "type": "program_activity",
+      "name": "TRANSITIONAL LIVING",
+      "amount": 54923150.41
+    },
+    {
+      "id": "569904",
+      "code": "0116",
+      "type": "program_activity",
+      "name": "ADOPTION AND LEGAL GUARDIANSHIP INCENTIVES",
+      "amount": 54118117.75
+    },
+    {
+      "id": "569814",
+      "code": "0114",
+      "type": "program_activity",
+      "name": "ADOPTION OPPORTUNITIES",
+      "amount": 50830782.49
+    },
+    {
+      "id": "569788",
+      "code": "0117",
+      "type": "program_activity",
+      "name": "INDEPENDENT LIVING EDUCATION AND TRAINING VOUCHERS",
+      "amount": 43500472.1
+    },
+    {
+      "id": "570092",
+      "code": "0110",
+      "type": "program_activity",
+      "name": "CHILD ABUSE DISCRETIONARY ACTIVITIES",
+      "amount": 35953185.44
+    },
+    {
+      "id": "570115",
+      "code": "0113",
+      "type": "program_activity",
+      "name": "CHILD WELFARE TRAINING, RESEARCH, OR DEMONSTRATION PROJECTS",
+      "amount": 25302785.87
+    },
+    {
+      "id": "570186",
+      "code": "0304",
+      "type": "program_activity",
+      "name": "COMMUNITY ECONOMIC DEVELOPMENT",
+      "amount": 22383017.34
+    },
+    {
+      "id": "569805",
+      "code": "0106",
+      "type": "program_activity",
+      "name": "EDUCATION GRANTS TO REDUCE SEXUAL ABUSE OF RUNAWAY YOUTH",
+      "amount": 20373350.4
+    },
+    {
+      "id": "570097",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CHILDREN AND FAMILIES SERVICES PROGRAMS (REIMBURSABLE)",
+      "amount": 12344468.64
+    },
+    {
+      "id": "569933",
+      "code": "0303",
+      "type": "program_activity",
+      "name": "RURAL COMMUNITY FACILITIES",
+      "amount": 11956055.92
+    },
+    {
+      "id": "569719",
+      "code": "0309",
+      "type": "program_activity",
+      "name": "FAMILY VIOLENCE PREVENTION AND SERVICES",
+      "amount": 3483333.31
+    },
+    {
+      "id": "566560",
+      "code": "0301",
+      "type": "program_activity",
+      "name": "COMMUNITY SERVICES BLOCK GRANT",
+      "amount": 1774759
+    },
+    {
+      "id": "569959",
+      "code": "0131",
+      "type": "program_activity",
+      "name": "DISASTER HUMAN SERVICES CASE MANAGEMENT",
+      "amount": 1288294.95
+    },
+    {
+      "id": "569935",
+      "code": "0305",
+      "type": "program_activity",
+      "name": "LOW INCOME HOUSEHOLD DRINKING WATER & WASTEWATER EMERGENCY",
+      "amount": 36052.9
+    },
+    {
+      "id": "569934",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FEDERAL PARENT LOCATOR SERVICE",
+      "amount": 0
+    },
+    {
+      "id": "569733",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "569854",
+      "code": "0304",
+      "type": "program_activity",
+      "name": "COMMUNITY SERVICES DISCRETIONARY (JOLI & CED)",
+      "amount": -75360.51
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "total": 5347689187.12,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564306",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RESERVE COMPONENT TRAINING AND SUPPORT",
+      "amount": 5291572611.7
+    },
+    {
+      "id": "564244",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 55576417.87
+    },
+    {
+      "id": "564956",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 2074699.09
+    },
+    {
+      "id": "564928",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 538260.05
+    },
+    {
+      "id": "697166",
+      "code": "00RF",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": -2072801.59
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "total": 1125180937.08,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "606067",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MANDATORY",
+      "amount": 1125180937.08
+    },
+    {
+      "id": "605930",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "STRATEGIC SUPPORT",
+      "amount": 0
+    },
+    {
+      "id": "606061",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SECRETARY S ENFORCEMENT FUND",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "total": 12027460,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "665941",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 8158051
+    },
+    {
+      "id": "665685",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 3869409
+    }
+  ]
+}

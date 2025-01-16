@@ -1,0 +1,27 @@
+{
+  "total": 990380.74,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564316",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "AF WILDLIFE CONSERVATION",
+      "amount": 1348411.45
+    },
+    {
+      "id": "590451",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 68364.67
+    },
+    {
+      "id": "564435",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -426395.38
+    }
+  ]
+}

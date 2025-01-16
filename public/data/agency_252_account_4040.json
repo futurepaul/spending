@@ -1,0 +1,48 @@
+{
+  "total": 8453880508.06,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567427",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "INSTITUTION SECURITY AND ADMINISTRATION",
+      "amount": 4375061126.65
+    },
+    {
+      "id": "567425",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "INMATE CARE AND PROGRAMS",
+      "amount": 3354166876.86
+    },
+    {
+      "id": "567458",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CONTRACT CONFINEMENT",
+      "amount": 691263292.15
+    },
+    {
+      "id": "570037",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "INMATE CARE AND PROGRAMS",
+      "amount": 83467190.16
+    },
+    {
+      "id": "567482",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 10472661.25
+    },
+    {
+      "id": "567579",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -60550639.01
+    }
+  ]
+}

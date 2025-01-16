@@ -1,0 +1,27 @@
+{
+  "total": 134195114.59,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567693",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "BIOLOGICAL SUPPORT",
+      "amount": 84187110.48
+    },
+    {
+      "id": "567821",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CAS - SECURING THE CITIES",
+      "amount": 35725672.95
+    },
+    {
+      "id": "567639",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CAS - FEDERAL ASSISTANCE",
+      "amount": 14282331.16
+    }
+  ]
+}

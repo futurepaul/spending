@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prefetch": "bun run src/prefetch.ts"
   },
   "dependencies": {
     "@tanstack/react-router": "^1.97.0",

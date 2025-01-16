@@ -1,0 +1,27 @@
+{
+  "total": 3588677.18,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570560",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "DISASTER-RELATED EXPENSES",
+      "amount": 3650259.34
+    },
+    {
+      "id": "570476",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PERSONNEL COSTS",
+      "amount": -990.87
+    },
+    {
+      "id": "570460",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "NON-PERSONNEL EXPENSES",
+      "amount": -60591.29
+    }
+  ]
+}

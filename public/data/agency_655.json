@@ -1,0 +1,78 @@
+{
+  "total": 9482557219.22,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4749",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Research and Related Activities, National Science Foundation",
+      "amount": 7419717035.79,
+      "account_number": "049-0100"
+    },
+    {
+      "id": "4751",
+      "code": "0106",
+      "type": "federal_account",
+      "name": "STEM Education, National Science Foundation",
+      "amount": 1176645771.65,
+      "account_number": "049-0106"
+    },
+    {
+      "id": "4753",
+      "code": "0180",
+      "type": "federal_account",
+      "name": "Agency Operations and Award Management, National Science Foundation",
+      "amount": 473917350.39,
+      "account_number": "049-0180"
+    },
+    {
+      "id": "4757",
+      "code": "0551",
+      "type": "federal_account",
+      "name": "Major Research Equipment and Facilities Construction, National Science Foundation",
+      "amount": 252945149.35,
+      "account_number": "049-0551"
+    },
+    {
+      "id": "4759",
+      "code": "5176",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, H-1B Funded, Education  and Human Resources, National Science Foundation",
+      "amount": 95996438.1,
+      "account_number": "049-5176"
+    },
+    {
+      "id": "4761",
+      "code": "8960",
+      "type": "federal_account",
+      "name": "Donations, National Science Foundation",
+      "amount": 34913978.94,
+      "account_number": "049-8960"
+    },
+    {
+      "id": "4754",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Office of Inspector General, National Science Foundation",
+      "amount": 23549126.79,
+      "account_number": "049-0300"
+    },
+    {
+      "id": "4756",
+      "code": "0350",
+      "type": "federal_account",
+      "name": "Office of the National Science Board, National Science Foundation",
+      "amount": 4872368.21,
+      "account_number": "049-0350"
+    },
+    {
+      "id": "6505",
+      "code": "0108",
+      "type": "federal_account",
+      "name": "Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund, National Science Foundation",
+      "amount": 0,
+      "account_number": "049-0108"
+    }
+  ]
+}

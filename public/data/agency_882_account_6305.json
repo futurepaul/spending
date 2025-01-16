@@ -1,0 +1,55 @@
+{
+  "total": 1135902079.47,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570519",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PERSONNEL COSTS",
+      "amount": 773692890.85
+    },
+    {
+      "id": "570421",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BENEFITS",
+      "amount": 279290069.1
+    },
+    {
+      "id": "570554",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NON-PERSONNEL EXPENSES",
+      "amount": 75419765.69
+    },
+    {
+      "id": "570611",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "ARP EMERGENCY RELATED EXPENSES",
+      "amount": 7798626.02
+    },
+    {
+      "id": "578672",
+      "code": "0850",
+      "type": "program_activity",
+      "name": "PROGRAM OFFICES S&E (REIMBURSABLE)",
+      "amount": 144835.57
+    },
+    {
+      "id": "570586",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570487",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CARES EMERGENCY RELATED EXPENSES",
+      "amount": -444107.76
+    }
+  ]
+}

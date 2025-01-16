@@ -1,0 +1,41 @@
+{
+  "total": 19316463.91,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569838",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "HEALTH RESOURCES AND SERVICES (REIMBURSABLE)",
+      "amount": 13268472.46
+    },
+    {
+      "id": "569728",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "MATERNAL AND CHILD HEALTH (MANDATORY)",
+      "amount": 6047991.45
+    },
+    {
+      "id": "569982",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "HEALTH WORKFORCE",
+      "amount": 0
+    },
+    {
+      "id": "570136",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "HEALTH WORKFORCE (MANDATORY)",
+      "amount": 0
+    },
+    {
+      "id": "570169",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "HRSA HISTORICAL ACTIVITY",
+      "amount": 0
+    }
+  ]
+}

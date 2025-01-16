@@ -1,0 +1,41 @@
+{
+  "total": 15081884.64,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569098",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE COSTS",
+      "amount": 15425462.67
+    },
+    {
+      "id": "569151",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PASSENGER VESSEL COMPANIES",
+      "amount": 0
+    },
+    {
+      "id": "569255",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "PILOTAGE COMPANIES",
+      "amount": 0
+    },
+    {
+      "id": "569288",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SCHOOL BUS COMPANIES",
+      "amount": 0
+    },
+    {
+      "id": "569211",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MOTOR COACH COMPANIES",
+      "amount": -343578.03
+    }
+  ]
+}

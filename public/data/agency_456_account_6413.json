@@ -1,0 +1,20 @@
+{
+  "total": 150200000,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569315",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GLOBAL ENVIRONMENT FACILITY",
+      "amount": 150200000
+    },
+    {
+      "id": "569232",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+      "amount": 0
+    }
+  ]
+}

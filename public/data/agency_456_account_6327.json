@@ -1,0 +1,76 @@
+{
+  "total": 8663660.02,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569325",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 6657551.6
+    },
+    {
+      "id": "569043",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 1886421.45
+    },
+    {
+      "id": "569276",
+      "code": "0706",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 119686.97
+    },
+    {
+      "id": "569182",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CONGRESSIONAL OVERSIGHT COMMISSION REIMBURSEMENT",
+      "amount": 0
+    },
+    {
+      "id": "569188",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIONAL SECURITY BUSINESSES",
+      "amount": 0
+    },
+    {
+      "id": "569199",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "FED 13 3 MAIN STREET LENDING PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "569229",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CARGO AIR CARRIERS",
+      "amount": 0
+    },
+    {
+      "id": "569391",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "FED 13 3 TERM ASSET BACKED LENDING FACILITY",
+      "amount": 0
+    },
+    {
+      "id": "569063",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PASSENGER AIR CARRIERS",
+      "amount": 0
+    },
+    {
+      "id": "569092",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FED 13 3 CORPORATE CREDIT FACILITIES",
+      "amount": 0
+    }
+  ]
+}

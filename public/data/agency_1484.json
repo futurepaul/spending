@@ -1,0 +1,14 @@
+{
+  "total": 44046702.09,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6202",
+      "code": "0301",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Surface Transportation Board",
+      "amount": 44046702.09,
+      "account_number": "472-0301"
+    }
+  ]
+}

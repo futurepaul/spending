@@ -1,0 +1,90 @@
+{
+  "total": 488345426.96,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567272",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MOTOR CARRIER SAFETY ASSISTANCE PROGRAM",
+      "amount": 390543282.71
+    },
+    {
+      "id": "567195",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "HIGH PRIORITY ACTIVITIES PROGRAM (HPAP)",
+      "amount": 56578139.01
+    },
+    {
+      "id": "567317",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "COMMERCIAL DRIVERS LICENSE (CDL) PROGRAM IMPROVEMENT GRANTS",
+      "amount": 34378618.64
+    },
+    {
+      "id": "567320",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "CMV ENFORCEMENT TRAINING & SUPPORT (CMVETS)",
+      "amount": 5000000
+    },
+    {
+      "id": "566994",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "LARGE TRUCK CRASH CAUSAL FACTORS STUDY",
+      "amount": 2469894.52
+    },
+    {
+      "id": "567144",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "COMMERCIAL MOTOR VEHICLE OPERATOR (CMV) GRANT",
+      "amount": 1031775.03
+    },
+    {
+      "id": "567283",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BORDER ENFORCEMENT GRANTS",
+      "amount": 0
+    },
+    {
+      "id": "567262",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "HIGHLY AUTOMATED VEHICLE R&D",
+      "amount": 0
+    },
+    {
+      "id": "567199",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SAFETY DATA IMPROVEMENT GRANTS",
+      "amount": -17049.33
+    },
+    {
+      "id": "567209",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "PERFORMANCE AND REGISTRATION INFORMATION SYSTEM",
+      "amount": -41735.42
+    },
+    {
+      "id": "567024",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "BORDER MAINTENANCE AND MODERNIZATION",
+      "amount": -626198.65
+    },
+    {
+      "id": "567258",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "COMMERCIAL VEHICLE INFORMATION SYSTEMS",
+      "amount": -971299.55
+    }
+  ]
+}

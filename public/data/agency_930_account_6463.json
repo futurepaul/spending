@@ -1,0 +1,34 @@
+{
+  "total": 18200857.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568174",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "TECHNOLOGY TRANSITION ACTIVITIES",
+      "amount": 13055644.48
+    },
+    {
+      "id": "568099",
+      "code": "0040",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 4593257.29
+    },
+    {
+      "id": "687252",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "FOUNDATION FOR ENERGY SECURITY AND INNOVATION",
+      "amount": 524500
+    },
+    {
+      "id": "568025",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 27455.6
+    }
+  ]
+}

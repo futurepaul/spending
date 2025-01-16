@@ -1,0 +1,20 @@
+{
+  "total": 0,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569448",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CORONAVIRUS AID, RELIEF, AND ECONOMIC SECURITY (CARES) ACT GENERAL FUND (DIRECT)",
+      "amount": 0
+    },
+    {
+      "id": "569466",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SECOND ECONOMIC IMPACT PAYMENTS (EIP) GENERAL FUND",
+      "amount": 0
+    }
+  ]
+}

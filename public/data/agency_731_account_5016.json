@@ -1,0 +1,34 @@
+{
+  "total": -27896.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566965",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CAPITAL ASSISTANCE HIGH-SPEED RAIL CORRIDORS AND IPR SERVICE GRANTS",
+      "amount": 0
+    },
+    {
+      "id": "567047",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CAPITAL ASSISTANCE HIGH-SPEED RAIL CORRIDORS AND IPR SERVICE PLANNING ACTIVITIES",
+      "amount": 0
+    },
+    {
+      "id": "567284",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CAPITAL ASSISTANCE HIGH-SPEED RAIL CORRIDORS AND IPR SERVICE RESEARCH AND DEMONSTRATING TECHNOLOGIES",
+      "amount": -9910.55
+    },
+    {
+      "id": "567044",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CAPITAL ASSISTANCE HIGH-SPEED RAIL CORRIDORS AND IPR SERVICE OVERSIGHT",
+      "amount": -17986.11
+    }
+  ]
+}

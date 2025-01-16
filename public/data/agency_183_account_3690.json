@@ -1,0 +1,111 @@
+{
+  "total": 2299811281.88,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "682473",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIONAL ENVIRONMENTAL SATELLITE, DATA AND INFORMATION SERVICE",
+      "amount": 996499939.29
+    },
+    {
+      "id": "682423",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "OFFICE OF MARINE AND AVIATION OPERATIONS",
+      "amount": 454027920.62
+    },
+    {
+      "id": "682490",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MISSION SUPPORT",
+      "amount": 242204913.82
+    },
+    {
+      "id": "682413",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OCEANIC AND ATMOSPHERIC RESEARCH",
+      "amount": 218720600.7
+    },
+    {
+      "id": "682407",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATIONAL WEATHER SERVICE",
+      "amount": 124251416.05
+    },
+    {
+      "id": "682444",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NAT'L ENVRNMNTL SATLLTE, DATA & INFO SVC",
+      "amount": 97577641.99
+    },
+    {
+      "id": "682362",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIONAL ENVIRONMENTAL SATELLITE SERVICE",
+      "amount": 81398231.51
+    },
+    {
+      "id": "682369",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OCEANIC & ATMOSPHERIC RESEARCH",
+      "amount": 41445671.17
+    },
+    {
+      "id": "682504",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "NOAA WIDE SUPPORT SERVICES",
+      "amount": 22147573.93
+    },
+    {
+      "id": "682371",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL OCEAN SERVICE",
+      "amount": 16202696.79
+    },
+    {
+      "id": "682491",
+      "code": "0066",
+      "type": "program_activity",
+      "name": "SPECTRUM RELOCATION PROGRAM",
+      "amount": 4201330.99
+    },
+    {
+      "id": "682525",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "VARIOUS ACCOUNTING",
+      "amount": 1062356.2
+    },
+    {
+      "id": "682356",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "OFFICE OF MARINE AND AVIATION OPERATIONS",
+      "amount": 721284.69
+    },
+    {
+      "id": "593638",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "682380",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONAL MARINE FISHERIES SERVICE",
+      "amount": -650295.87
+    }
+  ]
+}

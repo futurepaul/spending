@@ -1,0 +1,27 @@
+{
+  "total": 74734753.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "682528",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (DIRECT)",
+      "amount": 66111008.79
+    },
+    {
+      "id": "682478",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "2023 DISASTER SUPPLEMENTAL",
+      "amount": 6287387.98
+    },
+    {
+      "id": "682519",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 2336356.68
+    }
+  ]
+}

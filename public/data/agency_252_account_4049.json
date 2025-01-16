@@ -1,0 +1,62 @@
+{
+  "total": 1243873304.5,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567346",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CRIME VICTIMS GRANTS AND ASSISTANCE",
+      "amount": 1068334332.49
+    },
+    {
+      "id": "567385",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATION",
+      "amount": 100318242.67
+    },
+    {
+      "id": "567581",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "TRIBAL VICTIMS ASSISTANCE GRANTS",
+      "amount": 55404606.13
+    },
+    {
+      "id": "569808",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "HHS",
+      "amount": 16135524.25
+    },
+    {
+      "id": "567564",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CRIME VICTIMS FUND REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 3238609.96
+    },
+    {
+      "id": "662800",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "BIA",
+      "amount": 441989
+    },
+    {
+      "id": "567565",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "INSPECTOR GENERAL OVERSIGHT",
+      "amount": 0
+    },
+    {
+      "id": "567512",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "total": 261176515.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569812",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "HEALTH SURVEILLANCE AND PROGRAM SUPPORT",
+      "amount": 266423742.21
+    },
+    {
+      "id": "569744",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "SAMHSA REIMBURSABLE: PHS EVALUATION",
+      "amount": 29911015.38
+    },
+    {
+      "id": "569969",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "SAMHSA REIMBURSABLES",
+      "amount": 979982.81
+    },
+    {
+      "id": "569867",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SUBSTANCE ABUSE TREATMENT",
+      "amount": 0
+    },
+    {
+      "id": "569877",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "569930",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MENTAL HEALTH",
+      "amount": -36138225.03
+    }
+  ]
+}

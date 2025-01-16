@@ -1,0 +1,20 @@
+{
+  "total": 170120697.68,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569764",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "NATIONAL CENTER FOR COMPLEMENTARY AND INTEGRATIVE HEALTH (0896)",
+      "amount": 170115046.29
+    },
+    {
+      "id": "569940",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": 5651.39
+    }
+  ]
+}

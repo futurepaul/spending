@@ -1,0 +1,202 @@
+{
+  "total": 520321329.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567402",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "MANAGEMENT & ADMINISTRATION REIMBURSABLE",
+      "amount": 321614829.77
+    },
+    {
+      "id": "567341",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "RESEARCH, EVALUATION, AND STATISTICS SET-ASIDE",
+      "amount": 50070856.89
+    },
+    {
+      "id": "567539",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "REGIONAL INFORMATION SHARING SYSTEM",
+      "amount": 41359893.1
+    },
+    {
+      "id": "567553",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "BUREAU OF JUSTICE STATISTICS",
+      "amount": 38222455.72
+    },
+    {
+      "id": "567429",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE OF JUSTICE",
+      "amount": 18147401.35
+    },
+    {
+      "id": "567492",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "PROGRAMMATIC REIMBURSABLE",
+      "amount": 17872097.36
+    },
+    {
+      "id": "567505",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATION",
+      "amount": 13862851.82
+    },
+    {
+      "id": "567430",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "FIRST STEP ACT EVALUATION ACTIVITIES (TRANSFER FROM BOP)",
+      "amount": 8157980.75
+    },
+    {
+      "id": "567477",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "RESEARCH ON DOMESTIC RADICALIZATION",
+      "amount": 7110810.09
+    },
+    {
+      "id": "692793",
+      "code": "0047",
+      "type": "program_activity",
+      "name": "RESEARCH ON MULTIDISCIPLINARY TEAMS",
+      "amount": 1379321
+    },
+    {
+      "id": "693008",
+      "code": "0048",
+      "type": "program_activity",
+      "name": "RESEARCH AND DEVELOPMENT IN FORENSIC SCIENCE FOR CRIMINAL JUSTICE",
+      "amount": 1379321
+    },
+    {
+      "id": "692856",
+      "code": "0033",
+      "type": "program_activity",
+      "name": "LAW ENFORCEMENT RESPONSE TO OPIOID OVERDOSES",
+      "amount": 920538
+    },
+    {
+      "id": "567439",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "RESEARCH ON VIOLENCE AGAINST WOMEN",
+      "amount": 224373.18
+    },
+    {
+      "id": "567522",
+      "code": "0027",
+      "type": "program_activity",
+      "name": "DATA COLLECTION ON POLICE SUICIDE",
+      "amount": 49900
+    },
+    {
+      "id": "567495",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "CAMPUS SEXUAL ASSAULT CLIMATE SURVEY",
+      "amount": 0
+    },
+    {
+      "id": "567332",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "NATIONAL CENTER FOR RESTORATIVE JUSTICE",
+      "amount": 0
+    },
+    {
+      "id": "567390",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "NATIONAL STUDY OF LAW ENFORCEMENT RESPONSES TO SEX TRAFFICKING OF MINORS",
+      "amount": 0
+    },
+    {
+      "id": "567405",
+      "code": "0025",
+      "type": "program_activity",
+      "name": "NATIONAL MODEL FOR REDUCING INCARCERATION RATES",
+      "amount": 0
+    },
+    {
+      "id": "567471",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567491",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "NATIONAL CENTER ON FORENSICS",
+      "amount": 0
+    },
+    {
+      "id": "567327",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "RESEARCH ON GUN VIOLENCE PREVENTION",
+      "amount": 0
+    },
+    {
+      "id": "567500",
+      "code": "0028",
+      "type": "program_activity",
+      "name": "VIOLENCE AGAINST NATIVES AT EXTRACTION SITES",
+      "amount": 0
+    },
+    {
+      "id": "567523",
+      "code": "0034",
+      "type": "program_activity",
+      "name": "FEASIBILITY STUDY TO MONITOR ABUSE IN YOUTH SERVING ORGANIZATIONS",
+      "amount": 0
+    },
+    {
+      "id": "567555",
+      "code": "0024",
+      "type": "program_activity",
+      "name": "RESEARCH TO REDUCE TRAUMA FOR CHILD PORNOGRAPHY VICTIMS",
+      "amount": 0
+    },
+    {
+      "id": "567586",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "NATIONAL JUVENILE ONLINE VICTIMIZATION STUDIES",
+      "amount": 0
+    },
+    {
+      "id": "567589",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "SAFE POLICING DATABASE",
+      "amount": 0
+    },
+    {
+      "id": "609267",
+      "code": "0026",
+      "type": "program_activity",
+      "name": "RESEARCH ON COUNTER-UNMANNED AERIAL SYSTEMS (C-UAS)",
+      "amount": 0
+    },
+    {
+      "id": "567436",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "RESEARCH ON SCHOOL SAFETY",
+      "amount": -51300.05
+    }
+  ]
+}

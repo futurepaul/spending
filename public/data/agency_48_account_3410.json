@@ -1,0 +1,27 @@
+{
+  "total": 17073182.5,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571880",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TRADE ENFORCEMENT",
+      "amount": 8620182.27
+    },
+    {
+      "id": "586482",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "USMCA ENVIRONMENT MONITORING AND ENFORCEMENT",
+      "amount": 8453000.23
+    },
+    {
+      "id": "595579",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DIRECT PROGRAM ACTIVITY",
+      "amount": 0
+    }
+  ]
+}

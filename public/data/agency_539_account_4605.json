@@ -1,0 +1,48 @@
+{
+  "total": 66371711687.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569465",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL SECURITY INCOME PROGRAM (DIRECT)",
+      "amount": 61754104053.01
+    },
+    {
+      "id": "569461",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "STATE SUPPLEMENTATION PAYMENTS",
+      "amount": 3082154020.26
+    },
+    {
+      "id": "569459",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL SECURITY INCOME ADDITIONAL PROGRAM INTEGRITY",
+      "amount": 1115289532
+    },
+    {
+      "id": "630175",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL SECURITY INCOME PROGRAM INTEGRITY (BASE)",
+      "amount": 214010473
+    },
+    {
+      "id": "569453",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL SECURITY INCOME BENEFICIARY SERVICES",
+      "amount": 109168773.85
+    },
+    {
+      "id": "569440",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL SECURITY INCOME RESEARCH AND DEMONSTRATION PROJECTS",
+      "amount": 96984835.67
+    }
+  ]
+}

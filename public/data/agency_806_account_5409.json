@@ -1,0 +1,20 @@
+{
+  "total": 83595112.06,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569837",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OFFICE OF THE NATIONAL COORDINATOR FOR HEALTH IT (ONC): REIMBURSABLE",
+      "amount": 85779860.93
+    },
+    {
+      "id": "570060",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "HEALTH INFORMATION TECHNOLOGY (IT)",
+      "amount": -2184748.87
+    }
+  ]
+}

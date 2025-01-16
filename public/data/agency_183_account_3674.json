@@ -1,0 +1,48 @@
+{
+  "total": 433798466.97,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570734",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS (CHIPS) INDUSTRIAL TECHNOLOGY SERVICES",
+      "amount": 226277152.05
+    },
+    {
+      "id": "570692",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "HOLLINGS MANUFACTURING EXTENSION PARTNERSHIP",
+      "amount": 178982914.07
+    },
+    {
+      "id": "570694",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MANUFACTURING USA",
+      "amount": 28208074.61
+    },
+    {
+      "id": "570704",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 335326.24
+    },
+    {
+      "id": "570747",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADVANCED MANUFACTURING TECHNOLOGY CONSORTIA",
+      "amount": 0
+    },
+    {
+      "id": "674922",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "TECHNOLOGY INNOVATION PROGRAM",
+      "amount": -5000
+    }
+  ]
+}

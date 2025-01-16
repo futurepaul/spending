@@ -1,0 +1,601 @@
+{
+  "total": 1924184439.63,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "609148",
+      "code": "0185",
+      "type": "program_activity",
+      "name": "BYRNE DISCRETIONARY COMMUNITY PROJECT FUNDING",
+      "amount": 345034035.4
+    },
+    {
+      "id": "609178",
+      "code": "0186",
+      "type": "program_activity",
+      "name": "SAFER COMMUNITIES ACT SUPPLEMENTAL FUNDING",
+      "amount": 232266628
+    },
+    {
+      "id": "567533",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "STATE CRIMINAL ALIEN ASSISTANCE PROGRAM",
+      "amount": 210209032.9
+    },
+    {
+      "id": "567357",
+      "code": "0089",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATION",
+      "amount": 170385207.03
+    },
+    {
+      "id": "646631",
+      "code": "0120",
+      "type": "program_activity",
+      "name": "PRESIDENTIAL NOMINATING CONVENTIONS",
+      "amount": 150000000
+    },
+    {
+      "id": "567367",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "DNA INITIATIVE - DNA RELATED AND FORENSIC PROGRAMS AND ACTIVITIES",
+      "amount": 102968786.11
+    },
+    {
+      "id": "567531",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "VICTIMS OF TRAFFICKING",
+      "amount": 75073846.54
+    },
+    {
+      "id": "567475",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "DRUG COURT PROGRAM",
+      "amount": 59312600.33
+    },
+    {
+      "id": "567464",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "NATIONAL CRIMINAL RECORDS HISTORY IMPROVEMENT PROGRAM (NCHIP)",
+      "amount": 49494410.32
+    },
+    {
+      "id": "609292",
+      "code": "0171",
+      "type": "program_activity",
+      "name": "COMMUNITY VIOLENCE INTERVENTION",
+      "amount": 39847170
+    },
+    {
+      "id": "567563",
+      "code": "0082",
+      "type": "program_activity",
+      "name": "TRIBAL ASSISTANCE",
+      "amount": 38824606.13
+    },
+    {
+      "id": "567365",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "JUSTICE AND MENTAL HEALTH COLLABORATIONS",
+      "amount": 32483234.5
+    },
+    {
+      "id": "567456",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "SECOND CHANCE ACT/OFFENDER REENTRY",
+      "amount": 32046108.75
+    },
+    {
+      "id": "567536",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "COMMUNITY TRUST INITIATIVE: JUSTICE REINVESTMENT INITIATIVE",
+      "amount": 29555338.93
+    },
+    {
+      "id": "567548",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "COVERDELL FORENSIC SCIENCE GRANTS",
+      "amount": 27771162.97
+    },
+    {
+      "id": "567451",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "RESIDENTIAL SUBSTANCE ABUSE TREATMENT",
+      "amount": 26060573.18
+    },
+    {
+      "id": "567515",
+      "code": "0029",
+      "type": "program_activity",
+      "name": "COURT APPOINTED SPECIAL ADVOCATE (CASA)",
+      "amount": 25603226
+    },
+    {
+      "id": "567493",
+      "code": "0019",
+      "type": "program_activity",
+      "name": "BULLETPROOF VEST PARTNERSHIP",
+      "amount": 20779176.67
+    },
+    {
+      "id": "567578",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "VETERANS TREATMENT COURTS",
+      "amount": 20692766.46
+    },
+    {
+      "id": "567411",
+      "code": "0031",
+      "type": "program_activity",
+      "name": "NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM (NICS) ACT RECORD IMPROVEMENT PGM (NARIP)",
+      "amount": 18329433.07
+    },
+    {
+      "id": "567525",
+      "code": "0143",
+      "type": "program_activity",
+      "name": "STOP SCHOOL VIOLENCE ACT",
+      "amount": 17792192.08
+    },
+    {
+      "id": "567380",
+      "code": "0035",
+      "type": "program_activity",
+      "name": "POST-CONVICTION DNA TESTING GRANTS",
+      "amount": 17370087.84
+    },
+    {
+      "id": "567410",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "JUSTICE ASSISTANCE GRANTS",
+      "amount": 15758646.4
+    },
+    {
+      "id": "567355",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADAM WALSH ACT IMPLEMENTATION",
+      "amount": 15529582.8
+    },
+    {
+      "id": "567587",
+      "code": "0043",
+      "type": "program_activity",
+      "name": "PROJECT SAFE NEIGHBORHOODS",
+      "amount": 13547632.7
+    },
+    {
+      "id": "567370",
+      "code": "0077",
+      "type": "program_activity",
+      "name": "VALOR INITIATIVE",
+      "amount": 11201486.94
+    },
+    {
+      "id": "609258",
+      "code": "0169",
+      "type": "program_activity",
+      "name": "MATTHEW SHEPARD AND JAMES BYRD, JR. HATE CRIMES PREVENTION GRANTS PROGRAM",
+      "amount": 11125019.48
+    },
+    {
+      "id": "567540",
+      "code": "0122",
+      "type": "program_activity",
+      "name": "NATL. TRAINING CENTER TO IMPROVE POLICE RESPONSES TO PEOPLE WITH MENTAL ILLNESS",
+      "amount": 10516186
+    },
+    {
+      "id": "567417",
+      "code": "0159",
+      "type": "program_activity",
+      "name": "STATE, LOCAL, AND FEDERAL FORENSIC ACTIVITIES",
+      "amount": 10048507.61
+    },
+    {
+      "id": "609041",
+      "code": "0132",
+      "type": "program_activity",
+      "name": "COMPREHENSIVE OPIOID, STIMULANT, AND SUBSTANCE ABUSE PROGRAM (COSSAP)",
+      "amount": 9387514.41
+    },
+    {
+      "id": "567422",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "PRISON RAPE PREVENTION AND PROSECUTION  PROGRAM",
+      "amount": 8242682.49
+    },
+    {
+      "id": "609123",
+      "code": "0183",
+      "type": "program_activity",
+      "name": "CRISIS STABILIZATION AND COMMUNITY REENTRY",
+      "amount": 7985000
+    },
+    {
+      "id": "609023",
+      "code": "0184",
+      "type": "program_activity",
+      "name": "COMMUNITY-BASED APPROACHES FOR ADVANCING JUSTICE",
+      "amount": 7810628
+    },
+    {
+      "id": "567412",
+      "code": "0166",
+      "type": "program_activity",
+      "name": "RURAL VIOLENT CRIME INITIATIVE",
+      "amount": 7513951.23
+    },
+    {
+      "id": "567483",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "CAPITAL LITIGATION IMPROVEMENT GRANT PROGRAM",
+      "amount": 6878159.03
+    },
+    {
+      "id": "609304",
+      "code": "0178",
+      "type": "program_activity",
+      "name": "KHALID JABARA AND HEATHER HEYER NO HATE ACT PROGRAM",
+      "amount": 6364928
+    },
+    {
+      "id": "567447",
+      "code": "0056",
+      "type": "program_activity",
+      "name": "ECONOMIC, HIGH-TECH, WHITE COLLAR, AND INTERNET CRIME PREVENTION",
+      "amount": 6267644.46
+    },
+    {
+      "id": "567414",
+      "code": "0139",
+      "type": "program_activity",
+      "name": "PAY FOR SUCCESS",
+      "amount": 5062305
+    },
+    {
+      "id": "567594",
+      "code": "0115",
+      "type": "program_activity",
+      "name": "COMMUNITY TRUST INITIATIVE: BODY-WORN CAMERA (BWC) PARTNERSHIP PROGRAM",
+      "amount": 4819047.18
+    },
+    {
+      "id": "567570",
+      "code": "0137",
+      "type": "program_activity",
+      "name": "INNOVATIONS IN SUPERVISION (SMART PROBATION)",
+      "amount": 4794664.83
+    },
+    {
+      "id": "567358",
+      "code": "0188",
+      "type": "program_activity",
+      "name": "VIRTUAL TRAINING FOR LAW ENFORCEMENT",
+      "amount": 4482589
+    },
+    {
+      "id": "567366",
+      "code": "0140",
+      "type": "program_activity",
+      "name": "CHILDREN OF INCARCERATED PARENTS DEMO GRANTS",
+      "amount": 4169893.5
+    },
+    {
+      "id": "567394",
+      "code": "0018",
+      "type": "program_activity",
+      "name": "PROJECT HOPE OPPORTUNITY PROBATION WITH ENFORCEMENT (HOPE)",
+      "amount": 3561340.91
+    },
+    {
+      "id": "567524",
+      "code": "0038",
+      "type": "program_activity",
+      "name": "SEXUAL ASSAULT FORENSIC EXAM PROGRAM GRANTS",
+      "amount": 3479409.19
+    },
+    {
+      "id": "567363",
+      "code": "0164",
+      "type": "program_activity",
+      "name": "FAMILY ALTERNATIVE SENTENCING PILOT PROGRAM",
+      "amount": 3060997.21
+    },
+    {
+      "id": "567391",
+      "code": "0187",
+      "type": "program_activity",
+      "name": "MULTIDISCIPLINARY PARTNERSHIP IMPROVEMENTS FOR PROTECTIVE ORDERS",
+      "amount": 2850000
+    },
+    {
+      "id": "567409",
+      "code": "0116",
+      "type": "program_activity",
+      "name": "NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM",
+      "amount": 2491297.15
+    },
+    {
+      "id": "567521",
+      "code": "0053",
+      "type": "program_activity",
+      "name": "MISSING ALZHEIMER'S PATIENT ALERT PROGRAM (KEVIN AND AVONTE'S LAW)",
+      "amount": 2438093.86
+    },
+    {
+      "id": "567528",
+      "code": "0084",
+      "type": "program_activity",
+      "name": "JOHN R. JUSTICE STUDENT LOAN REPAYMENT PROGRAM",
+      "amount": 2202763.32
+    },
+    {
+      "id": "567532",
+      "code": "0141",
+      "type": "program_activity",
+      "name": "KEEP YOUNG ATHLETES SAFE",
+      "amount": 2186369
+    },
+    {
+      "id": "567351",
+      "code": "0088",
+      "type": "program_activity",
+      "name": "INTELLECTUAL PROPERTY ENFORCEMENT PROGRAM",
+      "amount": 2072342.13
+    },
+    {
+      "id": "567506",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "PRESCRIPTION DRUG MONITORING PROGRAM",
+      "amount": 1974054.66
+    },
+    {
+      "id": "567556",
+      "code": "0168",
+      "type": "program_activity",
+      "name": "INTERNET OF THINGS",
+      "amount": 1744564.39
+    },
+    {
+      "id": "590835",
+      "code": "0082",
+      "type": "program_activity",
+      "name": "TRIBAL ASSISTANCE",
+      "amount": 1571341
+    },
+    {
+      "id": "567554",
+      "code": "0156",
+      "type": "program_activity",
+      "name": "EMMETT TILL UNSOLVED CIVIL RIGHTS CRIMES PROGRAM",
+      "amount": 1400375
+    },
+    {
+      "id": "567496",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "STATE AND LOCAL LAW ENFORCEMENT ASSISTANCE (REIMBURSABLE)",
+      "amount": 1382229.69
+    },
+    {
+      "id": "567453",
+      "code": "0165",
+      "type": "program_activity",
+      "name": "CHILD ADVOCACY TRAINING",
+      "amount": 880253
+    },
+    {
+      "id": "567541",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "NATIONAL SEX OFFENDER PUBLIC WEBSITE",
+      "amount": 874548
+    },
+    {
+      "id": "567383",
+      "code": "0163",
+      "type": "program_activity",
+      "name": "ASHANTI ALERT NETWORK",
+      "amount": 874548
+    },
+    {
+      "id": "567449",
+      "code": "0117",
+      "type": "program_activity",
+      "name": "EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE",
+      "amount": 241478.31
+    },
+    {
+      "id": "609079",
+      "code": "0180",
+      "type": "program_activity",
+      "name": "MISSING PERSONS AND UNIDENTIFIED REMAINS ACT",
+      "amount": 45000
+    },
+    {
+      "id": "567418",
+      "code": "0167",
+      "type": "program_activity",
+      "name": "FAMILY FRIENDLY VISITATION SPACES IN PRISONS/JAILS",
+      "amount": 0
+    },
+    {
+      "id": "609278",
+      "code": "0182",
+      "type": "program_activity",
+      "name": "FORENSICS BALLISTICS PROGRAM",
+      "amount": 0
+    },
+    {
+      "id": "567485",
+      "code": "0189",
+      "type": "program_activity",
+      "name": "CYBERCRIME ENFORCEMENT AND NATIONAL RESOURCE CENTER",
+      "amount": 0
+    },
+    {
+      "id": "567396",
+      "code": "0162",
+      "type": "program_activity",
+      "name": "NATIONAL CENTER ON FORENSICS",
+      "amount": 0
+    },
+    {
+      "id": "567419",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567347",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NIJ FOR DOMESTIC RADICALIZATION",
+      "amount": 0
+    },
+    {
+      "id": "567337",
+      "code": "0157",
+      "type": "program_activity",
+      "name": "DRUG FIELD TESTING AND TRAINING INITIATIVE",
+      "amount": 0
+    },
+    {
+      "id": "609109",
+      "code": "0181",
+      "type": "program_activity",
+      "name": "DRUG DATA RESEARCH CENTER TO COMBAT OPIOID ABUSE",
+      "amount": -100
+    },
+    {
+      "id": "567359",
+      "code": "0160",
+      "type": "program_activity",
+      "name": "NATIONAL CENTER FOR RESTORATIVE JUSTICE",
+      "amount": -175
+    },
+    {
+      "id": "646780",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "BYRNE COMPETITIVE GRANTS",
+      "amount": -862.82
+    },
+    {
+      "id": "567469",
+      "code": "0155",
+      "type": "program_activity",
+      "name": "MANAGED ACCESS SYSTEMS (COMBATTING CONTRABAND CELL PHONE USE IN PRISONS)",
+      "amount": -13910.2
+    },
+    {
+      "id": "567350",
+      "code": "0131",
+      "type": "program_activity",
+      "name": "BYRNE DISCRETIONARY GRANTS",
+      "amount": -27165.91
+    },
+    {
+      "id": "609046",
+      "code": "0118",
+      "type": "program_activity",
+      "name": "JUVENILE INDIGENT DEFENSE",
+      "amount": -28858.16
+    },
+    {
+      "id": "567562",
+      "code": "0154",
+      "type": "program_activity",
+      "name": "REGIONAL LAW ENFORCEMENT TECHNOLOGY INITIATIVE",
+      "amount": -120045
+    },
+    {
+      "id": "567424",
+      "code": "0142",
+      "type": "program_activity",
+      "name": "DIGITAL INVESTIGATION EDUCATION PROGRAM",
+      "amount": -209591.82
+    },
+    {
+      "id": "567561",
+      "code": "0158",
+      "type": "program_activity",
+      "name": "COLLABORATIVE MENTAL HEALTH AND ANTI-RECIDIVISM INITIATIVE",
+      "amount": -225076.87
+    },
+    {
+      "id": "567538",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "STRATEGIES FOR POLICING INNOVATION (SMART POLICING)",
+      "amount": -475862.37
+    },
+    {
+      "id": "567360",
+      "code": "0153",
+      "type": "program_activity",
+      "name": "COMMUNITY-BASED VIOLENCE PREVENTION INITIATIVES",
+      "amount": -625368.72
+    },
+    {
+      "id": "567375",
+      "code": "0023",
+      "type": "program_activity",
+      "name": "INNOVATIVE PROSECUTION SOLUTIONS INITIATIVE (SMART PROSECUTION)",
+      "amount": -872881.44
+    },
+    {
+      "id": "567433",
+      "code": "0081",
+      "type": "program_activity",
+      "name": "COMMUNITY BASED CRIME REDUCTION PROGRAM (BYRNE CRIMINAL JUSTICE INNOVATION)",
+      "amount": -1082418.16
+    },
+    {
+      "id": "567448",
+      "code": "0136",
+      "type": "program_activity",
+      "name": "TRIBAL SET-ASIDE",
+      "amount": -1549557.29
+    },
+    {
+      "id": "567361",
+      "code": "0107",
+      "type": "program_activity",
+      "name": "COMPREHENSIVE SCHOOL SAFETY INITIATIVE",
+      "amount": -1875823.99
+    },
+    {
+      "id": "567336",
+      "code": "0108",
+      "type": "program_activity",
+      "name": "SEXUAL ASSAULT KIT INITIATIVE (SAKI) (COMMUNITY TEAMS TO REDUCE THE SAK BACKLOG)",
+      "amount": -2769781.62
+    },
+    {
+      "id": "567444",
+      "code": "0161",
+      "type": "program_activity",
+      "name": "CARES ACT/CORONAVIRUS EMERGENCY SUPPLEMENTAL FUNDING (CESF) PROGRAM",
+      "amount": -14674778.09
+    }
+  ]
+}

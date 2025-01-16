@@ -1,0 +1,34 @@
+{
+  "total": 13299696292,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "646006",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 7018936295
+    },
+    {
+      "id": "645967",
+      "code": "0708",
+      "type": "program_activity",
+      "name": "INTEREST ON REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 3231157563
+    },
+    {
+      "id": "646092",
+      "code": "0707",
+      "type": "program_activity",
+      "name": "REESTIMATES OF LOAN GUARANTEE SUBSIDY",
+      "amount": 1744512821
+    },
+    {
+      "id": "564111",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 1305089613
+    }
+  ]
+}

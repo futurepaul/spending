@@ -1,0 +1,34 @@
+{
+  "total": 92320412.51,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569090",
+      "code": "0103",
+      "type": "program_activity",
+      "name": "TROPICAL FOREST CONSERVATION INITIATIVE",
+      "amount": 92320412.51
+    },
+    {
+      "id": "568991",
+      "code": "0104",
+      "type": "program_activity",
+      "name": "DEBT RELIEF AND RESTRUCTURING",
+      "amount": 0
+    },
+    {
+      "id": "569365",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "HIPC BILATERAL DEBT REDUCTION",
+      "amount": 0
+    },
+    {
+      "id": "671086",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

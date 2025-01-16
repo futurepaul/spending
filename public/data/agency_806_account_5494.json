@@ -1,0 +1,20 @@
+{
+  "total": 683327060.34,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570041",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE OF ARTHRITIS AND MUSCULOSKELETAL AND SKIN DISEASE (0888)",
+      "amount": 683402123.8
+    },
+    {
+      "id": "569761",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": -75063.46
+    }
+  ]
+}

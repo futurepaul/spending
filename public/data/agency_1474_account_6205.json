@@ -1,0 +1,27 @@
+{
+  "total": 298216386.57,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565089",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ASSISTANCE FOR LIBRARIES",
+      "amount": 207634030.16
+    },
+    {
+      "id": "565091",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ASSISTANCE FOR MUSEUMS",
+      "amount": 63314781.74
+    },
+    {
+      "id": "565090",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ADMINISTRATION",
+      "amount": 27267574.67
+    }
+  ]
+}

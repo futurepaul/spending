@@ -1,0 +1,97 @@
+{
+  "total": 31463833735.21,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569522",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AMBULATORY",
+      "amount": 9835010134.27
+    },
+    {
+      "id": "569496",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "INPATIENT CARE",
+      "amount": 8961840699.46
+    },
+    {
+      "id": "569665",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "LTSS: HOME & COMMUNITY BASED SERVICES",
+      "amount": 4166093871.6
+    },
+    {
+      "id": "569519",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CHAMPVA & OTHER DEPENDENT PROGRAMS",
+      "amount": 1986536243.3
+    },
+    {
+      "id": "569512",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "LTSS: FACILITY BASED SERVICES",
+      "amount": 1906070138.23
+    },
+    {
+      "id": "569567",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "STATE HOME PROGRAMS",
+      "amount": 1780844618.45
+    },
+    {
+      "id": "569620",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "DENTAL",
+      "amount": 1143232964.32
+    },
+    {
+      "id": "569610",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "NETWORK DEVELOPMENT & MAINTENANCE",
+      "amount": 869770586.08
+    },
+    {
+      "id": "569690",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MENTAL HEALTH",
+      "amount": 773826360.24
+    },
+    {
+      "id": "569597",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "INDIAN HEALTH SERVICES",
+      "amount": 31181473.49
+    },
+    {
+      "id": "569591",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CAMP LEJEUNE, VETERANS FAMILIES",
+      "amount": 11437876.04
+    },
+    {
+      "id": "591749",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "PC3 AMBULATORY",
+      "amount": -10.26
+    },
+    {
+      "id": "569491",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": -2011220.01
+    }
+  ]
+}

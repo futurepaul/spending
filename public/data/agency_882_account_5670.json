@@ -1,0 +1,41 @@
+{
+  "total": 487359454.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570574",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LEAD HAZARD REDUCTION GRANTS",
+      "amount": 355643656.11
+    },
+    {
+      "id": "570453",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "HEALTHY HOMES",
+      "amount": 111005115.52
+    },
+    {
+      "id": "570412",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "AGING IN PLACE HOME MODIFICATION GRANTS",
+      "amount": 9995755
+    },
+    {
+      "id": "570399",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "LEAD TECHNICAL STUDIES",
+      "amount": 6527465.66
+    },
+    {
+      "id": "570546",
+      "code": "0550",
+      "type": "program_activity",
+      "name": "LEAD HAZARD REDUCTION (DIRECT)",
+      "amount": 4187462.16
+    }
+  ]
+}

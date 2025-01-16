@@ -1,0 +1,34 @@
+{
+  "total": 1376618215.95,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "687018",
+      "code": "0705",
+      "type": "program_activity",
+      "name": "REESTIMATES OF DIRECT LOAN SUBSIDY",
+      "amount": 1328217711.72
+    },
+    {
+      "id": "566849",
+      "code": "0701",
+      "type": "program_activity",
+      "name": "DIRECT LOAN SUBSIDY",
+      "amount": 36848340.75
+    },
+    {
+      "id": "567003",
+      "code": "0709",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 9594414.76
+    },
+    {
+      "id": "567246",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL SURFACE TRANSPORTATION INNOVATIVE FINANCE BUREAU - TIFIA FEE COLLECTION",
+      "amount": 1957748.72
+    }
+  ]
+}

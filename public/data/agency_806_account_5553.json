@@ -1,0 +1,55 @@
+{
+  "total": 9816928665.66,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570167",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FOSTER CARE",
+      "amount": 5144413874.86
+    },
+    {
+      "id": "570001",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADOPTION ASSISTANCE",
+      "amount": 4017600495.64
+    },
+    {
+      "id": "570159",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "GUARDIANSHIP",
+      "amount": 330660569.78
+    },
+    {
+      "id": "570036",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "PREVENTION SERVICES TECHNICAL ASSISTANCE",
+      "amount": 181271404
+    },
+    {
+      "id": "569851",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "INDEPENDENT LIVING",
+      "amount": 140170150.73
+    },
+    {
+      "id": "569820",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE AND IMPLEMENTATION SERVICES FOR TRIBAL PROGRAMS",
+      "amount": 2812170.65
+    },
+    {
+      "id": "569803",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

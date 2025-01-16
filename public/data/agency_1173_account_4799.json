@@ -1,0 +1,76 @@
+{
+  "total": 16355179046.25,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564711",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMBAT AIRCRAFT",
+      "amount": 5932550488.8
+    },
+    {
+      "id": "564819",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "AIRLIFT AIRCRAFT",
+      "amount": 3973506942.33
+    },
+    {
+      "id": "564514",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MODIFICATION OF INSERVICE AIRCRAFT",
+      "amount": 3057712919.78
+    },
+    {
+      "id": "564863",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OTHER AIRCRAFT",
+      "amount": 1454255337.49
+    },
+    {
+      "id": "564784",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "AIRCRAFT SUPPORT EQUIPMENT AND FACILITIES",
+      "amount": 1071737141.48
+    },
+    {
+      "id": "564828",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "AIRCRAFT SPARES AND REPAIR PARTS",
+      "amount": 649475175.23
+    },
+    {
+      "id": "564730",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 197907171.04
+    },
+    {
+      "id": "564569",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 12140693.03
+    },
+    {
+      "id": "564272",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TRAINER AIRCRAFT",
+      "amount": 6235516.07
+    },
+    {
+      "id": "668623",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": -342339
+    }
+  ]
+}

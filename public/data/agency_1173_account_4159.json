@@ -1,0 +1,76 @@
+{
+  "total": 3671624463.99,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564958",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "COMMUNICATIONS & ELECTRONICS EQUIPMENT",
+      "amount": 1531951624.92
+    },
+    {
+      "id": "564660",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "WEAPONS AND COMBAT VEHICLES",
+      "amount": 722914482.6
+    },
+    {
+      "id": "564764",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "GUIDED MISSILES AND EQUIPMENT",
+      "amount": 669131015.78
+    },
+    {
+      "id": "564448",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SUPPORT VEHICLES",
+      "amount": 382618426.86
+    },
+    {
+      "id": "564498",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ENGINEER AND OTHER EQUIPMENT",
+      "amount": 302441523.47
+    },
+    {
+      "id": "564980",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SPARES AND REPAIR PARTS",
+      "amount": 50006206.89
+    },
+    {
+      "id": "564243",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 10400351.22
+    },
+    {
+      "id": "564342",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "UNMATCHED",
+      "amount": 8712397.47
+    },
+    {
+      "id": "565043",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -1955376.91
+    },
+    {
+      "id": "697151",
+      "code": "00RB",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": -4596188.31
+    }
+  ]
+}

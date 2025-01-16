@@ -1,0 +1,27 @@
+{
+  "total": 2257090207.54,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565196",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TITLE II GRANTS",
+      "amount": 1347894494.28
+    },
+    {
+      "id": "667857",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "REIMBURSEMENT TO CCC FOR BILL EMERSON TRUST",
+      "amount": 619565319.7
+    },
+    {
+      "id": "568556",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TITLE II GRANTS",
+      "amount": 289630393.56
+    }
+  ]
+}

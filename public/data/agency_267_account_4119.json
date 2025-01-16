@@ -1,0 +1,97 @@
+{
+  "total": 634397712.49,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570903",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FEDERAL ENFORCEMENT",
+      "amount": 254309429.39
+    },
+    {
+      "id": "570900",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STATE PROGRAM GRANTS",
+      "amount": 113017279.63
+    },
+    {
+      "id": "570963",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "COMPLIANCE ASSISTANCE - FEDERAL",
+      "amount": 78336395.19
+    },
+    {
+      "id": "570999",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "COMPLIANCE ASSISTANCE - STATE",
+      "amount": 60599388.28
+    },
+    {
+      "id": "570897",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "SAFETY AND HEALTH STATISTICS",
+      "amount": 35383907
+    },
+    {
+      "id": "570959",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "TECHNICAL SUPPORT",
+      "amount": 25195185.47
+    },
+    {
+      "id": "570975",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "WHISTLEBLOWER PROTECTION",
+      "amount": 24516620.64
+    },
+    {
+      "id": "571034",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SAFETY AND HEALTH STANDARDS",
+      "amount": 19566992.78
+    },
+    {
+      "id": "570982",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "TRAINING GRANTS",
+      "amount": 10727638.07
+    },
+    {
+      "id": "570986",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION AND ADMINISTRATION",
+      "amount": 10116662.27
+    },
+    {
+      "id": "571021",
+      "code": "0901",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 2627397.88
+    },
+    {
+      "id": "695460",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 815.89
+    },
+    {
+      "id": "570967",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

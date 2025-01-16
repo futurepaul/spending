@@ -1,0 +1,90 @@
+{
+  "total": 209156141.53,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "563984",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FLOOD RISK MANAGEMENT",
+      "amount": 123239226.87
+    },
+    {
+      "id": "564033",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "MULTIPURPOSE AND OTHER PROGRAMS",
+      "amount": 24475362.6
+    },
+    {
+      "id": "563992",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "COMMERCIAL NAVIGATION",
+      "amount": 19986265.34
+    },
+    {
+      "id": "564013",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "AQUATIC ECOSYSTEM RESTORATION",
+      "amount": 16180263.34
+    },
+    {
+      "id": "564025",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "NON-FEDERAL AGENCIES",
+      "amount": 8360553.13
+    },
+    {
+      "id": "564032",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "OTHER FEDERAL AGENCIES",
+      "amount": 5534017.58
+    },
+    {
+      "id": "564006",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "DEPARTMENT OF HOMELAND SECURITY",
+      "amount": 4542725.49
+    },
+    {
+      "id": "563997",
+      "code": "0808",
+      "type": "program_activity",
+      "name": "INTRA-CORPS",
+      "amount": 2649201.66
+    },
+    {
+      "id": "564001",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "DEPARTMENT OF ENERGY",
+      "amount": 2186351.86
+    },
+    {
+      "id": "564031",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "amount": 1559627.93
+    },
+    {
+      "id": "563971",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "DEPARTMENT OF VETERAN AFFAIRS",
+      "amount": 315107.85
+    },
+    {
+      "id": "564018",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "ENVIROMENTAL PROTECTION AGENCY",
+      "amount": 127437.88
+    }
+  ]
+}

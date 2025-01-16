@@ -1,0 +1,20 @@
+{
+  "total": 841451.22,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569180",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL TAX LIEN REVOLVING FUND",
+      "amount": 841451.22
+    },
+    {
+      "id": "569383",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "total": 103552750.52,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566810",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FACILITY OPERATION",
+      "amount": 50551737.81
+    },
+    {
+      "id": "591075",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "FISH AND WILDLIFE MANAGEMENT AND DEVELOPMENT",
+      "amount": 24600497.36
+    },
+    {
+      "id": "590936",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "FACILITY MAINTENANCE AND REHABILITATION",
+      "amount": 17757160.21
+    },
+    {
+      "id": "590928",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "WATER AND ENERGY MANAGEMENT AND DEVELOPMENT",
+      "amount": 10308563.12
+    },
+    {
+      "id": "590634",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "LAND MANAGEMENT AND DEVELOPMENT",
+      "amount": 334792.02
+    }
+  ]
+}

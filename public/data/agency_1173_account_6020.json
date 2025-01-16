@@ -1,0 +1,27 @@
+{
+  "total": 829013472.74,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564639",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 829013472.74
+    },
+    {
+      "id": "564716",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "564865",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATIONS",
+      "amount": 0
+    }
+  ]
+}

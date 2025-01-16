@@ -1,0 +1,83 @@
+{
+  "total": 8563720369.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570521",
+      "code": "0200",
+      "type": "program_activity",
+      "name": "OPERATING SUBSIDIES",
+      "amount": 5223285503.27
+    },
+    {
+      "id": "570541",
+      "code": "0110",
+      "type": "program_activity",
+      "name": "CAPITAL FUNDS GRANTS",
+      "amount": 3180910188.19
+    },
+    {
+      "id": "570523",
+      "code": "0150",
+      "type": "program_activity",
+      "name": "LEAD-BASED HAZARDS",
+      "amount": 45634890
+    },
+    {
+      "id": "570624",
+      "code": "0160",
+      "type": "program_activity",
+      "name": "HEALTHY HOMES",
+      "amount": 40000000
+    },
+    {
+      "id": "570607",
+      "code": "0210",
+      "type": "program_activity",
+      "name": "SHORTFALL PREVENTION",
+      "amount": 24447811.5
+    },
+    {
+      "id": "570425",
+      "code": "0190",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE AND JUDICIAL RECEIVERSHIPS/TROUBLED PHAS",
+      "amount": 15917085.28
+    },
+    {
+      "id": "570406",
+      "code": "0120",
+      "type": "program_activity",
+      "name": "EMERGENCY/DISASTER RESERVE",
+      "amount": 15719274.93
+    },
+    {
+      "id": "570468",
+      "code": "0130",
+      "type": "program_activity",
+      "name": "SAFETY AND SECURITY",
+      "amount": 13372128.71
+    },
+    {
+      "id": "570477",
+      "code": "0140",
+      "type": "program_activity",
+      "name": "FINANCIAL AND PHYSICAL ASSESSMENTS",
+      "amount": 4433487.97
+    },
+    {
+      "id": "570535",
+      "code": "0170",
+      "type": "program_activity",
+      "name": "RADON TESTING",
+      "amount": 0
+    },
+    {
+      "id": "570488",
+      "code": "0180",
+      "type": "program_activity",
+      "name": "EMERGENCY/DISASTER-RECEIVERSHIPS AND MONITORS",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "total": 215063911.76,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570659",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CONSTRUCTION OF RESEARCH FACILITIES (DIRECT)",
+      "amount": 213747966.2
+    },
+    {
+      "id": "570649",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CONSTRUCTION OF RESEARCH FACILITIES (REIMBURSABLE)",
+      "amount": 1315945.56
+    },
+    {
+      "id": "570686",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

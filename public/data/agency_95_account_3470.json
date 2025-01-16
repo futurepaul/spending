@@ -1,0 +1,83 @@
+{
+  "total": 2285714601.27,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "577157",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SPF INFLATION REDUCTION ACT",
+      "amount": 1415490181.99
+    },
+    {
+      "id": "577442",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SPF BIPARTISAN INFRASTRUCTURE BILL",
+      "amount": 385328773.39
+    },
+    {
+      "id": "568337",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "STATE AND PRIVATE FORESTRY",
+      "amount": 276542106.3
+    },
+    {
+      "id": "568286",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "STATE AND PRIVATE FORESTRY (REIMBURSABLE)",
+      "amount": 142650897.29
+    },
+    {
+      "id": "577399",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "SPF DISASTER SUPPLEMENTAL",
+      "amount": 65635343.83
+    },
+    {
+      "id": "566690",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "STATE AND PRIVATE FORESTRY",
+      "amount": 57375.25
+    },
+    {
+      "id": "564048",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "STATE AND PRIVATE FORESTRY",
+      "amount": 9922.72
+    },
+    {
+      "id": "568468",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 0.5
+    },
+    {
+      "id": "564818",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "566404",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "564352",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    }
+  ]
+}

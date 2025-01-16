@@ -1,0 +1,27 @@
+{
+  "total": 48732363.62,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566257",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "WHISTLEBLOWER AWARDS",
+      "amount": 42579788.66
+    },
+    {
+      "id": "566254",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "WHISTLEBLOWER PROGRAM",
+      "amount": 3585244.26
+    },
+    {
+      "id": "566260",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CUSTOMER EDUCATION PROGRAM",
+      "amount": 2567330.7
+    }
+  ]
+}

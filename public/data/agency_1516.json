@@ -1,0 +1,22 @@
+{
+  "total": 1084914364.17,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6273",
+      "code": "8299",
+      "type": "federal_account",
+      "name": "Patient-Centered Outcomes Research Trust Fund",
+      "amount": 764914364.17,
+      "account_number": "579-8299"
+    },
+    {
+      "id": "6272",
+      "code": "1299",
+      "type": "federal_account",
+      "name": "Payments to the Patient-Centered Outcomes Research Trust Fund",
+      "amount": 320000000,
+      "account_number": "579-1299"
+    }
+  ]
+}

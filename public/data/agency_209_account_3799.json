@@ -1,0 +1,62 @@
+{
+  "total": 295859688.23,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566415",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "OPERATIONS, SAFETY AND REGULATION",
+      "amount": 184480220.05
+    },
+    {
+      "id": "566489",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REIMBURSABLE SERVICE AGREEMENTS",
+      "amount": 66491690.8
+    },
+    {
+      "id": "566738",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION",
+      "amount": 20573836.24
+    },
+    {
+      "id": "566460",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE OPERATIONS",
+      "amount": 18773528.52
+    },
+    {
+      "id": "566787",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL ENFORCEMENT",
+      "amount": 5565360.43
+    },
+    {
+      "id": "645811",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "GENERAL SUPPORT SERVICES",
+      "amount": 0
+    },
+    {
+      "id": "566484",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "566369",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OFFSHORE DECOMMISSIONING",
+      "amount": -24947.81
+    }
+  ]
+}

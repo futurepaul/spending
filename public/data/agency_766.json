@@ -1,0 +1,950 @@
+{
+  "total": 134323551701.05,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5237",
+      "code": "0702",
+      "type": "federal_account",
+      "name": "Disaster Relief Fund, Federal Emergency Management Agency, Homeland Security",
+      "amount": 37080870868.21,
+      "account_number": "070-0702"
+    },
+    {
+      "id": "5198",
+      "code": "0530",
+      "type": "federal_account",
+      "name": "Operations and Support, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 21042388699.69,
+      "account_number": "070-0530"
+    },
+    {
+      "id": "5212",
+      "code": "0550",
+      "type": "federal_account",
+      "name": "Operations and Support, Transportation Security Administration, Homeland Security",
+      "amount": 10565030759.66,
+      "account_number": "070-0550"
+    },
+    {
+      "id": "5226",
+      "code": "0610",
+      "type": "federal_account",
+      "name": "Operations and Support, Coast Guard, Homeland Security",
+      "amount": 10167658902.65,
+      "account_number": "070-0610"
+    },
+    {
+      "id": "5205",
+      "code": "0540",
+      "type": "federal_account",
+      "name": "Operations and Support, U.S. Immigration and Customs Enforcement, Homeland Security",
+      "amount": 9592749209.93,
+      "account_number": "070-0540"
+    },
+    {
+      "id": "5192",
+      "code": "0505",
+      "type": "federal_account",
+      "name": "Refunds and Drawbacks, United States Customs Service (Indefinite), Treasury",
+      "amount": 6902658233.37,
+      "account_number": "070-0505"
+    },
+    {
+      "id": "5268",
+      "code": "5088",
+      "type": "federal_account",
+      "name": "Immigration Examination Fees, Immigration Services, Homeland Security",
+      "amount": 5669677507.32,
+      "account_number": "070-5088"
+    },
+    {
+      "id": "5186",
+      "code": "0413",
+      "type": "federal_account",
+      "name": "Federal Assistance, Federal Emergency Management Agency, Homeland Security",
+      "amount": 4891048655.74,
+      "account_number": "070-0413"
+    },
+    {
+      "id": "5261",
+      "code": "4236",
+      "type": "federal_account",
+      "name": "National Flood Insurance Fund, Federal Emergency Management Agency, Homeland Security",
+      "amount": 4264609228.23,
+      "account_number": "070-4236"
+    },
+    {
+      "id": "5176",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Operations and Support, United States Secret Service, Homeland Security",
+      "amount": 3017015781.86,
+      "account_number": "070-0400"
+    },
+    {
+      "id": "5223",
+      "code": "0566",
+      "type": "federal_account",
+      "name": "Operations and Support, Cybersecurity and Infrastructure Security Agency, Homeland Security",
+      "amount": 2312943651.48,
+      "account_number": "070-0566"
+    },
+    {
+      "id": "5167",
+      "code": "0112",
+      "type": "federal_account",
+      "name": "Operations and Support, Management Directorate, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 1992241345.12,
+      "account_number": "070-0112"
+    },
+    {
+      "id": "5207",
+      "code": "0542",
+      "type": "federal_account",
+      "name": "Federal Protective Service, Management Directorate, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 1883417016.66,
+      "account_number": "070-0542"
+    },
+    {
+      "id": "6493",
+      "code": "1912",
+      "type": "federal_account",
+      "name": "Herman's Peak/Calf Canyon Fire Assistance Account, Federal Emergency Management Agency, Homeland",
+      "amount": 1558850739.37,
+      "account_number": "070-1912"
+    },
+    {
+      "id": "5235",
+      "code": "0700",
+      "type": "federal_account",
+      "name": "Operations and Support,  Federal Emergency Management Agency, Homeland Security",
+      "amount": 1514263559.64,
+      "account_number": "070-0700"
+    },
+    {
+      "id": "5229",
+      "code": "0613",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Coast Guard, Homeland Security",
+      "amount": 1058296379.34,
+      "account_number": "070-0613"
+    },
+    {
+      "id": "5225",
+      "code": "0602",
+      "type": "federal_account",
+      "name": "Retired Pay, Coast Guard, Homeland Security",
+      "amount": 1032992906.77,
+      "account_number": "070-0602"
+    },
+    {
+      "id": "5288",
+      "code": "5695",
+      "type": "federal_account",
+      "name": "Customs and Border Protection, Customs User Fees Account, USCS, Homeland Security",
+      "amount": 865217207.13,
+      "account_number": "070-5695"
+    },
+    {
+      "id": "5267",
+      "code": "5087",
+      "type": "federal_account",
+      "name": "Customs and Border Protection, Immigration User Fees, Border and Transportation Security, Homeland Security",
+      "amount": 864505051.03,
+      "account_number": "070-5087"
+    },
+    {
+      "id": "5181",
+      "code": "0406",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Management Directorate, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 603266724.24,
+      "account_number": "070-0406"
+    },
+    {
+      "id": "5194",
+      "code": "0509",
+      "type": "federal_account",
+      "name": "Operations and Support, Federal Law Enforcement Training Centers, Homeland Security",
+      "amount": 484606822.66,
+      "account_number": "070-0509"
+    },
+    {
+      "id": "5200",
+      "code": "0532",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 482647149.55,
+      "account_number": "070-0532"
+    },
+    {
+      "id": "5185",
+      "code": "0412",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Cybersecurity and Infrastructure Security Agency, Homeland Security",
+      "amount": 468473861.63,
+      "account_number": "070-0412"
+    },
+    {
+      "id": "5249",
+      "code": "0800",
+      "type": "federal_account",
+      "name": "Operations and Support, Science and Technology Directorate, Homeland Security",
+      "amount": 446172552.14,
+      "account_number": "070-0800"
+    },
+    {
+      "id": "5252",
+      "code": "0803",
+      "type": "federal_account",
+      "name": "Research and Development, Science and Technology Directorate, Homeland Security",
+      "amount": 442156808.3,
+      "account_number": "070-0803"
+    },
+    {
+      "id": "5289",
+      "code": "5701",
+      "type": "federal_account",
+      "name": "National Flood Insurance Reserve Fund, Homeland Security",
+      "amount": 384853570.63,
+      "account_number": "070-5701"
+    },
+    {
+      "id": "5162",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Operations and Support, Office of the Secretary and Executive Management, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 376675623.19,
+      "account_number": "070-0100"
+    },
+    {
+      "id": "5286",
+      "code": "5687",
+      "type": "federal_account",
+      "name": "Customs and Border Protection, Transfer and Expenses of Operation, Puerto Rico, USCS, Homeland Security",
+      "amount": 365838743.84,
+      "account_number": "070-5687"
+    },
+    {
+      "id": "5169",
+      "code": "0115",
+      "type": "federal_account",
+      "name": "Operations and Support, Intelligence, Analysis, and Operations Coordination, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 355216137.5,
+      "account_number": "070-0115"
+    },
+    {
+      "id": "5180",
+      "code": "0405",
+      "type": "federal_account",
+      "name": "Contribution for Annuity Benefits, United States Secret Service, Homeland Security",
+      "amount": 285077578.17,
+      "account_number": "070-0405"
+    },
+    {
+      "id": "5232",
+      "code": "0616",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, United States Coast Guard, Homeland Security",
+      "amount": 265320552,
+      "account_number": "070-0616"
+    },
+    {
+      "id": "5281",
+      "code": "5543",
+      "type": "federal_account",
+      "name": "International Registered Traveler Program Fund, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 265010198.47,
+      "account_number": "070-5543"
+    },
+    {
+      "id": "5175",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Operations and Support, U.S. Citizenship and Immigration Services, Homeland Security",
+      "amount": 260826882.42,
+      "account_number": "070-0300"
+    },
+    {
+      "id": "5274",
+      "code": "5385",
+      "type": "federal_account",
+      "name": "Aviation Security Capital Fund, Transportation Security Administration, Homeland Security",
+      "amount": 248790407.57,
+      "account_number": "070-5385"
+    },
+    {
+      "id": "5173",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Operations and Support, Office of the Inspector General, Homeland Security",
+      "amount": 242615777.42,
+      "account_number": "070-0200"
+    },
+    {
+      "id": "5273",
+      "code": "5382",
+      "type": "federal_account",
+      "name": "Immigration User Fee Account, BICE, Homeland Security",
+      "amount": 193826920.01,
+      "account_number": "070-5382"
+    },
+    {
+      "id": "5272",
+      "code": "5378",
+      "type": "federal_account",
+      "name": "Student and Exchange Visitor Program, Border and Transportation Security, Homeland Security",
+      "amount": 171899785,
+      "account_number": "070-5378"
+    },
+    {
+      "id": "5266",
+      "code": "4743",
+      "type": "federal_account",
+      "name": "Yard Fund, USCG, Homeland Security",
+      "amount": 140434451.65,
+      "account_number": "070-4743"
+    },
+    {
+      "id": "5184",
+      "code": "0411",
+      "type": "federal_account",
+      "name": "Federal Assistance, Countering Weapons of Mass Destruction Office, Homeland Security",
+      "amount": 134195114.59,
+      "account_number": "070-0411"
+    },
+    {
+      "id": "5187",
+      "code": "0414",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Federal Emergency Management Agency, Homeland Security",
+      "amount": 128800386.84,
+      "account_number": "070-0414"
+    },
+    {
+      "id": "5306",
+      "code": "8149",
+      "type": "federal_account",
+      "name": "Boat Safety, USCG, Homeland Security",
+      "amount": 128139374.81,
+      "account_number": "070-8149"
+    },
+    {
+      "id": "5257",
+      "code": "0861",
+      "type": "federal_account",
+      "name": "Operations and Support, Countering Weapons of Mass Destruction Office, Homeland Security",
+      "amount": 122956043.91,
+      "account_number": "070-0861"
+    },
+    {
+      "id": "5238",
+      "code": "0703",
+      "type": "federal_account",
+      "name": "Disaster Assistance Direct Loan Program Account, Federal Emergency Management Agency, Homeland Security",
+      "amount": 95294331.72,
+      "account_number": "070-0703"
+    },
+    {
+      "id": "5177",
+      "code": "0401",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, United States Secret Service, Homeland Security",
+      "amount": 83909121.55,
+      "account_number": "070-0401"
+    },
+    {
+      "id": "5269",
+      "code": "5089",
+      "type": "federal_account",
+      "name": "Customs and Border Protection, Land Border Inspection Fees, Border and Transportation Security, Homeland Security",
+      "amount": 68469648.07,
+      "account_number": "070-5089"
+    },
+    {
+      "id": "5263",
+      "code": "4535",
+      "type": "federal_account",
+      "name": "Supply Fund, USCG, Homeland Security",
+      "amount": 66538175.8,
+      "account_number": "070-4535"
+    },
+    {
+      "id": "5195",
+      "code": "0510",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Federal Law Enforcement Training Centers, Homeland Security",
+      "amount": 65849827.88,
+      "account_number": "070-0510"
+    },
+    {
+      "id": "5262",
+      "code": "4363",
+      "type": "federal_account",
+      "name": "Enhanced Inspectional Services, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 46087439.72,
+      "account_number": "070-4363"
+    },
+    {
+      "id": "6578",
+      "code": "1914",
+      "type": "federal_account",
+      "name": "Nonrecurring Expenses Fund, Management Directorate, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 45726701.08,
+      "account_number": "070-1914"
+    },
+    {
+      "id": "5275",
+      "code": "5389",
+      "type": "federal_account",
+      "name": "H-1B and L Fraud Prevention and Detection Account, Citizenship and Immigration Services, Homeland Security",
+      "amount": 45116859,
+      "account_number": "070-5389"
+    },
+    {
+      "id": "5310",
+      "code": "8314",
+      "type": "federal_account",
+      "name": "Trust Fund Share of Expenses, USCG, Homeland Security",
+      "amount": 45000000,
+      "account_number": "070-8314"
+    },
+    {
+      "id": "5311",
+      "code": "8349",
+      "type": "federal_account",
+      "name": "Oil Spill Recovery, USCG, Homeland Security",
+      "amount": 42524619.9,
+      "account_number": "070-8349"
+    },
+    {
+      "id": "5256",
+      "code": "0860",
+      "type": "federal_account",
+      "name": "Research and Development, Countering Weapons of Mass Destruction Office, Homeland Security",
+      "amount": 42522345.74,
+      "account_number": "070-0860"
+    },
+    {
+      "id": "5287",
+      "code": "5694",
+      "type": "federal_account",
+      "name": "Customs and Border Protection Services at User Fee Facilities, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 42044185.51,
+      "account_number": "070-5694"
+    },
+    {
+      "id": "5183",
+      "code": "0410",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Transportation Security Administration, Homeland Security",
+      "amount": 41740373.06,
+      "account_number": "070-0410"
+    },
+    {
+      "id": "5284",
+      "code": "5595",
+      "type": "federal_account",
+      "name": "Electronic System for Travel Authorization, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 40276709.02,
+      "account_number": "070-5595"
+    },
+    {
+      "id": "5258",
+      "code": "0862",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Countering Weapons of Mass Destruction Office,  Homeland Security",
+      "amount": 39632372.98,
+      "account_number": "070-0862"
+    },
+    {
+      "id": "5188",
+      "code": "0415",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Science and Technology Directorate, Homeland Security",
+      "amount": 36808150.24,
+      "account_number": "070-0415"
+    },
+    {
+      "id": "5210",
+      "code": "0545",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, U.S. Immigration and Customs Enforcement, Homeland Security",
+      "amount": 36198035.71,
+      "account_number": "070-0545"
+    },
+    {
+      "id": "5244",
+      "code": "0715",
+      "type": "federal_account",
+      "name": "Radiological Emergency Preparedness Program, Federal Emergency Management Agency, Homeland Security",
+      "amount": 31845231.24,
+      "account_number": "070-0715"
+    },
+    {
+      "id": "5271",
+      "code": "5126",
+      "type": "federal_account",
+      "name": "Breach Bond/Detention Fund, Border and Transportation Security, Homeland Security",
+      "amount": 24521562.69,
+      "account_number": "070-5126"
+    },
+    {
+      "id": "5290",
+      "code": "5702",
+      "type": "federal_account",
+      "name": "9-11 Response and Biometric Exit Account, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 22021540.78,
+      "account_number": "070-5702"
+    },
+    {
+      "id": "5270",
+      "code": "5106",
+      "type": "federal_account",
+      "name": "Immigration Services, H-1 B Funded, Homeland Security",
+      "amount": 16833600.5,
+      "account_number": "070-5106"
+    },
+    {
+      "id": "5164",
+      "code": "0102",
+      "type": "federal_account",
+      "name": "Department-Wide Technology Investments, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 15482430.05,
+      "account_number": "070-0102"
+    },
+    {
+      "id": "5251",
+      "code": "0802",
+      "type": "federal_account",
+      "name": "Research and Development, Transportation Security Administration, Homeland Security",
+      "amount": 12733843.33,
+      "account_number": "070-0802"
+    },
+    {
+      "id": "5291",
+      "code": "5710",
+      "type": "federal_account",
+      "name": "U.S. Coast Guard Housing Special Fund, Coast Guard, Homeland Security",
+      "amount": 12672260.24,
+      "account_number": "070-5710"
+    },
+    {
+      "id": "5309",
+      "code": "8312",
+      "type": "federal_account",
+      "name": "Payment of Claims (Oil Spill Liability Trust Fund), Homeland Security",
+      "amount": 12465712.38,
+      "account_number": "070-8312"
+    },
+    {
+      "id": "6577",
+      "code": "1913",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, Office of the Secretary and Executive Management, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 10846892.14,
+      "account_number": "070-1913"
+    },
+    {
+      "id": "5201",
+      "code": "0533",
+      "type": "federal_account",
+      "name": "Border Security Fencing, Infrastructure, and Technology, U.S. Customs and Border Protection, Homeland Security",
+      "amount": 6715055.93,
+      "account_number": "070-0533"
+    },
+    {
+      "id": "5231",
+      "code": "0615",
+      "type": "federal_account",
+      "name": "Research and Development, Coast Guard, Homeland Security",
+      "amount": 6332141.34,
+      "account_number": "070-0615"
+    },
+    {
+      "id": "5315",
+      "code": "8533",
+      "type": "federal_account",
+      "name": "General Gift Fund, USCG, Homeland Security",
+      "amount": 4159725.29,
+      "account_number": "070-8533"
+    },
+    {
+      "id": "5319",
+      "code": "8870",
+      "type": "federal_account",
+      "name": "Harbor Maintenance Fee Collection, USCS, Homeland Security",
+      "amount": 3274000,
+      "account_number": "070-8870"
+    },
+    {
+      "id": "5254",
+      "code": "0805",
+      "type": "federal_account",
+      "name": "Research and Development, Cybersecurity and Infrastructure Security Agency, Homeland Security",
+      "amount": 2668144.54,
+      "account_number": "070-0805"
+    },
+    {
+      "id": "5166",
+      "code": "0111",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Management, Departmental Management and Operations, Homeland Security",
+      "amount": 2486368.23,
+      "account_number": "070-0111"
+    },
+    {
+      "id": "5253",
+      "code": "0804",
+      "type": "federal_account",
+      "name": "Research and Development, United States Secret Service, Homeland Security",
+      "amount": 1823451.8,
+      "account_number": "070-0804"
+    },
+    {
+      "id": "5283",
+      "code": "5569",
+      "type": "federal_account",
+      "name": "APEC Business Travel Card Account, Customs and Border Protection, Homeland Security",
+      "amount": 1806754.83,
+      "account_number": "070-5569"
+    },
+    {
+      "id": "5217",
+      "code": "0557",
+      "type": "federal_account",
+      "name": "Intelligence and Vetting , Transportation Security Administration, Homeland Security",
+      "amount": 1508043.75,
+      "account_number": "070-0557"
+    },
+    {
+      "id": "6286",
+      "code": "0408",
+      "type": "federal_account",
+      "name": "Federal Assistance, U.S. Citizenship and Immigration Services, Homeland Security",
+      "amount": 1471936.2,
+      "account_number": "070-0408"
+    },
+    {
+      "id": "5318",
+      "code": "8789",
+      "type": "federal_account",
+      "name": "Refunds, Transfers and Expenses, Abandoned and Seized Goods, USCS, Homeland Security",
+      "amount": 1440276.01,
+      "account_number": "070-8789"
+    },
+    {
+      "id": "5276",
+      "code": "5390",
+      "type": "federal_account",
+      "name": "Unclaimed Checkpoint Money, Transportation Security Administration, Homeland Security",
+      "amount": 1129948.73,
+      "account_number": "070-5390"
+    },
+    {
+      "id": "5278",
+      "code": "5451",
+      "type": "federal_account",
+      "name": "Immigration Enforcement Account, Border and Transportation Security, Homeland Security",
+      "amount": 922158,
+      "account_number": "070-5451"
+    },
+    {
+      "id": "5280",
+      "code": "5542",
+      "type": "federal_account",
+      "name": "Detention and Removal Operations, U.S. Immigration and Customs Enforcement, Homeland Security",
+      "amount": 747148,
+      "account_number": "070-5542"
+    },
+    {
+      "id": "5282",
+      "code": "5545",
+      "type": "federal_account",
+      "name": "Airport Checkpoint Screening Fund, Transportation Security Administration, Homeland Security",
+      "amount": 735474.16,
+      "account_number": "070-5545"
+    },
+    {
+      "id": "5227",
+      "code": "0611",
+      "type": "federal_account",
+      "name": "Environmental Complaince and Restoration, Coast Guard, Homeland Security",
+      "amount": 495952.06,
+      "account_number": "070-0611"
+    },
+    {
+      "id": "5197",
+      "code": "0521",
+      "type": "federal_account",
+      "name": "Office of Biometric Identity Management, National Protection and Programs Directorate, Homeland Security",
+      "amount": 446411.26,
+      "account_number": "070-0521"
+    },
+    {
+      "id": "5308",
+      "code": "8244",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Department Management, Homeland Security",
+      "amount": 168889.42,
+      "account_number": "070-8244"
+    },
+    {
+      "id": "5307",
+      "code": "8185",
+      "type": "federal_account",
+      "name": "Oil Spill Liability Trust Fund-Treasury Managed, Homeland Security",
+      "amount": 165000,
+      "account_number": "070-8185"
+    },
+    {
+      "id": "6309",
+      "code": "0416",
+      "type": "federal_account",
+      "name": "Federal Assistance, Office of the Secretary and Executive Management, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0416"
+    },
+    {
+      "id": "5190",
+      "code": "0503",
+      "type": "federal_account",
+      "name": "Customs and Border Protection, USCS, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0503"
+    },
+    {
+      "id": "5182",
+      "code": "0407",
+      "type": "federal_account",
+      "name": "Procurement, Construction, and Improvements, United States Citizenship and Immigration Services, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0407"
+    },
+    {
+      "id": "5191",
+      "code": "0504",
+      "type": "federal_account",
+      "name": "Immigration and Customs Enforcement, Border and Transportation Security, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0504"
+    },
+    {
+      "id": "5213",
+      "code": "0551",
+      "type": "federal_account",
+      "name": "Surface Transportation Security, Transportation Security Administration, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0551"
+    },
+    {
+      "id": "5214",
+      "code": "0553",
+      "type": "federal_account",
+      "name": "Research and Development, Transportation Security Administration, Border and Transportation Security, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0553"
+    },
+    {
+      "id": "5215",
+      "code": "0554",
+      "type": "federal_account",
+      "name": "Transportation Security Support, Transportation Security Administration, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0554"
+    },
+    {
+      "id": "6453",
+      "code": "1911",
+      "type": "federal_account",
+      "name": "Cybersecurity Response and Recovery Fund, Cybersecurity and Infrastructure Security Agency, Homeland Security",
+      "amount": 0,
+      "account_number": "070-1911"
+    },
+    {
+      "id": "5163",
+      "code": "0101",
+      "type": "federal_account",
+      "name": "Counterterrorism Fund, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0101"
+    },
+    {
+      "id": "5218",
+      "code": "0560",
+      "type": "federal_account",
+      "name": "State and Local Programs, Federal Emergency Management Agency, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0560"
+    },
+    {
+      "id": "5206",
+      "code": "0541",
+      "type": "federal_account",
+      "name": "Federal Air Marshals, Transportation Security Administration,  Homeland Security",
+      "amount": 0,
+      "account_number": "070-0541"
+    },
+    {
+      "id": "5259",
+      "code": "0900",
+      "type": "federal_account",
+      "name": "Operating Expenses, Cybersecurity and Infrastructure Security Agency, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0900"
+    },
+    {
+      "id": "5208",
+      "code": "0543",
+      "type": "federal_account",
+      "name": "Automation Modernization, U.S. Immigration and Customs Enforcement, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0543"
+    },
+    {
+      "id": "5305",
+      "code": "8147",
+      "type": "federal_account",
+      "name": "Sport Fish Restoration and Boating Trust Fund, Homeland Security",
+      "amount": 0,
+      "account_number": "070-8147"
+    },
+    {
+      "id": "5165",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Office of the Secretary and Executive Management, Departmental Management and Operations, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0110"
+    },
+    {
+      "id": "5230",
+      "code": "0614",
+      "type": "federal_account",
+      "name": "Alteration of Bridges, Coast Guard, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0614"
+    },
+    {
+      "id": "5250",
+      "code": "0801",
+      "type": "federal_account",
+      "name": "Research and Development, Management Directorate, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0801"
+    },
+    {
+      "id": "6490",
+      "code": "5705",
+      "type": "federal_account",
+      "name": "EB-5 Integrity Fund, U.S. Citizenship and Immigration Services, Homeland Security",
+      "amount": 0,
+      "account_number": "070-5705"
+    },
+    {
+      "id": "5242",
+      "code": "0712",
+      "type": "federal_account",
+      "name": "Administrative and Regional Operations, Emergency Preparedness and Response, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0712"
+    },
+    {
+      "id": "5314",
+      "code": "8529",
+      "type": "federal_account",
+      "name": "Customs and Border Protection, Violent Crime Reduction Trust Fund, USCS, Homeland Security",
+      "amount": 0,
+      "account_number": "070-8529"
+    },
+    {
+      "id": "5239",
+      "code": "0707",
+      "type": "federal_account",
+      "name": "Emergency Food and Shelter, Federal Emergency Management Agency, Homeland Security",
+      "amount": 0,
+      "account_number": "070-0707"
+    },
+    {
+      "id": "5317",
+      "code": "8598",
+      "type": "federal_account",
+      "name": "Violent Crime Reduction Program, Immigration Services, Homeland Security",
+      "amount": 0,
+      "account_number": "070-8598"
+    },
+    {
+      "id": "5171",
+      "code": "0117",
+      "type": "federal_account",
+      "name": "Operations and Support, Cybersecurity and Infrastructure Security Agency, Homeland Security",
+      "amount": -3000,
+      "account_number": "070-0117"
+    },
+    {
+      "id": "5193",
+      "code": "0508",
+      "type": "federal_account",
+      "name": "Expenses, Transportation Security Administration, Border and Transportation Security, Homeland Security",
+      "amount": -7166.78,
+      "account_number": "070-0508"
+    },
+    {
+      "id": "5222",
+      "code": "0565",
+      "type": "federal_account",
+      "name": "Infrastructure Protection and Information Security, Cybersecurity and Infrastructure Security Agency, Homeland Security",
+      "amount": -172486.27,
+      "account_number": "070-0565"
+    },
+    {
+      "id": "5168",
+      "code": "0113",
+      "type": "federal_account",
+      "name": "Office of the Chief Information Officer, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": -186332.06,
+      "account_number": "070-0113"
+    },
+    {
+      "id": "5209",
+      "code": "0544",
+      "type": "federal_account",
+      "name": "Air and Marine Operations, U.S. Customs and Border Protection, Homeland Security",
+      "amount": -1466622.34,
+      "account_number": "070-0544"
+    },
+    {
+      "id": "5199",
+      "code": "0531",
+      "type": "federal_account",
+      "name": "Automation Modernization, U.S. Customs and Border Protection, Homeland Security",
+      "amount": -1542213.87,
+      "account_number": "070-0531"
+    },
+    {
+      "id": "5189",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Flood Hazard Mapping and Risk Analysis Program, Federal Emergency Management Agency, Homeland Security",
+      "amount": -2340598.12,
+      "account_number": "070-0500"
+    },
+    {
+      "id": "5245",
+      "code": "0716",
+      "type": "federal_account",
+      "name": "National Predisaster Mitigation Fund, Federal Emergency Management Agency, Homeland Security",
+      "amount": -7895739.54,
+      "account_number": "070-0716"
+    },
+    {
+      "id": "5264",
+      "code": "4640",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Departmental Management, Intelligence, Situational Awareness, and Oversight, Homeland Security",
+      "amount": -18730159.59,
+      "account_number": "070-4640"
+    }
+  ]
+}

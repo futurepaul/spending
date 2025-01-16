@@ -1,0 +1,27 @@
+{
+  "total": 4469505071.68,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569781",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE ON AGING (0843)",
+      "amount": 4469298129.37
+    },
+    {
+      "id": "570057",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": 206942.31
+    },
+    {
+      "id": "569832",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "total": 580226994.23,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568866",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "EMERGENCY WATERSHED PROTECTION OPERATIONS",
+      "amount": 444556633.66
+    },
+    {
+      "id": "568390",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "WATERSHED FLOOD AND PREVENTION OPERATIONS",
+      "amount": 105571701.03
+    },
+    {
+      "id": "568784",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "FLOOD PREVENTION OPERATIONS P.L. 78-534",
+      "amount": 27218920.66
+    },
+    {
+      "id": "568492",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "WATERSHED AND FLOOD PREVENTION OPERATIONS (REIMBURSABLE)",
+      "amount": 2751357.07
+    },
+    {
+      "id": "568578",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "RURAL WATER OPERATIONS PROGRAM",
+      "amount": 116636.28
+    },
+    {
+      "id": "577705",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 11745.53
+    },
+    {
+      "id": "568699",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SMALL WATERSHED OPERATIONS (P.L. 566)",
+      "amount": 0
+    }
+  ]
+}

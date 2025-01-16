@@ -1,0 +1,69 @@
+{
+  "total": 345850606.57,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568205",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "RISK MANAGEMENT TECHNOLOGY AND TOOLS (CEDS)",
+      "amount": 124679115.89
+    },
+    {
+      "id": "568196",
+      "code": "0035",
+      "type": "program_activity",
+      "name": "CESER, INFRASTRUCTURE INVESTMENT AND JOBS ACT",
+      "amount": 95362037.16
+    },
+    {
+      "id": "568206",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "RESPONSE AND RESTORATION",
+      "amount": 38698089.03
+    },
+    {
+      "id": "568188",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CYBERSECURITY FOR ENERGY DELIVERY SYSTEMS",
+      "amount": 33720715.45
+    },
+    {
+      "id": "567994",
+      "code": "0030",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 25135202.82
+    },
+    {
+      "id": "567975",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "INFORMATION SHARING, PARTNERSHIPS AND EXERCISES",
+      "amount": 24023140.68
+    },
+    {
+      "id": "568101",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE WORK",
+      "amount": 3390450.02
+    },
+    {
+      "id": "568060",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE SECURITY AND ENERGY RESTORATION",
+      "amount": 841855.52
+    },
+    {
+      "id": "568190",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

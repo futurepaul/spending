@@ -1,0 +1,41 @@
+{
+  "total": 7567208686.55,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569918",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "REFUGEE AND ENTRANT ASSISTANCE",
+      "amount": 3336045508.54
+    },
+    {
+      "id": "569898",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ORR CONTINGENCY FUND",
+      "amount": 3172238779.7
+    },
+    {
+      "id": "570108",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "UNACCOMPANIED CHILDREN",
+      "amount": 1031140666.17
+    },
+    {
+      "id": "570074",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ASSISTANCE FOR TREATMENT OF TORTURE VICTIMS",
+      "amount": 18393381.23
+    },
+    {
+      "id": "570123",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "TRAFFICKING VICTIMS PROGRAM",
+      "amount": 9390350.91
+    }
+  ]
+}

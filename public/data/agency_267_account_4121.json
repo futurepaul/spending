@@ -1,0 +1,48 @@
+{
+  "total": 3907523546.33,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570940",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FEDERAL EMPLOYEES' COMPENSATION ACT BENEFITS",
+      "amount": 3124818009.8
+    },
+    {
+      "id": "570895",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "LSHW BENEFITS",
+      "amount": 700000000
+    },
+    {
+      "id": "570980",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "FECA FAIR SHARE (ADMINISTRATIVE EXPENSES)",
+      "amount": 82709561.53
+    },
+    {
+      "id": "570868",
+      "code": "0901",
+      "type": "program_activity",
+      "name": "FEDERAL EMPLOYEES' COMPENSATION ACT BENEFITS",
+      "amount": 0
+    },
+    {
+      "id": "570914",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570984",
+      "code": "0902",
+      "type": "program_activity",
+      "name": "FECA FAIR SHARE (ADMINISTRATIVE EXPENSES)",
+      "amount": -4025
+    }
+  ]
+}

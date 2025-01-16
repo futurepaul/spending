@@ -1,0 +1,62 @@
+{
+  "total": 38492714,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567108",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RAILROAD SYSTEM ISSUES",
+      "amount": 17701140.73
+    },
+    {
+      "id": "567091",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "HUMAN FACTORS",
+      "amount": 7302857.38
+    },
+    {
+      "id": "567096",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "ROLLING STOCK PROGRAM",
+      "amount": 6338093.31
+    },
+    {
+      "id": "566915",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "TRACK PROGRAM",
+      "amount": 5602853.49
+    },
+    {
+      "id": "566957",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "RAILROAD RESEARCH AND DEVELOPMENT (REIMBURSABLE)",
+      "amount": 1061063.73
+    },
+    {
+      "id": "567133",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "TRAIN CONTROL AND COMMUNICATION",
+      "amount": 486705.36
+    },
+    {
+      "id": "567271",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "PLANNING",
+      "amount": 0
+    },
+    {
+      "id": "566886",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

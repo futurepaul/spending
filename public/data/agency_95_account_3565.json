@@ -1,0 +1,27 @@
+{
+  "total": 196431.36,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "577427",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "OPERATING EXPENSES",
+      "amount": 147502.52
+    },
+    {
+      "id": "568896",
+      "code": "0109",
+      "type": "program_activity",
+      "name": "COSTS INCIDENTAL TO ACQUISITION OF REAL PROPERTY",
+      "amount": 48928.84
+    },
+    {
+      "id": "568727",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "LOAN RECOVERABLE COSTS",
+      "amount": 0
+    }
+  ]
+}

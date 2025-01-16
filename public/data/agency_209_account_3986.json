@@ -1,0 +1,48 @@
+{
+  "total": 23225740.19,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566450",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "RESOURCE DEVELOPMENT FLPMA",
+      "amount": 12097877.78
+    },
+    {
+      "id": "566708",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "RESOURCE DEVELOPMENT CA OHV",
+      "amount": 9110678.93
+    },
+    {
+      "id": "566755",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "RESOURCE DEVELOPMENT TAYLOR GRAZING",
+      "amount": 1085678.51
+    },
+    {
+      "id": "566608",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PUBLIC SURVEY",
+      "amount": 529460.93
+    },
+    {
+      "id": "590642",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "DONATIONS",
+      "amount": 396751.54
+    },
+    {
+      "id": "566813",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SIKES ACT",
+      "amount": 5292.5
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "total": 3365950521.76,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570411",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONTINUUM OF CARE (SPC, SHP, RURAL)",
+      "amount": 2927533084.23
+    },
+    {
+      "id": "570505",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "EMERGENCY SOLUTIONS GRANTS - FORMULA",
+      "amount": 275867675.71
+    },
+    {
+      "id": "570565",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "YOUTH DEMONSTRATION",
+      "amount": 109339307.84
+    },
+    {
+      "id": "570549",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "VICTIMS OF DOMESTIC ABUSE",
+      "amount": 48654353.22
+    },
+    {
+      "id": "570508",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NATIONAL HOMELESS DATA ANALYSIS PROJECT",
+      "amount": 12320260.78
+    },
+    {
+      "id": "570520",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "BJA PAY FOR SUCCESS DEMONSTRATION",
+      "amount": 0
+    },
+    {
+      "id": "570514",
+      "code": "0821",
+      "type": "program_activity",
+      "name": "TECHNICAL ASSISTANCE TO CDC",
+      "amount": -170.57
+    },
+    {
+      "id": "570570",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SECTION 8 MODERATE REHABILITATION",
+      "amount": -200308.5
+    },
+    {
+      "id": "570432",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "DISASTER ASSISTANCE",
+      "amount": -2991601.03
+    },
+    {
+      "id": "570431",
+      "code": "0550",
+      "type": "program_activity",
+      "name": "HOMELESS ASSISTANCE GRANTS (DIRECT)",
+      "amount": -4572079.92
+    }
+  ]
+}

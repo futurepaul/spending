@@ -1,0 +1,41 @@
+{
+  "total": 918065116.92,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "670970",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "JUDGMENTS COURT OF CLAIMS",
+      "amount": 918065116.92
+    },
+    {
+      "id": "569264",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CLAIMS FOR CONTRACT DISPUTES",
+      "amount": 0
+    },
+    {
+      "id": "569346",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CLAIMS FOR DAMAGES",
+      "amount": 0
+    },
+    {
+      "id": "670802",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "671027",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "JUDGMENTS U S COURTS",
+      "amount": 0
+    }
+  ]
+}

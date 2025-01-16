@@ -1,0 +1,30 @@
+{
+  "total": 2442615633.29,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4762",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Securities and Exchange Commission",
+      "amount": 2130105494.6,
+      "account_number": "050-0100"
+    },
+    {
+      "id": "4765",
+      "code": "5567",
+      "type": "federal_account",
+      "name": "Investor Protection Fund, Securities and Exchange Commission",
+      "amount": 261077647.06,
+      "account_number": "050-5567"
+    },
+    {
+      "id": "4764",
+      "code": "5566",
+      "type": "federal_account",
+      "name": "Securities and Exchange Commission Reserve Fund, Securities and Exchange Commission",
+      "amount": 51432491.63,
+      "account_number": "050-5566"
+    }
+  ]
+}

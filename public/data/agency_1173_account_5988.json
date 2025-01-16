@@ -1,0 +1,195 @@
+{
+  "total": 37472197966.76,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564232",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ADVANCED COMPONENT DEVELOPMENT AND PROTOTYPES",
+      "amount": 11426695166.13
+    },
+    {
+      "id": "564667",
+      "code": "0099",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 9109977214.74
+    },
+    {
+      "id": "564900",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "ADVANCED TECHNOLOGY DEVELOPMENT",
+      "amount": 6044633425.61
+    },
+    {
+      "id": "564509",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MANAGEMENT SUPPORT",
+      "amount": 2850170050.05
+    },
+    {
+      "id": "565040",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "OPERATIONAL SYSTEM DEVELOPMENT",
+      "amount": 2798059373.86
+    },
+    {
+      "id": "564231",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "APPLIED RESEARCH",
+      "amount": 2218268714.34
+    },
+    {
+      "id": "564480",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "SYSTEM DEVELOPMENT AND DEMONSTRATION",
+      "amount": 1240528830.65
+    },
+    {
+      "id": "565006",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 919898221.28
+    },
+    {
+      "id": "564493",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BASIC RESEARCH",
+      "amount": 817088806.57
+    },
+    {
+      "id": "564326",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 206432090.43
+    },
+    {
+      "id": "564745",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 62542725.09
+    },
+    {
+      "id": "564674",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 2984740.95
+    },
+    {
+      "id": "564978",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 1786462.29
+    },
+    {
+      "id": "564699",
+      "code": "00CA",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 337.68
+    },
+    {
+      "id": "564357",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564409",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "DOD/VA INCENTIVE FUND",
+      "amount": 0
+    },
+    {
+      "id": "564585",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564650",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564684",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "BUDGET ACTIVITY NOT APPLICABLE",
+      "amount": 0
+    },
+    {
+      "id": "564695",
+      "code": "0099",
+      "type": "program_activity",
+      "name": "OPERATIONAL SYSTEMS DEVELOPMENT",
+      "amount": 0
+    },
+    {
+      "id": "564325",
+      "code": "0070",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564965",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564747",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNSPECIFIED",
+      "amount": -210171.14
+    },
+    {
+      "id": "564341",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "ADVANCED COMPONENT DEVELOPMENT AND PROTOTYPES",
+      "amount": -902083.64
+    },
+    {
+      "id": "564733",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "MANAGEMENT SUPPORT",
+      "amount": -2901539.03
+    },
+    {
+      "id": "564307",
+      "code": "009S",
+      "type": "program_activity",
+      "name": "MISCELLANEOUS",
+      "amount": -12186431.01
+    },
+    {
+      "id": "564508",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -210667968.09
+    }
+  ]
+}

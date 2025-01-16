@@ -1,0 +1,139 @@
+{
+  "total": 2372845858.76,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568794",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "EMERGENCY PROGRAM FUNDING",
+      "amount": 821752636.07
+    },
+    {
+      "id": "568450",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PLANT HEALTH",
+      "amount": 373079194.91
+    },
+    {
+      "id": "568731",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ANIMAL HEALTH",
+      "amount": 319712663.54
+    },
+    {
+      "id": "568629",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 306138999.71
+    },
+    {
+      "id": "568336",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "WILDLIFE SERVICES",
+      "amount": 126423994.03
+    },
+    {
+      "id": "568662",
+      "code": "9902",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 113842531.85
+    },
+    {
+      "id": "568735",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "2018 FARM BILL, SECTION 7721",
+      "amount": 68794888.25
+    },
+    {
+      "id": "568762",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "AGENCY-WIDE PROGRAMS",
+      "amount": 64163371.56
+    },
+    {
+      "id": "568752",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "EMERGENCY MANAGEMENT",
+      "amount": 43358635.39
+    },
+    {
+      "id": "568623",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SAFE TRADE AND INTERNATIONAL TECHNICAL ASSISTANCE",
+      "amount": 35447037.86
+    },
+    {
+      "id": "568825",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "REGULATORY MANAGEMENT",
+      "amount": 31720101.93
+    },
+    {
+      "id": "568683",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "ANIMAL WELFARE",
+      "amount": 28485188.08
+    },
+    {
+      "id": "568696",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "2018 FARM BILL, SECTION 12101",
+      "amount": 27376524.83
+    },
+    {
+      "id": "568846",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "2018 FARM BILL, SECTION 2408",
+      "amount": 7481689.76
+    },
+    {
+      "id": "568827",
+      "code": "0021",
+      "type": "program_activity",
+      "name": "CITRUS GREENING - GP 739",
+      "amount": 5454941.66
+    },
+    {
+      "id": "568404",
+      "code": "FS09",
+      "type": "program_activity",
+      "name": "FSDW (FINANCIAL STATEMENT DATA WAREHOUSE)",
+      "amount": 9694
+    },
+    {
+      "id": "695778",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "AGRICULTURAL QUARANTINE INSPECTION USER FEES",
+      "amount": 0
+    },
+    {
+      "id": "568493",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "H1N1 TRANSFER FROM HHS",
+      "amount": -51545
+    },
+    {
+      "id": "568724",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "CITRUS GREENING - GP 757",
+      "amount": -344689.67
+    }
+  ]
+}

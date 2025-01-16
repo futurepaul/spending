@@ -1,0 +1,34 @@
+{
+  "total": 1519537874.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566535",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ENVIRONMENTAL RESTORATION",
+      "amount": 1138687955.54
+    },
+    {
+      "id": "566747",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "UMWA AND OTHER BENEFITS",
+      "amount": 362954209
+    },
+    {
+      "id": "566704",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "TECHNOLOGY DEVELOPMENT AND TRANSFER",
+      "amount": 11574930.99
+    },
+    {
+      "id": "566453",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION AND ADMINISTRATION",
+      "amount": 6320779.32
+    }
+  ]
+}

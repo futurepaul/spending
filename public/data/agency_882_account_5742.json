@@ -1,0 +1,34 @@
+{
+  "total": 22897941.71,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570400",
+      "code": "0110",
+      "type": "program_activity",
+      "name": "CAPITALIZED EXPENSES",
+      "amount": 13240935.87
+    },
+    {
+      "id": "570484",
+      "code": "0111",
+      "type": "program_activity",
+      "name": "HUD HELD NOTES ESCROW ACTIVITY",
+      "amount": 11803336.06
+    },
+    {
+      "id": "570464",
+      "code": "0113",
+      "type": "program_activity",
+      "name": "OTHER",
+      "amount": 757629.47
+    },
+    {
+      "id": "570528",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "ASSIGNMENT AND PROPERTY ACQUISITION CLAIMS",
+      "amount": -2903959.69
+    }
+  ]
+}

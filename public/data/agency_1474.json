@@ -1,0 +1,22 @@
+{
+  "total": 298257107.69,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6205",
+      "code": "0301",
+      "type": "federal_account",
+      "name": "Office of Museum and Library Services: Grants and Administration, Institute of Museum and Library Services",
+      "amount": 298216386.57,
+      "account_number": "474-0301"
+    },
+    {
+      "id": "6209",
+      "code": "8080",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Institute of Museum and Library Services",
+      "amount": 40721.12,
+      "account_number": "474-8080"
+    }
+  ]
+}

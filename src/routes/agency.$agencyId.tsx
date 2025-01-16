@@ -11,7 +11,7 @@ export const Route = createFileRoute('/agency/$agencyId')<{
   loaderData: SpendingResponse
 }>({
   loader: async ({ params, context }) => {
-    return context.fetchAgencySpending(params.agencyId)
+    return context.fetchLocalAgencySpending(params.agencyId)
   },
   component: RouteComponent,
 })
@@ -85,6 +85,7 @@ function RouteComponent() {
               })
             }
           }}
+          parentPercentage={agencyPercentage}
         />
       )}
     </div>

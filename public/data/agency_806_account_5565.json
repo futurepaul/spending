@@ -1,0 +1,20 @@
+{
+  "total": 1379122412.02,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569843",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "NIH ROYALTIES",
+      "amount": 1377834190.04
+    },
+    {
+      "id": "569976",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": 1288221.98
+    }
+  ]
+}

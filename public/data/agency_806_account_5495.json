@@ -1,0 +1,20 @@
+{
+  "total": 195357536.08,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569875",
+      "code": "0017",
+      "type": "program_activity",
+      "name": "NATIONAL INSTITUTE OF NURSING RESEARCH (0889)",
+      "amount": 195365928.34
+    },
+    {
+      "id": "570164",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "NIH REIMBURSABLE - OTHER",
+      "amount": -8392.26
+    }
+  ]
+}

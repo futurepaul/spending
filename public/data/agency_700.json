@@ -1,0 +1,150 @@
+{
+  "total": 53514913650.24,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4869",
+      "code": "0103",
+      "type": "federal_account",
+      "name": "State and Tribal Assistance Grants, Environmental Protection Agency",
+      "amount": 44279729579.02,
+      "account_number": "068-0103"
+    },
+    {
+      "id": "4872",
+      "code": "0108",
+      "type": "federal_account",
+      "name": "Environmental Programs and Management, Environmental Protection Agency",
+      "amount": 3952569923.85,
+      "account_number": "068-0108"
+    },
+    {
+      "id": "4899",
+      "code": "8145",
+      "type": "federal_account",
+      "name": "Hazardous Substance Superfund, Environmental Protection Agency",
+      "amount": 2840091681.77,
+      "account_number": "068-8145"
+    },
+    {
+      "id": "4871",
+      "code": "0107",
+      "type": "federal_account",
+      "name": "Science and Technology, Environmental Protection Agency",
+      "amount": 810908204.15,
+      "account_number": "068-0107"
+    },
+    {
+      "id": "4882",
+      "code": "0254",
+      "type": "federal_account",
+      "name": "Water Infrastructure Finance And Innovation Program Account, Environmental Protection Agency",
+      "amount": 582915900.77,
+      "account_number": "068-0254"
+    },
+    {
+      "id": "4887",
+      "code": "4565",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Environmental Protection Agency",
+      "amount": 445537321.21,
+      "account_number": "068-4565"
+    },
+    {
+      "id": "4879",
+      "code": "0250",
+      "type": "federal_account",
+      "name": "Payment to the Hazardous Substances Superfund, Environmental Protection Agency",
+      "amount": 282699213,
+      "account_number": "068-0250"
+    },
+    {
+      "id": "4900",
+      "code": "8153",
+      "type": "federal_account",
+      "name": "Leaking Underground Storage Tank Trust Fund, Environmental Protection Agency",
+      "amount": 93030953.62,
+      "account_number": "068-8153"
+    },
+    {
+      "id": "4875",
+      "code": "0112",
+      "type": "federal_account",
+      "name": "Office of Inspector General, Environmental Protection Agency",
+      "amount": 82135438.27,
+      "account_number": "068-0112"
+    },
+    {
+      "id": "4883",
+      "code": "4310",
+      "type": "federal_account",
+      "name": "Reregistration and Expedited Processing Revolving Fund, Environmental Protection Agency",
+      "amount": 43317778.4,
+      "account_number": "068-4310"
+    },
+    {
+      "id": "4874",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, Environmental Protection Agency",
+      "amount": 32568175.49,
+      "account_number": "068-0110"
+    },
+    {
+      "id": "4903",
+      "code": "8221",
+      "type": "federal_account",
+      "name": "Inland Oil Spill Programs, Environmental Protection Agency",
+      "amount": 30836417.4,
+      "account_number": "068-8221"
+    },
+    {
+      "id": "4889",
+      "code": "5374",
+      "type": "federal_account",
+      "name": "Pesticide Registration Fund, Environmental Protection Agency",
+      "amount": 21062165.28,
+      "account_number": "068-5374"
+    },
+    {
+      "id": "4885",
+      "code": "4330",
+      "type": "federal_account",
+      "name": "Hazardous Waste Electronic Manifest System Fund, Environmental Protection Agency",
+      "amount": 16488318.86,
+      "account_number": "068-4330"
+    },
+    {
+      "id": "4886",
+      "code": "4365",
+      "type": "federal_account",
+      "name": "Damage Assessment and Restoration Revolving Fund, Environmental Protection Agency",
+      "amount": 1022579.15,
+      "account_number": "068-4365"
+    },
+    {
+      "id": "4888",
+      "code": "5297",
+      "type": "federal_account",
+      "name": "Exxon Valdez Settlement Fund, Environmental Protection Agency",
+      "amount": 0,
+      "account_number": "068-5297"
+    },
+    {
+      "id": "4890",
+      "code": "5664",
+      "type": "federal_account",
+      "name": "TSCA Service Fee Fund, Environmental Protection Agency",
+      "amount": 0,
+      "account_number": "068-5664"
+    },
+    {
+      "id": "4873",
+      "code": "0109",
+      "type": "federal_account",
+      "name": "Energy Research and Development, Environmental Protection Agency",
+      "amount": 0,
+      "account_number": "068-0109"
+    }
+  ]
+}

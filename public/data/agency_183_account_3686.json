@@ -1,0 +1,27 @@
+{
+  "total": 104670952.14,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "682414",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONAL MARINE FISHERIES SERVICE",
+      "amount": 105264910.5
+    },
+    {
+      "id": "682450",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "VARIOUS ACCOUNTING",
+      "amount": 0
+    },
+    {
+      "id": "682388",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "GRANTS TO STATES AND TRIBES",
+      "amount": -593958.36
+    }
+  ]
+}

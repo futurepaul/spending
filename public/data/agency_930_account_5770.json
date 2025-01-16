@@ -1,0 +1,27 @@
+{
+  "total": 536924807.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568014",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ENSURE JUST AND REASONABLE RATES, TERMS & CONDITIONS",
+      "amount": 239485593.14
+    },
+    {
+      "id": "568076",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "PROMOTE SAFE, RELIABLE, SECURE & EFFICIENT INFRASTRUCTURE",
+      "amount": 180353192.94
+    },
+    {
+      "id": "568195",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "MISSION SUPPORT THROUGH ORGANIZATIONAL EXCELLENCE",
+      "amount": 117086021.29
+    }
+  ]
+}

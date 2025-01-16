@@ -1,0 +1,48 @@
+{
+  "total": 271987141.03,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567326",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PROTECTION OF WITNESSES",
+      "amount": 251218992.61
+    },
+    {
+      "id": "567574",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "FOREIGN COUNSEL",
+      "amount": 14911444.82
+    },
+    {
+      "id": "567473",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "ALTERNATIVE DISPUTE RESOLUTION",
+      "amount": 3264561.58
+    },
+    {
+      "id": "567566",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PRIVATE COUNSEL",
+      "amount": 2592142.02
+    },
+    {
+      "id": "567478",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEES AND EXPENSES OF WITNESSES",
+      "amount": 0
+    },
+    {
+      "id": "567518",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

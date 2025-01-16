@@ -1,0 +1,41 @@
+{
+  "total": 61657009.72,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569954",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "FEDERAL PARENT LOCATOR SERVICE REIMBURSABLE",
+      "amount": 29470516.21
+    },
+    {
+      "id": "570055",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FEDERAL PARENT LOCATOR SERVICE",
+      "amount": 21019904.45
+    },
+    {
+      "id": "570068",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "TRAINING AND TECHNICAL ASSISTANCE",
+      "amount": 11166589.06
+    },
+    {
+      "id": "569981",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY CCDBG RESEARCH",
+      "amount": 0
+    },
+    {
+      "id": "570107",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "ACF HISTORICAL ACTIVITY",
+      "amount": 0
+    }
+  ]
+}

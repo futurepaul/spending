@@ -1,0 +1,48 @@
+{
+  "total": 21569856719.5,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567969",
+      "code": "0081",
+      "type": "program_activity",
+      "name": "MULTIEMPLOYER - SPECIAL FINANCIAL ASSISTANCE",
+      "amount": 14518346103.1
+    },
+    {
+      "id": "567967",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SINGLE-EMPLOYER BENEFIT PAYMENT",
+      "amount": 6326977799.62
+    },
+    {
+      "id": "567971",
+      "code": "0806",
+      "type": "program_activity",
+      "name": "ADMINISTRATIVE EXPENSES",
+      "amount": 469975056.76
+    },
+    {
+      "id": "567970",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "MULTIEMPLOYER FINANCIAL ASSISTANCE",
+      "amount": 163063700
+    },
+    {
+      "id": "567972",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "INVESTMENT MANAGEMENT FEES",
+      "amount": 69154165.58
+    },
+    {
+      "id": "567968",
+      "code": "0080",
+      "type": "program_activity",
+      "name": "MULTIEMPLOYER - ADMINISTRATIVE EXPENSES - SPECIAL FINANCIAL ASSISTANCE",
+      "amount": 22339894.44
+    }
+  ]
+}

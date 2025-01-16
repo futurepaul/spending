@@ -1,0 +1,34 @@
+{
+  "total": 8435140.93,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568859",
+      "code": "0902",
+      "type": "program_activity",
+      "name": "OFFICE OF THE SECRETARY (REIMBURSABLE)",
+      "amount": 6670793.11
+    },
+    {
+      "id": "568659",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OFFICE OF THE SECRETARY",
+      "amount": 1770806.84
+    },
+    {
+      "id": "568675",
+      "code": "PM08",
+      "type": "program_activity",
+      "name": "PENDING MAPPING",
+      "amount": 0
+    },
+    {
+      "id": "568512",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "UNDER/ASSISTANT SECRETARIES",
+      "amount": -6459.02
+    }
+  ]
+}

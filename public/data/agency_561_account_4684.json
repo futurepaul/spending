@@ -1,0 +1,34 @@
+{
+  "total": 191072348.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569558",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "DEATH CLAIMS",
+      "amount": 115908274.11
+    },
+    {
+      "id": "569628",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT",
+      "amount": 32146979.35
+    },
+    {
+      "id": "569688",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "PAYMENTS TO GOE AND IT",
+      "amount": 31338891.49
+    },
+    {
+      "id": "569619",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "ALL OTHER",
+      "amount": 11678203.82
+    }
+  ]
+}

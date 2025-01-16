@@ -1,0 +1,13 @@
+{
+  "total": 311990,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569340",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL INTEREST LIABILITIES TO STATES",
+      "amount": 311990
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "total": 197242795.29,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571001",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "TRAINING AND EMPLOYMENT SERVICES",
+      "amount": 84967843.1
+    },
+    {
+      "id": "570916",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "WORKFORCE SECURITY",
+      "amount": 46424880.48
+    },
+    {
+      "id": "570850",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "APPRENTICESHIP TRAINING, EMPLOYER AND LABOR SERVICES",
+      "amount": 38742991.63
+    },
+    {
+      "id": "570992",
+      "code": "0901",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM - MULTI YEAR",
+      "amount": 11045434.3
+    },
+    {
+      "id": "570906",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION",
+      "amount": 9590225.22
+    },
+    {
+      "id": "571008",
+      "code": "0903",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAMS",
+      "amount": 5393629.33
+    },
+    {
+      "id": "570969",
+      "code": "0905",
+      "type": "program_activity",
+      "name": "REIMBURSABLE MULTI YEAR OUIM",
+      "amount": 1077791.23
+    },
+    {
+      "id": "570962",
+      "code": "0904",
+      "type": "program_activity",
+      "name": "REIMBURSABLE MULTI YEAR APPRENTICESHIP",
+      "amount": 0
+    },
+    {
+      "id": "571006",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "588297",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ADULT SERVICES",
+      "amount": 0
+    }
+  ]
+}

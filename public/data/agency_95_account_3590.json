@@ -1,0 +1,13 @@
+{
+  "total": 5799450,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "625635",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "PAYMENTS TO MINNESOTA (5213)",
+      "amount": 5799450
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "total": 1093503504.24,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568120",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "OTHER REIMBURSABLE",
+      "amount": 440633717.53
+    },
+    {
+      "id": "568167",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "PURCHASE POWER AND WHEELING",
+      "amount": 343062770.42
+    },
+    {
+      "id": "567985",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "ANNUAL EXPENSES",
+      "amount": 212530476.09
+    },
+    {
+      "id": "568128",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SYSTEMS OPERATION AND MAINTENANCE",
+      "amount": 55750867.85
+    },
+    {
+      "id": "568045",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 41780446.89
+    },
+    {
+      "id": "568086",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "CAPITAL INVESTMENT",
+      "amount": -254774.54
+    }
+  ]
+}

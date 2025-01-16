@@ -1,0 +1,41 @@
+{
+  "total": 1063953461.99,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570728",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "DECENNIAL CENSUS",
+      "amount": 599148209.54
+    },
+    {
+      "id": "570720",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "ENTERPRISE DATA COLLECTION AND DISSEMINATION SYSTEMS",
+      "amount": 184303672.92
+    },
+    {
+      "id": "570737",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PERIODIC ECONOMIC STATISTICS PROGRAMS",
+      "amount": 167681636.62
+    },
+    {
+      "id": "570644",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "GEOGRAPHIC SUPPORT",
+      "amount": 112819942.91
+    },
+    {
+      "id": "570716",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

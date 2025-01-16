@@ -1,0 +1,104 @@
+{
+  "total": 445537321.21,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571163",
+      "code": "00F8",
+      "type": "program_activity",
+      "name": "IT / DATA MANAGEMENT",
+      "amount": 361759709.49
+    },
+    {
+      "id": "571219",
+      "code": "00E5",
+      "type": "program_activity",
+      "name": "CENTRAL PLANNING, BUDGETING, AND FINANCE",
+      "amount": 49569640.88
+    },
+    {
+      "id": "571278",
+      "code": "0073",
+      "type": "program_activity",
+      "name": "HOMELAND SEC:  PROTECTION OF EPA PERSONNEL & INFRASTRUCTURE",
+      "amount": 12041404.28
+    },
+    {
+      "id": "571179",
+      "code": "00F5",
+      "type": "program_activity",
+      "name": "HUMAN RESOURCES MANAGEMENT",
+      "amount": 9776916.34
+    },
+    {
+      "id": "571234",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 4315549.51
+    },
+    {
+      "id": "571204",
+      "code": "00E8",
+      "type": "program_activity",
+      "name": "CONGRESSIONAL, INTERGOVERNMENTAL, EXTERNAL RELATIONS",
+      "amount": 2826181.44
+    },
+    {
+      "id": "571259",
+      "code": "00F9",
+      "type": "program_activity",
+      "name": "LEGAL ADVICE: ENVIRONMENTAL PROGRAM",
+      "amount": 1734583.8
+    },
+    {
+      "id": "574381",
+      "code": "00E7",
+      "type": "program_activity",
+      "name": "CIVIL RIGHTS/TITLE VI COMPLIANCE",
+      "amount": 1390704.89
+    },
+    {
+      "id": "571148",
+      "code": "00H9",
+      "type": "program_activity",
+      "name": "REGULATORY/ECONOMIC-MANAGEMENT AND ANALYSIS",
+      "amount": 1212300.47
+    },
+    {
+      "id": "571081",
+      "code": "00G1",
+      "type": "program_activity",
+      "name": "LEGAL ADVICE: SUPPORT PROGRAM",
+      "amount": 910330.11
+    },
+    {
+      "id": "571228",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": 0
+    },
+    {
+      "id": "571255",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571134",
+      "code": "00F6",
+      "type": "program_activity",
+      "name": "INFORMATION SECURITY",
+      "amount": 0
+    },
+    {
+      "id": "571084",
+      "code": "00K9",
+      "type": "program_activity",
+      "name": "RESEARCH: CHEMICAL SAFETY AND SUSTAINABILITY",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "total": 50139977373.23,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4007",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Federal Bureau of Investigation, Justice",
+      "amount": 11824301831.03,
+      "account_number": "015-0200"
+    },
+    {
+      "id": "4040",
+      "code": "1060",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Federal Prison System, Justice",
+      "amount": 8453880508.06,
+      "account_number": "015-1060"
+    },
+    {
+      "id": "4011",
+      "code": "0322",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, United States Attorneys, Justice",
+      "amount": 2737702300.63,
+      "account_number": "015-0322"
+    },
+    {
+      "id": "4042",
+      "code": "1100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Drug Enforcement Administration, Justice",
+      "amount": 2612456681.12,
+      "account_number": "015-1100"
+    },
+    {
+      "id": "4006",
+      "code": "0139",
+      "type": "federal_account",
+      "name": "Victims Compensation Fund, General Legal Activities, Justice",
+      "amount": 2390206267.6,
+      "account_number": "015-0139"
+    },
+    {
+      "id": "4039",
+      "code": "1020",
+      "type": "federal_account",
+      "name": "Federal Prisoner Detention, United States Marshals Service, Justice",
+      "amount": 2182881381.01,
+      "account_number": "015-1020"
+    },
+    {
+      "id": "4047",
+      "code": "4526",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Justice",
+      "amount": 2101264221.73,
+      "account_number": "015-4526"
+    },
+    {
+      "id": "4025",
+      "code": "0404",
+      "type": "federal_account",
+      "name": "State and Local Law Enforcement Assistance, Office of Justice Programs, Justice",
+      "amount": 1924184439.63,
+      "account_number": "015-0404"
+    },
+    {
+      "id": "4013",
+      "code": "0324",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, United States Marshals Service, Justice",
+      "amount": 1746547764.25,
+      "account_number": "015-0324"
+    },
+    {
+      "id": "4035",
+      "code": "0700",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Bureau of Alcohol, Tobacco, Firearms and Explosives, Justice",
+      "amount": 1710537253.51,
+      "account_number": "015-0700"
+    },
+    {
+      "id": "3998",
+      "code": "0128",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, General Legal Activities, Justice",
+      "amount": 1538203381.34,
+      "account_number": "015-0128"
+    },
+    {
+      "id": "4050",
+      "code": "5042",
+      "type": "federal_account",
+      "name": "Assets Forfeiture Fund, Justice",
+      "amount": 1527950663.61,
+      "account_number": "015-5042"
+    },
+    {
+      "id": "4049",
+      "code": "5041",
+      "type": "federal_account",
+      "name": "Crime Victims Fund, Justice",
+      "amount": 1243873304.5,
+      "account_number": "015-5041"
+    },
+    {
+      "id": "4020",
+      "code": "0339",
+      "type": "federal_account",
+      "name": "Executive Office for Immigration Review, General Administration, Justice",
+      "amount": 819954720.02,
+      "account_number": "015-0339"
+    },
+    {
+      "id": "4008",
+      "code": "0203",
+      "type": "federal_account",
+      "name": "Construction, Federal Bureau of Investigation, Justice",
+      "amount": 818659881.9,
+      "account_number": "015-0203"
+    },
+    {
+      "id": "4028",
+      "code": "0409",
+      "type": "federal_account",
+      "name": "Violence Against Women Prevention and Prosecution Programs, Office of Justice Programs, Justice",
+      "amount": 701106123.07,
+      "account_number": "015-0409"
+    },
+    {
+      "id": "4046",
+      "code": "4500",
+      "type": "federal_account",
+      "name": "Prison Industries Fund, Justice",
+      "amount": 652157651.96,
+      "account_number": "015-4500"
+    },
+    {
+      "id": "4027",
+      "code": "0406",
+      "type": "federal_account",
+      "name": "Community Oriented Policing Services, Office of Justice Programs, Justice",
+      "amount": 602708714.5,
+      "account_number": "015-0406"
+    },
+    {
+      "id": "4053",
+      "code": "5131",
+      "type": "federal_account",
+      "name": "Diversion Control Fee Account, Justice",
+      "amount": 579985915.22,
+      "account_number": "015-5131"
+    },
+    {
+      "id": "4012",
+      "code": "0323",
+      "type": "federal_account",
+      "name": "Interagency Crime and Drug Enforcement, Interagency Law Enforcement, Justice",
+      "amount": 540321762.59,
+      "account_number": "015-0323"
+    },
+    {
+      "id": "4022",
+      "code": "0401",
+      "type": "federal_account",
+      "name": "Research, Evaluation, and Statistics, Office of Justice Programs, Justice",
+      "amount": 520321329.98,
+      "account_number": "015-0401"
+    },
+    {
+      "id": "4074",
+      "code": "8408",
+      "type": "federal_account",
+      "name": "Commissary Funds, Federal Prisons, Justice",
+      "amount": 414974115.89,
+      "account_number": "015-8408"
+    },
+    {
+      "id": "4026",
+      "code": "0405",
+      "type": "federal_account",
+      "name": "Juvenile Justice Programs, Office of Justice Programs, Justice",
+      "amount": 330767878.64,
+      "account_number": "015-0405"
+    },
+    {
+      "id": "4010",
+      "code": "0319",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Antitrust Division, Justice",
+      "amount": 273673842.35,
+      "account_number": "015-0319"
+    },
+    {
+      "id": "4009",
+      "code": "0311",
+      "type": "federal_account",
+      "name": "Fees and Expenses of Witnesses, Justice",
+      "amount": 271987141.03,
+      "account_number": "015-0311"
+    },
+    {
+      "id": "4051",
+      "code": "5073",
+      "type": "federal_account",
+      "name": "United States Trustee System Fund, Justice",
+      "amount": 244710190.24,
+      "account_number": "015-5073"
+    },
+    {
+      "id": "4024",
+      "code": "0403",
+      "type": "federal_account",
+      "name": "Public Safety Officers Benefits, Office of Justice Programs, Justice",
+      "amount": 215061870.97,
+      "account_number": "015-0403"
+    },
+    {
+      "id": "3999",
+      "code": "0129",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, General Administration, Justice",
+      "amount": 201785315.82,
+      "account_number": "015-0129"
+    },
+    {
+      "id": "4037",
+      "code": "1003",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, Federal Prison System, Justice",
+      "amount": 185981905.06,
+      "account_number": "015-1003"
+    },
+    {
+      "id": "4016",
+      "code": "0328",
+      "type": "federal_account",
+      "name": "Office of Inspector General, General Administration, Justice",
+      "amount": 159418224.57,
+      "account_number": "015-0328"
+    },
+    {
+      "id": "4045",
+      "code": "1300",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, National Security Division, Justice",
+      "amount": 140729778.56,
+      "account_number": "015-1300"
+    },
+    {
+      "id": "4003",
+      "code": "0134",
+      "type": "federal_account",
+      "name": "Justice Information Sharing Technology, General Administration, Justice",
+      "amount": 97579682.79,
+      "account_number": "015-0134"
+    },
+    {
+      "id": "4018",
+      "code": "0333",
+      "type": "federal_account",
+      "name": "Payment to the Radiation Exposure Compensation Trust Fund, Justice",
+      "amount": 80000000,
+      "account_number": "015-0333"
+    },
+    {
+      "id": "4048",
+      "code": "4575",
+      "type": "federal_account",
+      "name": "Justice Prisoner and Alien Transportation System Fund, United States Marshals Service, Justice",
+      "amount": 79845787.97,
+      "account_number": "015-4575"
+    },
+    {
+      "id": "4036",
+      "code": "0720",
+      "type": "federal_account",
+      "name": "Construction, Bureau of Alcohol, Tobacco, Firearms and Explosives, Justice",
+      "amount": 75000000,
+      "account_number": "015-0720"
+    },
+    {
+      "id": "4071",
+      "code": "8116",
+      "type": "federal_account",
+      "name": "Radiation Exposure Compensation Trust Fund, Justice",
+      "amount": 52233372.43,
+      "account_number": "015-8116"
+    },
+    {
+      "id": "4015",
+      "code": "0327",
+      "type": "federal_account",
+      "name": "Independent Counsel, Justice",
+      "amount": 21245481.76,
+      "account_number": "015-0327"
+    },
+    {
+      "id": "4033",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Community Relations Service, Justice",
+      "amount": 21149393.1,
+      "account_number": "015-0500"
+    },
+    {
+      "id": "4002",
+      "code": "0133",
+      "type": "federal_account",
+      "name": "Construction, United States Marshals Service, Justice",
+      "amount": 11667054.67,
+      "account_number": "015-0133"
+    },
+    {
+      "id": "4043",
+      "code": "1101",
+      "type": "federal_account",
+      "name": "Construction, Drug Enforcement Administration, Justice",
+      "amount": 11537025.95,
+      "account_number": "015-1101"
+    },
+    {
+      "id": "4055",
+      "code": "5606",
+      "type": "federal_account",
+      "name": "Domestic Trafficking Victims' Fund, Office of Justice Programs, Justice",
+      "amount": 8589490.25,
+      "account_number": "015-5606"
+    },
+    {
+      "id": "4041",
+      "code": "1061",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, United States Parole Commission, Justice",
+      "amount": 7894981.12,
+      "account_number": "015-1061"
+    },
+    {
+      "id": "3995",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Foreign Claims Settlement Commission, Justice",
+      "amount": 1952461.92,
+      "account_number": "015-0100"
+    },
+    {
+      "id": "4056",
+      "code": "5608",
+      "type": "federal_account",
+      "name": "United States Victims of State Sponsored Terrorism Fund, General Legal Activities, Justice",
+      "amount": 1688745.65,
+      "account_number": "015-5608"
+    },
+    {
+      "id": "4072",
+      "code": "8305",
+      "type": "federal_account",
+      "name": "Justice Gift Fund, Justice",
+      "amount": 961098.09,
+      "account_number": "015-8305"
+    },
+    {
+      "id": "4073",
+      "code": "8306",
+      "type": "federal_account",
+      "name": "Gifts, Crime Victims Fund, Office of Justice Programs, Justice",
+      "amount": 393000,
+      "account_number": "015-8306"
+    },
+    {
+      "id": "3996",
+      "code": "0104",
+      "type": "federal_account",
+      "name": "Payment of Vietnam and U.S.S. Pueblo Prisoner of War Claims, Foreign Claims Settlement Commission, Justice",
+      "amount": 0,
+      "account_number": "015-0104"
+    },
+    {
+      "id": "4019",
+      "code": "0334",
+      "type": "federal_account",
+      "name": "Weed and Seed Program Fund, Justice",
+      "amount": 0,
+      "account_number": "015-0334"
+    },
+    {
+      "id": "4001",
+      "code": "0132",
+      "type": "federal_account",
+      "name": "Tactical Law Enforcement Wireless Communications, General Administration, Justice",
+      "amount": -56562.86,
+      "account_number": "015-0132"
+    }
+  ]
+}

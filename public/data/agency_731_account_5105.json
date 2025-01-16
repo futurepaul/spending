@@ -1,0 +1,27 @@
+{
+  "total": 217116976.74,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567221",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SEC. 403 - HIGHWAY SAFETY RESEARCH & DEVELOPMENT",
+      "amount": 207628376.04
+    },
+    {
+      "id": "567240",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONAL DRIVER REGISTER",
+      "amount": 5548761.89
+    },
+    {
+      "id": "566931",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OPERATIONS AND RESEARCH (TRANSPORTATION TRUST FUND) (REIMBURSABLE)",
+      "amount": 3939838.81
+    }
+  ]
+}

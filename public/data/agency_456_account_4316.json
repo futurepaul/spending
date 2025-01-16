@@ -1,0 +1,20 @@
+{
+  "total": 193209030.82,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568973",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BSA ADMINISTRATION AND ANALYSIS",
+      "amount": 190057977.31
+    },
+    {
+      "id": "569226",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM",
+      "amount": 3151053.51
+    }
+  ]
+}

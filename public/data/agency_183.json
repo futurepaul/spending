@@ -1,0 +1,502 @@
+{
+  "total": 47855481173.52,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6432",
+      "code": "0562",
+      "type": "federal_account",
+      "name": "Broadband Equity, Access, and Deployment Program, National Telecommunications and Information Administration,Commerce",
+      "amount": 24523364631.94,
+      "account_number": "013-0562"
+    },
+    {
+      "id": "3685",
+      "code": "1450",
+      "type": "federal_account",
+      "name": "Operations, Research and Facilities, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 7186261360.31,
+      "account_number": "013-1450"
+    },
+    {
+      "id": "3681",
+      "code": "1006",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, United States Patent and Trademark Office, Commerce",
+      "amount": 4132900993.1,
+      "account_number": "013-1006"
+    },
+    {
+      "id": "3690",
+      "code": "1460",
+      "type": "federal_account",
+      "name": "Procurement, Acquisition and Construction, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 2299811281.88,
+      "account_number": "013-1460"
+    },
+    {
+      "id": "3669",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Scientific and Technical Research and Services, National Institute of Standards and Technology, Commerce",
+      "amount": 1288639499.77,
+      "account_number": "013-0500"
+    },
+    {
+      "id": "3667",
+      "code": "0450",
+      "type": "federal_account",
+      "name": "Periodic Censuses and Programs, Bureau of the Census, Commerce",
+      "amount": 1063953461.99,
+      "account_number": "013-0450"
+    },
+    {
+      "id": "3706",
+      "code": "4512",
+      "type": "federal_account",
+      "name": "Census Working Capital Fund, Bureau of the Census, Commerce",
+      "amount": 980182473.08,
+      "account_number": "013-4512"
+    },
+    {
+      "id": "6478",
+      "code": "0520",
+      "type": "federal_account",
+      "name": "Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Fund, NIST, Commerce",
+      "amount": 958420987.67,
+      "account_number": "013-0520"
+    },
+    {
+      "id": "3694",
+      "code": "2050",
+      "type": "federal_account",
+      "name": "Economic Development Assistance Programs, Economic Development Administration, Commerce",
+      "amount": 940102750.79,
+      "account_number": "013-2050"
+    },
+    {
+      "id": "3683",
+      "code": "1250",
+      "type": "federal_account",
+      "name": "Operations and Administration, International Trade Administration, Commerce",
+      "amount": 637806714.93,
+      "account_number": "013-1250"
+    },
+    {
+      "id": "3704",
+      "code": "4421",
+      "type": "federal_account",
+      "name": "First Responder Network Authority, National Telecommunications and Information Administration, Commerce",
+      "amount": 559308810.72,
+      "account_number": "013-4421"
+    },
+    {
+      "id": "3674",
+      "code": "0525",
+      "type": "federal_account",
+      "name": "Industrial Technology Services, National Institute of Standards and Technology, Commerce",
+      "amount": 433798466.97,
+      "account_number": "013-0525"
+    },
+    {
+      "id": "3696",
+      "code": "2055",
+      "type": "federal_account",
+      "name": "Fisheries Disaster Assistance, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 364978694.57,
+      "account_number": "013-2055"
+    },
+    {
+      "id": "3666",
+      "code": "0401",
+      "type": "federal_account",
+      "name": "Current Surveys and Programs, Bureau of the Census, Commerce",
+      "amount": 336131858.45,
+      "account_number": "013-0401"
+    },
+    {
+      "id": "3705",
+      "code": "4511",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Departmental Management, Commerce",
+      "amount": 312734550.63,
+      "account_number": "013-4511"
+    },
+    {
+      "id": "3657",
+      "code": "0120",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Departmental Management, Commerce",
+      "amount": 224521285.32,
+      "account_number": "013-0120"
+    },
+    {
+      "id": "3672",
+      "code": "0515",
+      "type": "federal_account",
+      "name": "Construction of Research Facilities, National Institute of Standards and Technology, Commerce",
+      "amount": 215063911.76,
+      "account_number": "013-0515"
+    },
+    {
+      "id": "3665",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Operations and Administration, Bureau of Industry and Security, Commerce",
+      "amount": 204212825.55,
+      "account_number": "013-0300"
+    },
+    {
+      "id": "3708",
+      "code": "4650",
+      "type": "federal_account",
+      "name": "Working Capital Fund, National Institute of Standards and Technology, Commerce",
+      "amount": 163926873.25,
+      "account_number": "013-4650"
+    },
+    {
+      "id": "6480",
+      "code": "0565",
+      "type": "federal_account",
+      "name": "Public Wireless Supply Chain Innovation Fund, National Telecommunications and Information Administration, Commerce",
+      "amount": 147045686.62,
+      "account_number": "013-0565"
+    },
+    {
+      "id": "3676",
+      "code": "0550",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, National Telecommunications and Information Administration, Commerce",
+      "amount": 134139802.77,
+      "account_number": "013-0550"
+    },
+    {
+      "id": "3693",
+      "code": "1500",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Economic and Statistical Analysis, Commerce",
+      "amount": 127796995.36,
+      "account_number": "013-1500"
+    },
+    {
+      "id": "3686",
+      "code": "1451",
+      "type": "federal_account",
+      "name": "Pacific Coastal Salmon Recovery, National Oceanic and Atmospheric, Commerce",
+      "amount": 104670952.14,
+      "account_number": "013-1451"
+    },
+    {
+      "id": "6322",
+      "code": "0133",
+      "type": "federal_account",
+      "name": "Nonrecurring Expenses Fund, Departmental Management, Commerce",
+      "amount": 78727904.58,
+      "account_number": "013-0133"
+    },
+    {
+      "id": "3662",
+      "code": "0125",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Economic Development Administration, Commerce",
+      "amount": 74734753.45,
+      "account_number": "013-0125"
+    },
+    {
+      "id": "3697",
+      "code": "4295",
+      "type": "federal_account",
+      "name": "NTIS Revolving Fund, National Technical Information Service, Commerce",
+      "amount": 68787043.05,
+      "account_number": "013-4295"
+    },
+    {
+      "id": "3663",
+      "code": "0126",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Departmental Management, Commerce",
+      "amount": 59086895.94,
+      "account_number": "013-0126"
+    },
+    {
+      "id": "3664",
+      "code": "0201",
+      "type": "federal_account",
+      "name": "Minority Business Development, Minority Business Development Agency, Commerce",
+      "amount": 55477917.19,
+      "account_number": "013-0201"
+    },
+    {
+      "id": "3699",
+      "code": "4316",
+      "type": "federal_account",
+      "name": "Damage Assessment and Restoration Revolving Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 54489503.9,
+      "account_number": "013-4316"
+    },
+    {
+      "id": "6433",
+      "code": "0563",
+      "type": "federal_account",
+      "name": "Digital Equity, National Telecommunications and Information Administration, Commerce",
+      "amount": 44553709.26,
+      "account_number": "013-0563"
+    },
+    {
+      "id": "6374",
+      "code": "0560",
+      "type": "federal_account",
+      "name": "Broadband Connectivity Fund, National Telecommunications and Information Administration, Commerce",
+      "amount": 30861132.3,
+      "account_number": "013-0560"
+    },
+    {
+      "id": "6487",
+      "code": "8470",
+      "type": "federal_account",
+      "name": "Seafood Inspection Program, National Oceanic and Atmospheric Administration",
+      "amount": 19354373.35,
+      "account_number": "013-8470"
+    },
+    {
+      "id": "3713",
+      "code": "5284",
+      "type": "federal_account",
+      "name": "Limited Access System Administration Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 11357188.12,
+      "account_number": "013-5284"
+    },
+    {
+      "id": "3688",
+      "code": "1455",
+      "type": "federal_account",
+      "name": "Gulf Coast Ecosystem Restoration Science, Observation, Monitoring and Technology, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 9475712.12,
+      "account_number": "013-1455"
+    },
+    {
+      "id": "3721",
+      "code": "5598",
+      "type": "federal_account",
+      "name": "North Pacific Fishery Observer Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 5423081.04,
+      "account_number": "013-5598"
+    },
+    {
+      "id": "3719",
+      "code": "5583",
+      "type": "federal_account",
+      "name": "Fisheries Enforcement Asset Forfeiture Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 3018221.84,
+      "account_number": "013-5583"
+    },
+    {
+      "id": "3692",
+      "code": "1465",
+      "type": "federal_account",
+      "name": "NOAA Accrual Contribution to the Uniformed Services Retiree Health, Commerce",
+      "amount": 2223000,
+      "account_number": "013-1465"
+    },
+    {
+      "id": "3660",
+      "code": "0123",
+      "type": "federal_account",
+      "name": "Renovation and Modernization, Departmental Management, Commerce",
+      "amount": 1556262.15,
+      "account_number": "013-0123"
+    },
+    {
+      "id": "3711",
+      "code": "5139",
+      "type": "federal_account",
+      "name": "Promote and Develop Fishery Products and Research Pertaining to American Fisheries, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 1446534.62,
+      "account_number": "013-5139"
+    },
+    {
+      "id": "6375",
+      "code": "0561",
+      "type": "federal_account",
+      "name": "Connecting Minority Communities Fund, National Telecommunications and Information Administration, Commerce",
+      "amount": 1346790.9,
+      "account_number": "013-0561"
+    },
+    {
+      "id": "3717",
+      "code": "5439",
+      "type": "federal_account",
+      "name": "Western Pacific Sustainable Fisheries Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 1101780,
+      "account_number": "013-5439"
+    },
+    {
+      "id": "3715",
+      "code": "5362",
+      "type": "federal_account",
+      "name": "Environmental Improvement and Restoration Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 1026276.66,
+      "account_number": "013-5362"
+    },
+    {
+      "id": "6972",
+      "code": "2056",
+      "type": "federal_account",
+      "name": "Facilities Management and Construction, National Telecommunications and Information Administration, Commerce",
+      "amount": 869240.82,
+      "account_number": "013-2056"
+    },
+    {
+      "id": "3689",
+      "code": "1456",
+      "type": "federal_account",
+      "name": "Fisheries Finance Program Account, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 202449.17,
+      "account_number": "013-1456"
+    },
+    {
+      "id": "3736",
+      "code": "8501",
+      "type": "federal_account",
+      "name": "Gifts and Bequests, Departmental Management, Commerce",
+      "amount": 153118.36,
+      "account_number": "013-8501"
+    },
+    {
+      "id": "3709",
+      "code": "5120",
+      "type": "federal_account",
+      "name": "Fishermen's Contingency Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 49214.08,
+      "account_number": "013-5120"
+    },
+    {
+      "id": "3655",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Office of Inspector General - Recovery Act, Departmental Management, Commerce",
+      "amount": 15930.79,
+      "account_number": "013-0110"
+    },
+    {
+      "id": "3720",
+      "code": "5584",
+      "type": "federal_account",
+      "name": "Sanctuaries Enforcement Asset Forfeiture Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 42.34,
+      "account_number": "013-5584"
+    },
+    {
+      "id": "6807",
+      "code": "0521",
+      "type": "federal_account",
+      "name": "Creating Helpful Incentives to Produce Semiconductors (CHIPS) Loan Program Account, National Institute of Standards and Technology, Commerce",
+      "amount": 0,
+      "account_number": "013-0521"
+    },
+    {
+      "id": "3718",
+      "code": "5521",
+      "type": "federal_account",
+      "name": "Grants to Manufacturers of Worsted Wool Fabrics, International Trade Commission, Commerce",
+      "amount": 0,
+      "account_number": "013-5521"
+    },
+    {
+      "id": "3698",
+      "code": "4313",
+      "type": "federal_account",
+      "name": "Coastal Zone Management Fund, National Oceanic Atmospheric Administration, Commerce",
+      "amount": 0,
+      "account_number": "013-4313"
+    },
+    {
+      "id": "3716",
+      "code": "5396",
+      "type": "federal_account",
+      "name": "Digital Television Transition and Public Safety Fund, National Telecommunications and Information Administration, Commerce",
+      "amount": 0,
+      "account_number": "013-5396"
+    },
+    {
+      "id": "3700",
+      "code": "4323",
+      "type": "federal_account",
+      "name": "Economics and Statistics Administration Revolving Fund, Economic and Statistical Analysis, Commerce",
+      "amount": 0,
+      "account_number": "013-4323"
+    },
+    {
+      "id": "3712",
+      "code": "5283",
+      "type": "federal_account",
+      "name": "Marine Mammal Unusual Mortality Event Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 0,
+      "account_number": "013-5283"
+    },
+    {
+      "id": "3677",
+      "code": "0551",
+      "type": "federal_account",
+      "name": "Public Telecommunications Facilities, Planning and Construction, National Telecommunications and Information, Commerce",
+      "amount": 0,
+      "account_number": "013-0551"
+    },
+    {
+      "id": "3710",
+      "code": "5122",
+      "type": "federal_account",
+      "name": "Foreign Fishing Observer Fund, National Oceanic and Atmospheric Administration, Commerce",
+      "amount": 0,
+      "account_number": "013-5122"
+    },
+    {
+      "id": "7137",
+      "code": "2047",
+      "type": "federal_account",
+      "name": "IT System Modernization and Working Capital Fund, NOAA, Commerce",
+      "amount": 0,
+      "account_number": "013-2047"
+    },
+    {
+      "id": "3673",
+      "code": "0516",
+      "type": "federal_account",
+      "name": "State and Local Implementation Fund, National Telecommunications and Information Administration, Commerce",
+      "amount": -6076.93,
+      "account_number": "013-0516"
+    },
+    {
+      "id": "3735",
+      "code": "8233",
+      "type": "federal_account",
+      "name": "Public Safety Trust Fund, National Telecommunications and Information Administration, Commerce",
+      "amount": -40010.46,
+      "account_number": "013-8233"
+    },
+    {
+      "id": "3701",
+      "code": "4358",
+      "type": "federal_account",
+      "name": "Network Construction Fund, Telecommunications and Information Administration, Commerce",
+      "amount": -96629.23,
+      "account_number": "013-4358"
+    },
+    {
+      "id": "3670",
+      "code": "0513",
+      "type": "federal_account",
+      "name": "Wireless Innovation(WIN) Fund, National Institute of Standards and Technology, Commerce",
+      "amount": -891689.27,
+      "account_number": "013-0513"
+    },
+    {
+      "id": "6434",
+      "code": "0564",
+      "type": "federal_account",
+      "name": "Middle Mile Deployment, National Telecommunications and Information Administration,Commerce",
+      "amount": -8597366.19,
+      "account_number": "013-0564"
+    }
+  ]
+}

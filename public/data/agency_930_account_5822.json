@@ -1,0 +1,118 @@
+{
+  "total": 260719257.03,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568123",
+      "code": "0814",
+      "type": "program_activity",
+      "name": "BUILDING OCCUPANCY (RENT, OPERATIONS & MAINTENANCE)",
+      "amount": 108826446.78
+    },
+    {
+      "id": "568052",
+      "code": "0815",
+      "type": "program_activity",
+      "name": "CORPORATE BUSINESS SYSTEMS",
+      "amount": 50277887.37
+    },
+    {
+      "id": "567984",
+      "code": "0820",
+      "type": "program_activity",
+      "name": "TELECOMMUNICATION",
+      "amount": 41458892.14
+    },
+    {
+      "id": "568147",
+      "code": "0821",
+      "type": "program_activity",
+      "name": "OVERSEAS PRESENCE",
+      "amount": 14974956.67
+    },
+    {
+      "id": "568067",
+      "code": "0817",
+      "type": "program_activity",
+      "name": "FINANCIAL STATEMENT AUDITS",
+      "amount": 10761343.86
+    },
+    {
+      "id": "567973",
+      "code": "0822",
+      "type": "program_activity",
+      "name": "INTERAGENCY TRANSFERS",
+      "amount": 8348531.19
+    },
+    {
+      "id": "568197",
+      "code": "0818",
+      "type": "program_activity",
+      "name": "PROCUREMENT MANAGEMENT",
+      "amount": 6106284.75
+    },
+    {
+      "id": "568198",
+      "code": "0813",
+      "type": "program_activity",
+      "name": "PRINTING AND GRAPHICS",
+      "amount": 5013950.84
+    },
+    {
+      "id": "568029",
+      "code": "0825",
+      "type": "program_activity",
+      "name": "CORPORATE TRAINING SERVICES",
+      "amount": 3969796.89
+    },
+    {
+      "id": "568023",
+      "code": "0816",
+      "type": "program_activity",
+      "name": "MAIL AND TRANSPORTATION SERVICES",
+      "amount": 3626296.18
+    },
+    {
+      "id": "568073",
+      "code": "0823",
+      "type": "program_activity",
+      "name": "HEALTH SERVICES",
+      "amount": 1703167.04
+    },
+    {
+      "id": "567999",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "PROJECT MANAGEMENT AND CAREER DEVELOPMENT PROGRAM",
+      "amount": 1674897.72
+    },
+    {
+      "id": "568226",
+      "code": "0826",
+      "type": "program_activity",
+      "name": "A-123/INTERNAL CONTROLS",
+      "amount": 1554133.98
+    },
+    {
+      "id": "568092",
+      "code": "0812",
+      "type": "program_activity",
+      "name": "COPYING SERVICES",
+      "amount": 1448872.04
+    },
+    {
+      "id": "568145",
+      "code": "0810",
+      "type": "program_activity",
+      "name": "SUPPLIES",
+      "amount": 505486.49
+    },
+    {
+      "id": "568088",
+      "code": "0827",
+      "type": "program_activity",
+      "name": "PENSION STUDIES",
+      "amount": 468313.09
+    }
+  ]
+}

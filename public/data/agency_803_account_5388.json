@@ -1,0 +1,27 @@
+{
+  "total": 44401.81,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571745",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "EXECUTIVE DIRECTION",
+      "amount": 34654.59
+    },
+    {
+      "id": "639360",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "REGIONAL & DISTRICT OFFICES",
+      "amount": 9747.22
+    },
+    {
+      "id": "563851",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

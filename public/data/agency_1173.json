@@ -1,0 +1,1414 @@
+{
+  "total": 1316533308051.89,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5963",
+      "code": "0040",
+      "type": "federal_account",
+      "name": "Payments to Military Retirement Fund, Defense",
+      "amount": 151521000000,
+      "account_number": "097-0040"
+    },
+    {
+      "id": "6018",
+      "code": "4930",
+      "type": "federal_account",
+      "name": "Department of Defense Working Capital Fund, Defense",
+      "amount": 146418109546.78,
+      "account_number": "097-4930"
+    },
+    {
+      "id": "4175",
+      "code": "1804",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Navy",
+      "amount": 79163284232.09,
+      "account_number": "017-1804"
+    },
+    {
+      "id": "6052",
+      "code": "8097",
+      "type": "federal_account",
+      "name": "Department of Defense Military Retirement Fund",
+      "amount": 78203861136.58,
+      "account_number": "097-8097"
+    },
+    {
+      "id": "4501",
+      "code": "2020",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Army",
+      "amount": 72614355638.95,
+      "account_number": "021-2020"
+    },
+    {
+      "id": "4807",
+      "code": "3400",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Air Force",
+      "amount": 65293485520.84,
+      "account_number": "057-3400"
+    },
+    {
+      "id": "5965",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Defense-Wide, Defense",
+      "amount": 61053277539.19,
+      "account_number": "097-0100"
+    },
+    {
+      "id": "4500",
+      "code": "2010",
+      "type": "federal_account",
+      "name": "Military Personnel, Army",
+      "amount": 51423905183.37,
+      "account_number": "021-2010"
+    },
+    {
+      "id": "4810",
+      "code": "3600",
+      "type": "federal_account",
+      "name": "Research, Development, Test, and Evaluation, Air Force",
+      "amount": 49994409570.87,
+      "account_number": "057-3600"
+    },
+    {
+      "id": "5974",
+      "code": "0130",
+      "type": "federal_account",
+      "name": "Defense Health Program, Defense",
+      "amount": 43512402982.48,
+      "account_number": "097-0130"
+    },
+    {
+      "id": "5988",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Research, Development, Test, and Evaluation, Defense-Wide",
+      "amount": 37472197966.76,
+      "account_number": "097-0400"
+    },
+    {
+      "id": "4169",
+      "code": "1453",
+      "type": "federal_account",
+      "name": "Military Personnel, Navy",
+      "amount": 37397556106.07,
+      "account_number": "017-1453"
+    },
+    {
+      "id": "4809",
+      "code": "3500",
+      "type": "federal_account",
+      "name": "Military Personnel, Air Force",
+      "amount": 36008292949.53,
+      "account_number": "057-3500"
+    },
+    {
+      "id": "4804",
+      "code": "3080",
+      "type": "federal_account",
+      "name": "Other Procurement, Air Force",
+      "amount": 33024177531.28,
+      "account_number": "057-3080"
+    },
+    {
+      "id": "4166",
+      "code": "1319",
+      "type": "federal_account",
+      "name": "Research, Development, Test, and Evaluation, Navy",
+      "amount": 28443009660.62,
+      "account_number": "017-1319"
+    },
+    {
+      "id": "4508",
+      "code": "2040",
+      "type": "federal_account",
+      "name": "Research, Development, Test, and Evaluation, Army",
+      "amount": 22494302590.21,
+      "account_number": "021-2040"
+    },
+    {
+      "id": "4173",
+      "code": "1611",
+      "type": "federal_account",
+      "name": "Shipbuilding and Conversion, Navy",
+      "amount": 20495721869.42,
+      "account_number": "017-1611"
+    },
+    {
+      "id": "6363",
+      "code": "3620",
+      "type": "federal_account",
+      "name": "Research, Development, Test, and Evaluation, Space Force, Air Force",
+      "amount": 20181118251.72,
+      "account_number": "057-3620"
+    },
+    {
+      "id": "5964",
+      "code": "0041",
+      "type": "federal_account",
+      "name": "Concurrent Receipt Accrual Payments to the Military Retirement Fund, Defense",
+      "amount": 19874141000,
+      "account_number": "097-0041"
+    },
+    {
+      "id": "4799",
+      "code": "3010",
+      "type": "federal_account",
+      "name": "Aircraft Procurement, Air Force",
+      "amount": 16355179046.25,
+      "account_number": "057-3010"
+    },
+    {
+      "id": "4155",
+      "code": "1105",
+      "type": "federal_account",
+      "name": "Military Personnel, Marine Corps",
+      "amount": 15464572520.76,
+      "account_number": "017-1105"
+    },
+    {
+      "id": "4170",
+      "code": "1506",
+      "type": "federal_account",
+      "name": "Aircraft Procurement, Navy",
+      "amount": 14080392594.78,
+      "account_number": "017-1506"
+    },
+    {
+      "id": "4179",
+      "code": "1810",
+      "type": "federal_account",
+      "name": "Other Procurement, Navy",
+      "amount": 14038496340.94,
+      "account_number": "017-1810"
+    },
+    {
+      "id": "6029",
+      "code": "5472",
+      "type": "federal_account",
+      "name": "Department of Defense, Medicare-Eligible Retiree Health Care Fund",
+      "amount": 12159957025.91,
+      "account_number": "097-5472"
+    },
+    {
+      "id": "4156",
+      "code": "1106",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Marine Corps",
+      "amount": 10421055712.54,
+      "account_number": "017-1106"
+    },
+    {
+      "id": "4512",
+      "code": "2060",
+      "type": "federal_account",
+      "name": "National Guard Personnel, Army",
+      "amount": 10138679355.97,
+      "account_number": "021-2060"
+    },
+    {
+      "id": "6011",
+      "code": "0850",
+      "type": "federal_account",
+      "name": "Payment to Department of Defense Medicare-Eligible Retiree Health Care Fund",
+      "amount": 9584000000,
+      "account_number": "097-0850"
+    },
+    {
+      "id": "4507",
+      "code": "2035",
+      "type": "federal_account",
+      "name": "Other Procurement, Army",
+      "amount": 9220858452.27,
+      "account_number": "021-2035"
+    },
+    {
+      "id": "4513",
+      "code": "2065",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Army National Guard",
+      "amount": 8571673836.19,
+      "account_number": "021-2065"
+    },
+    {
+      "id": "4510",
+      "code": "2050",
+      "type": "federal_account",
+      "name": "Military Construction, Army",
+      "amount": 8544368997.72,
+      "account_number": "021-2050"
+    },
+    {
+      "id": "4506",
+      "code": "2034",
+      "type": "federal_account",
+      "name": "Procurement of Ammunition, Army",
+      "amount": 8337493564.16,
+      "account_number": "021-2034"
+    },
+    {
+      "id": "4818",
+      "code": "3840",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Air National Guard",
+      "amount": 7856298491.47,
+      "account_number": "057-3840"
+    },
+    {
+      "id": "4174",
+      "code": "1612",
+      "type": "federal_account",
+      "name": "National Sea-Based Deterrence Fund, Navy",
+      "amount": 7541058783.08,
+      "account_number": "017-1612"
+    },
+    {
+      "id": "5983",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Procurement, Defense-Wide",
+      "amount": 7254397544.16,
+      "account_number": "097-0300"
+    },
+    {
+      "id": "4504",
+      "code": "2032",
+      "type": "federal_account",
+      "name": "Missile Procurement, Army",
+      "amount": 6829122347.21,
+      "account_number": "021-2032"
+    },
+    {
+      "id": "4505",
+      "code": "2033",
+      "type": "federal_account",
+      "name": "Procurement of Weapons and Tracked Combat Vehicles, Army",
+      "amount": 6705747811.72,
+      "account_number": "021-2033"
+    },
+    {
+      "id": "4162",
+      "code": "1205",
+      "type": "federal_account",
+      "name": "Military Construction, Navy and Marine Corps",
+      "amount": 5548912024.33,
+      "account_number": "017-1205"
+    },
+    {
+      "id": "4515",
+      "code": "2070",
+      "type": "federal_account",
+      "name": "Reserve Personnel, Army",
+      "amount": 5448288231.92,
+      "account_number": "021-2070"
+    },
+    {
+      "id": "4820",
+      "code": "3850",
+      "type": "federal_account",
+      "name": "National Guard Personnel, Air Force",
+      "amount": 5347689187.12,
+      "account_number": "057-3850"
+    },
+    {
+      "id": "6304",
+      "code": "3410",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Space Force",
+      "amount": 5315297764.63,
+      "account_number": "057-3410"
+    },
+    {
+      "id": "4171",
+      "code": "1507",
+      "type": "federal_account",
+      "name": "Weapons Procurement, Navy",
+      "amount": 5153195253.74,
+      "account_number": "017-1507"
+    },
+    {
+      "id": "4801",
+      "code": "3020",
+      "type": "federal_account",
+      "name": "Missile Procurement, Air Force",
+      "amount": 4577149565.98,
+      "account_number": "057-3020"
+    },
+    {
+      "id": "6362",
+      "code": "3022",
+      "type": "federal_account",
+      "name": "Procurement, Space Force, Air Force",
+      "amount": 4334976105.75,
+      "account_number": "057-3022"
+    },
+    {
+      "id": "4814",
+      "code": "3740",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Air Force Reserve",
+      "amount": 4108022742.03,
+      "account_number": "057-3740"
+    },
+    {
+      "id": "4503",
+      "code": "2031",
+      "type": "federal_account",
+      "name": "Aircraft Procurement, Army",
+      "amount": 4044247635.3,
+      "account_number": "021-2031"
+    },
+    {
+      "id": "4159",
+      "code": "1109",
+      "type": "federal_account",
+      "name": "Procurement, Marine Corps",
+      "amount": 3671624463.99,
+      "account_number": "017-1109"
+    },
+    {
+      "id": "4516",
+      "code": "2080",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Army Reserve",
+      "amount": 3493522747.47,
+      "account_number": "021-2080"
+    },
+    {
+      "id": "4495",
+      "code": "1004",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Army",
+      "amount": 2846715000,
+      "account_number": "021-1004"
+    },
+    {
+      "id": "5992",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Military Construction, Defense-Wide",
+      "amount": 2566031993.88,
+      "account_number": "097-0500"
+    },
+    {
+      "id": "4168",
+      "code": "1405",
+      "type": "federal_account",
+      "name": "Reserve Personnel, Navy",
+      "amount": 2480971439.98,
+      "account_number": "017-1405"
+    },
+    {
+      "id": "4812",
+      "code": "3700",
+      "type": "federal_account",
+      "name": "Reserve Personnel, Air Force",
+      "amount": 2387843370.27,
+      "account_number": "057-3700"
+    },
+    {
+      "id": "4151",
+      "code": "1000",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Navy",
+      "amount": 2175657000,
+      "account_number": "017-1000"
+    },
+    {
+      "id": "4796",
+      "code": "1007",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Air Force",
+      "amount": 2047980000,
+      "account_number": "057-1007"
+    },
+    {
+      "id": "6294",
+      "code": "4932",
+      "type": "federal_account",
+      "name": "Defense Counterintelligence and Security Agency Working Capital Fund, Defense",
+      "amount": 1740391177.37,
+      "account_number": "097-4932"
+    },
+    {
+      "id": "4172",
+      "code": "1508",
+      "type": "federal_account",
+      "name": "Procurement of Ammunition, Navy and Marine Corps",
+      "amount": 1497562563.19,
+      "account_number": "017-1508"
+    },
+    {
+      "id": "4177",
+      "code": "1806",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Navy Reserve",
+      "amount": 1322576236.94,
+      "account_number": "017-1806"
+    },
+    {
+      "id": "6497",
+      "code": "3510",
+      "type": "federal_account",
+      "name": "Military Personnel, Space Force, Air Force",
+      "amount": 1265583527.24,
+      "account_number": "057-3510"
+    },
+    {
+      "id": "4805",
+      "code": "3300",
+      "type": "federal_account",
+      "name": "Military Construction, Air Force",
+      "amount": 1113131980.54,
+      "account_number": "057-3300"
+    },
+    {
+      "id": "4800",
+      "code": "3011",
+      "type": "federal_account",
+      "name": "Procurement of Ammunition, Air Force",
+      "amount": 1107150456.54,
+      "account_number": "057-3011"
+    },
+    {
+      "id": "4152",
+      "code": "1001",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",
+      "amount": 1102941000,
+      "account_number": "017-1001"
+    },
+    {
+      "id": "5986",
+      "code": "0390",
+      "type": "federal_account",
+      "name": "Chemical Agents and Munitions Destruction, Defense",
+      "amount": 1065372690.62,
+      "account_number": "097-0390"
+    },
+    {
+      "id": "4497",
+      "code": "1006",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Army",
+      "amount": 943772000,
+      "account_number": "021-1006"
+    },
+    {
+      "id": "4158",
+      "code": "1108",
+      "type": "federal_account",
+      "name": "Reserve Personnel, Marine Corps",
+      "amount": 919436954.12,
+      "account_number": "017-1108"
+    },
+    {
+      "id": "6020",
+      "code": "4950",
+      "type": "federal_account",
+      "name": "Pentagon Reservation Maintenance Revolving Fund",
+      "amount": 829013472.74,
+      "account_number": "097-4950"
+    },
+    {
+      "id": "5985",
+      "code": "0360",
+      "type": "federal_account",
+      "name": "Defense Production Act Purchases, Defense",
+      "amount": 820309509.24,
+      "account_number": "097-0360"
+    },
+    {
+      "id": "6028",
+      "code": "5441",
+      "type": "federal_account",
+      "name": "Burden Sharing Contribution, Defense",
+      "amount": 805596025.28,
+      "account_number": "097-5441"
+    },
+    {
+      "id": "5984",
+      "code": "0350",
+      "type": "federal_account",
+      "name": "National Guard and Reserve Equipment Account, Defense",
+      "amount": 722982788.95,
+      "account_number": "097-0350"
+    },
+    {
+      "id": "5996",
+      "code": "0516",
+      "type": "federal_account",
+      "name": "Department of Defense Base Closure Account, Defense",
+      "amount": 591690784.71,
+      "account_number": "097-0516"
+    },
+    {
+      "id": "5968",
+      "code": "0107",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Defense",
+      "amount": 528705376.3,
+      "account_number": "097-0107"
+    },
+    {
+      "id": "4518",
+      "code": "2085",
+      "type": "federal_account",
+      "name": "Military Construction, Army National Guard",
+      "amount": 515716132.96,
+      "account_number": "021-2085"
+    },
+    {
+      "id": "4496",
+      "code": "1005",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Army",
+      "amount": 510346000,
+      "account_number": "021-1005"
+    },
+    {
+      "id": "6061",
+      "code": "8358",
+      "type": "federal_account",
+      "name": "Support for U.S. Relocation to Guam Activities, Defense",
+      "amount": 475658784.69,
+      "account_number": "097-8358"
+    },
+    {
+      "id": "4492",
+      "code": "0725",
+      "type": "federal_account",
+      "name": "Family Housing Operation and Maintenance, Army",
+      "amount": 372864534.1,
+      "account_number": "021-0725"
+    },
+    {
+      "id": "4798",
+      "code": "1009",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Air Force",
+      "amount": 371867000,
+      "account_number": "057-1009"
+    },
+    {
+      "id": "5990",
+      "code": "0460",
+      "type": "federal_account",
+      "name": "Operational Test and Evaluation, Defense",
+      "amount": 366656841.08,
+      "account_number": "097-0460"
+    },
+    {
+      "id": "4149",
+      "code": "0735",
+      "type": "federal_account",
+      "name": "Family Housing Operation and Maintenance, Navy and Marine Corps",
+      "amount": 364081672.35,
+      "account_number": "017-0735"
+    },
+    {
+      "id": "6019",
+      "code": "4931",
+      "type": "federal_account",
+      "name": "Building Maintenance Fund, Defense",
+      "amount": 324076591.76,
+      "account_number": "097-4931"
+    },
+    {
+      "id": "4490",
+      "code": "0720",
+      "type": "federal_account",
+      "name": "Family Housing Construction, Army",
+      "amount": 316626277.07,
+      "account_number": "021-0720"
+    },
+    {
+      "id": "4157",
+      "code": "1107",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Marine Corps Reserve",
+      "amount": 314492305.94,
+      "account_number": "017-1107"
+    },
+    {
+      "id": "6002",
+      "code": "0804",
+      "type": "federal_account",
+      "name": "North Atlantic Treaty Organization, Security Investment Program, Defense",
+      "amount": 313488466.91,
+      "account_number": "097-0804"
+    },
+    {
+      "id": "4519",
+      "code": "2086",
+      "type": "federal_account",
+      "name": "Military Construction, Army Reserve",
+      "amount": 285867782.02,
+      "account_number": "021-2086"
+    },
+    {
+      "id": "4793",
+      "code": "0745",
+      "type": "federal_account",
+      "name": "Family Housing Operation and Maintenance, Air Force",
+      "amount": 267722570.53,
+      "account_number": "057-0745"
+    },
+    {
+      "id": "5976",
+      "code": "0134",
+      "type": "federal_account",
+      "name": "Cooperative Threat Reduction Account, Defense",
+      "amount": 257635155.61,
+      "account_number": "097-0134"
+    },
+    {
+      "id": "4148",
+      "code": "0730",
+      "type": "federal_account",
+      "name": "Family Housing Construction, Navy and Marine Corps",
+      "amount": 256404194.38,
+      "account_number": "017-0730"
+    },
+    {
+      "id": "4529",
+      "code": "2099",
+      "type": "federal_account",
+      "name": "Counter-ISIS Train and Equip Fund, Army",
+      "amount": 220783708.25,
+      "account_number": "021-2099"
+    },
+    {
+      "id": "6055",
+      "code": "8164",
+      "type": "federal_account",
+      "name": "Commissary Stores Surcharge Program, Defense",
+      "amount": 210369211.43,
+      "account_number": "097-8164"
+    },
+    {
+      "id": "4797",
+      "code": "1008",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Air Force",
+      "amount": 198046000,
+      "account_number": "057-1008"
+    },
+    {
+      "id": "4153",
+      "code": "1002",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Navy",
+      "amount": 183698000,
+      "account_number": "017-1002"
+    },
+    {
+      "id": "4816",
+      "code": "3830",
+      "type": "federal_account",
+      "name": "Military Construction, Air National Guard",
+      "amount": 183412759.3,
+      "account_number": "057-3830"
+    },
+    {
+      "id": "6053",
+      "code": "8098",
+      "type": "federal_account",
+      "name": "Department of Defense, Education Benefits Fund",
+      "amount": 159833259.08,
+      "account_number": "097-8098"
+    },
+    {
+      "id": "6060",
+      "code": "8337",
+      "type": "federal_account",
+      "name": "Host Nation Support for U.S. Relocation Activities, Defense",
+      "amount": 95559167.6,
+      "account_number": "097-8337"
+    },
+    {
+      "id": "4154",
+      "code": "1003",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Marine Corps",
+      "amount": 94316000,
+      "account_number": "017-1003"
+    },
+    {
+      "id": "4498",
+      "code": "1805",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Cemeterial Expenses, Army",
+      "amount": 92701114.59,
+      "account_number": "021-1805"
+    },
+    {
+      "id": "4813",
+      "code": "3730",
+      "type": "federal_account",
+      "name": "Military Construction, Air Force Reserve",
+      "amount": 73269441.62,
+      "account_number": "057-3730"
+    },
+    {
+      "id": "4164",
+      "code": "1235",
+      "type": "federal_account",
+      "name": "Military Construction, Naval Reserve",
+      "amount": 60649370.98,
+      "account_number": "017-1235"
+    },
+    {
+      "id": "6488",
+      "code": "1010",
+      "type": "federal_account",
+      "name": "Medicare-Eligible Retiree Health Fund Contribution, Space Force, Air Force",
+      "amount": 58016000,
+      "account_number": "057-1010"
+    },
+    {
+      "id": "5969",
+      "code": "0111",
+      "type": "federal_account",
+      "name": "Department of Defense Acquisition Workforce Development Account, Defense",
+      "amount": 54124720.24,
+      "account_number": "097-0111"
+    },
+    {
+      "id": "5998",
+      "code": "0765",
+      "type": "federal_account",
+      "name": "Family Housing Operation and Maintenance, Defense-Wide",
+      "amount": 48138742.63,
+      "account_number": "097-0765"
+    },
+    {
+      "id": "6007",
+      "code": "0834",
+      "type": "federal_account",
+      "name": "Department of Defense Family Housing Improvement Fund, Defense",
+      "amount": 41516544.09,
+      "account_number": "097-0834"
+    },
+    {
+      "id": "6005",
+      "code": "0819",
+      "type": "federal_account",
+      "name": "Overseas Humanitarian, Disaster, and Civic AID, Defense",
+      "amount": 34549495.62,
+      "account_number": "097-0819"
+    },
+    {
+      "id": "4180",
+      "code": "4557",
+      "type": "federal_account",
+      "name": "National Defense Sealift Fund, Navy",
+      "amount": 31512933.85,
+      "account_number": "017-4557"
+    },
+    {
+      "id": "6024",
+      "code": "5189",
+      "type": "federal_account",
+      "name": "Lease of Department of Defense Real Property, Defense",
+      "amount": 20348691.95,
+      "account_number": "097-5189"
+    },
+    {
+      "id": "6059",
+      "code": "8335",
+      "type": "federal_account",
+      "name": "Voluntary Separation Incentive Fund, Defense",
+      "amount": 19936737.75,
+      "account_number": "097-8335"
+    },
+    {
+      "id": "4561",
+      "code": "8927",
+      "type": "federal_account",
+      "name": "Department of the Army General Gift Fund, Army",
+      "amount": 19301629.47,
+      "account_number": "021-8927"
+    },
+    {
+      "id": "4206",
+      "code": "8733",
+      "type": "federal_account",
+      "name": "United States Naval Academy General Gift Fund",
+      "amount": 19289035.34,
+      "account_number": "017-8733"
+    },
+    {
+      "id": "5966",
+      "code": "0104",
+      "type": "federal_account",
+      "name": "United States Court of Appeals for the Armed Forces, Defense",
+      "amount": 16507018.89,
+      "account_number": "097-0104"
+    },
+    {
+      "id": "4499",
+      "code": "1809",
+      "type": "federal_account",
+      "name": "Construction, Cemeterial Expenses, Army",
+      "amount": 14639945.94,
+      "account_number": "021-1809"
+    },
+    {
+      "id": "4534",
+      "code": "5285",
+      "type": "federal_account",
+      "name": "Department of Defense, Forest Products Program, Army",
+      "amount": 10860563.71,
+      "account_number": "021-5285"
+    },
+    {
+      "id": "4205",
+      "code": "8723",
+      "type": "federal_account",
+      "name": "Ships' Stores Profits, Navy",
+      "amount": 10763835.33,
+      "account_number": "017-8723"
+    },
+    {
+      "id": "6609",
+      "code": "5756",
+      "type": "federal_account",
+      "name": "Natick Land Conveyance, Army",
+      "amount": 9573823.92,
+      "account_number": "021-5756"
+    },
+    {
+      "id": "4791",
+      "code": "0740",
+      "type": "federal_account",
+      "name": "Family Housing Construction, Air Force",
+      "amount": 6807583.16,
+      "account_number": "057-0740"
+    },
+    {
+      "id": "6030",
+      "code": "5613",
+      "type": "federal_account",
+      "name": "Mutually Beneficial Activities, Defense",
+      "amount": 6433935.3,
+      "account_number": "097-5613"
+    },
+    {
+      "id": "4533",
+      "code": "5098",
+      "type": "federal_account",
+      "name": "Restoration, Rocky Mountain Arsenal, Army",
+      "amount": 5252315.49,
+      "account_number": "021-5098"
+    },
+    {
+      "id": "4844",
+      "code": "8928",
+      "type": "federal_account",
+      "name": "Department of the Air Force General Gift Fund, Air Force",
+      "amount": 3649217.68,
+      "account_number": "057-8928"
+    },
+    {
+      "id": "6023",
+      "code": "5188",
+      "type": "federal_account",
+      "name": "Disposal of Department of Defense Real Property, Defense",
+      "amount": 3467116.47,
+      "account_number": "097-5188"
+    },
+    {
+      "id": "6056",
+      "code": "8165",
+      "type": "federal_account",
+      "name": "Foreign National Employees Separation Pay Account, Defense",
+      "amount": 3168255.48,
+      "account_number": "097-8165"
+    },
+    {
+      "id": "3367",
+      "code": "1082",
+      "type": "federal_account",
+      "name": "Foreign Military Financing Program, Funds, Appropriated to the President",
+      "amount": 2488685.07,
+      "account_number": "011-1082"
+    },
+    {
+      "id": "4204",
+      "code": "8716",
+      "type": "federal_account",
+      "name": "Department of the Navy General Gift Fund, Navy",
+      "amount": 1910634.94,
+      "account_number": "017-8716"
+    },
+    {
+      "id": "6006",
+      "code": "0833",
+      "type": "federal_account",
+      "name": "Defense Emergency Response Fund, Defense",
+      "amount": 1654179.64,
+      "account_number": "097-0833"
+    },
+    {
+      "id": "6014",
+      "code": "4090",
+      "type": "federal_account",
+      "name": "Homeowners Assistance Fund, Defense",
+      "amount": 1642894.83,
+      "account_number": "097-4090"
+    },
+    {
+      "id": "4520",
+      "code": "2089",
+      "type": "federal_account",
+      "name": "Iraq Relief and Reconstruction Fund, Army",
+      "amount": 1406634.58,
+      "account_number": "021-2089"
+    },
+    {
+      "id": "6348",
+      "code": "0361",
+      "type": "federal_account",
+      "name": "Defense Production Act Program Account. Defense",
+      "amount": 1267614.35,
+      "account_number": "097-0361"
+    },
+    {
+      "id": "4821",
+      "code": "5095",
+      "type": "federal_account",
+      "name": "Wildlife Conservation, Etc., Military Reservations, Air Force",
+      "amount": 990380.74,
+      "account_number": "057-5095"
+    },
+    {
+      "id": "6009",
+      "code": "0838",
+      "type": "federal_account",
+      "name": "Support for International Sporting Competitions, Defense",
+      "amount": 956366.39,
+      "account_number": "097-0838"
+    },
+    {
+      "id": "4494",
+      "code": "0810",
+      "type": "federal_account",
+      "name": "Environmental Restoration, Army",
+      "amount": 582000,
+      "account_number": "021-0810"
+    },
+    {
+      "id": "4822",
+      "code": "5616",
+      "type": "federal_account",
+      "name": "Support of Athletic Programs, Air Force",
+      "amount": 494677.73,
+      "account_number": "057-5616"
+    },
+    {
+      "id": "6008",
+      "code": "0836",
+      "type": "federal_account",
+      "name": "Department of Defense Military Unaccompanied Housing Improvement Fund, Defense",
+      "amount": 491000,
+      "account_number": "097-0836"
+    },
+    {
+      "id": "6054",
+      "code": "8163",
+      "type": "federal_account",
+      "name": "Department of Defense General Gift Fund, Defense",
+      "amount": 408921.32,
+      "account_number": "097-8163"
+    },
+    {
+      "id": "6031",
+      "code": "5750",
+      "type": "federal_account",
+      "name": "Department of Defense Vietnam War Commemoration Fund, Defense",
+      "amount": 313640.34,
+      "account_number": "097-5750"
+    },
+    {
+      "id": "6032",
+      "code": "5751",
+      "type": "federal_account",
+      "name": "Contributions to the Cooperative Threat Reduction Program, Defense",
+      "amount": 105238,
+      "account_number": "097-5751"
+    },
+    {
+      "id": "4535",
+      "code": "5286",
+      "type": "federal_account",
+      "name": "National Science Center, Army",
+      "amount": 23987,
+      "account_number": "021-5286"
+    },
+    {
+      "id": "5972",
+      "code": "0118",
+      "type": "federal_account",
+      "name": "Overseas Contingency Operations Transfer Fund, Defense",
+      "amount": 0,
+      "account_number": "097-0118"
+    },
+    {
+      "id": "4521",
+      "code": "2090",
+      "type": "federal_account",
+      "name": "Operating Expenses of the Coalition Provisional Authority, Army",
+      "amount": 0,
+      "account_number": "021-2090"
+    },
+    {
+      "id": "6021",
+      "code": "4965",
+      "type": "federal_account",
+      "name": "Emergency Response Fund, Defense",
+      "amount": 0,
+      "account_number": "097-4965"
+    },
+    {
+      "id": "6022",
+      "code": "5187",
+      "type": "federal_account",
+      "name": "Defense Cooperation Account, Defense",
+      "amount": 0,
+      "account_number": "097-5187"
+    },
+    {
+      "id": "5967",
+      "code": "0105",
+      "type": "federal_account",
+      "name": "Drug Interdiction and Counter-Drug Activities, Defense",
+      "amount": 0,
+      "account_number": "097-0105"
+    },
+    {
+      "id": "6025",
+      "code": "5193",
+      "type": "federal_account",
+      "name": "Department of Defense Overseas Military Facility Investment Recovery Account, Defense",
+      "amount": 0,
+      "account_number": "097-5193"
+    },
+    {
+      "id": "6026",
+      "code": "5195",
+      "type": "federal_account",
+      "name": "Use of Proceeds from the Transfer or Disposition of Commissary Facilities, Defense",
+      "amount": 0,
+      "account_number": "097-5195"
+    },
+    {
+      "id": "4150",
+      "code": "0810",
+      "type": "federal_account",
+      "name": "Environmental Restoration, Navy",
+      "amount": 0,
+      "account_number": "017-0810"
+    },
+    {
+      "id": "4843",
+      "code": "8418",
+      "type": "federal_account",
+      "name": "Air Force Cadet Fund, Air Force",
+      "amount": 0,
+      "account_number": "057-8418"
+    },
+    {
+      "id": "7141",
+      "code": "0362",
+      "type": "federal_account",
+      "name": "Defense Strategic Capital Credit Program, Defense",
+      "amount": 0,
+      "account_number": "097-0362"
+    },
+    {
+      "id": "4183",
+      "code": "5185",
+      "type": "federal_account",
+      "name": "Kaho'Olawe Island Conveyance, Remediation, and Environmental Restoration Fund, Navy",
+      "amount": 0,
+      "account_number": "017-5185"
+    },
+    {
+      "id": "4184",
+      "code": "5562",
+      "type": "federal_account",
+      "name": "Ford Island Improvement Account",
+      "amount": 0,
+      "account_number": "017-5562"
+    },
+    {
+      "id": "6000",
+      "code": "0801",
+      "type": "federal_account",
+      "name": "Foreign Currency Fluctuations, Defense",
+      "amount": 0,
+      "account_number": "097-0801"
+    },
+    {
+      "id": "6001",
+      "code": "0803",
+      "type": "federal_account",
+      "name": "Foreign Currency Fluctuations, Construction, Defense",
+      "amount": 0,
+      "account_number": "097-0803"
+    },
+    {
+      "id": "6003",
+      "code": "0810",
+      "type": "federal_account",
+      "name": "Environmental Restoration, Defense",
+      "amount": 0,
+      "account_number": "097-0810"
+    },
+    {
+      "id": "6004",
+      "code": "0811",
+      "type": "federal_account",
+      "name": "Environmental Restoration, Formerly Used Defense Sites, Defense",
+      "amount": 0,
+      "account_number": "097-0811"
+    },
+    {
+      "id": "5987",
+      "code": "0391",
+      "type": "federal_account",
+      "name": "Chemical Demilitarization Construction, Defense-Wide",
+      "amount": 0,
+      "account_number": "097-0391"
+    },
+    {
+      "id": "3366",
+      "code": "1081",
+      "type": "federal_account",
+      "name": "International Military Education and Training, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "011-1081"
+    },
+    {
+      "id": "6015",
+      "code": "4091",
+      "type": "federal_account",
+      "name": "Homeowners Assistance Fund - Recovery Act, Defense",
+      "amount": 0,
+      "account_number": "097-4091"
+    },
+    {
+      "id": "6017",
+      "code": "4555",
+      "type": "federal_account",
+      "name": "National Defense Stockpile Transaction Fund, Defense",
+      "amount": 0,
+      "account_number": "097-4555"
+    },
+    {
+      "id": "4165",
+      "code": "1236",
+      "type": "federal_account",
+      "name": "Payments to Kaho'Olawe Island Conveyance, Remediation, and Environmental Restoration Fund, Navy",
+      "amount": 0,
+      "account_number": "017-1236"
+    },
+    {
+      "id": "6051",
+      "code": "8096",
+      "type": "federal_account",
+      "name": "Department of Defense Dependents' Education Gift Fund",
+      "amount": 0,
+      "account_number": "097-8096"
+    },
+    {
+      "id": "4536",
+      "code": "5602",
+      "type": "federal_account",
+      "name": "National Military Cemeteries Concessions, Army",
+      "amount": 0,
+      "account_number": "021-5602"
+    },
+    {
+      "id": "4537",
+      "code": "5752",
+      "type": "federal_account",
+      "name": "Department of Defense Korean War Commemoration Fund, Army",
+      "amount": 0,
+      "account_number": "021-5752"
+    },
+    {
+      "id": "4146",
+      "code": "0380",
+      "type": "federal_account",
+      "name": "Coastal Defense Augmentation, Navy",
+      "amount": 0,
+      "account_number": "017-0380"
+    },
+    {
+      "id": "3405",
+      "code": "8242",
+      "type": "federal_account",
+      "name": "Advances, Foreign Military Sales, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "011-8242"
+    },
+    {
+      "id": "6300",
+      "code": "5630",
+      "type": "federal_account",
+      "name": "Department of Defense World War II Commemoration Fund, Navy",
+      "amount": 0,
+      "account_number": "017-5630"
+    },
+    {
+      "id": "3388",
+      "code": "4121",
+      "type": "federal_account",
+      "name": "Foreign Military Loan Liquidating Account, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "011-4121"
+    },
+    {
+      "id": "3387",
+      "code": "4116",
+      "type": "federal_account",
+      "name": "Special Defense Acquisition Fund, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "011-4116"
+    },
+    {
+      "id": "3369",
+      "code": "1085",
+      "type": "federal_account",
+      "name": "Foreign Military Financing, Direct Loan Program Account, Funds Appropriated to the President",
+      "amount": 0,
+      "account_number": "011-1085"
+    },
+    {
+      "id": "4560",
+      "code": "8063",
+      "type": "federal_account",
+      "name": "Bequest of Major General Fred C. Ainsworth, Library, Walter Reed General Hospital, Army",
+      "amount": 0,
+      "account_number": "021-8063"
+    },
+    {
+      "id": "6494",
+      "code": "0403",
+      "type": "federal_account",
+      "name": "Creating Helpful Incentives to Produce Semi-Conductors (CHIPS) for America Defense Fund, Defense",
+      "amount": 0,
+      "account_number": "097-0403"
+    },
+    {
+      "id": "4795",
+      "code": "0810",
+      "type": "federal_account",
+      "name": "Environmental Restoration, Air Force",
+      "amount": 0,
+      "account_number": "057-0810"
+    },
+    {
+      "id": "4182",
+      "code": "5095",
+      "type": "federal_account",
+      "name": "Wildlife Conservation, Etc., Military Reservations, Navy",
+      "amount": -502.59,
+      "account_number": "017-5095"
+    },
+    {
+      "id": "4532",
+      "code": "5095",
+      "type": "federal_account",
+      "name": "Wildlife Conservation, Etc., Military Reservations, Army",
+      "amount": -16023.88,
+      "account_number": "021-5095"
+    },
+    {
+      "id": "6057",
+      "code": "8168",
+      "type": "federal_account",
+      "name": "National Security Education Trust Fund, Defense",
+      "amount": -23697.94,
+      "account_number": "097-8168"
+    },
+    {
+      "id": "6777",
+      "code": "8721",
+      "type": "federal_account",
+      "name": "Heritage Center for the National Museum of the United States Army",
+      "amount": -77419,
+      "account_number": "021-8721"
+    },
+    {
+      "id": "5995",
+      "code": "0512",
+      "type": "federal_account",
+      "name": "Department of Defense Base Closure Account 2005, Defense",
+      "amount": -128276.51,
+      "account_number": "097-0512"
+    },
+    {
+      "id": "6033",
+      "code": "5753",
+      "type": "federal_account",
+      "name": "Contributions for Renewable Energy Impact Assessments and Mitigation, Defense",
+      "amount": -333139.79,
+      "account_number": "097-5753"
+    },
+    {
+      "id": "5994",
+      "code": "0510",
+      "type": "federal_account",
+      "name": "Department of Defense Base Closure Account 1990, Defense",
+      "amount": -503392.6,
+      "account_number": "097-0510"
+    },
+    {
+      "id": "6012",
+      "code": "2093",
+      "type": "federal_account",
+      "name": "Joint Improvised-Threat Defeat Fund, Defense",
+      "amount": -1691488.18,
+      "account_number": "097-2093"
+    },
+    {
+      "id": "6297",
+      "code": "0402",
+      "type": "federal_account",
+      "name": "Department of Defense Rapid Prototyping Fund, Defense",
+      "amount": -2794563.86,
+      "account_number": "097-0402"
+    },
+    {
+      "id": "4524",
+      "code": "2093",
+      "type": "federal_account",
+      "name": "Joint Improvised Explosive Device Defeat Fund, Army",
+      "amount": -4638866.91,
+      "account_number": "021-2093"
+    },
+    {
+      "id": "4802",
+      "code": "3021",
+      "type": "federal_account",
+      "name": "Space Procurement, Air Force",
+      "amount": -73137602.08,
+      "account_number": "057-3021"
+    },
+    {
+      "id": "4522",
+      "code": "2091",
+      "type": "federal_account",
+      "name": "Afghanistan Security Forces Fund, Army",
+      "amount": -338387086.32,
+      "account_number": "021-2091"
+    }
+  ]
+}

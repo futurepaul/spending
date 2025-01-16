@@ -1,0 +1,83 @@
+{
+  "total": 70046399376.4,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569633",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "HEALTH CARE SERVICES",
+      "amount": 50508685008.5
+    },
+    {
+      "id": "569599",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PHARMACEUTICAL INGREDIENTS",
+      "amount": 8181383714.49
+    },
+    {
+      "id": "569565",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "PROSTHETIC SUPPLIES AND SERVICES",
+      "amount": 4951565609.52
+    },
+    {
+      "id": "569660",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CAREGIVERS SUPPORT PROGRAM",
+      "amount": 2130203369.38
+    },
+    {
+      "id": "569494",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "HOMELESS PROGRAMS GRANTS",
+      "amount": 2109494645.21
+    },
+    {
+      "id": "569555",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "BENEFICIARY TRAVEL",
+      "amount": 1366129800.75
+    },
+    {
+      "id": "569536",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "EQUIPMENT",
+      "amount": 1273479125.98
+    },
+    {
+      "id": "569545",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CHAMPVA (EXCLUDING CAREGIVERS)",
+      "amount": 545228963.18
+    },
+    {
+      "id": "569634",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "READJUSTMENT COUNSELING SERVICE",
+      "amount": 256386131.15
+    },
+    {
+      "id": "569525",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "MEDICAL SERVICES (REIMBURSABLE)",
+      "amount": 146509300.02
+    },
+    {
+      "id": "569510",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "PRIOR YEAR RECOVERIES",
+      "amount": -1422666291.78
+    }
+  ]
+}

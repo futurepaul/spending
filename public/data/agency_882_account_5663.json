@@ -1,0 +1,48 @@
+{
+  "total": 64164608.24,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570463",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FAIR HOUSING INITIATIVES",
+      "amount": 39221593.53
+    },
+    {
+      "id": "570418",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FAIR HOUSING ASSISTANCE",
+      "amount": 24233905.93
+    },
+    {
+      "id": "570522",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "LIMITED ENGLISH PROFICIENCY PROGRAM",
+      "amount": 968384.37
+    },
+    {
+      "id": "570547",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "FAIR HOUSING INITIATIVES (CARES)",
+      "amount": 0
+    },
+    {
+      "id": "570443",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NATIONAL FAIR HOUSING TRAINING ACADEMY",
+      "amount": -66450.69
+    },
+    {
+      "id": "570594",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "FAIR HOUSING INITIATIVES (ARP)",
+      "amount": -192824.9
+    }
+  ]
+}

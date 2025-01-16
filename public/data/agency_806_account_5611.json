@@ -1,0 +1,48 @@
+{
+  "total": 2398681849.32,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569784",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MEDICARE INTEGRITY PROGRAM",
+      "amount": 981490496.23
+    },
+    {
+      "id": "569986",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "CMS DISCRETIONARY",
+      "amount": 650051203.58
+    },
+    {
+      "id": "570027",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OTHER FRAUD AND ABUSE CONTROL",
+      "amount": 362607569.35
+    },
+    {
+      "id": "570121",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "OTHER DISCRETIONARY",
+      "amount": 236191151.24
+    },
+    {
+      "id": "570113",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FBI FRAUD AND ABUSE CONTROL",
+      "amount": 168346704
+    },
+    {
+      "id": "569947",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "PREDICTIVE MODELING",
+      "amount": -5275.08
+    }
+  ]
+}

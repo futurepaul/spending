@@ -1,0 +1,111 @@
+{
+  "total": 9176926712.46,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568137",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BASIC ENERGY SCIENCES",
+      "amount": 2582766645.22
+    },
+    {
+      "id": "568063",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "HIGH ENERGY PHYSICS",
+      "amount": 1175619519.18
+    },
+    {
+      "id": "568150",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ADVANCED SCIENTIFIC COMPUTING RESEARCH",
+      "amount": 996378148.45
+    },
+    {
+      "id": "568166",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "BIOLOGICAL AND ENVIRONMENTAL RESEARCH",
+      "amount": 885964003.16
+    },
+    {
+      "id": "568077",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NUCLEAR PHYSICS",
+      "amount": 789543797.04
+    },
+    {
+      "id": "567991",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SCIENCE (REIMBURSABLE)",
+      "amount": 727219975.29
+    },
+    {
+      "id": "568009",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FUSION ENERGY SCIENCES",
+      "amount": 723038612.69
+    },
+    {
+      "id": "568058",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SCIENCE LABORATORIES INFRASTRUCTURE",
+      "amount": 295851241.76
+    },
+    {
+      "id": "568121",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "SMALL BUSINESS INNOVATION RESEARCH",
+      "amount": 250240981.16
+    },
+    {
+      "id": "568129",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "ISOTOPE R&D AND PRODUCTION",
+      "amount": 228193000
+    },
+    {
+      "id": "567980",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "SCIENCE PROGRAM DIRECTION",
+      "amount": 224100918.87
+    },
+    {
+      "id": "567998",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "SAFEGUARDS AND SECURITY",
+      "amount": 191486622.88
+    },
+    {
+      "id": "568049",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "WORKFORCE DEVELOPMENT FOR TEACHERS AND SCIENTISTS",
+      "amount": 45233028
+    },
+    {
+      "id": "568134",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "SMALL BUSINESS TECHNOLOGY TRANSFER",
+      "amount": 34772926.76
+    },
+    {
+      "id": "568139",
+      "code": "0014",
+      "type": "program_activity",
+      "name": "ACCELERATOR R&D AND PRODUCTION",
+      "amount": 26517292
+    }
+  ]
+}

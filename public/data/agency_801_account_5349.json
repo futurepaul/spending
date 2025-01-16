@@ -1,0 +1,69 @@
+{
+  "total": 8170970804.24,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565172",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ECONOMIC SUPPORT FUND (DIRECT)",
+      "amount": 6888509089.76
+    },
+    {
+      "id": "570353",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ECONOMIC SUPPORT FUND (DIRECT)",
+      "amount": 648483254.77
+    },
+    {
+      "id": "570355",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 614636450.62
+    },
+    {
+      "id": "565190",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "ECONOMIC SUPPORT FUND (REIMBURSABLE)",
+      "amount": 11043077.89
+    },
+    {
+      "id": "570330",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 8642846.74
+    },
+    {
+      "id": "569213",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ECONOMIC SUPPORT FUND DIRECT",
+      "amount": 0
+    },
+    {
+      "id": "564561",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "564360",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "ECONOMIC SUPPORT FUND (ESF)  DHA",
+      "amount": 0
+    },
+    {
+      "id": "569895",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ECONOMIC SUPPORT FUND (DIRECT)",
+      "amount": -343915.54
+    }
+  ]
+}

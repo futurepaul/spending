@@ -1,0 +1,41 @@
+{
+  "total": 146418109546.78,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564896",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 144350511854.66
+    },
+    {
+      "id": "564890",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "NA",
+      "amount": 1912912583.42
+    },
+    {
+      "id": "564520",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 154706040.45
+    },
+    {
+      "id": "564318",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    },
+    {
+      "id": "624138",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -20931.75
+    }
+  ]
+}

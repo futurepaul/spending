@@ -1,0 +1,20 @@
+{
+  "total": 12093150000,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566895",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PAYMENT TO OPERATIONS",
+      "amount": 12093150000
+    },
+    {
+      "id": "567099",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

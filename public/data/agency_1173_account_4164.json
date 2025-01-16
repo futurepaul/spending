@@ -1,0 +1,34 @@
+{
+  "total": 60649370.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564761",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MAJOR CONSTRUCTION",
+      "amount": 36021982.15
+    },
+    {
+      "id": "564343",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MINOR CONSTRUCTION",
+      "amount": 18631127.62
+    },
+    {
+      "id": "564544",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "PLANNING AND DESIGN",
+      "amount": 5996261.21
+    },
+    {
+      "id": "564670",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 0
+    }
+  ]
+}

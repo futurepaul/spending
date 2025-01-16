@@ -1,0 +1,62 @@
+{
+  "total": 134139802.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570681",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SPECTRUM MANAGEMENT",
+      "amount": 45910663.3
+    },
+    {
+      "id": "570668",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "BROADBAND PROGRAMS",
+      "amount": 25162803.89
+    },
+    {
+      "id": "570749",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "TELECOMMUNICATION SCIENCES RESEARCH",
+      "amount": 17043343.6
+    },
+    {
+      "id": "570750",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DOMESTIC AND INTERNATIONAL POLICY",
+      "amount": 16355785.83
+    },
+    {
+      "id": "570713",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "ADVANCED COMMUNICATION RESEARCH",
+      "amount": 14086184.64
+    },
+    {
+      "id": "570710",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SPECTRUM MANAGEMENT",
+      "amount": 10977807.91
+    },
+    {
+      "id": "570738",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "PUBLIC SAFETY",
+      "amount": 3847151.97
+    },
+    {
+      "id": "570739",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 756061.63
+    }
+  ]
+}

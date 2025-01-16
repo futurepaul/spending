@@ -1,0 +1,1414 @@
+{
+  "total": 2432087094047.04,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5450",
+      "code": "0512",
+      "type": "federal_account",
+      "name": "Grants to States for Medicaid, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 642197075313.35,
+      "account_number": "075-0512"
+    },
+    {
+      "id": "5598",
+      "code": "8004",
+      "type": "federal_account",
+      "name": "Federal Supplementary Medical Insurance Trust Fund-Treasury Managed, Health and Human Services",
+      "amount": 525970782349.87,
+      "account_number": "075-8004"
+    },
+    {
+      "id": "5459",
+      "code": "0580",
+      "type": "federal_account",
+      "name": "Payments to Health Care Trust Funds, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 480057116427.09,
+      "account_number": "075-0580"
+    },
+    {
+      "id": "5599",
+      "code": "8005",
+      "type": "federal_account",
+      "name": "Federal Hospital Insurance Trust Fund - Treasury Managed, Health and Human Services",
+      "amount": 388803689345.9,
+      "account_number": "075-8005"
+    },
+    {
+      "id": "5610",
+      "code": "8308",
+      "type": "federal_account",
+      "name": "Medicare Prescription Drug Account, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 121129467320.44,
+      "account_number": "075-8308"
+    },
+    {
+      "id": "5460",
+      "code": "0585",
+      "type": "federal_account",
+      "name": "Taxation on OASDI Benefits, HI, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 39794000000,
+      "account_number": "075-0585"
+    },
+    {
+      "id": "5452",
+      "code": "0515",
+      "type": "federal_account",
+      "name": "State Children's Health Insurance Fund, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 19423532914.45,
+      "account_number": "075-0515"
+    },
+    {
+      "id": "5556",
+      "code": "1552",
+      "type": "federal_account",
+      "name": "Temporary Assistance for Needy Families, Administration for Children and Families, Health and Human Services",
+      "amount": 16715595355.03,
+      "account_number": "075-1552"
+    },
+    {
+      "id": "5551",
+      "code": "1536",
+      "type": "federal_account",
+      "name": "Children and Families Services Programs, Administration for Children and Families, Health and Human Services",
+      "amount": 14839067136.39,
+      "account_number": "075-1536"
+    },
+    {
+      "id": "5583",
+      "code": "5733",
+      "type": "federal_account",
+      "name": "Risk Adjustment Program Payments, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 10452922396.62,
+      "account_number": "075-5733"
+    },
+    {
+      "id": "5553",
+      "code": "1545",
+      "type": "federal_account",
+      "name": "Payments for Foster Care and Permanency, Administration for Children and Families, Health and Human Services",
+      "amount": 9816928665.66,
+      "account_number": "075-1545"
+    },
+    {
+      "id": "5546",
+      "code": "1515",
+      "type": "federal_account",
+      "name": "Payment to States for the Child Care and Development Block Grant, Administration for Children and Families, Health and Human Services",
+      "amount": 8750529972.42,
+      "account_number": "075-1515"
+    },
+    {
+      "id": "5443",
+      "code": "0390",
+      "type": "federal_account",
+      "name": "Indian Health Services, Indian Health Service, Health and Human Services",
+      "amount": 8035539796.07,
+      "account_number": "075-0390"
+    },
+    {
+      "id": "5543",
+      "code": "1503",
+      "type": "federal_account",
+      "name": "Refugee and Entrant Assistance, Administration for Children and Families, Health and Human Services",
+      "amount": 7567208686.55,
+      "account_number": "075-1503"
+    },
+    {
+      "id": "5478",
+      "code": "0849",
+      "type": "federal_account",
+      "name": "National Cancer Institute, National Institutes of Health, Health and Human Services",
+      "amount": 7316431073.03,
+      "account_number": "075-0849"
+    },
+    {
+      "id": "5449",
+      "code": "0511",
+      "type": "federal_account",
+      "name": "Program Management, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 7133872592.66,
+      "account_number": "075-0511"
+    },
+    {
+      "id": "5461",
+      "code": "0600",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Food and Drug Administration, Health and Human Services",
+      "amount": 6704340308.16,
+      "account_number": "075-0600"
+    },
+    {
+      "id": "5491",
+      "code": "0885",
+      "type": "federal_account",
+      "name": "National Institute of Allergy and Infectious Diseases, National Institutes of Health, Health and Human Services",
+      "amount": 6513730992.23,
+      "account_number": "075-0885"
+    },
+    {
+      "id": "5438",
+      "code": "0360",
+      "type": "federal_account",
+      "name": "Primary Health Care, Health Resources and Services Administration, Health and Human Services",
+      "amount": 5976057354.85,
+      "account_number": "075-0360"
+    },
+    {
+      "id": "5541",
+      "code": "1501",
+      "type": "federal_account",
+      "name": "Payments to States for Child Support Enforcement and Family Support Programs, Administration for Children and Families, Health and Human Services",
+      "amount": 4996624714.79,
+      "account_number": "075-1501"
+    },
+    {
+      "id": "5472",
+      "code": "0843",
+      "type": "federal_account",
+      "name": "National Institute on Aging, National Institutes of Health, Health and Human Services",
+      "amount": 4469505071.68,
+      "account_number": "075-0843"
+    },
+    {
+      "id": "5542",
+      "code": "1502",
+      "type": "federal_account",
+      "name": "Low Income Home Energy Assistance, Administration for Children and Families, Health and Human Services",
+      "amount": 4109949736.82,
+      "account_number": "075-1502"
+    },
+    {
+      "id": "5485",
+      "code": "0872",
+      "type": "federal_account",
+      "name": "National Heart, Lung, and Blood Institute, National Institutes of Health, Health and Human Services",
+      "amount": 3930881357.54,
+      "account_number": "075-0872"
+    },
+    {
+      "id": "5539",
+      "code": "1364",
+      "type": "federal_account",
+      "name": "Substance Abuse Treatment, Substance Abuse and Mental Health Administration, Health and Human Services",
+      "amount": 3916383914.92,
+      "account_number": "075-1364"
+    },
+    {
+      "id": "5555",
+      "code": "1550",
+      "type": "federal_account",
+      "name": "Child Care Entitlement to States, Administration for Children and Families, Health and Human Services",
+      "amount": 3541281664.84,
+      "account_number": "075-1550"
+    },
+    {
+      "id": "5480",
+      "code": "0851",
+      "type": "federal_account",
+      "name": "National Institute of General Medical Sciences, National Institutes of Health, Health and Human Services",
+      "amount": 3194249375.29,
+      "account_number": "075-0851"
+    },
+    {
+      "id": "5538",
+      "code": "1363",
+      "type": "federal_account",
+      "name": "Mental Health, Substance Abuse and Mental Health Services Administration, Health and Human Services",
+      "amount": 2726164762.61,
+      "account_number": "075-1363"
+    },
+    {
+      "id": "5492",
+      "code": "0886",
+      "type": "federal_account",
+      "name": "National Institute of Neurological Disorders and Stroke, National Institutes of Health, Health and Human Services",
+      "amount": 2687920828.76,
+      "account_number": "075-0886"
+    },
+    {
+      "id": "5475",
+      "code": "0846",
+      "type": "federal_account",
+      "name": "Office of the Director, National Institutes of Health, Health and Human Services",
+      "amount": 2661139956.18,
+      "account_number": "075-0846"
+    },
+    {
+      "id": "5572",
+      "code": "4554",
+      "type": "federal_account",
+      "name": "Service and Supply Fund, National Institutes of Health, Health and Human Services",
+      "amount": 2639189516.8,
+      "account_number": "075-4554"
+    },
+    {
+      "id": "7008",
+      "code": "1000",
+      "type": "federal_account",
+      "name": "Research, Development, and Procurement, Administration for Strategic Preparedness and Response, Health and Human Service",
+      "amount": 2567075536.03,
+      "account_number": "075-1000"
+    },
+    {
+      "id": "5415",
+      "code": "0142",
+      "type": "federal_account",
+      "name": "Aging and Disability Services Programs, Administration for Community Living, Health and Human Services",
+      "amount": 2550282623.68,
+      "account_number": "075-0142"
+    },
+    {
+      "id": "5434",
+      "code": "0356",
+      "type": "federal_account",
+      "name": "Ryan White HIV/AIDS Program, Health Resources and Services Administration, Health and Human Services",
+      "amount": 2523525329.08,
+      "account_number": "075-0356"
+    },
+    {
+      "id": "5490",
+      "code": "0884",
+      "type": "federal_account",
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Health and Human Services",
+      "amount": 2414394790.98,
+      "account_number": "075-0884"
+    },
+    {
+      "id": "5611",
+      "code": "8393",
+      "type": "federal_account",
+      "name": "Health Care Fraud and Abuse Control Account, Health and Human Services",
+      "amount": 2398681849.32,
+      "account_number": "075-8393"
+    },
+    {
+      "id": "5498",
+      "code": "0892",
+      "type": "federal_account",
+      "name": "National Institute of Mental Health, National Institutes of Health, Health and Human Services",
+      "amount": 2254795082.89,
+      "account_number": "075-0892"
+    },
+    {
+      "id": "5444",
+      "code": "0391",
+      "type": "federal_account",
+      "name": "Indian Health Facilities, Indian Health Service, Health and Human Services",
+      "amount": 2252694777.27,
+      "account_number": "075-0391"
+    },
+    {
+      "id": "5473",
+      "code": "0844",
+      "type": "federal_account",
+      "name": "National Institute of Child Health and Human Development, National Institutes of Health, Health and Human Services",
+      "amount": 1761981671.52,
+      "account_number": "075-0844"
+    },
+    {
+      "id": "5406",
+      "code": "0125",
+      "type": "federal_account",
+      "name": "Nonrecurring Expense Fund, Office of the Secretary, Health and Human Services",
+      "amount": 1727851943.02,
+      "account_number": "075-0125"
+    },
+    {
+      "id": "5499",
+      "code": "0893",
+      "type": "federal_account",
+      "name": "National Institute on Drug Abuse, National Institutes of Health, Health and Human Services",
+      "amount": 1706291647.3,
+      "account_number": "075-0893"
+    },
+    {
+      "id": "6467",
+      "code": "0837",
+      "type": "federal_account",
+      "name": "Advanced Research Projects Agency for Health-NIH, National Institutes of Health, Department of Health and Human Services",
+      "amount": 1640772855.52,
+      "account_number": "075-0837"
+    },
+    {
+      "id": "5550",
+      "code": "1534",
+      "type": "federal_account",
+      "name": "Social Services Block Grant, Administration for Children and Families, Health and Human Services",
+      "amount": 1602576131.2,
+      "account_number": "075-1534"
+    },
+    {
+      "id": "5518",
+      "code": "0943",
+      "type": "federal_account",
+      "name": "CDC-Wide Activities and Program Support, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 1589673649.51,
+      "account_number": "075-0943"
+    },
+    {
+      "id": "5432",
+      "code": "0353",
+      "type": "federal_account",
+      "name": "Health Workforce, Health Resources and Services Administration, Health and Human Services",
+      "amount": 1432227942.15,
+      "account_number": "075-0353"
+    },
+    {
+      "id": "5565",
+      "code": "3966",
+      "type": "federal_account",
+      "name": "Management Fund, National Institutes of Health",
+      "amount": 1379122412.02,
+      "account_number": "075-3966"
+    },
+    {
+      "id": "5524",
+      "code": "0950",
+      "type": "federal_account",
+      "name": "HIV/AIDS, Viral Hepatitis, Sexually Transmitted Diseases, and Tuberculosis Prevention, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 1359882848.27,
+      "account_number": "075-0950"
+    },
+    {
+      "id": "5522",
+      "code": "0948",
+      "type": "federal_account",
+      "name": "Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 1349780751.16,
+      "account_number": "075-0948"
+    },
+    {
+      "id": "5570",
+      "code": "4552",
+      "type": "federal_account",
+      "name": "HHS Service and Supply Fund, Program Support Center, Health and Human Services",
+      "amount": 1228520574.82,
+      "account_number": "075-4552"
+    },
+    {
+      "id": "5433",
+      "code": "0354",
+      "type": "federal_account",
+      "name": "Maternal and Child Health, Health Resources and Services Administration, Health and Human Services",
+      "amount": 1178394145.32,
+      "account_number": "075-0354"
+    },
+    {
+      "id": "5455",
+      "code": "0519",
+      "type": "federal_account",
+      "name": "Quality Improvements Organizations, Centers for Medicare and Medicaid, Health and Human Services",
+      "amount": 1158275800.07,
+      "account_number": "075-0519"
+    },
+    {
+      "id": "5439",
+      "code": "0361",
+      "type": "federal_account",
+      "name": "Program Management, Health Resources and Services Administration, Health and Human Services",
+      "amount": 1103011562.83,
+      "account_number": "075-0361"
+    },
+    {
+      "id": "5428",
+      "code": "0344",
+      "type": "federal_account",
+      "name": "Contract Support Costs, Indian Health Service, Health and Human Services",
+      "amount": 1032733142.5,
+      "account_number": "075-0344"
+    },
+    {
+      "id": "5482",
+      "code": "0862",
+      "type": "federal_account",
+      "name": "National Institute of Environmental Health Sciences, National Institutes of Health, Health and Human Services",
+      "amount": 997516441.18,
+      "account_number": "075-0862"
+    },
+    {
+      "id": "5488",
+      "code": "0875",
+      "type": "federal_account",
+      "name": "National Center for Advancing Translational Sciences, National Institutes of Health, Health and Human Services",
+      "amount": 935584567.04,
+      "account_number": "075-0875"
+    },
+    {
+      "id": "5530",
+      "code": "0956",
+      "type": "federal_account",
+      "name": "Public Health Preparedness and Response, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 935329321.55,
+      "account_number": "075-0956"
+    },
+    {
+      "id": "5493",
+      "code": "0887",
+      "type": "federal_account",
+      "name": "National Eye Institute, National Institutes of Health, Health and Human Services",
+      "amount": 908615715.93,
+      "account_number": "075-0887"
+    },
+    {
+      "id": "5403",
+      "code": "0120",
+      "type": "federal_account",
+      "name": "General Departmental Management, Departmental Management, Health and Human Services",
+      "amount": 888032130.27,
+      "account_number": "075-0120"
+    },
+    {
+      "id": "5441",
+      "code": "0379",
+      "type": "federal_account",
+      "name": "Retirement Pay and Medical Benefits for Commissioned Officers, Office of the Assistant Secretary for Health, Health and Human Services",
+      "amount": 863416010.67,
+      "account_number": "075-0379"
+    },
+    {
+      "id": "5525",
+      "code": "0951",
+      "type": "federal_account",
+      "name": "Immunization and Respiratory Diseases, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 854433021.48,
+      "account_number": "075-0951"
+    },
+    {
+      "id": "5573",
+      "code": "4613",
+      "type": "federal_account",
+      "name": "FDA Working Capital Fund, Food and Drug Administration, Health and Human Services",
+      "amount": 844577820.14,
+      "account_number": "075-4613"
+    },
+    {
+      "id": "5571",
+      "code": "4553",
+      "type": "federal_account",
+      "name": "CDC Working Capital Fund, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 798400948.71,
+      "account_number": "075-4553"
+    },
+    {
+      "id": "5523",
+      "code": "0949",
+      "type": "federal_account",
+      "name": "Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 772715099.16,
+      "account_number": "075-0949"
+    },
+    {
+      "id": "5532",
+      "code": "0959",
+      "type": "federal_account",
+      "name": "Public Health Scientific Services, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 747032766.8,
+      "account_number": "075-0959"
+    },
+    {
+      "id": "5457",
+      "code": "0522",
+      "type": "federal_account",
+      "name": "Centers for Medicare and Medicaid Innovation, Centers for Medicare and Medicaid, Health and Human Services",
+      "amount": 745150715.84,
+      "account_number": "075-0522"
+    },
+    {
+      "id": "5520",
+      "code": "0946",
+      "type": "federal_account",
+      "name": "World Trade Center Health Program Fund, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 719687870.48,
+      "account_number": "075-0946"
+    },
+    {
+      "id": "5529",
+      "code": "0955",
+      "type": "federal_account",
+      "name": "Global Health, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 696768116.22,
+      "account_number": "075-0955"
+    },
+    {
+      "id": "5526",
+      "code": "0952",
+      "type": "federal_account",
+      "name": "Injury Prevention and Control, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 696359575.41,
+      "account_number": "075-0952"
+    },
+    {
+      "id": "5494",
+      "code": "0888",
+      "type": "federal_account",
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases, National Institutes of Health, Health and Human Services",
+      "amount": 683327060.34,
+      "account_number": "075-0888"
+    },
+    {
+      "id": "5497",
+      "code": "0891",
+      "type": "federal_account",
+      "name": "National Human Genome Research Institute, National Institutes of Health, Health and Human Services",
+      "amount": 678868192.79,
+      "account_number": "075-0891"
+    },
+    {
+      "id": "5562",
+      "code": "3902",
+      "type": "federal_account",
+      "name": "Section 241 Transactions Account, Office of the Secretary, Health and Human Services",
+      "amount": 669330212.89,
+      "account_number": "075-3902"
+    },
+    {
+      "id": "5431",
+      "code": "0352",
+      "type": "federal_account",
+      "name": "Primary Health Care Access, Health Resources and Services Administration, Health and Human Services",
+      "amount": 617382544.83,
+      "account_number": "075-0352"
+    },
+    {
+      "id": "5453",
+      "code": "0516",
+      "type": "federal_account",
+      "name": "State Grants and Demonstration, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 606910852.89,
+      "account_number": "075-0516"
+    },
+    {
+      "id": "5548",
+      "code": "1522",
+      "type": "federal_account",
+      "name": "Contingency Fund for State Welfare Programs, Administration for Children and Families, Health and Human Services",
+      "amount": 599337519.84,
+      "account_number": "075-1522"
+    },
+    {
+      "id": "5500",
+      "code": "0894",
+      "type": "federal_account",
+      "name": "National Institute on Alcohol Abuse and Alcoholism, National Institutes of Health, Health and Human Services",
+      "amount": 591151008.96,
+      "account_number": "075-0894"
+    },
+    {
+      "id": "5502",
+      "code": "0897",
+      "type": "federal_account",
+      "name": "National Institute on Minority Health and Health Disparities, National Institutes of Health, Health and Human Services",
+      "amount": 533365407.52,
+      "account_number": "075-0897"
+    },
+    {
+      "id": "5496",
+      "code": "0890",
+      "type": "federal_account",
+      "name": "National Institute on Deafness and Other Communication Disorders, National Institutes of Health, Health and Human Services",
+      "amount": 529562010.75,
+      "account_number": "075-0890"
+    },
+    {
+      "id": "7009",
+      "code": "1001",
+      "type": "federal_account",
+      "name": "Operations, Preparedness, and Emergency Response, Administration for Strategic Preparedness and Response, Health and Human Services",
+      "amount": 528941537.5,
+      "account_number": "075-1001"
+    },
+    {
+      "id": "5464",
+      "code": "0807",
+      "type": "federal_account",
+      "name": "National Library of Medicine, National Institutes of Health, Health and Human Services",
+      "amount": 519546961.52,
+      "account_number": "075-0807"
+    },
+    {
+      "id": "5486",
+      "code": "0873",
+      "type": "federal_account",
+      "name": "National Institute of Dental and Craniofacial Research, National Institutes of Health, Health and Human Services",
+      "amount": 518589309.86,
+      "account_number": "075-0873"
+    },
+    {
+      "id": "5424",
+      "code": "0321",
+      "type": "federal_account",
+      "name": "Maternal, Infant, and Early Childhood Home Visiting Programs, Health Resources and Services Administration, Health and Human Services",
+      "amount": 506616924.59,
+      "account_number": "075-0321"
+    },
+    {
+      "id": "5545",
+      "code": "1512",
+      "type": "federal_account",
+      "name": "Promoting Safe and Stable Families, Administration for Children and Families, Health and Human Services",
+      "amount": 505786664.01,
+      "account_number": "075-1512"
+    },
+    {
+      "id": "5407",
+      "code": "0128",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Office of the Secretary, Health and Human Services",
+      "amount": 495003321.85,
+      "account_number": "075-0128"
+    },
+    {
+      "id": "5503",
+      "code": "0898",
+      "type": "federal_account",
+      "name": "National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Health and Human Services",
+      "amount": 442494068.54,
+      "account_number": "075-0898"
+    },
+    {
+      "id": "5420",
+      "code": "0147",
+      "type": "federal_account",
+      "name": "Payment to the NIH Innovation Account, CURES Act, National Institutes of Health, Health and Human Services",
+      "amount": 407000000,
+      "account_number": "075-0147"
+    },
+    {
+      "id": "6369",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Payments for Tribal Leases, Indian Health Service, Health and Human Services",
+      "amount": 386276233,
+      "account_number": "075-0200"
+    },
+    {
+      "id": "5559",
+      "code": "1700",
+      "type": "federal_account",
+      "name": "Healthcare Research and Quality, Agency for Healthcare Research and Quality, Health and Human Services",
+      "amount": 381200228.51,
+      "account_number": "075-1700"
+    },
+    {
+      "id": "5413",
+      "code": "0140",
+      "type": "federal_account",
+      "name": "Public Health and Social Services Emergency Fund, Office of the Secretary, Health and Human Services",
+      "amount": 365460550.05,
+      "account_number": "075-0140"
+    },
+    {
+      "id": "5527",
+      "code": "0953",
+      "type": "federal_account",
+      "name": "National Institute For Occupational Safety and Health, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 358517174.45,
+      "account_number": "075-0953"
+    },
+    {
+      "id": "5436",
+      "code": "0358",
+      "type": "federal_account",
+      "name": "Rural Health, Health Resources and Services Administration, Health and Human Services",
+      "amount": 355618469.07,
+      "account_number": "075-0358"
+    },
+    {
+      "id": "5468",
+      "code": "0838",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, National Institutes of Health, Health and Human Services",
+      "amount": 318772033.25,
+      "account_number": "075-0838"
+    },
+    {
+      "id": "5437",
+      "code": "0359",
+      "type": "federal_account",
+      "name": "Family Planning, Health Resources and Services Administration, Health and Human Services",
+      "amount": 273991434.04,
+      "account_number": "075-0359"
+    },
+    {
+      "id": "5537",
+      "code": "1362",
+      "type": "federal_account",
+      "name": "Health Surveillance and Program Support, Substance Abuse and Mental Health Services Administration, Health and Human Services",
+      "amount": 261176515.37,
+      "account_number": "075-1362"
+    },
+    {
+      "id": "5602",
+      "code": "8175",
+      "type": "federal_account",
+      "name": "Vaccine Injury Compensation Trust Fund - Treasury Managed, Health and Human Services",
+      "amount": 243542274.21,
+      "account_number": "075-8175"
+    },
+    {
+      "id": "5521",
+      "code": "0947",
+      "type": "federal_account",
+      "name": "Environmental Health, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 239703927.69,
+      "account_number": "075-0947"
+    },
+    {
+      "id": "5540",
+      "code": "1365",
+      "type": "federal_account",
+      "name": "Substance Abuse Prevention, Substance Abuse and Mental Health Administration, Health and Human Services",
+      "amount": 218082109.67,
+      "account_number": "075-1365"
+    },
+    {
+      "id": "5561",
+      "code": "1806",
+      "type": "federal_account",
+      "name": "Payments to Federal Hospital Insurance Trust Fund, Health Care Fraud and Abuse, Health and Human Services",
+      "amount": 213989382.34,
+      "account_number": "075-1806"
+    },
+    {
+      "id": "5581",
+      "code": "5628",
+      "type": "federal_account",
+      "name": "NIH Innovation, CURES Act, National Institutes of Health, Health and Human Services",
+      "amount": 213654966.52,
+      "account_number": "075-5628"
+    },
+    {
+      "id": "5531",
+      "code": "0958",
+      "type": "federal_account",
+      "name": "Birth Defects, Developmental Disabilities, Disabilities and Health, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 203598618.06,
+      "account_number": "075-0958"
+    },
+    {
+      "id": "5495",
+      "code": "0889",
+      "type": "federal_account",
+      "name": "National Institute of Nursing Research, National Institutes of Health, Health and Human Services",
+      "amount": 195357536.08,
+      "account_number": "075-0889"
+    },
+    {
+      "id": "5412",
+      "code": "0139",
+      "type": "federal_account",
+      "name": "Office of Medicare Hearings and Appeals, Office of the Secretary, Health and Human Services",
+      "amount": 193932690.35,
+      "account_number": "075-0139"
+    },
+    {
+      "id": "5501",
+      "code": "0896",
+      "type": "federal_account",
+      "name": "National Center for Complementary and Integrative Health, National Institute of Health, Health and Human Services",
+      "amount": 170120697.68,
+      "account_number": "075-0896"
+    },
+    {
+      "id": "5579",
+      "code": "5551",
+      "type": "federal_account",
+      "name": "Child Enrollment Contingency Fund, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 125976017,
+      "account_number": "075-5551"
+    },
+    {
+      "id": "5435",
+      "code": "0357",
+      "type": "federal_account",
+      "name": "Health Care Systems, Health Resources and Services Administration, Health and Human Services",
+      "amount": 108320024.79,
+      "account_number": "075-0357"
+    },
+    {
+      "id": "5467",
+      "code": "0819",
+      "type": "federal_account",
+      "name": "John E. Fogarty International Center, National Institutes of Health, Health and Human Services",
+      "amount": 106155947.27,
+      "account_number": "075-0819"
+    },
+    {
+      "id": "6373",
+      "code": "0127",
+      "type": "federal_account",
+      "name": "No Surprises Act Implementation Fund",
+      "amount": 102005019.71,
+      "account_number": "075-0127"
+    },
+    {
+      "id": "5440",
+      "code": "0365",
+      "type": "federal_account",
+      "name": "Health Centers Malpractice Claims, Health Resources and Services Administration, Health and Human Services",
+      "amount": 94062769.66,
+      "account_number": "075-0365"
+    },
+    {
+      "id": "5409",
+      "code": "0130",
+      "type": "federal_account",
+      "name": "Office of the National Coordinator for Health Information Technology, Departmental Management, Health and Human Services",
+      "amount": 83595112.06,
+      "account_number": "075-0130"
+    },
+    {
+      "id": "5519",
+      "code": "0944",
+      "type": "federal_account",
+      "name": "Toxic Substances and Environmental Public Health, Agency for Toxic Substances and Disease Registry, Health and Human Services",
+      "amount": 83098275.4,
+      "account_number": "075-0944"
+    },
+    {
+      "id": "5418",
+      "code": "0145",
+      "type": "federal_account",
+      "name": "Transfers from the Patient-Centered Outcome Research Trust Fund, Departmental Management, Health and Human Services",
+      "amount": 81612858.8,
+      "account_number": "075-0145"
+    },
+    {
+      "id": "5582",
+      "code": "5629",
+      "type": "federal_account",
+      "name": "FDA Innovation, CURES Act, Food and Drug Administration, Health and Human Services",
+      "amount": 72178188.95,
+      "account_number": "075-5629"
+    },
+    {
+      "id": "5411",
+      "code": "0135",
+      "type": "federal_account",
+      "name": "Office for Civil Rights, Departmental Management, Health and Human Services",
+      "amount": 67177202.86,
+      "account_number": "075-0135"
+    },
+    {
+      "id": "5557",
+      "code": "1553",
+      "type": "federal_account",
+      "name": "Children's Research and Technical Assistance, Administration for Children and Families, Health and Human Services",
+      "amount": 61657009.72,
+      "account_number": "075-1553"
+    },
+    {
+      "id": "5528",
+      "code": "0954",
+      "type": "federal_account",
+      "name": "Energy Employees Occupational Illness Compensation Program, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 52476304.33,
+      "account_number": "075-0954"
+    },
+    {
+      "id": "5421",
+      "code": "0148",
+      "type": "federal_account",
+      "name": "Payment to the FDA Innovation Account, CURES Act, Food and Drug Administration, Health and Human Services",
+      "amount": 50000000,
+      "account_number": "075-0148"
+    },
+    {
+      "id": "5575",
+      "code": "5145",
+      "type": "federal_account",
+      "name": "Cooperative Research and Development Agreements, National Institutes of Health, Health and Human Services",
+      "amount": 43163618.74,
+      "account_number": "075-5145"
+    },
+    {
+      "id": "5422",
+      "code": "0170",
+      "type": "federal_account",
+      "name": "HHS Accrual Contribution to the Uniformed Services Retiree Health Care Fund, Office of the Assistant Secretary for Health, Health and Human Services",
+      "amount": 36365751,
+      "account_number": "075-0170"
+    },
+    {
+      "id": "5607",
+      "code": "8253",
+      "type": "federal_account",
+      "name": "National Institutes of Health Conditional Gift Fund, Health and Human Services",
+      "amount": 34947645.02,
+      "account_number": "075-8253"
+    },
+    {
+      "id": "5533",
+      "code": "0960",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 28852422.23,
+      "account_number": "075-0960"
+    },
+    {
+      "id": "5397",
+      "code": "0114",
+      "type": "federal_account",
+      "name": "Early Retiree Reinsurance Program, Office of the Secretary, Health and Human Services",
+      "amount": 25600000,
+      "account_number": "075-0114"
+    },
+    {
+      "id": "5429",
+      "code": "0350",
+      "type": "federal_account",
+      "name": "Health Resources and Services, Health Resources and Services Administration, Health and Human Services",
+      "amount": 19316463.91,
+      "account_number": "075-0350"
+    },
+    {
+      "id": "5606",
+      "code": "8250",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Centers for Disease Control, Health and Human Services",
+      "amount": 14468091.23,
+      "account_number": "075-8250"
+    },
+    {
+      "id": "5427",
+      "code": "0343",
+      "type": "federal_account",
+      "name": "Covered Countermeasure Process Fund, Health Resources and Services Administration, Health and Human Services",
+      "amount": 12284106.06,
+      "account_number": "075-0343"
+    },
+    {
+      "id": "5447",
+      "code": "0509",
+      "type": "federal_account",
+      "name": "Patient Protection and Affordable Care - Program Management, Centers for Medicare and Medicaid, Health and Human Services",
+      "amount": 12032518.94,
+      "account_number": "075-0509"
+    },
+    {
+      "id": "6378",
+      "code": "0150",
+      "type": "federal_account",
+      "name": "Defense Production Act Medical Supplies Enhancement",
+      "amount": 10574532.54,
+      "account_number": "075-0150"
+    },
+    {
+      "id": "6346",
+      "code": "5745",
+      "type": "federal_account",
+      "name": "Debt Collection Fund, Office of the Secretary, Health and Human Services",
+      "amount": 9695958.01,
+      "account_number": "075-5745"
+    },
+    {
+      "id": "5600",
+      "code": "8073",
+      "type": "federal_account",
+      "name": "Contributions, Indian Health Facilities, Indian Health Services, Health and Human Services",
+      "amount": 9116470,
+      "account_number": "075-8073"
+    },
+    {
+      "id": "6282",
+      "code": "0945",
+      "type": "federal_account",
+      "name": "Infectious Diseases Rapid Response Reserve Fund, Centers for Disease Control, Health and Human Services",
+      "amount": 8743070.52,
+      "account_number": "075-0945"
+    },
+    {
+      "id": "5567",
+      "code": "4309",
+      "type": "federal_account",
+      "name": "Revolving Fund for Certification and Other Services, Food and Drug Administration, Health and Human Services",
+      "amount": 7119905.29,
+      "account_number": "075-4309"
+    },
+    {
+      "id": "5574",
+      "code": "5071",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, Indian Health Services, Health and Human Services",
+      "amount": 6297491.42,
+      "account_number": "075-5071"
+    },
+    {
+      "id": "5395",
+      "code": "0112",
+      "type": "federal_account",
+      "name": "Rate Review Grants, Office of the Secretary, Health and Human Services",
+      "amount": 5741561.19,
+      "account_number": "075-0112"
+    },
+    {
+      "id": "5604",
+      "code": "8248",
+      "type": "federal_account",
+      "name": "National Institutes of Health Unconditional Gift Fund, Health and Human Services",
+      "amount": 5585399.72,
+      "account_number": "075-8248"
+    },
+    {
+      "id": "5446",
+      "code": "0508",
+      "type": "federal_account",
+      "name": "Medicare Health Information Technology Incentive Payments - Recovery Act, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 4818965.25,
+      "account_number": "075-0508"
+    },
+    {
+      "id": "6506",
+      "code": "0961",
+      "type": "federal_account",
+      "name": "World Trade Center Health Program Supplemental Fund, Centers for Disease Control and Prevention, Health and Human Resources",
+      "amount": 3440639.7,
+      "account_number": "075-0961"
+    },
+    {
+      "id": "5576",
+      "code": "5146",
+      "type": "federal_account",
+      "name": "Cooperative Research and Development Agreements, Centers for Disease Control, Health and Human Services",
+      "amount": 2972440.51,
+      "account_number": "075-5146"
+    },
+    {
+      "id": "7040",
+      "code": "0966",
+      "type": "federal_account",
+      "name": "World Trade Center Health Program Fund for Certain WTC Responders at the Pentagon and Shanksville, Pennsylvania, Centers for Disease Control and Prevention, Health and Human Services",
+      "amount": 1500000,
+      "account_number": "075-0966"
+    },
+    {
+      "id": "5410",
+      "code": "0131",
+      "type": "federal_account",
+      "name": "Office of the National Coordinator for Health Information Technology - Recovery Act, Office of the Secretary, Health and Human Services",
+      "amount": 1435604.19,
+      "account_number": "075-0131"
+    },
+    {
+      "id": "5577",
+      "code": "5148",
+      "type": "federal_account",
+      "name": "Cooperative Research and Development Agreements, Food and Drug Administration, Health and Human Services",
+      "amount": 1190466.25,
+      "account_number": "075-5148"
+    },
+    {
+      "id": "5425",
+      "code": "0330",
+      "type": "federal_account",
+      "name": "Free Clinics Malpractice Claims Fund, Health Resources and Service Administration, Health and Human Services",
+      "amount": 541809.87,
+      "account_number": "075-0330"
+    },
+    {
+      "id": "5448",
+      "code": "0510",
+      "type": "federal_account",
+      "name": "Program Management - Recovery Act, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 501572.27,
+      "account_number": "075-0510"
+    },
+    {
+      "id": "5401",
+      "code": "0118",
+      "type": "federal_account",
+      "name": "Consumer Operated and Oriented Plan Program Account, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 281305.95,
+      "account_number": "075-0118"
+    },
+    {
+      "id": "5613",
+      "code": "8511",
+      "type": "federal_account",
+      "name": "Indian Health Service Gift Fund, Health and Human Services",
+      "amount": 44161.44,
+      "account_number": "075-8511"
+    },
+    {
+      "id": "5618",
+      "code": "8888",
+      "type": "federal_account",
+      "name": "Patients' Benefit Fund, National Institutes of Health, Health and Human Services",
+      "amount": 25539.15,
+      "account_number": "075-8888"
+    },
+    {
+      "id": "5608",
+      "code": "8254",
+      "type": "federal_account",
+      "name": "Conditional Gift Fund, Health Resources and Services Administration, Health and Human Services",
+      "amount": 25414.97,
+      "account_number": "075-8254"
+    },
+    {
+      "id": "5619",
+      "code": "8889",
+      "type": "federal_account",
+      "name": "Patients' Benefit Fund, Health Resources and Services Administration, Health and Human Services",
+      "amount": 1847.77,
+      "account_number": "075-8889"
+    },
+    {
+      "id": "5451",
+      "code": "0513",
+      "type": "federal_account",
+      "name": "Payments for Credits Against Health Care Contributions, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 678.16,
+      "account_number": "075-0513"
+    },
+    {
+      "id": "5405",
+      "code": "0124",
+      "type": "federal_account",
+      "name": "Community Health Center Fund, Departmental Management, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0124"
+    },
+    {
+      "id": "5544",
+      "code": "1505",
+      "type": "federal_account",
+      "name": "Payments to States for Child Support Enforcement and Family Support Programs - Recovery Act, Administration for Children and Families, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-1505"
+    },
+    {
+      "id": "5535",
+      "code": "1104",
+      "type": "federal_account",
+      "name": "Public Health Emergency Fund, Public Health Services, Office of Assistant Secretary for Health, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-1104"
+    },
+    {
+      "id": "5534",
+      "code": "1102",
+      "type": "federal_account",
+      "name": "Scientific Activities Overseas, Special Foreign Currency Program, Assistant Secretary for Health, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-1102"
+    },
+    {
+      "id": "5563",
+      "code": "3921",
+      "type": "federal_account",
+      "name": "Consolidated Working Fund, Indian Health Services, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-3921"
+    },
+    {
+      "id": "5564",
+      "code": "3965",
+      "type": "federal_account",
+      "name": "Grants Management Fund, Departmental Management, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-3965"
+    },
+    {
+      "id": "5477",
+      "code": "0848",
+      "type": "federal_account",
+      "name": "National Center for Research Resources, National Institutes of Health",
+      "amount": 0,
+      "account_number": "075-0848"
+    },
+    {
+      "id": "5454",
+      "code": "0518",
+      "type": "federal_account",
+      "name": "Grants to States for Medicaid - Recovery Act, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0518"
+    },
+    {
+      "id": "5580",
+      "code": "5627",
+      "type": "federal_account",
+      "name": "State Response to the Opioid Abuse Crisis, CURES Act, Departmental Administration, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-5627"
+    },
+    {
+      "id": "5585",
+      "code": "5736",
+      "type": "federal_account",
+      "name": "10-Year Pediatric Research Initiative Fund, National Institutes of Health, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-5736"
+    },
+    {
+      "id": "5588",
+      "code": "6079",
+      "type": "federal_account",
+      "name": "Personal Funds and Earnings of Patients, National Institutes of Health",
+      "amount": 0,
+      "account_number": "075-6079"
+    },
+    {
+      "id": "5592",
+      "code": "6275",
+      "type": "federal_account",
+      "name": "Withheld State and Local Taxes, Departmental Management",
+      "amount": 0,
+      "account_number": "075-6275"
+    },
+    {
+      "id": "5593",
+      "code": "6276",
+      "type": "federal_account",
+      "name": "Other Federal Payroll Withholding, Allotments, Departmental Management",
+      "amount": 0,
+      "account_number": "075-6276"
+    },
+    {
+      "id": "5419",
+      "code": "0146",
+      "type": "federal_account",
+      "name": "Payment to the State Response to the Opioid Abuse Crisis Account, CURES Act, Departmental Administration, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0146"
+    },
+    {
+      "id": "5605",
+      "code": "8249",
+      "type": "federal_account",
+      "name": "Unconditional Gift Fund, Health Resources and Services Administration, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-8249"
+    },
+    {
+      "id": "5394",
+      "code": "0111",
+      "type": "federal_account",
+      "name": "Health Insurance Consumer Information, Office of the Secretary, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0111"
+    },
+    {
+      "id": "5549",
+      "code": "1523",
+      "type": "federal_account",
+      "name": "Emergency Contingency Fund for State Temporary Assistance for Needy Family Programs - Recovery Act, Administration for Children and Families, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-1523"
+    },
+    {
+      "id": "5402",
+      "code": "0119",
+      "type": "federal_account",
+      "name": "Health Insurance Reform Implementation Fund, Departmental Management, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0119"
+    },
+    {
+      "id": "5612",
+      "code": "8510",
+      "type": "federal_account",
+      "name": "Administration on Aging Gift Fund, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-8510"
+    },
+    {
+      "id": "5614",
+      "code": "8512",
+      "type": "federal_account",
+      "name": "Agency for Healthcare Research and Quality Gift Fund, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-8512"
+    },
+    {
+      "id": "5616",
+      "code": "8514",
+      "type": "federal_account",
+      "name": "Office of the Secretary Gift Fund, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-8514"
+    },
+    {
+      "id": "5399",
+      "code": "0116",
+      "type": "federal_account",
+      "name": "Prevention and Public Health Fund, Departmental Management, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0116"
+    },
+    {
+      "id": "6466",
+      "code": "0133",
+      "type": "federal_account",
+      "name": "Advanced Research Projects Agency for Health, Office of the Secretary, Department of Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0133"
+    },
+    {
+      "id": "5396",
+      "code": "0113",
+      "type": "federal_account",
+      "name": "Pre-Existing Condition Insurance Plan Program, Office of the Secretary, Health and Human Services",
+      "amount": 0,
+      "account_number": "075-0113"
+    },
+    {
+      "id": "5458",
+      "code": "0524",
+      "type": "federal_account",
+      "name": "Consumer Operated Oriented Plan Program Contingency Fund, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": -55510.99,
+      "account_number": "075-0524"
+    },
+    {
+      "id": "5615",
+      "code": "8513",
+      "type": "federal_account",
+      "name": "Substance Abuse and Mental Health Administration Gift Fund, Health and Human Services",
+      "amount": -152516.4,
+      "account_number": "075-8513"
+    },
+    {
+      "id": "5400",
+      "code": "0117",
+      "type": "federal_account",
+      "name": "Pregnancy Assistance Fund, Departmental Management, Health and Human Services",
+      "amount": -189804.78,
+      "account_number": "075-0117"
+    },
+    {
+      "id": "5398",
+      "code": "0115",
+      "type": "federal_account",
+      "name": "Affordable Insurance Exchange Grants, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": -896905.06,
+      "account_number": "075-0115"
+    },
+    {
+      "id": "5423",
+      "code": "0320",
+      "type": "federal_account",
+      "name": "Vaccine Injury Compensation, Health Resources and Services Administration, Health and Human Services",
+      "amount": -1965924.66,
+      "account_number": "075-0320"
+    },
+    {
+      "id": "5584",
+      "code": "5735",
+      "type": "federal_account",
+      "name": "Transitional Reinsurance Program, Centers for Medicare and Medicaid Services, Health and Human Services",
+      "amount": -4369619.08,
+      "account_number": "075-5735"
+    },
+    {
+      "id": "5463",
+      "code": "0603",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, Food and Drug Administration, Health and Human Services",
+      "amount": -13830381.2,
+      "account_number": "075-0603"
+    }
+  ]
+}

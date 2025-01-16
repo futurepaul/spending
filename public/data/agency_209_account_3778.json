@@ -1,0 +1,41 @@
+{
+  "total": 114269723.95,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566757",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "WESTERN OREGON RESOURCE MANAGEMENT",
+      "amount": 100713788.98
+    },
+    {
+      "id": "566746",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "WESTERN OREGON MAINTENANCE",
+      "amount": 10473815.38
+    },
+    {
+      "id": "591085",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "WESTERN OREGON DATA SYSTEMS OPERATION AND MANAGEMENT",
+      "amount": 2289747.13
+    },
+    {
+      "id": "590671",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "WESTERN OREGON NATIONAL MONUMENTS AND NCA",
+      "amount": 792372.46
+    },
+    {
+      "id": "567168",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

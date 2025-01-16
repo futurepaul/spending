@@ -1,0 +1,22 @@
+{
+  "total": 352420010.38,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6083",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Appalachian Regional Development Programs, Appalachian Regional Commission",
+      "amount": 352420010.38,
+      "account_number": "309-0200"
+    },
+    {
+      "id": "6088",
+      "code": "8090",
+      "type": "federal_account",
+      "name": "Administrative Expenses, Appalachian Regional Commission",
+      "amount": 0,
+      "account_number": "309-8090"
+    }
+  ]
+}

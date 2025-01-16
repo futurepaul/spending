@@ -1,0 +1,62 @@
+{
+  "total": 2321418790,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566920",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "GRANTS FOR NORTHEAST CORRIDOR (IIJA SUPP)",
+      "amount": 1189000000
+    },
+    {
+      "id": "566900",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GRANTS FOR NORTHEAST CORRIDOR",
+      "amount": 1130734790
+    },
+    {
+      "id": "566955",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "MANAGEMENT OVERSIGHT (IIJA SUPP)",
+      "amount": 1648479
+    },
+    {
+      "id": "567177",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NORTHEAST CORRIDOR COMMISSION",
+      "amount": 35521
+    },
+    {
+      "id": "567314",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "MANAGEMENT OVERSIGHT",
+      "amount": 0
+    },
+    {
+      "id": "566922",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "OVERSIGHT FOR NORTHEAST CORRIDOR (COVID)",
+      "amount": 0
+    },
+    {
+      "id": "567160",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "AMERICANS WITH DISABILITIES ACT ADA",
+      "amount": 0
+    },
+    {
+      "id": "567188",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

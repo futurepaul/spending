@@ -1,0 +1,34 @@
+{
+  "total": 38345698.64,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568954",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "OPERATIONAL AND ADMINISTRATIVE",
+      "amount": 36792705.27
+    },
+    {
+      "id": "568951",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "MULTI-YEAR OPERATIONAL AND ADMINISTRATIVE",
+      "amount": 869132.08
+    },
+    {
+      "id": "568952",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "INSPECTOR GENERAL",
+      "amount": 556663.39
+    },
+    {
+      "id": "568953",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SALARIES AND EXPENSES (REIMBURSABLE)",
+      "amount": 127197.9
+    }
+  ]
+}

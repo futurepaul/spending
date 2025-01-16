@@ -1,0 +1,55 @@
+{
+  "total": 19770538021.18,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569549",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "VHA MEDICAL SERVICES",
+      "amount": 11705715999
+    },
+    {
+      "id": "591729",
+      "code": "0015",
+      "type": "program_activity",
+      "name": "VHA MEDICAL COMMUNITY CARE",
+      "amount": 4800000000
+    },
+    {
+      "id": "591600",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "VBA GENERAL OPERATING EXPENSE",
+      "amount": 1311747017.1
+    },
+    {
+      "id": "569638",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "OFFICE OF INFORMATION TECHNOLOGY",
+      "amount": 1060548641.82
+    },
+    {
+      "id": "600784",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "VHA MEDICAL SUPPORT AND COMPLIANCE",
+      "amount": 847649776.72
+    },
+    {
+      "id": "569551",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "GENERAL ADMINISTRATION",
+      "amount": 25034696.47
+    },
+    {
+      "id": "569515",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "VHA RESEARCH",
+      "amount": 19841890.07
+    }
+  ]
+}

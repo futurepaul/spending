@@ -1,0 +1,142 @@
+{
+  "total": 36410168066.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5379",
+      "code": "1152",
+      "type": "federal_account",
+      "name": "Disaster Loans Program Account, Small Business Administration",
+      "amount": 34162247469.49,
+      "account_number": "073-1152"
+    },
+    {
+      "id": "5373",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Small Business Administration",
+      "amount": 1322668896.32,
+      "account_number": "073-0100"
+    },
+    {
+      "id": "5380",
+      "code": "1154",
+      "type": "federal_account",
+      "name": "Business Loans Program Account, Small Business Administration",
+      "amount": 555955850.73,
+      "account_number": "073-1154"
+    },
+    {
+      "id": "5378",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Entrepreneurial Development Programs, Small Business Administration",
+      "amount": 303687354.56,
+      "account_number": "073-0400"
+    },
+    {
+      "id": "5375",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "Office of Inspector General, Small Business Administration",
+      "amount": 50482992.97,
+      "account_number": "073-0200"
+    },
+    {
+      "id": "5385",
+      "code": "4156",
+      "type": "federal_account",
+      "name": "Surety Bond Guarantees Revolving Fund, Small Business Administration",
+      "amount": 28499191.73,
+      "account_number": "073-4156"
+    },
+    {
+      "id": "6298",
+      "code": "1161",
+      "type": "federal_account",
+      "name": "Information Technology System Modernization and Working Capital Fund, Small Business Administration",
+      "amount": 13462477.38,
+      "account_number": "073-1161"
+    },
+    {
+      "id": "5377",
+      "code": "0300",
+      "type": "federal_account",
+      "name": "Office of Advocacy, Small Business Administration",
+      "amount": 8551883.39,
+      "account_number": "073-0300"
+    },
+    {
+      "id": "5384",
+      "code": "4154",
+      "type": "federal_account",
+      "name": "Business Loan and Investment Fund, Liquidating Account, Small Business Administration",
+      "amount": 266860.69,
+      "account_number": "073-4154"
+    },
+    {
+      "id": "5381",
+      "code": "1156",
+      "type": "federal_account",
+      "name": "Business Loans Program Account - Recovery Act, Small Business Administration",
+      "amount": 93557,
+      "account_number": "073-1156"
+    },
+    {
+      "id": "5388",
+      "code": "8466",
+      "type": "federal_account",
+      "name": "Business Assistance Trust Fund, Small Business Administration",
+      "amount": 44401.81,
+      "account_number": "073-8466"
+    },
+    {
+      "id": "5383",
+      "code": "4153",
+      "type": "federal_account",
+      "name": "Disaster Loan Fund, Liquidating Account, Small Business Administration",
+      "amount": 39019.56,
+      "account_number": "073-4153"
+    },
+    {
+      "id": "5386",
+      "code": "4268",
+      "type": "federal_account",
+      "name": "Surety Bond Guarantees Revolving Fund - Recovery Act, Small Business Administration",
+      "amount": 0,
+      "account_number": "073-4268"
+    },
+    {
+      "id": "5382",
+      "code": "4147",
+      "type": "federal_account",
+      "name": "Pollution Control Equipment Contract Guarantees Revolving Fund, Liquidating Account, Small Business Administration",
+      "amount": 0,
+      "account_number": "073-4147"
+    },
+    {
+      "id": "6335",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Emergency EIDL Grants, Small Business Administration",
+      "amount": -5065912.6,
+      "account_number": "073-0500"
+    },
+    {
+      "id": "6386",
+      "code": "0800",
+      "type": "federal_account",
+      "name": "Restaurant Revitalization Fund, Small Business Administration",
+      "amount": -12870614.84,
+      "account_number": "073-0800"
+    },
+    {
+      "id": "6361",
+      "code": "0700",
+      "type": "federal_account",
+      "name": "Shuttered Venue Operators, Small Business Administration",
+      "amount": -17895362.12,
+      "account_number": "073-0700"
+    }
+  ]
+}

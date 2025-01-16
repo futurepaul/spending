@@ -1,0 +1,41 @@
+{
+  "total": 336131858.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570700",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CURRENT ECONOMIC STATISTICS",
+      "amount": 214832996.01
+    },
+    {
+      "id": "570648",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CURRENT DEMOGRAPHIC STATISTICS",
+      "amount": 105672280.51
+    },
+    {
+      "id": "570732",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "STATE CHILDREN'S HEALTH INSURANCE PROGRAM",
+      "amount": 15626574.97
+    },
+    {
+      "id": "570654",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "SURVEY OF PROGRAM DYNAMICS",
+      "amount": 6.96
+    },
+    {
+      "id": "570718",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

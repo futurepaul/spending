@@ -1,0 +1,22 @@
+{
+  "total": 164946836.31,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4859",
+      "code": "0100",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Consumer Product Safety Commission",
+      "amount": 164946836.31,
+      "account_number": "061-0100"
+    },
+    {
+      "id": "4860",
+      "code": "8079",
+      "type": "federal_account",
+      "name": "Gifts and Donations, Consumer Product Safety Commission",
+      "amount": 0,
+      "account_number": "061-8079"
+    }
+  ]
+}

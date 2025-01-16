@@ -1,0 +1,27 @@
+{
+  "total": 12508921.9,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566820",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "NATIONAL SURFACE TRANSPORTATION INNOVATIVE FINANCE BUREAU",
+      "amount": 11130764.3
+    },
+    {
+      "id": "567012",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "RRIF CHARGES AND LOAN SERVICING AND REBATES (COLLECTIONS)",
+      "amount": 1378157.6
+    },
+    {
+      "id": "661263",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "total": 42073419.72,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6394",
+      "code": "3100",
+      "type": "federal_account",
+      "name": "Inter-American Foundation",
+      "amount": 42019831.22,
+      "account_number": "164-3100"
+    },
+    {
+      "id": "6396",
+      "code": "8243",
+      "type": "federal_account",
+      "name": "Gifts, Donations and Contributions, Inter-American Foundation",
+      "amount": 53588.5,
+      "account_number": "164-8243"
+    }
+  ]
+}

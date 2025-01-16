@@ -1,0 +1,14 @@
+{
+  "total": 4612338.57,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "6180",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Nuclear Waste Technical Review Board",
+      "amount": 4612338.57,
+      "account_number": "431-0500"
+    }
+  ]
+}

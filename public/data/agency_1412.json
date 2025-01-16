@@ -1,0 +1,198 @@
+{
+  "total": 33525438442.03,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5944",
+      "code": "4902",
+      "type": "federal_account",
+      "name": "Revolving Fund, Corps of Engineers, Civil",
+      "amount": 12261525704.73,
+      "account_number": "096-4902"
+    },
+    {
+      "id": "5928",
+      "code": "3122",
+      "type": "federal_account",
+      "name": "Construction, Corps of Engineers - Civil",
+      "amount": 7853525585.3,
+      "account_number": "096-3122"
+    },
+    {
+      "id": "5929",
+      "code": "3123",
+      "type": "federal_account",
+      "name": "Operation and Maintenance, Corps of Engineers-Civil",
+      "amount": 5797553085.69,
+      "account_number": "096-3123"
+    },
+    {
+      "id": "5960",
+      "code": "8863",
+      "type": "federal_account",
+      "name": "Harbor Maintenance Trust Fund - Treasury Managed, Corps of Engineers - Civil",
+      "amount": 2873969792.85,
+      "account_number": "096-8863"
+    },
+    {
+      "id": "5931",
+      "code": "3125",
+      "type": "federal_account",
+      "name": "Flood Control and Coastal Emergencies, Corps of Engineers, Civil",
+      "amount": 2157661317.04,
+      "account_number": "096-3125"
+    },
+    {
+      "id": "5925",
+      "code": "3112",
+      "type": "federal_account",
+      "name": "Mississippi River and Tributaries, Corps of Engineers-Civil",
+      "amount": 668954646.85,
+      "account_number": "096-3112"
+    },
+    {
+      "id": "5959",
+      "code": "8862",
+      "type": "federal_account",
+      "name": "Rivers and Harbors Contributed and Advance Funds, Corps of Engineers, Civil",
+      "amount": 633293403.55,
+      "account_number": "096-8862"
+    },
+    {
+      "id": "5935",
+      "code": "3130",
+      "type": "federal_account",
+      "name": "Formerly Utilized Sites Remedial Action Program, Corps of Engineers-Civil",
+      "amount": 308227256.48,
+      "account_number": "096-3130"
+    },
+    {
+      "id": "5932",
+      "code": "3126",
+      "type": "federal_account",
+      "name": "Regulatory Program, Corps of Engineers, Civil",
+      "amount": 289917113.43,
+      "account_number": "096-3126"
+    },
+    {
+      "id": "5930",
+      "code": "3124",
+      "type": "federal_account",
+      "name": "Expenses, Corps of Engineers-Civil",
+      "amount": 263823115.27,
+      "account_number": "096-3124"
+    },
+    {
+      "id": "5927",
+      "code": "3121",
+      "type": "federal_account",
+      "name": "Investigations, Corps of Engineers-Civil",
+      "amount": 209156141.53,
+      "account_number": "096-3121"
+    },
+    {
+      "id": "5933",
+      "code": "3128",
+      "type": "federal_account",
+      "name": "Washington Aqueduct Capital Improvements, Corps of Engineers-Civil",
+      "amount": 66459213.12,
+      "account_number": "096-3128"
+    },
+    {
+      "id": "5958",
+      "code": "8861",
+      "type": "federal_account",
+      "name": "Inland Waterways Trust Fund - Treasury Managed, Corps of Engineers - Civil",
+      "amount": 56044783.2,
+      "account_number": "096-8861"
+    },
+    {
+      "id": "5957",
+      "code": "8333",
+      "type": "federal_account",
+      "name": "Coastal Wetlands Restoration Trust Fund, Corps of Engineers - Civil",
+      "amount": 37202089.5,
+      "account_number": "096-8333"
+    },
+    {
+      "id": "5947",
+      "code": "5090",
+      "type": "federal_account",
+      "name": "Payments to States, Flood Control Act of 1954, Corps of Engineers - Civil",
+      "amount": 18261239.88,
+      "account_number": "096-5090"
+    },
+    {
+      "id": "5948",
+      "code": "5125",
+      "type": "federal_account",
+      "name": "Maintenance and Operation of Dams and Other Improvements of Navigable Waters, Corps of Engineers - Civil",
+      "amount": 10709480.6,
+      "account_number": "096-5125"
+    },
+    {
+      "id": "6365",
+      "code": "3139",
+      "type": "federal_account",
+      "name": "Water Infrastructure Finance and Innovation Program Account, Corps of Engineers-Civil",
+      "amount": 6441151.34,
+      "account_number": "096-3139"
+    },
+    {
+      "id": "5936",
+      "code": "3132",
+      "type": "federal_account",
+      "name": "Office of Assistant Secretary of the Army for Civil Works, Corps of Engineers, Civil",
+      "amount": 5175923.61,
+      "account_number": "096-3132"
+    },
+    {
+      "id": "5956",
+      "code": "8217",
+      "type": "federal_account",
+      "name": "South Dakota Terrestrial Wildlife Habitat Restoration Trust Fund, Corps of Engineers - Civil",
+      "amount": 4000000,
+      "account_number": "096-8217"
+    },
+    {
+      "id": "5950",
+      "code": "5570",
+      "type": "federal_account",
+      "name": "Interagency America the Beautiful Pass Revenues, Corps of Engineers-Civil",
+      "amount": 2442151.45,
+      "account_number": "096-5570"
+    },
+    {
+      "id": "5951",
+      "code": "5607",
+      "type": "federal_account",
+      "name": "Special Use Permit Fees, Corps of Engineers-Civil",
+      "amount": 1095246.61,
+      "account_number": "096-5607"
+    },
+    {
+      "id": "5949",
+      "code": "5493",
+      "type": "federal_account",
+      "name": "Fund for Non-Federal Use of Disposal Facilities, Corps of Engineers",
+      "amount": 0,
+      "account_number": "096-5493"
+    },
+    {
+      "id": "5946",
+      "code": "5066",
+      "type": "federal_account",
+      "name": "Hydraulic Mining in California, Debris Fund, Corps of Engineers-Civil",
+      "amount": 0,
+      "account_number": "096-5066"
+    },
+    {
+      "id": "5945",
+      "code": "5007",
+      "type": "federal_account",
+      "name": "Special Recreation Use Fees, Corps of Engineers, Civil",
+      "amount": 0,
+      "account_number": "096-5007"
+    }
+  ]
+}

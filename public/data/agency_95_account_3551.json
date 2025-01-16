@@ -1,0 +1,125 @@
+{
+  "total": 97024020191.84,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568687",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BENEFITS ISSUED",
+      "amount": 87021965884.67
+    },
+    {
+      "id": "568744",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "STATE ADMINISTRATION",
+      "amount": 5169235099.3
+    },
+    {
+      "id": "568281",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "NUTRITION ASSISTANCE FOR PUERTO RICO",
+      "amount": 2861447509.96
+    },
+    {
+      "id": "568777",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "NUTRITION EDUCATION GRANT PROGRAM",
+      "amount": 497859150.9
+    },
+    {
+      "id": "568765",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "THE EMERGENCY FOOD ASSISTANCE PROGRAM (COMMODITIES)",
+      "amount": 447195889.26
+    },
+    {
+      "id": "568379",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "EMPLOYMENT AND TRAINING PROGRAM",
+      "amount": 392043956.02
+    },
+    {
+      "id": "568833",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OTHER PROGRAM COSTS",
+      "amount": 298065046.11
+    },
+    {
+      "id": "568671",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "FOOD DISTRIBUTION PROGRAM ON INDIAN RESERVATIONS (COMMODITIES IN LIEU OF FOOD STAMPS)",
+      "amount": 204092921.86
+    },
+    {
+      "id": "568719",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM (REIMBURSABLE)",
+      "amount": 124439392
+    },
+    {
+      "id": "568537",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "COMMONWEALTH OF THE NORTHERN MARIANA ISLANDS",
+      "amount": 35019426
+    },
+    {
+      "id": "568606",
+      "code": "0501",
+      "type": "program_activity",
+      "name": "DIRECT FUNDS FOR PROGRAM INTEGRITY",
+      "amount": 25779919.39
+    },
+    {
+      "id": "568908",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "COMMUNITY FOOD PROJECTS",
+      "amount": 4628913.14
+    },
+    {
+      "id": "568502",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "PROGRAM ACCESS",
+      "amount": 4492319.51
+    },
+    {
+      "id": "568308",
+      "code": "9905",
+      "type": "program_activity",
+      "name": "OTHER UNMAPPED",
+      "amount": 502131.17
+    },
+    {
+      "id": "568877",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "568291",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "FOOD DISTRIBUTION PROGRAM ON INDIAN RESERVATIONS (COOPERATOR ADMINISTRATIVE EXPENSE)",
+      "amount": -5160633.79
+    },
+    {
+      "id": "568522",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "SAE-MASS CHANGE (DIVISION N AND ARP)",
+      "amount": -57586733.66
+    }
+  ]
+}

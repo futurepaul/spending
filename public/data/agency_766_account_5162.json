@@ -1,0 +1,104 @@
+{
+  "total": 376675623.19,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567604",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF POLICY",
+      "amount": 87086863.16
+    },
+    {
+      "id": "567760",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OFFICES OF THE SECRETARY AND EXECUTIVE MANAGEMENT",
+      "amount": 62491751.62
+    },
+    {
+      "id": "567643",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF THE SECRETARY",
+      "amount": 46568693
+    },
+    {
+      "id": "567781",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF CIVIL RIGHTS AND LIBERTIES",
+      "amount": 44034764.91
+    },
+    {
+      "id": "567837",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF GENERAL COUNSEL",
+      "amount": 29859093.99
+    },
+    {
+      "id": "567882",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF IMMIGRATION DETENTION OMBUDSMAN",
+      "amount": 27646181.88
+    },
+    {
+      "id": "567850",
+      "code": "0882",
+      "type": "program_activity",
+      "name": "CAS - OSEM O&S REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 23778319.92
+    },
+    {
+      "id": "567635",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "CAS - PRIVACY OFFICE",
+      "amount": 18576898.43
+    },
+    {
+      "id": "567703",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF CITIZENSHIP AND IMMIGRATION SERVICES OMBUDSMAN",
+      "amount": 11051924.15
+    },
+    {
+      "id": "567746",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF PARTNERSHIP AND ENGAGEMENT",
+      "amount": 10199960.22
+    },
+    {
+      "id": "567633",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF PUBLIC AFFAIRS",
+      "amount": 9715575.98
+    },
+    {
+      "id": "567704",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "CAS - OFFICE OF LEGISLATIVE AFFAIRS",
+      "amount": 6892722.41
+    },
+    {
+      "id": "567851",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "567720",
+      "code": "0022",
+      "type": "program_activity",
+      "name": "OPERATION ALLIES WELCOME",
+      "amount": -1227126.48
+    }
+  ]
+}

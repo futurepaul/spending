@@ -1,0 +1,558 @@
+{
+  "total": 87301765300.98,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5695",
+      "code": "0302",
+      "type": "federal_account",
+      "name": "Tenant-Based Rental Assistance, Public and Indian Housing, Housing and Urban Development",
+      "amount": 33157183900.94,
+      "account_number": "086-0302"
+    },
+    {
+      "id": "5696",
+      "code": "0303",
+      "type": "federal_account",
+      "name": "Project-Based Rental Assistance, Housing Programs, Housing and Urban Development",
+      "amount": 16020200813.72,
+      "account_number": "086-0303"
+    },
+    {
+      "id": "5667",
+      "code": "0162",
+      "type": "federal_account",
+      "name": "Community Development Fund, Community Planning and Development, Housing and Urban Development",
+      "amount": 10525847263.65,
+      "account_number": "086-0162"
+    },
+    {
+      "id": "6364",
+      "code": "0481",
+      "type": "federal_account",
+      "name": "Public Housing Fund, Public and Indian Housing, Housing and Urban Development",
+      "amount": 8563720369.85,
+      "account_number": "086-0481"
+    },
+    {
+      "id": "5673",
+      "code": "0183",
+      "type": "federal_account",
+      "name": "Mutual Mortgage Insurance Program Account, Federal Housing Administration, Housing and Urban Development",
+      "amount": 4316128291.25,
+      "account_number": "086-0183"
+    },
+    {
+      "id": "5677",
+      "code": "0192",
+      "type": "federal_account",
+      "name": "Homeless Assistance Grants, Community Planning and Development, Housing and Urban Development",
+      "amount": 3365950521.76,
+      "account_number": "086-0192"
+    },
+    {
+      "id": "5674",
+      "code": "0186",
+      "type": "federal_account",
+      "name": "Guarantees of Mortgage-Backed Securities Loan Guarantees, Program Account, Government National Mortgage Association, Housing and Urban Development",
+      "amount": 1440007612.4,
+      "account_number": "086-0186"
+    },
+    {
+      "id": "5702",
+      "code": "0313",
+      "type": "federal_account",
+      "name": "Native American Programs, Public and Indian Housing, Housing and Urban Development",
+      "amount": 1318108799.22,
+      "account_number": "086-0313"
+    },
+    {
+      "id": "5684",
+      "code": "0205",
+      "type": "federal_account",
+      "name": "Home Investment Partnerships Program, Community and Planning Development, Housing and Urban Development",
+      "amount": 1141202136.6,
+      "account_number": "086-0205"
+    },
+    {
+      "id": "6305",
+      "code": "0479",
+      "type": "federal_account",
+      "name": "Program Offices, Management and Administration, Housing and Urban Development",
+      "amount": 1135902079.47,
+      "account_number": "086-0479"
+    },
+    {
+      "id": "5707",
+      "code": "0320",
+      "type": "federal_account",
+      "name": "Housing for the Elderly, Housing Programs, Housing and Urban Development",
+      "amount": 1121906095.78,
+      "account_number": "086-0320"
+    },
+    {
+      "id": "6482",
+      "code": "0482",
+      "type": "federal_account",
+      "name": "Green and Resilient Retrofit Program for Multifamily Housing, Housing Programs, Housing and Urban Development",
+      "amount": 776413283.14,
+      "account_number": "086-0482"
+    },
+    {
+      "id": "5715",
+      "code": "0335",
+      "type": "federal_account",
+      "name": "Administrative Support Offices, Management and Administration, Housing and Urban Development",
+      "amount": 697475023,
+      "account_number": "086-0335"
+    },
+    {
+      "id": "5682",
+      "code": "0200",
+      "type": "federal_account",
+      "name": "General and Special Risk Program Account, Federal Housing Administration, Housing and Urban Development",
+      "amount": 545928476.51,
+      "account_number": "086-0200"
+    },
+    {
+      "id": "5670",
+      "code": "0174",
+      "type": "federal_account",
+      "name": "Lead Hazard Reduction, Office of Lead Hazard Control and Healthy Homes, Housing and Urban Development",
+      "amount": 487359454.45,
+      "account_number": "086-0174"
+    },
+    {
+      "id": "5748",
+      "code": "4586",
+      "type": "federal_account",
+      "name": "Information Technology Fund, Management and Administration, Housing and Urban Development",
+      "amount": 463866056.92,
+      "account_number": "086-4586"
+    },
+    {
+      "id": "5700",
+      "code": "0308",
+      "type": "federal_account",
+      "name": "Housing Opportunities for Persons with AIDS, Community Planning and Development, Housing and Urban Development",
+      "amount": 447281826.64,
+      "account_number": "086-0308"
+    },
+    {
+      "id": "5693",
+      "code": "0237",
+      "type": "federal_account",
+      "name": "Housing for Persons with Disabilities, Housing Programs, Housing and Urban Development",
+      "amount": 344947073.66,
+      "account_number": "086-0237"
+    },
+    {
+      "id": "5729",
+      "code": "0349",
+      "type": "federal_account",
+      "name": "Choice Neighborhoods Initiative, Public and Indian Housing Programs, Housing and Urban Development",
+      "amount": 335738339.7,
+      "account_number": "086-0349"
+    },
+    {
+      "id": "5757",
+      "code": "8560",
+      "type": "federal_account",
+      "name": "Housing Trust Fund, Community Planning and Development, Housing and Urban Development",
+      "amount": 205523275.95,
+      "account_number": "086-8560"
+    },
+    {
+      "id": "5730",
+      "code": "0350",
+      "type": "federal_account",
+      "name": "Self-Sufficiency Programs, Public and Indian Housing, Housing and Urban Development",
+      "amount": 190391495.07,
+      "account_number": "086-0350"
+    },
+    {
+      "id": "5675",
+      "code": "0189",
+      "type": "federal_account",
+      "name": "Office of Inspector General, Management and Administration, Housing and Urban Development",
+      "amount": 154937613.75,
+      "account_number": "086-0189"
+    },
+    {
+      "id": "5671",
+      "code": "0176",
+      "type": "federal_account",
+      "name": "Self-Help and Assisted Homeownership Opportunity Program, Community Planning and Development, Housing and Urban Development",
+      "amount": 109907931.28,
+      "account_number": "086-0176"
+    },
+    {
+      "id": "5665",
+      "code": "0156",
+      "type": "federal_account",
+      "name": "Housing Counseling Assistance, Housing Programs, Housing and Urban Development",
+      "amount": 102680588.5,
+      "account_number": "086-0156"
+    },
+    {
+      "id": "5660",
+      "code": "0108",
+      "type": "federal_account",
+      "name": "Research and Technology, Policy Development and Research, Housing and Urban Development",
+      "amount": 96048182.51,
+      "account_number": "086-0108"
+    },
+    {
+      "id": "5749",
+      "code": "4598",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Management and Administration, Housing and Urban Development",
+      "amount": 71126853.63,
+      "account_number": "086-4598"
+    },
+    {
+      "id": "5663",
+      "code": "0144",
+      "type": "federal_account",
+      "name": "Fair Housing Activities, Fair Housing and Equal Opportunity, Housing and Urban Development",
+      "amount": 64164608.24,
+      "account_number": "086-0144"
+    },
+    {
+      "id": "5742",
+      "code": "4072",
+      "type": "federal_account",
+      "name": "FHA-General and Special Risk Insurance Fund Liquidating Account, Housing and Urban Development",
+      "amount": 22897941.71,
+      "account_number": "086-4072"
+    },
+    {
+      "id": "5691",
+      "code": "0235",
+      "type": "federal_account",
+      "name": "Native Hawaiian Housing Block Grant, Public and Indian Housing, Housing and Urban Development",
+      "amount": 22300000,
+      "account_number": "086-0235"
+    },
+    {
+      "id": "5688",
+      "code": "0223",
+      "type": "federal_account",
+      "name": "Indian Housing Loan Guarantee Fund Program Account, Public and Indian Housing, Housing and Urban Development",
+      "amount": 19669291.59,
+      "account_number": "086-0223"
+    },
+    {
+      "id": "5712",
+      "code": "0332",
+      "type": "federal_account",
+      "name": "Executive Offices, Management and Administration, Housing and Urban Development",
+      "amount": 18443159.66,
+      "account_number": "086-0332"
+    },
+    {
+      "id": "7010",
+      "code": "0484",
+      "type": "federal_account",
+      "name": "Assisted Housing Inspections and Risk Assessments, Public and Indian Housing, Housing & Urban Development",
+      "amount": 16093923.97,
+      "account_number": "086-0484"
+    },
+    {
+      "id": "5756",
+      "code": "8119",
+      "type": "federal_account",
+      "name": "Manufactured Housing Fees Trust Fund, Housing Programs, Housing and Urban Development",
+      "amount": 7093769.4,
+      "account_number": "086-8119"
+    },
+    {
+      "id": "5718",
+      "code": "0338",
+      "type": "federal_account",
+      "name": "Community Planning and Development, Program Office Salaries and Expenses, Housing and Urban Development",
+      "amount": 3588677.18,
+      "account_number": "086-0338"
+    },
+    {
+      "id": "5740",
+      "code": "4070",
+      "type": "federal_account",
+      "name": "Federal Housing Administration Fund, Housing and Urban Development",
+      "amount": 2907336.09,
+      "account_number": "086-4070"
+    },
+    {
+      "id": "5723",
+      "code": "0343",
+      "type": "federal_account",
+      "name": "Home Ownership Preservation Entity Fund Program Account, Housing and Urban Development",
+      "amount": 1195705.65,
+      "account_number": "086-0343"
+    },
+    {
+      "id": "5733",
+      "code": "0407",
+      "type": "federal_account",
+      "name": "Emergency Homeowner's Relief Fund, Housing Programs, Housing and Urban Development",
+      "amount": 964077.1,
+      "account_number": "086-0407"
+    },
+    {
+      "id": "5685",
+      "code": "0218",
+      "type": "federal_account",
+      "name": "Revitalization of Severely Distressed Public Housing (HOPE VI), Public and Indian Housing, Department of Housing and Urban Development",
+      "amount": 711161.03,
+      "account_number": "086-0218"
+    },
+    {
+      "id": "5689",
+      "code": "0233",
+      "type": "federal_account",
+      "name": "Native Hawaiian Housing Loan Guarantee Fund Program Account, Public and Indian Housing, Housing and Urban Development",
+      "amount": 347760.55,
+      "account_number": "086-0233"
+    },
+    {
+      "id": "5746",
+      "code": "4238",
+      "type": "federal_account",
+      "name": "Guarantees of Mortgage-Backed Securities Fund, Government National Mortgage Association, Housing and Urban Development",
+      "amount": 185525.71,
+      "account_number": "086-4238"
+    },
+    {
+      "id": "5662",
+      "code": "0143",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Management and Administration, Housing and Urban Development",
+      "amount": 168995.53,
+      "account_number": "086-0143"
+    },
+    {
+      "id": "5717",
+      "code": "0337",
+      "type": "federal_account",
+      "name": "Public and Indian Housing, Program Office Salaries and Expenses, Housing and Urban Development",
+      "amount": 149362.6,
+      "account_number": "086-0337"
+    },
+    {
+      "id": "5755",
+      "code": "8093",
+      "type": "federal_account",
+      "name": "Gifts and Bequests, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-8093"
+    },
+    {
+      "id": "5661",
+      "code": "0129",
+      "type": "federal_account",
+      "name": "Rent Supplement, Housing Programs, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0129"
+    },
+    {
+      "id": "5679",
+      "code": "0196",
+      "type": "federal_account",
+      "name": "Homeownership and Opportunity for People Everywhere Grants (HOPE Grants), Housing Programs, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0196"
+    },
+    {
+      "id": "5680",
+      "code": "0197",
+      "type": "federal_account",
+      "name": "Drug Elimination Grants for Low-Income Housing, Housing Programs, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0197"
+    },
+    {
+      "id": "5692",
+      "code": "0236",
+      "type": "federal_account",
+      "name": "FHA, Mutual Mortgage Insurance Capital Reserve Account, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0236"
+    },
+    {
+      "id": "5694",
+      "code": "0238",
+      "type": "federal_account",
+      "name": "Guarantees of Mortgage-Backed Securities Capital Reserve Account, Government National Mortgage Association, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0238"
+    },
+    {
+      "id": "5703",
+      "code": "0314",
+      "type": "federal_account",
+      "name": "Brownfields Redevelopment, Community Planning and Development, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0314"
+    },
+    {
+      "id": "5704",
+      "code": "0315",
+      "type": "federal_account",
+      "name": "Empowerment Zones/Enterprise Communities, Community Planning and Development, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0315"
+    },
+    {
+      "id": "5719",
+      "code": "0339",
+      "type": "federal_account",
+      "name": "Policy Development and Research, Program Office Salaries and Expenses, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0339"
+    },
+    {
+      "id": "5721",
+      "code": "0341",
+      "type": "federal_account",
+      "name": "Office of Healthy Homes and Lead Hazard Control, Program Office Salaries and Expenses, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0341"
+    },
+    {
+      "id": "5732",
+      "code": "0402",
+      "type": "federal_account",
+      "name": "Transformation Initiative, Management and Administration, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0402"
+    },
+    {
+      "id": "5735",
+      "code": "4015",
+      "type": "federal_account",
+      "name": "Revolving Fund, Liquidating Programs, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-4015"
+    },
+    {
+      "id": "5736",
+      "code": "4041",
+      "type": "federal_account",
+      "name": "Rental Housing Assistance Fund, Federal Housing Administration, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-4041"
+    },
+    {
+      "id": "5738",
+      "code": "4044",
+      "type": "federal_account",
+      "name": "Flexible Subsidy Fund, Housing Programs, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-4044"
+    },
+    {
+      "id": "5739",
+      "code": "4058",
+      "type": "federal_account",
+      "name": "College Housing Loans, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-4058"
+    },
+    {
+      "id": "6336",
+      "code": "0480",
+      "type": "federal_account",
+      "name": "Guarantees of Mortgage-Backed Securities Pass-Through Assistance",
+      "amount": 0,
+      "account_number": "086-0480"
+    },
+    {
+      "id": "6507",
+      "code": "0483",
+      "type": "federal_account",
+      "name": "Preservation and Reinvestment Initiative for Community Enhancement, Community Planning and Development, Housing and Urban Development",
+      "amount": 0,
+      "account_number": "086-0483"
+    },
+    {
+      "id": "5708",
+      "code": "0324",
+      "type": "federal_account",
+      "name": "Rural Housing and Economic Development, Public and Indian Housing, Housing and Urban Development",
+      "amount": -2200,
+      "account_number": "086-0324"
+    },
+    {
+      "id": "5720",
+      "code": "0340",
+      "type": "federal_account",
+      "name": "Fair Housing and Equal Opportunity, Program Office Salaries and Expenses, Housing and Urban Development",
+      "amount": -10598.15,
+      "account_number": "086-0340"
+    },
+    {
+      "id": "5714",
+      "code": "0334",
+      "type": "federal_account",
+      "name": "Housing, Program Office Salaries and Expenses, Housing and Urban Development",
+      "amount": -52519.18,
+      "account_number": "086-0334"
+    },
+    {
+      "id": "5741",
+      "code": "4071",
+      "type": "federal_account",
+      "name": "Nehemiah Housing Opportunity Fund, Housing and Urban Development",
+      "amount": -118500,
+      "account_number": "086-4071"
+    },
+    {
+      "id": "5745",
+      "code": "4115",
+      "type": "federal_account",
+      "name": "Housing for the Elderly or Handicapped Fund, Housing and Urban Development",
+      "amount": -180177.94,
+      "account_number": "086-4115"
+    },
+    {
+      "id": "5706",
+      "code": "0319",
+      "type": "federal_account",
+      "name": "Housing Certificate Fund, Public and Indian Housing, Housing and Urban Development",
+      "amount": -896947.97,
+      "account_number": "086-0319"
+    },
+    {
+      "id": "5724",
+      "code": "0344",
+      "type": "federal_account",
+      "name": "Neighborhood Stabilization Program, Community Planning and Development, Housing and Urban Development",
+      "amount": -902470.27,
+      "account_number": "086-0344"
+    },
+    {
+      "id": "5668",
+      "code": "0163",
+      "type": "federal_account",
+      "name": "Public Housing Operating Fund, Public and Indian Housing, Housing and Urban Development",
+      "amount": -1515586.44,
+      "account_number": "086-0163"
+    },
+    {
+      "id": "5697",
+      "code": "0304",
+      "type": "federal_account",
+      "name": "Public Housing Capital Fund, Public and Indian Housing, Housing and Urban Development",
+      "amount": -5020847.1,
+      "account_number": "086-0304"
+    },
+    {
+      "id": "5664",
+      "code": "0148",
+      "type": "federal_account",
+      "name": "Rental Housing Assistance, Housing Programs, Housing and Urban Development",
+      "amount": -6199507.33,
+      "account_number": "086-0148"
+    }
+  ]
+}

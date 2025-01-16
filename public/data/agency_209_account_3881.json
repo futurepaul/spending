@@ -1,0 +1,34 @@
+{
+  "total": 201670462.27,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566712",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GRANTS-IN-AID",
+      "amount": 144050936.56
+    },
+    {
+      "id": "566493",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "HISTORIC PRESERVATION FUND PROJECTS",
+      "amount": 32647000
+    },
+    {
+      "id": "566763",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "SAVE AMERICA'S TREASURES GRANTS",
+      "amount": 24972525.71
+    },
+    {
+      "id": "566623",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "GRANTS TO STATES AND TERRITORIES (DISASTER SUPPLEMENTAL P.L. 116-20)",
+      "amount": 0
+    }
+  ]
+}

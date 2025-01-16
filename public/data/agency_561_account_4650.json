@@ -1,0 +1,34 @@
+{
+  "total": 414161496.85,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569645",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "MEDICAL PROGRAMS",
+      "amount": 249463064.17
+    },
+    {
+      "id": "569604",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONAL CEMETERIES",
+      "amount": 152316716.14
+    },
+    {
+      "id": "569556",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "STAFF OFFICES",
+      "amount": 12381699.4
+    },
+    {
+      "id": "569543",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 17.14
+    }
+  ]
+}

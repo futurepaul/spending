@@ -1,0 +1,83 @@
+{
+  "total": 2324978254.79,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "566617",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "SURVEYS, INVESTIGATIONS, AND RESEARCH (REIMBURSABLE)",
+      "amount": 671048582.96
+    },
+    {
+      "id": "566327",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ECOSYSTEMS",
+      "amount": 307885378.17
+    },
+    {
+      "id": "566721",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "WATER RESOURCES",
+      "amount": 302052724.56
+    },
+    {
+      "id": "566474",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "CORE SCIENCE SYSTEMS",
+      "amount": 276689599.02
+    },
+    {
+      "id": "566735",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "NATURAL HAZARDS",
+      "amount": 212891718.88
+    },
+    {
+      "id": "566366",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "FACILITIES",
+      "amount": 210506011.69
+    },
+    {
+      "id": "566579",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "ENERGY AND MINERAL RESOURCES",
+      "amount": 177869732.75
+    },
+    {
+      "id": "566381",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "SCIENCE SUPPORT",
+      "amount": 111693241.42
+    },
+    {
+      "id": "566312",
+      "code": "0102",
+      "type": "program_activity",
+      "name": "RESTORATION OF FEDERAL ASSETS (DISASTER SUPPLEMENTAL P.L. 116-20)",
+      "amount": 54341264.09
+    },
+    {
+      "id": "566799",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "RESTORATION OF FEDERAL ASSETS (HURRICANE SUPPLEMENTAL P.L. 115-123)",
+      "amount": 1.25
+    },
+    {
+      "id": "566357",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

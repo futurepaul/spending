@@ -1,0 +1,34 @@
+{
+  "total": 1107150456.54,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564426",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AMMUNITION",
+      "amount": 613084364.58
+    },
+    {
+      "id": "564510",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 470081718.09
+    },
+    {
+      "id": "565044",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "WEAPONS",
+      "amount": 23633269.58
+    },
+    {
+      "id": "564680",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 351104.29
+    }
+  ]
+}

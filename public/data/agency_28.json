@@ -1,0 +1,14 @@
+{
+  "total": 655855019.8,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "3292",
+      "code": "0930",
+      "type": "federal_account",
+      "name": "Court Security, Court of Appeals, District Courts, and Other Judicial Services, The Judiciary",
+      "amount": 655855019.8,
+      "account_number": "010-0930"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "total": 38373220335.48,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564141",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "FEDERAL PELL GRANTS",
+      "amount": 36315367027.59
+    },
+    {
+      "id": "564136",
+      "code": "0202",
+      "type": "program_activity",
+      "name": "FEDERAL WORK-STUDY",
+      "amount": 1157616167.1
+    },
+    {
+      "id": "564103",
+      "code": "0201",
+      "type": "program_activity",
+      "name": "FEDERAL SUPPLEMENTAL EDUCATIONAL OPPORTUNITY GRANTS (SEOG)",
+      "amount": 900237140.79
+    },
+    {
+      "id": "564174",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

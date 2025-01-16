@@ -1,0 +1,69 @@
+{
+  "total": 505786664.01,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569724",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GRANTS TO STATES AND TRIBES",
+      "amount": 338131239.27
+    },
+    {
+      "id": "569912",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "PERSONAL RESPONSIBILITY EDUCATION (PREP)",
+      "amount": 70601581.15
+    },
+    {
+      "id": "570153",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "ABSTINENCE EDUCATION",
+      "amount": 63309408.37
+    },
+    {
+      "id": "569917",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "STATE COURT IMPROVEMENT ACTIVITIES",
+      "amount": 26804656.38
+    },
+    {
+      "id": "569840",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "RESEARCH, TRAINING AND TECHNICAL ASSISTANCE",
+      "amount": 7755589.7
+    },
+    {
+      "id": "645748",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GRANTS TO STATES AND TRIBES",
+      "amount": 190003
+    },
+    {
+      "id": "569996",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    },
+    {
+      "id": "570000",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "FAMILY FIRST TRANSITION ACT",
+      "amount": 0
+    },
+    {
+      "id": "569829",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "FAMILY CONNECTION GRANTS",
+      "amount": -1005813.86
+    }
+  ]
+}

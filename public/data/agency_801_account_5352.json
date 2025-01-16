@@ -1,0 +1,20 @@
+{
+  "total": 2811467.45,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565179",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "ASSISTANCE FOR THE INDEPENDENT STATES OF THE FORMER SOVIET UNION (DIRECT)",
+      "amount": 2811467.45
+    },
+    {
+      "id": "570345",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 0
+    }
+  ]
+}

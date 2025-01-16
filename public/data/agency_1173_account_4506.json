@@ -1,0 +1,55 @@
+{
+  "total": 8337493564.16,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565045",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "AMMUNITION",
+      "amount": 5913010468.52
+    },
+    {
+      "id": "564548",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "AMMO PRODUCTION BASE SPT",
+      "amount": 1256468571.51
+    },
+    {
+      "id": "564802",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 1151436049.16
+    },
+    {
+      "id": "564911",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 16676643.38
+    },
+    {
+      "id": "573584",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "573708",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 0
+    },
+    {
+      "id": "574019",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -98168.41
+    }
+  ]
+}

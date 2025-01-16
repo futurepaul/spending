@@ -1,0 +1,1398 @@
+{
+  "total": 226669470463.36,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "3551",
+      "code": "3505",
+      "type": "federal_account",
+      "name": "Supplemental Nutrition Assistance Program, Food and Nutrition Service, Agriculture",
+      "amount": 97024020191.84,
+      "account_number": "012-3505"
+    },
+    {
+      "id": "3556",
+      "code": "3539",
+      "type": "federal_account",
+      "name": "Child Nutrition Programs, Food and Nutrition Service",
+      "amount": 32819402479.95,
+      "account_number": "012-3539"
+    },
+    {
+      "id": "3564",
+      "code": "4085",
+      "type": "federal_account",
+      "name": "Federal Crop Insurance Corporation Fund, Risk Management Agency, Agriculture",
+      "amount": 22057108643.45,
+      "account_number": "012-4085"
+    },
+    {
+      "id": "3573",
+      "code": "4336",
+      "type": "federal_account",
+      "name": "Commodity Credit Corporation Fund, Agriculture",
+      "amount": 9882299402.26,
+      "account_number": "012-4336"
+    },
+    {
+      "id": "3555",
+      "code": "3510",
+      "type": "federal_account",
+      "name": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC), Food and Nutrition Service",
+      "amount": 6962185114.49,
+      "account_number": "012-3510"
+    },
+    {
+      "id": "3460",
+      "code": "1004",
+      "type": "federal_account",
+      "name": "Farm Security and Rural Investment Programs, Natural Resources Conservation Service, Agriculture",
+      "amount": 6144425155.22,
+      "account_number": "012-1004"
+    },
+    {
+      "id": "3472",
+      "code": "1115",
+      "type": "federal_account",
+      "name": "Wildland Fire Management, Forest Service, Agriculture",
+      "amount": 5530597977.12,
+      "account_number": "012-1115"
+    },
+    {
+      "id": "3419",
+      "code": "0115",
+      "type": "federal_account",
+      "name": "Processing, Research and Marketing, Office of the Secretary, Agriculture",
+      "amount": 4039206343.68,
+      "account_number": "012-0115"
+    },
+    {
+      "id": "3471",
+      "code": "1106",
+      "type": "federal_account",
+      "name": "National Forest System, Forest Service, Agriculture",
+      "amount": 2613327291.79,
+      "account_number": "012-1106"
+    },
+    {
+      "id": "3481",
+      "code": "1230",
+      "type": "federal_account",
+      "name": "Rural Electrification and Telecommunications Loans Program Account, Rural Utilities Service, Agriculture",
+      "amount": 2546493430.34,
+      "account_number": "012-1230"
+    },
+    {
+      "id": "3495",
+      "code": "1600",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Animal and Plant Health Inspection Service, Agriculture",
+      "amount": 2372845858.76,
+      "account_number": "012-1600"
+    },
+    {
+      "id": "3470",
+      "code": "1105",
+      "type": "federal_account",
+      "name": "State and Private Forestry, Forest Service, Agriculture",
+      "amount": 2285714601.27,
+      "account_number": "012-1105"
+    },
+    {
+      "id": "3523",
+      "code": "2278",
+      "type": "federal_account",
+      "name": "Food for Peace Title II Grants, Foreign Agricultural Service, Agriculture",
+      "amount": 2257090207.54,
+      "account_number": "012-2278"
+    },
+    {
+      "id": "3486",
+      "code": "1400",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Agricultural Research Service, Agricullture",
+      "amount": 1959632479.22,
+      "account_number": "012-1400"
+    },
+    {
+      "id": "3457",
+      "code": "1000",
+      "type": "federal_account",
+      "name": "Conservation Operations, Natural Resources Conservation Service, Agriculture",
+      "amount": 1660908906.77,
+      "account_number": "012-1000"
+    },
+    {
+      "id": "3577",
+      "code": "4609",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Agriculture",
+      "amount": 1641306940.4,
+      "account_number": "012-4609"
+    },
+    {
+      "id": "3436",
+      "code": "0137",
+      "type": "federal_account",
+      "name": "Rental Assistance Program, Rural Housing Service, Agriculture",
+      "amount": 1607611051.49,
+      "account_number": "012-0137"
+    },
+    {
+      "id": "3452",
+      "code": "0600",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Farm Service Agency, Agriculture",
+      "amount": 1533895275.32,
+      "account_number": "012-0600"
+    },
+    {
+      "id": "3477",
+      "code": "1140",
+      "type": "federal_account",
+      "name": "Agricultural Credit Insurance Fund Program Account,  Farm Service Agency, Agriculture",
+      "amount": 1532830346.73,
+      "account_number": "012-1140"
+    },
+    {
+      "id": "3560",
+      "code": "3700",
+      "type": "federal_account",
+      "name": "Food Safety and Inspection Service, Agriculture",
+      "amount": 1429124839.15,
+      "account_number": "012-3700"
+    },
+    {
+      "id": "3527",
+      "code": "2500",
+      "type": "federal_account",
+      "name": "Marketing Services, Agricultural Marketing Service, Agriculture",
+      "amount": 1418143201.58,
+      "account_number": "012-2500"
+    },
+    {
+      "id": "6347",
+      "code": "1122",
+      "type": "federal_account",
+      "name": "Forest Service Operations, Forest Service, Agriculture",
+      "amount": 1344410370.32,
+      "account_number": "012-1122"
+    },
+    {
+      "id": "3589",
+      "code": "5209",
+      "type": "federal_account",
+      "name": "Funds for Strengthening Markets, Income, and Supply (Section 32), Agriculture",
+      "amount": 1297487643.98,
+      "account_number": "012-5209"
+    },
+    {
+      "id": "3492",
+      "code": "1500",
+      "type": "federal_account",
+      "name": "Research and Education Activities, National Institute of Food and Agriculture, Agriculture",
+      "amount": 1169019514.86,
+      "account_number": "012-1500"
+    },
+    {
+      "id": "3517",
+      "code": "2081",
+      "type": "federal_account",
+      "name": "Rural Housing Insurance Fund Program Account, Rural Housing Service, Agriculture",
+      "amount": 1014256933.94,
+      "account_number": "012-2081"
+    },
+    {
+      "id": "3446",
+      "code": "0403",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Rural Development, Agriculture",
+      "amount": 903267508.63,
+      "account_number": "012-0403"
+    },
+    {
+      "id": "3510",
+      "code": "1980",
+      "type": "federal_account",
+      "name": "Rural Water and Waste Disposal Program Account, Rural Utilities Service, Agriculture",
+      "amount": 889668710.45,
+      "account_number": "012-1980"
+    },
+    {
+      "id": "3434",
+      "code": "0133",
+      "type": "federal_account",
+      "name": "Nonrecurring Expenses Fund, Office of the Chief Financial Officer, Agriculture",
+      "amount": 781265174.95,
+      "account_number": "012-0133"
+    },
+    {
+      "id": "3503",
+      "code": "1908",
+      "type": "federal_account",
+      "name": "Rural Energy for America Program, Rural Business-Cooperative Service, Agriculture",
+      "amount": 733108002.7,
+      "account_number": "012-1908"
+    },
+    {
+      "id": "3449",
+      "code": "0502",
+      "type": "federal_account",
+      "name": "Extension Activities, National Institute of Food and Agriculture, Agriculture",
+      "amount": 717447189.78,
+      "account_number": "012-0502"
+    },
+    {
+      "id": "3463",
+      "code": "1072",
+      "type": "federal_account",
+      "name": "Watershed and Flood Prevention Operations, Natural Resources Conservation Service, Agriculture",
+      "amount": 580226994.23,
+      "account_number": "012-1072"
+    },
+    {
+      "id": "3552",
+      "code": "3507",
+      "type": "federal_account",
+      "name": "Commodity Assistance Program, Food and Nutrition Service, Agriculture",
+      "amount": 501493197.79,
+      "account_number": "012-3507"
+    },
+    {
+      "id": "3505",
+      "code": "1951",
+      "type": "federal_account",
+      "name": "Rural Community Facilities Program Account, Rural Housing Service, Agriculture",
+      "amount": 488360724.17,
+      "account_number": "012-1951"
+    },
+    {
+      "id": "3468",
+      "code": "1103",
+      "type": "federal_account",
+      "name": "Capital Improvement and Maintenance, Forest Service, Agriculture",
+      "amount": 428018409.31,
+      "account_number": "012-1103"
+    },
+    {
+      "id": "3442",
+      "code": "0180",
+      "type": "federal_account",
+      "name": "Farm Production and Conservation Business Center, Farm Production and Conservation Programs, Agriculture",
+      "amount": 372418549.9,
+      "account_number": "012-0180"
+    },
+    {
+      "id": "3469",
+      "code": "1104",
+      "type": "federal_account",
+      "name": "Forest and Rangeland Research, Forest Service, Agriculture",
+      "amount": 346622043.18,
+      "account_number": "012-1104"
+    },
+    {
+      "id": "3483",
+      "code": "1232",
+      "type": "federal_account",
+      "name": "Distance Learning, Telemedicine and Broadband Program, Rural Utilities Service, Agriculture",
+      "amount": 324917321.78,
+      "account_number": "012-1232"
+    },
+    {
+      "id": "3531",
+      "code": "2900",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Foreign Agricultural Service, Agriculture",
+      "amount": 321091162.41,
+      "account_number": "012-2900"
+    },
+    {
+      "id": "3576",
+      "code": "4605",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Forest Service,  Agriculture",
+      "amount": 308667235.54,
+      "account_number": "012-4605"
+    },
+    {
+      "id": "3532",
+      "code": "2903",
+      "type": "federal_account",
+      "name": "McGovern-Dole International Food for Education and Child Nutrition Program, Foreign Agricultural Service, Agriculture",
+      "amount": 293120042.71,
+      "account_number": "012-2903"
+    },
+    {
+      "id": "3580",
+      "code": "5161",
+      "type": "federal_account",
+      "name": "Agricultural Quarantine Inspection User Fee Account, Animal and Plant Health Inspection Service, Agriculture",
+      "amount": 265329433.64,
+      "account_number": "012-5161"
+    },
+    {
+      "id": "6477",
+      "code": "1124",
+      "type": "federal_account",
+      "name": "Assistance for Farmers and Ranchers Account, Farm Service Agency, Agriculture",
+      "amount": 235604695.79,
+      "account_number": "012-1124"
+    },
+    {
+      "id": "3498",
+      "code": "1801",
+      "type": "federal_account",
+      "name": "National Agricultural Statistics Service, Agriculture",
+      "amount": 234128597.84,
+      "account_number": "012-1801"
+    },
+    {
+      "id": "3637",
+      "code": "8015",
+      "type": "federal_account",
+      "name": "Expenses and Refunds, Inspection and Grading of Farm Products, Agricultural Marketing Service, Agriculture",
+      "amount": 216482052.3,
+      "account_number": "012-8015"
+    },
+    {
+      "id": "3641",
+      "code": "8046",
+      "type": "federal_account",
+      "name": "Reforestation Trust Fund, Forest Service, Agriculture",
+      "amount": 202062109.24,
+      "account_number": "012-8046"
+    },
+    {
+      "id": "3516",
+      "code": "2073",
+      "type": "federal_account",
+      "name": "Energy Assistance Payments, Rural Business - Cooperative Service, Agriculture",
+      "amount": 184550689.99,
+      "account_number": "012-2073"
+    },
+    {
+      "id": "3553",
+      "code": "3508",
+      "type": "federal_account",
+      "name": "Nutrition Programs Administration, Food and Nutrition Service, Agriculture",
+      "amount": 176769096.3,
+      "account_number": "012-3508"
+    },
+    {
+      "id": "3494",
+      "code": "1502",
+      "type": "federal_account",
+      "name": "Integrated Activities, National Institute of Food and Agriculture, Agriculture",
+      "amount": 164928818.38,
+      "account_number": "012-1502"
+    },
+    {
+      "id": "6353",
+      "code": "5716",
+      "type": "federal_account",
+      "name": "National Parks and Public Land Legacy Restoration Fund, Forest Service, Agriculture",
+      "amount": 161759255.58,
+      "account_number": "012-5716"
+    },
+    {
+      "id": "3598",
+      "code": "5268",
+      "type": "federal_account",
+      "name": "Recreation Fee Demonstration Program, Forest Service,  Agriculture",
+      "amount": 158986465.45,
+      "account_number": "012-5268"
+    },
+    {
+      "id": "3543",
+      "code": "3316",
+      "type": "federal_account",
+      "name": "Emergency Conservation Program, Farm Service Agency, Agriculture",
+      "amount": 154114968.85,
+      "account_number": "012-3316"
+    },
+    {
+      "id": "3581",
+      "code": "5201",
+      "type": "federal_account",
+      "name": "Payments to States, National Forests Fund,  Forest Service, Agriculture",
+      "amount": 129772144.6,
+      "account_number": "012-5201"
+    },
+    {
+      "id": "3456",
+      "code": "0900",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Agriculture",
+      "amount": 115474912.27,
+      "account_number": "012-0900"
+    },
+    {
+      "id": "3473",
+      "code": "1117",
+      "type": "federal_account",
+      "name": "Payments to States, Northern Spotted Owl Guarantee, Forest Service, Agriculture",
+      "amount": 114780664.53,
+      "account_number": "012-1117"
+    },
+    {
+      "id": "3638",
+      "code": "8028",
+      "type": "federal_account",
+      "name": "Cooperative Work, Forest Service,  Agriculture",
+      "amount": 101996880.24,
+      "account_number": "012-8028"
+    },
+    {
+      "id": "3413",
+      "code": "0013",
+      "type": "federal_account",
+      "name": "Expenses, Office of the Chief Information Officer, Agriculture",
+      "amount": 100316458.01,
+      "account_number": "012-0013"
+    },
+    {
+      "id": "3497",
+      "code": "1701",
+      "type": "federal_account",
+      "name": "Economic Research Service, Agriculture",
+      "amount": 93401011.37,
+      "account_number": "012-1701"
+    },
+    {
+      "id": "3578",
+      "code": "5004",
+      "type": "federal_account",
+      "name": "Land Acquisition, Forest Service, Agriculture",
+      "amount": 84668026.38,
+      "account_number": "012-5004"
+    },
+    {
+      "id": "3528",
+      "code": "2501",
+      "type": "federal_account",
+      "name": "Payments to States and Possessions, Agricultural Marketing Service, Agriculture",
+      "amount": 81994931.54,
+      "account_number": "012-2501"
+    },
+    {
+      "id": "3487",
+      "code": "1401",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, Agricultural Research Service, Agriculture",
+      "amount": 81793010.92,
+      "account_number": "012-1401"
+    },
+    {
+      "id": "3501",
+      "code": "1902",
+      "type": "federal_account",
+      "name": "Rural Business Program Account, Rural Business-Cooperative Service, Agriculture",
+      "amount": 74926190.08,
+      "account_number": "012-1902"
+    },
+    {
+      "id": "3525",
+      "code": "2300",
+      "type": "federal_account",
+      "name": "Office of the General Counsel, Agriculture",
+      "amount": 72820281.54,
+      "account_number": "012-2300"
+    },
+    {
+      "id": "3530",
+      "code": "2707",
+      "type": "federal_account",
+      "name": "Administrative and Operating Expenses, Office of Risk Management, Agriculture",
+      "amount": 72093077.36,
+      "account_number": "012-2707"
+    },
+    {
+      "id": "3571",
+      "code": "4230",
+      "type": "federal_account",
+      "name": "Rural Electrification and Telephone Revolving Fund, Liquidating Account, Rural Utilities Service, Agriculture",
+      "amount": 67376167.69,
+      "account_number": "012-4230"
+    },
+    {
+      "id": "3617",
+      "code": "5896",
+      "type": "federal_account",
+      "name": "Payments to Counties, National Grasslands, Forest Service,  Agriculture",
+      "amount": 61652097.43,
+      "account_number": "012-5896"
+    },
+    {
+      "id": "3607",
+      "code": "5367",
+      "type": "federal_account",
+      "name": "State and Private Forestry, Forest Service,  Agriculture",
+      "amount": 58140897.15,
+      "account_number": "012-5367"
+    },
+    {
+      "id": "3534",
+      "code": "3106",
+      "type": "federal_account",
+      "name": "Biorefinery Assistance Program Account, Rural Business - Cooperative Service, Agriculture",
+      "amount": 57077115,
+      "account_number": "012-3106"
+    },
+    {
+      "id": "3420",
+      "code": "0117",
+      "type": "federal_account",
+      "name": "Agriculture Buildings and Facilities, Agriculture",
+      "amount": 56043215.88,
+      "account_number": "012-0117"
+    },
+    {
+      "id": "3592",
+      "code": "5215",
+      "type": "federal_account",
+      "name": "Restoration of Forest Lands and Improvements, Forest Service, Agriculture",
+      "amount": 54299102.82,
+      "account_number": "012-5215"
+    },
+    {
+      "id": "6459",
+      "code": "0017",
+      "type": "federal_account",
+      "name": "Emergency Watershed Protection Program, Natural Resources Conservation Programs, Agriculture",
+      "amount": 52146046.69,
+      "account_number": "012-0017"
+    },
+    {
+      "id": "3566",
+      "code": "4141",
+      "type": "federal_account",
+      "name": "Rural Housing Insurance Fund, Liquidating Account, Rural Housing Service, Agriculture",
+      "amount": 51865778.75,
+      "account_number": "012-4141"
+    },
+    {
+      "id": "3506",
+      "code": "1953",
+      "type": "federal_account",
+      "name": "Expenses, Rural Housing Assistance Grants, Rural Housing Service, Agriculture",
+      "amount": 48457227.48,
+      "account_number": "012-1953"
+    },
+    {
+      "id": "3584",
+      "code": "5204",
+      "type": "federal_account",
+      "name": "Timber Salvage Sales, Forest Service,  Agriculture",
+      "amount": 47291801.65,
+      "account_number": "012-5204"
+    },
+    {
+      "id": "3511",
+      "code": "2002",
+      "type": "federal_account",
+      "name": "Multi-Family Housing Revitalization Program Account, Rural Housing Service, Agriculture",
+      "amount": 41601618.4,
+      "account_number": "012-2002"
+    },
+    {
+      "id": "3500",
+      "code": "1900",
+      "type": "federal_account",
+      "name": "Rural Cooperative Development Grants, Rural Business-Cooperative Service, Agriculture",
+      "amount": 39294634.89,
+      "account_number": "012-1900"
+    },
+    {
+      "id": "3533",
+      "code": "3105",
+      "type": "federal_account",
+      "name": "Rural Economic Development Grants, Rural Business-Cooperative Service, Agriculture",
+      "amount": 38796780,
+      "account_number": "012-3105"
+    },
+    {
+      "id": "3536",
+      "code": "3301",
+      "type": "federal_account",
+      "name": "Farm Storage Facility Loans Program Accounts, Farm Service Agency, Agriculture",
+      "amount": 38648797.54,
+      "account_number": "012-3301"
+    },
+    {
+      "id": "3424",
+      "code": "0123",
+      "type": "federal_account",
+      "name": "Office of the Chief Economist, Executive Operations, Agriculture",
+      "amount": 36728134.61,
+      "account_number": "012-0123"
+    },
+    {
+      "id": "3562",
+      "code": "3800",
+      "type": "federal_account",
+      "name": "Office of Civil Rights, Agriculture",
+      "amount": 35282783.86,
+      "account_number": "012-3800"
+    },
+    {
+      "id": "3563",
+      "code": "4050",
+      "type": "federal_account",
+      "name": "Inspection and Weighing Services, Grain Inspection, Packers and Stockyards Administration, Agriculture",
+      "amount": 33617079.16,
+      "account_number": "012-4050"
+    },
+    {
+      "id": "6366",
+      "code": "0470",
+      "type": "federal_account",
+      "name": "Office of Safety, Security, and Protection, Executive Operations, Agriculture",
+      "amount": 32039269.89,
+      "account_number": "012-0470"
+    },
+    {
+      "id": "3612",
+      "code": "5540",
+      "type": "federal_account",
+      "name": "Stewardship Contracting Product Sales, Forest Service, Agriculture",
+      "amount": 29904339.63,
+      "account_number": "012-5540"
+    },
+    {
+      "id": "3512",
+      "code": "2006",
+      "type": "federal_account",
+      "name": "Mutual and Self-Help Housing Grants, Rural Housing Service, Agriculture",
+      "amount": 26198310.77,
+      "account_number": "012-2006"
+    },
+    {
+      "id": "3453",
+      "code": "0601",
+      "type": "federal_account",
+      "name": "Outreach for Socially Disadvantaged Farmers, Office of the Secretary, Agriculture",
+      "amount": 23506171.26,
+      "account_number": "012-0601"
+    },
+    {
+      "id": "3458",
+      "code": "1002",
+      "type": "federal_account",
+      "name": "Watershed Rehabilitation Program, Natural Resources Conservation Service, Agriculture",
+      "amount": 20898204.39,
+      "account_number": "012-1002"
+    },
+    {
+      "id": "3616",
+      "code": "5636",
+      "type": "federal_account",
+      "name": "Agriculture Wool Apparel Manufacturers Trust Fund, Farm Service Agency, Agriculture",
+      "amount": 19985959.95,
+      "account_number": "012-5636"
+    },
+    {
+      "id": "3643",
+      "code": "8137",
+      "type": "federal_account",
+      "name": "Expenses and Refunds, Inspection of Farm Products, Food Safety and Inspection Service, Agriculture",
+      "amount": 18776623.32,
+      "account_number": "012-8137"
+    },
+    {
+      "id": "3647",
+      "code": "8214",
+      "type": "federal_account",
+      "name": "Miscellaneous Contributed Funds, Agricultural Research Service, Agriculture",
+      "amount": 18464024.34,
+      "account_number": "012-8214"
+    },
+    {
+      "id": "3454",
+      "code": "0706",
+      "type": "federal_account",
+      "name": "Office of Hearings and Appeals Division, Executive Operations, Agriculture",
+      "amount": 16283692.02,
+      "account_number": "012-0706"
+    },
+    {
+      "id": "3615",
+      "code": "5635",
+      "type": "federal_account",
+      "name": "Pima Agriculture Cotton Trust Fund, Farm Service Agency, Agriculture",
+      "amount": 15064748.36,
+      "account_number": "012-5635"
+    },
+    {
+      "id": "3450",
+      "code": "0503",
+      "type": "federal_account",
+      "name": "Office of Budget and Program Analysis, Executive Operations, Agriculture",
+      "amount": 14731695.39,
+      "account_number": "012-0503"
+    },
+    {
+      "id": "3649",
+      "code": "8226",
+      "type": "federal_account",
+      "name": "Miscellaneous Contributed Funds, Animal and Plant Health Inspection Service, Agriculture",
+      "amount": 13222911.69,
+      "account_number": "012-8226"
+    },
+    {
+      "id": "3579",
+      "code": "5070",
+      "type": "federal_account",
+      "name": "Perishable Agricultural Commodities Act Fund, Agricultural Marketing Service, Agriculture",
+      "amount": 12264032.34,
+      "account_number": "012-5070"
+    },
+    {
+      "id": "3482",
+      "code": "1231",
+      "type": "federal_account",
+      "name": "Rural Telephone Bank Program Account, Rural Utilities Service, Agriculture",
+      "amount": 12027460,
+      "account_number": "012-1231"
+    },
+    {
+      "id": "3594",
+      "code": "5219",
+      "type": "federal_account",
+      "name": "Operation and Maintenance of Quarters, Forest Service, Agriculture",
+      "amount": 11593605.75,
+      "account_number": "012-5219"
+    },
+    {
+      "id": "3586",
+      "code": "5206",
+      "type": "federal_account",
+      "name": "Expenses, Brush Disposal, Forest Service,  Agriculture",
+      "amount": 11327487.61,
+      "account_number": "012-5206"
+    },
+    {
+      "id": "3535",
+      "code": "3108",
+      "type": "federal_account",
+      "name": "Rural Economic Development Loans Program Account, Rural Business-Cooperative Service, Agriculture",
+      "amount": 10003314.16,
+      "account_number": "012-3108"
+    },
+    {
+      "id": "3644",
+      "code": "8161",
+      "type": "federal_account",
+      "name": "Tobacco Trust Fund, Commodity Credit Corporation, Agriculture",
+      "amount": 8907205.29,
+      "account_number": "012-8161"
+    },
+    {
+      "id": "3425",
+      "code": "0124",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Research, Education and Economics, Agriculture",
+      "amount": 8435140.93,
+      "account_number": "012-0124"
+    },
+    {
+      "id": "3448",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Hazardous Materials Management, Agriculture",
+      "amount": 8163820.34,
+      "account_number": "012-0500"
+    },
+    {
+      "id": "3515",
+      "code": "2069",
+      "type": "federal_account",
+      "name": "Intermediary Relending Program Fund Account, Rural Business-Cooperative Service, Agriculture",
+      "amount": 7985510.64,
+      "account_number": "012-2069"
+    },
+    {
+      "id": "3597",
+      "code": "5264",
+      "type": "federal_account",
+      "name": "Timber Sales Pipeline Restoration Fund, Forest Service, Agriculture",
+      "amount": 7980241.19,
+      "account_number": "012-5264"
+    },
+    {
+      "id": "3414",
+      "code": "0014",
+      "type": "federal_account",
+      "name": "Expenses, Office of the Chief Financial Officer, Agriculture",
+      "amount": 7631905.77,
+      "account_number": "012-0014"
+    },
+    {
+      "id": "3605",
+      "code": "5361",
+      "type": "federal_account",
+      "name": "Administration of Rights-of-Way and Other Land Uses Fund, Forest Service,  Agriculture",
+      "amount": 7579725.5,
+      "account_number": "012-5361"
+    },
+    {
+      "id": "3604",
+      "code": "5360",
+      "type": "federal_account",
+      "name": "Land Between the Lakes Management Fund, Forest Service,  Agriculture",
+      "amount": 7359203.67,
+      "account_number": "012-5360"
+    },
+    {
+      "id": "3513",
+      "code": "2042",
+      "type": "federal_account",
+      "name": "High Energy Cost Grants, Rural Utilities Service, Agriculture",
+      "amount": 7133540.22,
+      "account_number": "012-2042"
+    },
+    {
+      "id": "3539",
+      "code": "3304",
+      "type": "federal_account",
+      "name": "Grassroots Source Water Protection Program, Farm Service Agency, Agriculture",
+      "amount": 7000000,
+      "account_number": "012-3304"
+    },
+    {
+      "id": "3438",
+      "code": "0170",
+      "type": "federal_account",
+      "name": "State Mediation Grants, Farm Service Agency, Agriculture",
+      "amount": 5841284.25,
+      "account_number": "012-0170"
+    },
+    {
+      "id": "3590",
+      "code": "5213",
+      "type": "federal_account",
+      "name": "Payment to Minnesota (Cook, Lake, and Saint Louis Counties) from the National Forests Fund, Forest Service, Agriculture",
+      "amount": 5799450,
+      "account_number": "012-5213"
+    },
+    {
+      "id": "3585",
+      "code": "5205",
+      "type": "federal_account",
+      "name": "Native American Institutions Endowment Fund, Agriculture",
+      "amount": 5585547.71,
+      "account_number": "012-5205"
+    },
+    {
+      "id": "3435",
+      "code": "0136",
+      "type": "federal_account",
+      "name": "Office of Ethics, Agriculture",
+      "amount": 5329758.77,
+      "account_number": "012-0136"
+    },
+    {
+      "id": "3522",
+      "code": "2277",
+      "type": "federal_account",
+      "name": "Public Law 480 Title I Direct Credit and Food for Progress Program Account, Foreign Agricultural Service, Agriculture",
+      "amount": 5082463,
+      "account_number": "012-2277"
+    },
+    {
+      "id": "3575",
+      "code": "4368",
+      "type": "federal_account",
+      "name": "Damage Assessment and Restoration Revolving Fund, Agriculture",
+      "amount": 4894855.38,
+      "account_number": "012-4368"
+    },
+    {
+      "id": "3441",
+      "code": "0177",
+      "type": "federal_account",
+      "name": "Office of Codex Alimentarius, Office of the Secretary, Agriculture",
+      "amount": 4701744.45,
+      "account_number": "012-0177"
+    },
+    {
+      "id": "3485",
+      "code": "1336",
+      "type": "federal_account",
+      "name": "Commodity Credit Corporation Export Loans Program Account, Foreign Agricultural Service, Agriculture",
+      "amount": 4303673.97,
+      "account_number": "012-1336"
+    },
+    {
+      "id": "3593",
+      "code": "5216",
+      "type": "federal_account",
+      "name": "Acquisition of Lands to Complete Land Exchanges, Forest Service, Agriculture",
+      "amount": 4214262.48,
+      "account_number": "012-5216"
+    },
+    {
+      "id": "3508",
+      "code": "1955",
+      "type": "federal_account",
+      "name": "Rural Microentrepreneur Assistance Program, Rural Business-Cooperative Service, Agriculture",
+      "amount": 4126074,
+      "account_number": "012-1955"
+    },
+    {
+      "id": "3529",
+      "code": "2701",
+      "type": "federal_account",
+      "name": "USDA Disaster Assistance, Farm Service Agency, Agriculture",
+      "amount": 3780642.12,
+      "account_number": "012-2701"
+    },
+    {
+      "id": "3582",
+      "code": "5202",
+      "type": "federal_account",
+      "name": "Timber Roads, Purchaser Elections, Forest Service, Agriculture",
+      "amount": 2699174.08,
+      "account_number": "012-5202"
+    },
+    {
+      "id": "3587",
+      "code": "5207",
+      "type": "federal_account",
+      "name": "Range Betterment Fund, Forest Service, Agriculture",
+      "amount": 2462313.29,
+      "account_number": "012-5207"
+    },
+    {
+      "id": "3541",
+      "code": "3314",
+      "type": "federal_account",
+      "name": "Dairy Indemnity Program, Farm Service Agency, Agriculture",
+      "amount": 2379705.71,
+      "account_number": "012-3314"
+    },
+    {
+      "id": "3642",
+      "code": "8100",
+      "type": "federal_account",
+      "name": "Wool Research, Development and Promotion Trust Fund, Agricultural Marketing Service, Agriculture",
+      "amount": 2378250,
+      "account_number": "012-8100"
+    },
+    {
+      "id": "3443",
+      "code": "0215",
+      "type": "federal_account",
+      "name": "Payment to Expenses and Refunds, Inspection and Grading of Farm Products, Agricultural Marketing Service, Agriculture",
+      "amount": 2250000,
+      "account_number": "012-0215"
+    },
+    {
+      "id": "3547",
+      "code": "3320",
+      "type": "federal_account",
+      "name": "Water Bank Program, Natural Resources Conservation Service, Agriculture",
+      "amount": 2227376.76,
+      "account_number": "012-3320"
+    },
+    {
+      "id": "3496",
+      "code": "1601",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, Animal and Plant Health Inspection Service, Agriculture",
+      "amount": 1957514.09,
+      "account_number": "012-1601"
+    },
+    {
+      "id": "3427",
+      "code": "0126",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Farm and Foreign Agricultural Services, Agriculture",
+      "amount": 1776271.57,
+      "account_number": "012-0126"
+    },
+    {
+      "id": "3591",
+      "code": "5214",
+      "type": "federal_account",
+      "name": "Licensee Programs, Forest Service, Agriculture",
+      "amount": 1737410.88,
+      "account_number": "012-5214"
+    },
+    {
+      "id": "3431",
+      "code": "0130",
+      "type": "federal_account",
+      "name": "Office of the Assistant Secretary for Civil Rights, Agriculture",
+      "amount": 1519309.9,
+      "account_number": "012-0130"
+    },
+    {
+      "id": "3654",
+      "code": "8558",
+      "type": "federal_account",
+      "name": "Foreign Service National Separation Liability Trust Fund, Animal and Plant Health Inspection Service, Agriculture",
+      "amount": 1476590,
+      "account_number": "012-8558"
+    },
+    {
+      "id": "3428",
+      "code": "0127",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Rural Development, Agriculture",
+      "amount": 1472289.32,
+      "account_number": "012-0127"
+    },
+    {
+      "id": "3426",
+      "code": "0125",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Marketing and Regulatory Programs, Cooperative State Research, Education, and Extension Service, Agriculture",
+      "amount": 1354710.35,
+      "account_number": "012-0125"
+    },
+    {
+      "id": "3645",
+      "code": "8203",
+      "type": "federal_account",
+      "name": "Gifts and Bequests, Agriculture",
+      "amount": 1121622.12,
+      "account_number": "012-8203"
+    },
+    {
+      "id": "3475",
+      "code": "1119",
+      "type": "federal_account",
+      "name": "Management of National Forest Lands for Subsistence Uses, Forest Service, Agriculture",
+      "amount": 1043938.02,
+      "account_number": "012-1119"
+    },
+    {
+      "id": "3561",
+      "code": "3701",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Food Safety, Agriculture",
+      "amount": 1033960.98,
+      "account_number": "012-3701"
+    },
+    {
+      "id": "3430",
+      "code": "0129",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Food, Nutrition and Consumer Services, Agriculture",
+      "amount": 996244.03,
+      "account_number": "012-0129"
+    },
+    {
+      "id": "3429",
+      "code": "0128",
+      "type": "federal_account",
+      "name": "Office of the Assistant Secretary for Natural Resources and Environment, Agriculture",
+      "amount": 924665.79,
+      "account_number": "012-0128"
+    },
+    {
+      "id": "6293",
+      "code": "8559",
+      "type": "federal_account",
+      "name": "Emergency Citrus Disease Research and Development Trust Fund, National Institute of Food and Agriculture, Agriculture",
+      "amount": 870999.56,
+      "account_number": "012-8559"
+    },
+    {
+      "id": "3440",
+      "code": "0176",
+      "type": "federal_account",
+      "name": "Office of the Under Secretary for Trade and Foreign Agricultural Affairs, Office of the Secretary, Agriculture",
+      "amount": 825938.29,
+      "account_number": "012-0176"
+    },
+    {
+      "id": "3599",
+      "code": "5277",
+      "type": "federal_account",
+      "name": "MNP Rental Fee Account, Forest Service, Agriculture",
+      "amount": 731562.92,
+      "account_number": "012-5277"
+    },
+    {
+      "id": "3415",
+      "code": "0015",
+      "type": "federal_account",
+      "name": "Healthy Foods Financing Initiative, Rural Business-Cooperative Service, Agriculture",
+      "amount": 495946.31,
+      "account_number": "012-0015"
+    },
+    {
+      "id": "3565",
+      "code": "4140",
+      "type": "federal_account",
+      "name": "Agricultural Credit Insurance Fund, Liquidating Account, Consolidated Farm Service Agency, Agriculture",
+      "amount": 196431.36,
+      "account_number": "012-4140"
+    },
+    {
+      "id": "3588",
+      "code": "5208",
+      "type": "federal_account",
+      "name": "Acquisition of Lands for National Forests, Special Acts, Forest Service, Agriculture",
+      "amount": 118450,
+      "account_number": "012-5208"
+    },
+    {
+      "id": "3648",
+      "code": "8218",
+      "type": "federal_account",
+      "name": "Miscellaneous Contributed Funds, National Agricultural Statistics Service, Agriculture",
+      "amount": 84900,
+      "account_number": "012-8218"
+    },
+    {
+      "id": "3610",
+      "code": "5462",
+      "type": "federal_account",
+      "name": "Hardwood Technology Transfer and Applied Research Fund, Forest Service,  Agriculture",
+      "amount": 43288.63,
+      "account_number": "012-5462"
+    },
+    {
+      "id": "3601",
+      "code": "5279",
+      "type": "federal_account",
+      "name": "Concessions Fees and Volunteer Services, Agricultural Research Service, Agriculture",
+      "amount": 24095,
+      "account_number": "012-5279"
+    },
+    {
+      "id": "3640",
+      "code": "8039",
+      "type": "federal_account",
+      "name": "Land Between the Lakes Trust Fund, Forest Service,  Agriculture",
+      "amount": 10000,
+      "account_number": "012-8039"
+    },
+    {
+      "id": "3596",
+      "code": "5223",
+      "type": "federal_account",
+      "name": "Quinault Special Management Area, Forest Service, Agriculture",
+      "amount": 3534.72,
+      "account_number": "012-5223"
+    },
+    {
+      "id": "3639",
+      "code": "8034",
+      "type": "federal_account",
+      "name": "Donations for Forest and Rangeland Research, Forest Service, Agriculture",
+      "amount": 220.56,
+      "account_number": "012-8034"
+    },
+    {
+      "id": "6321",
+      "code": "1121",
+      "type": "federal_account",
+      "name": "Wildfire Suppression Operations Reserve Fund, Forest Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-1121"
+    },
+    {
+      "id": "3572",
+      "code": "4233",
+      "type": "federal_account",
+      "name": "Rural Development Loan Fund, Liquidating Account, Rural Business-Cooperative Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-4233"
+    },
+    {
+      "id": "3569",
+      "code": "4155",
+      "type": "federal_account",
+      "name": "Rural Development Insurance Fund, Liquidating Account, Rural Utilities Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-4155"
+    },
+    {
+      "id": "3568",
+      "code": "4144",
+      "type": "federal_account",
+      "name": "Alternative Agricultural Research and Commercialization Revolving Fund, Rural Business-Cooperative Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-4144"
+    },
+    {
+      "id": "3559",
+      "code": "3674",
+      "type": "federal_account",
+      "name": "Reimbursement for Net Realized Losses, Commodity Credit Corporation",
+      "amount": 0,
+      "account_number": "012-3674"
+    },
+    {
+      "id": "3548",
+      "code": "3322",
+      "type": "federal_account",
+      "name": "Wildlife Habitat Incentives Program, Natural Resources Conservation Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-3322"
+    },
+    {
+      "id": "3546",
+      "code": "3319",
+      "type": "federal_account",
+      "name": "Conservation Reserve Program, Farm Service Agency, Agriculture",
+      "amount": 0,
+      "account_number": "012-3319"
+    },
+    {
+      "id": "3521",
+      "code": "2274",
+      "type": "federal_account",
+      "name": "Public Law 480, Liquidating Account, Foreign Agriculture Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-2274"
+    },
+    {
+      "id": "3502",
+      "code": "1907",
+      "type": "federal_account",
+      "name": "Rural Business Investment Program Account, Rural Business - Cooperative Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-1907"
+    },
+    {
+      "id": "3493",
+      "code": "1501",
+      "type": "federal_account",
+      "name": "Buildings and Facilities, National Institute of Food and Agriculture, Agriculture",
+      "amount": 0,
+      "account_number": "012-1501"
+    },
+    {
+      "id": "3466",
+      "code": "1090",
+      "type": "federal_account",
+      "name": "Healthy Forests Reserve Program, Natural Resources Conservation Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-1090"
+    },
+    {
+      "id": "3461",
+      "code": "1010",
+      "type": "federal_account",
+      "name": "Resource Conservation and Development, Natural Resources Conservation Services, Agriculture",
+      "amount": 0,
+      "account_number": "012-1010"
+    },
+    {
+      "id": "3447",
+      "code": "0405",
+      "type": "federal_account",
+      "name": "Rural Development Disaster Assistance Fund, Rural Development, Agriculture",
+      "amount": 0,
+      "account_number": "012-0405"
+    },
+    {
+      "id": "3646",
+      "code": "8210",
+      "type": "federal_account",
+      "name": "Miscellaneous Contributed Funds, Natural Resources Conservation Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-8210"
+    },
+    {
+      "id": "3651",
+      "code": "8232",
+      "type": "federal_account",
+      "name": "Miscellaneous Contributed Funds, Foreign Agricultural Service, Agriculture",
+      "amount": 0,
+      "account_number": "012-8232"
+    },
+    {
+      "id": "3418",
+      "code": "0113",
+      "type": "federal_account",
+      "name": "Expenses, Common Computing Environment, Agriculture",
+      "amount": 0,
+      "account_number": "012-0113"
+    },
+    {
+      "id": "3583",
+      "code": "5203",
+      "type": "federal_account",
+      "name": "Roads and Trails for States, National Forests Fund, Forest Service, Agriculture",
+      "amount": -15.37,
+      "account_number": "012-5203"
+    },
+    {
+      "id": "3653",
+      "code": "8505",
+      "type": "federal_account",
+      "name": "Foreign Service National Separation Liability Trust Fund, Foreign Agricultural Service, Agriculture",
+      "amount": -285.39,
+      "account_number": "012-8505"
+    },
+    {
+      "id": "3459",
+      "code": "1003",
+      "type": "federal_account",
+      "name": "Biomass Research and Development, National Institute of Food and Agriculture, Agriculture",
+      "amount": -2939.31,
+      "account_number": "012-1003"
+    },
+    {
+      "id": "6543",
+      "code": "1005",
+      "type": "federal_account",
+      "name": "Urban Agriculture and Innovative Production, Natural Resource and Conservation Service, Agriculture",
+      "amount": -28083.94,
+      "account_number": "012-1005"
+    },
+    {
+      "id": "3611",
+      "code": "5531",
+      "type": "federal_account",
+      "name": "Agricultural Disaster Relief Trust Fund, Farm Service Agency, Agriculture",
+      "amount": -155208.42,
+      "account_number": "012-5531"
+    },
+    {
+      "id": "3609",
+      "code": "5411",
+      "type": "federal_account",
+      "name": "Inspector General Assets Forfeiture, Treasury",
+      "amount": -239364.38,
+      "account_number": "012-5411"
+    },
+    {
+      "id": "3608",
+      "code": "5410",
+      "type": "federal_account",
+      "name": "Inspector General Assets Forfeiture, Justice",
+      "amount": -673587.03,
+      "account_number": "012-5410"
+    },
+    {
+      "id": "6431",
+      "code": "0408",
+      "type": "federal_account",
+      "name": "Food Supply Chain and Agriculture Pandemic Response Program Account, Rural Development Administration, Agriculture",
+      "amount": -4558234.83,
+      "account_number": "012-0408"
+    },
+    {
+      "id": "3574",
+      "code": "4338",
+      "type": "federal_account",
+      "name": "Commodity Credit Corporation Direct Loans, Liquidating Account, Agriculture",
+      "amount": -8843930.14,
+      "account_number": "012-4338"
+    },
+    {
+      "id": "3439",
+      "code": "0171",
+      "type": "federal_account",
+      "name": "Emergency Forest Restoration Program, Farm Service Agency, Agriculture",
+      "amount": -18482022.82,
+      "account_number": "012-0171"
+    }
+  ]
+}

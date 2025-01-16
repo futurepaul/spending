@@ -1,0 +1,27 @@
+{
+  "total": 1312546928430.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569451",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL OLD-AGE AND SURVIVORS INSURANCE TRUST FUND (DIRECT)",
+      "amount": 1301883051271.92
+    },
+    {
+      "id": "569458",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "FEDERAL OLD-AGE AND SURVIVORS INSURANCE TRUST FUND (DIRECT)",
+      "amount": 10645175339.54
+    },
+    {
+      "id": "569475",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "FEDERAL OLD-AGE AND SURVIVORS INSURANCE PROGRAMS",
+      "amount": 18701818.61
+    }
+  ]
+}

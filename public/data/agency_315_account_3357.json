@@ -1,0 +1,34 @@
+{
+  "total": 482164599.75,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "570284",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PEACEKEEPING OPERATIONS (DIRECT)",
+      "amount": 241988308.18
+    },
+    {
+      "id": "570367",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 241007153.37
+    },
+    {
+      "id": "570325",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PEACEKEEPING OPERATIONS (DIRECT)",
+      "amount": 0
+    },
+    {
+      "id": "570280",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "PEACEKEEPING OPERATIONS (REIMBURSABLE)",
+      "amount": -830861.8
+    }
+  ]
+}

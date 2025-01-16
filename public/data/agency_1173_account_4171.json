@@ -1,0 +1,62 @@
+{
+  "total": 5153195253.74,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564999",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "OTHER MISSILES",
+      "amount": 2807272044.1
+    },
+    {
+      "id": "564938",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "BALLISTIC MISSILES",
+      "amount": 1345384014.59
+    },
+    {
+      "id": "564485",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "TORPEDOES AND RELATED EQUIPMENT",
+      "amount": 676421469.42
+    },
+    {
+      "id": "565013",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "OTHER WEAPONS",
+      "amount": 198173065.97
+    },
+    {
+      "id": "564564",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "SPARES AND REPAIR PARTS",
+      "amount": 91957261.45
+    },
+    {
+      "id": "564729",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 37071619.04
+    },
+    {
+      "id": "596296",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 0
+    },
+    {
+      "id": "564969",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": -3084220.83
+    }
+  ]
+}

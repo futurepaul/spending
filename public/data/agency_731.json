@@ -1,0 +1,1486 @@
+{
+  "total": 150191976378.91,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "5122",
+      "code": "8083",
+      "type": "federal_account",
+      "name": "Federal-Aid Highways, Liquidation of Contract Authorization, Federal Highway Administration, Transportation",
+      "amount": 57995040051.82,
+      "account_number": "069-8083"
+    },
+    {
+      "id": "5140",
+      "code": "8350",
+      "type": "federal_account",
+      "name": "Formula and Bus Grants, Liquidation of Contract Authorization, Federal Transit Administration, Transportation",
+      "amount": 14644080515.49,
+      "account_number": "069-8350"
+    },
+    {
+      "id": "5046",
+      "code": "1301",
+      "type": "federal_account",
+      "name": "Operations, Federal Aviation Administration, Transportation",
+      "amount": 12875037482.07,
+      "account_number": "069-1301"
+    },
+    {
+      "id": "5126",
+      "code": "8104",
+      "type": "federal_account",
+      "name": "Operations, Airport and Airway Trust Fund, Federal Aviation Administration, Transportation",
+      "amount": 12093150000,
+      "account_number": "069-8104"
+    },
+    {
+      "id": "4958",
+      "code": "0548",
+      "type": "federal_account",
+      "name": "Highway Infrastructure Programs, Federal Highway Administration, Transportation",
+      "amount": 7854388871.8,
+      "account_number": "069-0548"
+    },
+    {
+      "id": "5070",
+      "code": "2810",
+      "type": "federal_account",
+      "name": "Federal-State Partnership for Intercity Passenger Rail Grants, Federal Railroad Administration, Transportation",
+      "amount": 6118925664.05,
+      "account_number": "069-2810"
+    },
+    {
+      "id": "5069",
+      "code": "1775",
+      "type": "federal_account",
+      "name": "National Network Grants to the National Railroad Passenger Corporation, Transportation",
+      "amount": 4416570262.29,
+      "account_number": "069-1775"
+    },
+    {
+      "id": "5041",
+      "code": "1134",
+      "type": "federal_account",
+      "name": "Capital Investments Grants, Federal Transit Administration, Transportation",
+      "amount": 3730671923.57,
+      "account_number": "069-1134"
+    },
+    {
+      "id": "5127",
+      "code": "8106",
+      "type": "federal_account",
+      "name": "Grants-In-Aid for Airports, Liquidation of Contract Authorization, Airport and Airway Trust Fund, Federal Aviation Administration, Transportation",
+      "amount": 3333557855.67,
+      "account_number": "069-8106"
+    },
+    {
+      "id": "5128",
+      "code": "8107",
+      "type": "federal_account",
+      "name": "Facilities and Equipment, Airport and Airway Trust Fund, Federal Aviation Administration, Transportation",
+      "amount": 3239157478.11,
+      "account_number": "069-8107"
+    },
+    {
+      "id": "5068",
+      "code": "1774",
+      "type": "federal_account",
+      "name": "Northeast Corridor Grants to the National Railroad Passenger Corporation, Transportation",
+      "amount": 2321418790,
+      "account_number": "069-1774"
+    },
+    {
+      "id": "4925",
+      "code": "0143",
+      "type": "federal_account",
+      "name": "National Infrastructure Investments, Office of the Secretary, Transportation",
+      "amount": 2072392595.37,
+      "account_number": "069-0143"
+    },
+    {
+      "id": "5072",
+      "code": "2812",
+      "type": "federal_account",
+      "name": "Transit Infrastructure Grants, Federal Transit Administration, Transportation",
+      "amount": 2017682583.55,
+      "account_number": "069-2812"
+    },
+    {
+      "id": "6445",
+      "code": "1338",
+      "type": "federal_account",
+      "name": "Airport Infrastructure Grants, Federal Aviation Administration, Transportation",
+      "amount": 2008941678.59,
+      "account_number": "069-1338"
+    },
+    {
+      "id": "5161",
+      "code": "8634",
+      "type": "federal_account",
+      "name": "National Surface Transportation Finance Bureau, Highway Trust Fund Account, Transportation",
+      "amount": 1376618215.95,
+      "account_number": "069-8634"
+    },
+    {
+      "id": "6344",
+      "code": "0149",
+      "type": "federal_account",
+      "name": "General Fund Payment To National Surface Transportation and Innovative Finance Bureau Highway Trust Fund Account, Upward Reestimates, Office of Secretary, Transportation",
+      "amount": 1328217711.72,
+      "account_number": "069-0149"
+    },
+    {
+      "id": "5055",
+      "code": "1710",
+      "type": "federal_account",
+      "name": "Ready Reserve Force, Maritime Administration, Transportation",
+      "amount": 1098496091.35,
+      "account_number": "069-1710"
+    },
+    {
+      "id": "6444",
+      "code": "1337",
+      "type": "federal_account",
+      "name": "Airport Terminal Program, Federal Aviation Administration, Transportation",
+      "amount": 960768434.95,
+      "account_number": "069-1337"
+    },
+    {
+      "id": "5108",
+      "code": "8020",
+      "type": "federal_account",
+      "name": "Highway Traffic Safety Grants, Liquidation of Contract Authorization, Trust Fund, National Highway Traffic Safety Administration, Transportation",
+      "amount": 938186635.06,
+      "account_number": "069-8020"
+    },
+    {
+      "id": "4934",
+      "code": "0500",
+      "type": "federal_account",
+      "name": "Emergency Relief Program, Federal Highway Administration, Transportation",
+      "amount": 921542101.88,
+      "account_number": "069-0500"
+    },
+    {
+      "id": "6469",
+      "code": "2819",
+      "type": "federal_account",
+      "name": "Grants-in-Aid for Airports, Federal Aviation Administration, Transportation",
+      "amount": 616697454.2,
+      "account_number": "069-2819"
+    },
+    {
+      "id": "5083",
+      "code": "4562",
+      "type": "federal_account",
+      "name": "Administrative Services Franchise Fund, Federal Aviation Administration, Transportation",
+      "amount": 546556668.65,
+      "account_number": "069-4562"
+    },
+    {
+      "id": "5081",
+      "code": "4520",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Office of the Secretary,Transportation",
+      "amount": 538097230.3,
+      "account_number": "069-4520"
+    },
+    {
+      "id": "5132",
+      "code": "8158",
+      "type": "federal_account",
+      "name": "Motor Carrier Safety Grants, Federal Motor Carrier Safety Administration, Transportation",
+      "amount": 488345426.96,
+      "account_number": "069-8158"
+    },
+    {
+      "id": "6410",
+      "code": "1308",
+      "type": "federal_account",
+      "name": "Facilities and Equipment, Federal Aviation Administration, Transportation",
+      "amount": 482719953.7,
+      "account_number": "069-1308"
+    },
+    {
+      "id": "5071",
+      "code": "2811",
+      "type": "federal_account",
+      "name": "Consolidated Rail Infrastructure and Safety Improvements Grants, Federal Railroad Administration, Transportation",
+      "amount": 445205626.93,
+      "account_number": "069-2811"
+    },
+    {
+      "id": "6289",
+      "code": "1713",
+      "type": "federal_account",
+      "name": "Port Infrastructure Development Program, Maritime Administration, Transportation",
+      "amount": 438636888.34,
+      "account_number": "069-1713"
+    },
+    {
+      "id": "5133",
+      "code": "8159",
+      "type": "federal_account",
+      "name": "Motor Carrier Safety Operations and Programs, Federal Motor Carrier Safety Administration, Transportation",
+      "amount": 431826203.08,
+      "account_number": "069-8159"
+    },
+    {
+      "id": "5137",
+      "code": "8304",
+      "type": "federal_account",
+      "name": "Payment to Air Carriers, Office of the Secretary, Transportation",
+      "amount": 347834291,
+      "account_number": "069-8304"
+    },
+    {
+      "id": "5056",
+      "code": "1711",
+      "type": "federal_account",
+      "name": "Maritime Security Program, Maritime Administration, Transportation",
+      "amount": 305861383.86,
+      "account_number": "069-1711"
+    },
+    {
+      "id": "5000",
+      "code": "0650",
+      "type": "federal_account",
+      "name": "Operations and Research, National Highway Traffic Safety Administration, Transportation",
+      "amount": 276269453.87,
+      "account_number": "069-0650"
+    },
+    {
+      "id": "5006",
+      "code": "0700",
+      "type": "federal_account",
+      "name": "Safety and Operations, Federal Railroad Administration, Transportation",
+      "amount": 273642170.25,
+      "account_number": "069-0700"
+    },
+    {
+      "id": "5129",
+      "code": "8108",
+      "type": "federal_account",
+      "name": "Research, Engineering and Development, Airport and Airway Trust Fund, Federal Aviation Administration, Transportation",
+      "amount": 240958079.37,
+      "account_number": "069-8108"
+    },
+    {
+      "id": "5082",
+      "code": "4522",
+      "type": "federal_account",
+      "name": "Working Capital Fund, Transportation Systems Center, Transportation",
+      "amount": 232635948.63,
+      "account_number": "069-4522"
+    },
+    {
+      "id": "5105",
+      "code": "8016",
+      "type": "federal_account",
+      "name": "Operation and Research, Liquidation of Contract Authorization, Limitation on Obligations, Highway Trust Fund, Transportation",
+      "amount": 217116976.74,
+      "account_number": "069-8016"
+    },
+    {
+      "id": "5060",
+      "code": "1750",
+      "type": "federal_account",
+      "name": "Operations and Training, Maritime Administration, Transportation",
+      "amount": 213474684.42,
+      "account_number": "069-1750"
+    },
+    {
+      "id": "5084",
+      "code": "5172",
+      "type": "federal_account",
+      "name": "Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, Transportation",
+      "amount": 206581709.07,
+      "account_number": "069-5172"
+    },
+    {
+      "id": "6443",
+      "code": "1146",
+      "type": "federal_account",
+      "name": "Ferry Service for Rural Communities, Federal Transit Administration, Transportation",
+      "amount": 206098584,
+      "account_number": "069-1146"
+    },
+    {
+      "id": "6449",
+      "code": "1735",
+      "type": "federal_account",
+      "name": "Safe Streets and Roads for All, Office of the Secretary, Transportation",
+      "amount": 199835533.3,
+      "account_number": "069-1735"
+    },
+    {
+      "id": "6446",
+      "code": "1402",
+      "type": "federal_account",
+      "name": "Natural Gas Distribution Infrastructure Safety and Modernization Grant Program, Pipeline and Hazardous Materials Safety Administration, Transportation",
+      "amount": 199198784.27,
+      "account_number": "069-1402"
+    },
+    {
+      "id": "4905",
+      "code": "0102",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of the Secretary, Transportation",
+      "amount": 193452862.87,
+      "account_number": "069-0102"
+    },
+    {
+      "id": "5087",
+      "code": "5423",
+      "type": "federal_account",
+      "name": "Essential Air Service and Rural Airport Improvement Fund, Office of the Secretary, Transportation",
+      "amount": 180276299.89,
+      "account_number": "069-5423"
+    },
+    {
+      "id": "6288",
+      "code": "1712",
+      "type": "federal_account",
+      "name": "State Maritime Academy Operations, Maritime Administration, Transportation",
+      "amount": 154778845.59,
+      "account_number": "069-1712"
+    },
+    {
+      "id": "5037",
+      "code": "1128",
+      "type": "federal_account",
+      "name": "Washington Metropolitan Area Transit Authority, Federal Transit Administration, Transportation",
+      "amount": 148499320,
+      "account_number": "069-1128"
+    },
+    {
+      "id": "6451",
+      "code": "2817",
+      "type": "federal_account",
+      "name": "Motor Carrier Safety Grants, Federal Motor Carrier Safety Administration, Transportation",
+      "amount": 123063040,
+      "account_number": "069-2817"
+    },
+    {
+      "id": "4922",
+      "code": "0130",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Office of Inspector General, Transportation",
+      "amount": 111878890.09,
+      "account_number": "069-0130"
+    },
+    {
+      "id": "6440",
+      "code": "0760",
+      "type": "federal_account",
+      "name": "Railroad Crossing Elimination Program, Federal Railroad Administration, Transportation",
+      "amount": 102905840,
+      "account_number": "069-0760"
+    },
+    {
+      "id": "6457",
+      "code": "1732",
+      "type": "federal_account",
+      "name": "Operational Support, Office of the Secretary, Transportation",
+      "amount": 86921060.82,
+      "account_number": "069-1732"
+    },
+    {
+      "id": "6442",
+      "code": "1145",
+      "type": "federal_account",
+      "name": "All Stations Accessibility Program, Federal Transit Administration, Transportation",
+      "amount": 81930000,
+      "account_number": "069-1145"
+    },
+    {
+      "id": "5052",
+      "code": "1401",
+      "type": "federal_account",
+      "name": "Hazardous Materials Safety, Pipeline and Hazardous Materials Safety Administration, Transportation",
+      "amount": 75518316.54,
+      "account_number": "069-1401"
+    },
+    {
+      "id": "5024",
+      "code": "0750",
+      "type": "federal_account",
+      "name": "Railroad Rehabilitation and Improvement Financing Program, Office of the Secretary, Transportation",
+      "amount": 75406021.51,
+      "account_number": "069-0750"
+    },
+    {
+      "id": "6455",
+      "code": "0759",
+      "type": "federal_account",
+      "name": "Financial Assistance Oversight and Technical Assistance, Federal Railroad Administration, Transportation",
+      "amount": 70701277.49,
+      "account_number": "069-0759"
+    },
+    {
+      "id": "5058",
+      "code": "1730",
+      "type": "federal_account",
+      "name": "Research and Technology, Office of the Secretary, Transportation",
+      "amount": 70485039.22,
+      "account_number": "069-1730"
+    },
+    {
+      "id": "5062",
+      "code": "1752",
+      "type": "federal_account",
+      "name": "Maritime Guaranteed Loan, (Title XI) Program Account, Maritime Administration, Transportation",
+      "amount": 70139287.22,
+      "account_number": "069-1752"
+    },
+    {
+      "id": "4930",
+      "code": "0159",
+      "type": "federal_account",
+      "name": "Cyber Security Initiatives, Office of the Secretary, Transportation",
+      "amount": 55884222.24,
+      "account_number": "069-0159"
+    },
+    {
+      "id": "6448",
+      "code": "1734",
+      "type": "federal_account",
+      "name": "Strengthening Mobility and Revolutionizing Transportation Grant Program, Office of the Secretary, Transportation",
+      "amount": 52716382,
+      "account_number": "069-1734"
+    },
+    {
+      "id": "6489",
+      "code": "0647",
+      "type": "federal_account",
+      "name": "Neighborhood Access and Environmental Programs, Federal Highway Administration, Transportation",
+      "amount": 42774901.78,
+      "account_number": "069-0647"
+    },
+    {
+      "id": "6439",
+      "code": "0671",
+      "type": "federal_account",
+      "name": "Supplemental Highway Traffic Safety Programs, National Highway Traffic Safety Administration, Transportation",
+      "amount": 42505965.71,
+      "account_number": "069-0671"
+    },
+    {
+      "id": "5102",
+      "code": "8003",
+      "type": "federal_account",
+      "name": "Operations and Maintenance, Great Lakes St. Lawrence Seaway Development Corporation, Transportation",
+      "amount": 40288000,
+      "account_number": "069-8003"
+    },
+    {
+      "id": "5022",
+      "code": "0745",
+      "type": "federal_account",
+      "name": "Railroad Research and Development, Federal Railroad Administration, Transportation",
+      "amount": 38492714,
+      "account_number": "069-0745"
+    },
+    {
+      "id": "6437",
+      "code": "0669",
+      "type": "federal_account",
+      "name": "Crash Data, National Highway Traffic Safety Administration, Transportation",
+      "amount": 31465042.09,
+      "account_number": "069-0669"
+    },
+    {
+      "id": "5074",
+      "code": "4089",
+      "type": "federal_account",
+      "name": "Great Lakes St. Lawrence Seaway Development Corporation Fund, Transportation",
+      "amount": 31257692.37,
+      "account_number": "069-4089"
+    },
+    {
+      "id": "5051",
+      "code": "1400",
+      "type": "federal_account",
+      "name": "Operational Expenses, Pipeline and Hazardous Materials Safety Administration, Transportation",
+      "amount": 30947128.1,
+      "account_number": "069-1400"
+    },
+    {
+      "id": "5085",
+      "code": "5282",
+      "type": "federal_account",
+      "name": "Emergency Preparedness Grant, Pipeline and Hazardous Materials Safety Administration, Transportation",
+      "amount": 30223532.76,
+      "account_number": "069-5282"
+    },
+    {
+      "id": "5131",
+      "code": "8121",
+      "type": "federal_account",
+      "name": "Trust Fund Share of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, Transportation",
+      "amount": 29464252.2,
+      "account_number": "069-8121"
+    },
+    {
+      "id": "4924",
+      "code": "0142",
+      "type": "federal_account",
+      "name": "Transportation Planning, Research and Development, Office of the Secretary, Transportation",
+      "amount": 29051833.89,
+      "account_number": "069-0142"
+    },
+    {
+      "id": "6462",
+      "code": "0162",
+      "type": "federal_account",
+      "name": "Thriving Communities, Office of the Secretary, Transportation",
+      "amount": 23753391.61,
+      "account_number": "069-0162"
+    },
+    {
+      "id": "4912",
+      "code": "0118",
+      "type": "federal_account",
+      "name": "Office of Civil Rights, Office of the Secretary, Transportation",
+      "amount": 17030202.38,
+      "account_number": "069-0118"
+    },
+    {
+      "id": "6447",
+      "code": "1733",
+      "type": "federal_account",
+      "name": "National Culvert Removal, Replacement, and Restoration Grant Program, Office of the Secretary, Transportation",
+      "amount": 16872004.5,
+      "account_number": "069-1733"
+    },
+    {
+      "id": "6438",
+      "code": "0670",
+      "type": "federal_account",
+      "name": "Vehicle Safety and Behavioral Research Programs, National Highway Traffic Safety Administration, Transportation",
+      "amount": 12608454.98,
+      "account_number": "069-0670"
+    },
+    {
+      "id": "4920",
+      "code": "0127",
+      "type": "federal_account",
+      "name": "Restoration and Enhancement Grants, Federal Railroad Administration, Transportation",
+      "amount": 12565322.96,
+      "account_number": "069-0127"
+    },
+    {
+      "id": "4931",
+      "code": "0170",
+      "type": "federal_account",
+      "name": "National Surface Transportation and Innovative Finance Bureau, Office of the Secretary, Transportation",
+      "amount": 12508921.9,
+      "account_number": "069-0170"
+    },
+    {
+      "id": "5116",
+      "code": "8058",
+      "type": "federal_account",
+      "name": "Miscellaneous Highway Project, Federal Highway Administration, Transportation",
+      "amount": 11814588.69,
+      "account_number": "069-8058"
+    },
+    {
+      "id": "5064",
+      "code": "1768",
+      "type": "federal_account",
+      "name": "Ship Disposal, Maritime Administration, Transportation",
+      "amount": 11431138.13,
+      "account_number": "069-1768"
+    },
+    {
+      "id": "5113",
+      "code": "8054",
+      "type": "federal_account",
+      "name": "Advances from State Cooperating Agencies, Foreign Governments, and Other Federal Agencies, Federal Highway Administration, Transportation",
+      "amount": 11313886.45,
+      "account_number": "069-8054"
+    },
+    {
+      "id": "5066",
+      "code": "1770",
+      "type": "federal_account",
+      "name": "Assistance to Shipyards, Maritime Administration, Transportation",
+      "amount": 11232046.78,
+      "account_number": "069-1770"
+    },
+    {
+      "id": "6371",
+      "code": "1717",
+      "type": "federal_account",
+      "name": "Cable Security Fleet, Maritime Administration, Transportation",
+      "amount": 10000000,
+      "account_number": "069-1717"
+    },
+    {
+      "id": "6468",
+      "code": "1718",
+      "type": "federal_account",
+      "name": "Tanker Security Program, Maritime Administration, Transportation",
+      "amount": 9723236.04,
+      "account_number": "069-1718"
+    },
+    {
+      "id": "5045",
+      "code": "1142",
+      "type": "federal_account",
+      "name": "Technical Assistance and Training, Federal Transit Administration, Transportation",
+      "amount": 8475059.61,
+      "account_number": "069-1142"
+    },
+    {
+      "id": "4913",
+      "code": "0119",
+      "type": "federal_account",
+      "name": "Small and Disadvantaged Business Utilization and Outreach, Office of the Secretary, Transportation",
+      "amount": 7586599.85,
+      "account_number": "069-0119"
+    },
+    {
+      "id": "4955",
+      "code": "0538",
+      "type": "federal_account",
+      "name": "Surface Transportation Priorities, Federal Highway Administration, Transportation",
+      "amount": 5812110.23,
+      "account_number": "069-0538"
+    },
+    {
+      "id": "5078",
+      "code": "4303",
+      "type": "federal_account",
+      "name": "Vessel Operations Revolving Fund, Maritime Administration, Transportation",
+      "amount": 4526913.06,
+      "account_number": "069-4303"
+    },
+    {
+      "id": "4910",
+      "code": "0116",
+      "type": "federal_account",
+      "name": "Financial Management Capital, Office of the Secretary, Transportation",
+      "amount": 3707554.31,
+      "account_number": "069-0116"
+    },
+    {
+      "id": "6441",
+      "code": "1144",
+      "type": "federal_account",
+      "name": "Electric or Low-Emitting Ferry Program, Federal Transit Administration, Transportation",
+      "amount": 3697121,
+      "account_number": "069-1144"
+    },
+    {
+      "id": "6452",
+      "code": "2818",
+      "type": "federal_account",
+      "name": "Motor Carrier Safety Operations and Programs, Federal Motor Carrier Safety Administration, Transportation",
+      "amount": 2514602.53,
+      "account_number": "069-2818"
+    },
+    {
+      "id": "5075",
+      "code": "4120",
+      "type": "federal_account",
+      "name": "Aviation Insurance Revolving Fund, Transportation",
+      "amount": 1765757.45,
+      "account_number": "069-4120"
+    },
+    {
+      "id": "6485",
+      "code": "1339",
+      "type": "federal_account",
+      "name": "Research, Engineering, and Development, Federal Aviation Administration, Transportation",
+      "amount": 884285.05,
+      "account_number": "069-1339"
+    },
+    {
+      "id": "5156",
+      "code": "8503",
+      "type": "federal_account",
+      "name": "Gifts and Bequests, Maritime Administration, Transportation",
+      "amount": 820055.15,
+      "account_number": "069-8503"
+    },
+    {
+      "id": "5043",
+      "code": "1137",
+      "type": "federal_account",
+      "name": "Transit Research, Federal Transit Administration, Transportation",
+      "amount": 749240.11,
+      "account_number": "069-1137"
+    },
+    {
+      "id": "5135",
+      "code": "8264",
+      "type": "federal_account",
+      "name": "Contributions for Highway Research Program, Federal Highway Administration, Transportation",
+      "amount": 450584.6,
+      "account_number": "069-8264"
+    },
+    {
+      "id": "5014",
+      "code": "0716",
+      "type": "federal_account",
+      "name": "Rail Line Relocation and Improvement Program, Federal Railroad Administration, Transportation",
+      "amount": 400000,
+      "account_number": "069-0716"
+    },
+    {
+      "id": "5008",
+      "code": "0702",
+      "type": "federal_account",
+      "name": "Railroad Safety, Federal Railroad Administration, Transportation",
+      "amount": 304668.3,
+      "account_number": "069-0702"
+    },
+    {
+      "id": "5124",
+      "code": "8102",
+      "type": "federal_account",
+      "name": "Highway Trust Fund - Treasury Managed, Transportation",
+      "amount": 38621,
+      "account_number": "069-8102"
+    },
+    {
+      "id": "5086",
+      "code": "5422",
+      "type": "federal_account",
+      "name": "Aviation User Fees, Federal Aviation Administration, Transportation",
+      "amount": 27147.36,
+      "account_number": "069-5422"
+    },
+    {
+      "id": "4906",
+      "code": "0104",
+      "type": "federal_account",
+      "name": "Research and Special Programs, Pipeline and Hazardous Materials Safety Administration, Transportation",
+      "amount": 409.43,
+      "account_number": "069-0104"
+    },
+    {
+      "id": "5125",
+      "code": "8103",
+      "type": "federal_account",
+      "name": "Airport and Airway Trust Fund - Treasury Managed, Transportation",
+      "amount": 312,
+      "account_number": "069-8103"
+    },
+    {
+      "id": "7006",
+      "code": "2820",
+      "type": "federal_account",
+      "name": "Rural and Tribal Infrastructure Advancement, Office of the Secretary, Transportation",
+      "amount": 0,
+      "account_number": "069-2820"
+    },
+    {
+      "id": "4914",
+      "code": "0120",
+      "type": "federal_account",
+      "name": "Efficiency Incentive Grants to the National Railroad Passenger Corporation, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0120"
+    },
+    {
+      "id": "4915",
+      "code": "0121",
+      "type": "federal_account",
+      "name": "Operating Grants to the National Railroad Passenger Corporation, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0121"
+    },
+    {
+      "id": "4917",
+      "code": "0123",
+      "type": "federal_account",
+      "name": "Northeast Corridor Improvement Program, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0123"
+    },
+    {
+      "id": "4919",
+      "code": "0125",
+      "type": "federal_account",
+      "name": "Capital and Debt Service Grants to the National Railroad Passenger Corporation, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0125"
+    },
+    {
+      "id": "4926",
+      "code": "0147",
+      "type": "federal_account",
+      "name": "New Headquarters Building, Office of the Secretary, Transportation",
+      "amount": 0,
+      "account_number": "069-0147"
+    },
+    {
+      "id": "4938",
+      "code": "0505",
+      "type": "federal_account",
+      "name": "Surface Transportation Projects, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0505"
+    },
+    {
+      "id": "4952",
+      "code": "0533",
+      "type": "federal_account",
+      "name": "Highway Studies Feasibility, Design, Environmental, Engineering, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0533"
+    },
+    {
+      "id": "4953",
+      "code": "0534",
+      "type": "federal_account",
+      "name": "Payment to the Highway Trust Fund, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0534"
+    },
+    {
+      "id": "4956",
+      "code": "0540",
+      "type": "federal_account",
+      "name": "Highway Beautification, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0540"
+    },
+    {
+      "id": "4957",
+      "code": "0542",
+      "type": "federal_account",
+      "name": "TIFIA General Fund Program Account, Office of the Secretary, Transportation",
+      "amount": 0,
+      "account_number": "069-0542"
+    },
+    {
+      "id": "4959",
+      "code": "0549",
+      "type": "federal_account",
+      "name": "State Infrastructure Banks, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0549"
+    },
+    {
+      "id": "4960",
+      "code": "0550",
+      "type": "federal_account",
+      "name": "I-35W Bridge Repair and Reconstruction, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0550"
+    },
+    {
+      "id": "4961",
+      "code": "0551",
+      "type": "federal_account",
+      "name": "Delta Regional Transportation Development Program, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0551"
+    },
+    {
+      "id": "4965",
+      "code": "0557",
+      "type": "federal_account",
+      "name": "Railroad-Highway Crossings Demonstration Projects, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0557"
+    },
+    {
+      "id": "4966",
+      "code": "0560",
+      "type": "federal_account",
+      "name": "Interstate Transfer Grants-Highways, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0560"
+    },
+    {
+      "id": "4968",
+      "code": "0564",
+      "type": "federal_account",
+      "name": "Intersection Safety Demonstration Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0564"
+    },
+    {
+      "id": "4970",
+      "code": "0566",
+      "type": "federal_account",
+      "name": "Climbing Lane and Highway Safety Demonstration Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0566"
+    },
+    {
+      "id": "4976",
+      "code": "0572",
+      "type": "federal_account",
+      "name": "Kentucky Bridge Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0572"
+    },
+    {
+      "id": "4980",
+      "code": "0580",
+      "type": "federal_account",
+      "name": "Expressway Safety Improvement Demonstration Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0580"
+    },
+    {
+      "id": "4983",
+      "code": "0583",
+      "type": "federal_account",
+      "name": "Highway Demonstration Projects, Preliminary Engineering, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0583"
+    },
+    {
+      "id": "4989",
+      "code": "0592",
+      "type": "federal_account",
+      "name": "Turquoise Trail Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0592"
+    },
+    {
+      "id": "4994",
+      "code": "0640",
+      "type": "federal_account",
+      "name": "Appalachian Development System, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0640"
+    },
+    {
+      "id": "4995",
+      "code": "0641",
+      "type": "federal_account",
+      "name": "Miscellaneous Highway Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0641"
+    },
+    {
+      "id": "4996",
+      "code": "0644",
+      "type": "federal_account",
+      "name": "Arkansas I-69 Connector, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0644"
+    },
+    {
+      "id": "4998",
+      "code": "0646",
+      "type": "federal_account",
+      "name": "Alabama and West Virginia Highway Projects, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0646"
+    },
+    {
+      "id": "5001",
+      "code": "0651",
+      "type": "federal_account",
+      "name": "State and Community Highway Safety, Liquidation of Contract Authorization, National Highway Traffic Safety Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0651"
+    },
+    {
+      "id": "5003",
+      "code": "0654",
+      "type": "federal_account",
+      "name": "Consumer Assistance to Recycle and Save Program, National Highway Traffic Safety Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0654"
+    },
+    {
+      "id": "5007",
+      "code": "0701",
+      "type": "federal_account",
+      "name": "Railroad Safety Technology Program, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0701"
+    },
+    {
+      "id": "5009",
+      "code": "0703",
+      "type": "federal_account",
+      "name": "Railroad Research, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0703"
+    },
+    {
+      "id": "5010",
+      "code": "0704",
+      "type": "federal_account",
+      "name": "Grants to the National Railroad Passenger Corporation, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0704"
+    },
+    {
+      "id": "5011",
+      "code": "0707",
+      "type": "federal_account",
+      "name": "Rail Labor Assistance, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0707"
+    },
+    {
+      "id": "5012",
+      "code": "0714",
+      "type": "federal_account",
+      "name": "Local Rail Freight Assistance, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0714"
+    },
+    {
+      "id": "5017",
+      "code": "0722",
+      "type": "federal_account",
+      "name": "Next Generation High Speed Rail, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0722"
+    },
+    {
+      "id": "5020",
+      "code": "0726",
+      "type": "federal_account",
+      "name": "Rhode Island Rail Development, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0726"
+    },
+    {
+      "id": "5025",
+      "code": "0758",
+      "type": "federal_account",
+      "name": "West Virginia Rail Development, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0758"
+    },
+    {
+      "id": "5028",
+      "code": "1119",
+      "type": "federal_account",
+      "name": "Urban Mass Transportation Fund, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1119"
+    },
+    {
+      "id": "5030",
+      "code": "1121",
+      "type": "federal_account",
+      "name": "Research, Training, and Human Resources, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1121"
+    },
+    {
+      "id": "5031",
+      "code": "1122",
+      "type": "federal_account",
+      "name": "Urban Discretionary Grants, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1122"
+    },
+    {
+      "id": "5032",
+      "code": "1123",
+      "type": "federal_account",
+      "name": "Non-Urban Formula Grants, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1123"
+    },
+    {
+      "id": "5034",
+      "code": "1125",
+      "type": "federal_account",
+      "name": "Job Access and Reverse Commute Grants, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1125"
+    },
+    {
+      "id": "5035",
+      "code": "1126",
+      "type": "federal_account",
+      "name": "Waterborne Transportation Demonstration Project, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1126"
+    },
+    {
+      "id": "5036",
+      "code": "1127",
+      "type": "federal_account",
+      "name": "Interstate Transfer Grants-Transit, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1127"
+    },
+    {
+      "id": "5042",
+      "code": "1136",
+      "type": "federal_account",
+      "name": "University Transportation Research, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-1136"
+    },
+    {
+      "id": "5073",
+      "code": "2813",
+      "type": "federal_account",
+      "name": "Grants-In-Aid for Airports, Federal Aviation Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-2813"
+    },
+    {
+      "id": "5077",
+      "code": "4302",
+      "type": "federal_account",
+      "name": "War-Risk Insurance Revolving Fund, Maritime Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-4302"
+    },
+    {
+      "id": "5088",
+      "code": "5560",
+      "type": "federal_account",
+      "name": "Port of Guam Improvement Enterprise Fund, Maritime Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-5560"
+    },
+    {
+      "id": "5100",
+      "code": "8001",
+      "type": "federal_account",
+      "name": "Intermodal Urban Demonstration Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8001"
+    },
+    {
+      "id": "5101",
+      "code": "8002",
+      "type": "federal_account",
+      "name": "Carpool and Vanpool Projects, Federal Highway Administration",
+      "amount": 0,
+      "account_number": "069-8002"
+    },
+    {
+      "id": "5103",
+      "code": "8009",
+      "type": "federal_account",
+      "name": "Trust Fund Share of Other Highway Programs, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8009"
+    },
+    {
+      "id": "5104",
+      "code": "8014",
+      "type": "federal_account",
+      "name": "Baltimore-Washington Parkway Trust Fund, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8014"
+    },
+    {
+      "id": "5106",
+      "code": "8017",
+      "type": "federal_account",
+      "name": "Highway Safety Research and Development, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8017"
+    },
+    {
+      "id": "5107",
+      "code": "8019",
+      "type": "federal_account",
+      "name": "Highway-Related Safety Grants, Liquidation of Contract Authorization, Trust Fund, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8019"
+    },
+    {
+      "id": "5110",
+      "code": "8045",
+      "type": "federal_account",
+      "name": "Study of Improvements to Highway 8 in Wisconsin, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8045"
+    },
+    {
+      "id": "5111",
+      "code": "8048",
+      "type": "federal_account",
+      "name": "National Motor Carrier Safety Program, Liquidation of Contract Authorization, Federal Motor Carrier Safety Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8048"
+    },
+    {
+      "id": "5115",
+      "code": "8057",
+      "type": "federal_account",
+      "name": "Bridge Capacity Improvement, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8057"
+    },
+    {
+      "id": "5117",
+      "code": "8061",
+      "type": "federal_account",
+      "name": "Construction and Improvements to Halls Mills Road, New Jersey, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8061"
+    },
+    {
+      "id": "5118",
+      "code": "8072",
+      "type": "federal_account",
+      "name": "Appalachian Development Highway System, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8072"
+    },
+    {
+      "id": "5130",
+      "code": "8120",
+      "type": "federal_account",
+      "name": "Corridor Safety Improvement Demonstration Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8120"
+    },
+    {
+      "id": "5134",
+      "code": "8191",
+      "type": "federal_account",
+      "name": "Discretionary Grants, Liquidation of Contract Authorization, Highway Trust Fund, Federal Transit Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8191"
+    },
+    {
+      "id": "5136",
+      "code": "8265",
+      "type": "federal_account",
+      "name": "Cooperative Work, Forest Highways, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8265"
+    },
+    {
+      "id": "5138",
+      "code": "8309",
+      "type": "federal_account",
+      "name": "Right of Way Revolving Fund Program Account, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8309"
+    },
+    {
+      "id": "5141",
+      "code": "8362",
+      "type": "federal_account",
+      "name": "National Driver Register, National Highway Traffic Safety Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8362"
+    },
+    {
+      "id": "5143",
+      "code": "8371",
+      "type": "federal_account",
+      "name": "International Highway Transportation Outreach Program, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8371"
+    },
+    {
+      "id": "5150",
+      "code": "8381",
+      "type": "federal_account",
+      "name": "Pennsylvania Reconstruction Demonstration Project, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8381"
+    },
+    {
+      "id": "5151",
+      "code": "8382",
+      "type": "federal_account",
+      "name": "Highway Projects, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8382"
+    },
+    {
+      "id": "5152",
+      "code": "8386",
+      "type": "federal_account",
+      "name": "Mineola Grade Crossing, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8386"
+    },
+    {
+      "id": "5154",
+      "code": "8402",
+      "type": "federal_account",
+      "name": "Right-of-Way Revolving Fund, Liquidation of Contract Authorization, Trust Fund, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8402"
+    },
+    {
+      "id": "5155",
+      "code": "8502",
+      "type": "federal_account",
+      "name": "Technical Assistance, United States Dollars Advanced from Foreign Governments, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8502"
+    },
+    {
+      "id": "5157",
+      "code": "8547",
+      "type": "federal_account",
+      "name": "Special Studies, Services and Projects, Maritime Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8547"
+    },
+    {
+      "id": "5158",
+      "code": "8548",
+      "type": "federal_account",
+      "name": "Gifts and Bequests, Office of the Secretary, Transportation",
+      "amount": 0,
+      "account_number": "069-8548"
+    },
+    {
+      "id": "5160",
+      "code": "8632",
+      "type": "federal_account",
+      "name": "Equipment, Supplies, Etc., for Cooperating Countries, Federal Highway Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-8632"
+    },
+    {
+      "id": "6287",
+      "code": "0129",
+      "type": "federal_account",
+      "name": "Magnetic Levitation Technology Deployment Program, Federal Railroad Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0129"
+    },
+    {
+      "id": "6352",
+      "code": "0250",
+      "type": "federal_account",
+      "name": "Payment to the Airport and Airway Trust Fund, Federal Aviation Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-0250"
+    },
+    {
+      "id": "6372",
+      "code": "1731",
+      "type": "federal_account",
+      "name": "Transportation Demonstration Program, Office of the Secretary, Transportation",
+      "amount": 0,
+      "account_number": "069-1731"
+    },
+    {
+      "id": "6381",
+      "code": "2816",
+      "type": "federal_account",
+      "name": "Emergency FAA Employee Leave Fund, Federal Aviation Administration, Transportation",
+      "amount": 0,
+      "account_number": "069-2816"
+    },
+    {
+      "id": "6403",
+      "code": "1309",
+      "type": "federal_account",
+      "name": "TIFIA ARRA General Fund Program Account, Office of the Secretary, Transportation",
+      "amount": 0,
+      "account_number": "069-1309"
+    },
+    {
+      "id": "6450",
+      "code": "1736",
+      "type": "federal_account",
+      "name": "Asset Concessions and Innovative Finance Assistance, Office of the Secretary, Transportation",
+      "amount": 0,
+      "account_number": "069-1736"
+    },
+    {
+      "id": "5013",
+      "code": "0715",
+      "type": "federal_account",
+      "name": "Passenger Rail Service, Capital Assistance to States - Intercity, Federal Railroad Administration, Transportation",
+      "amount": -27,
+      "account_number": "069-0715"
+    },
+    {
+      "id": "4993",
+      "code": "0598",
+      "type": "federal_account",
+      "name": "Highway Demonstration Projects, Federal Highway Administration, Transportation",
+      "amount": -959.59,
+      "account_number": "069-0598"
+    },
+    {
+      "id": "5005",
+      "code": "0661",
+      "type": "federal_account",
+      "name": "Next Generation 911 Implementation Grants, National Highway Traffic Safety Administration, Transportation",
+      "amount": -6085.95,
+      "account_number": "069-0661"
+    },
+    {
+      "id": "4928",
+      "code": "0155",
+      "type": "federal_account",
+      "name": "Minority Business Resource Center Program, Office of the Secretary, Transportation",
+      "amount": -13404,
+      "account_number": "069-0155"
+    },
+    {
+      "id": "5038",
+      "code": "1129",
+      "type": "federal_account",
+      "name": "Formula Grants, Federal Transit Administration, Transportation",
+      "amount": -25779,
+      "account_number": "069-1129"
+    },
+    {
+      "id": "5016",
+      "code": "0719",
+      "type": "federal_account",
+      "name": "Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service, Federal Railroad Administration, Transportation",
+      "amount": -27896.66,
+      "account_number": "069-0719"
+    },
+    {
+      "id": "5033",
+      "code": "1124",
+      "type": "federal_account",
+      "name": "Urban Formula Grants, Federal Transit Administration, Transportation",
+      "amount": -31867.02,
+      "account_number": "069-1124"
+    },
+    {
+      "id": "6385",
+      "code": "0110",
+      "type": "federal_account",
+      "name": "Aviation Manufacturing Payroll Support Program, Office of the Secretary, Transportation",
+      "amount": -66963.8,
+      "account_number": "069-0110"
+    },
+    {
+      "id": "5029",
+      "code": "1120",
+      "type": "federal_account",
+      "name": "Administrative Expenses, Federal Transit Administration, Transportation",
+      "amount": -364258.26,
+      "account_number": "069-1120"
+    },
+    {
+      "id": "6380",
+      "code": "2815",
+      "type": "federal_account",
+      "name": "Relief for Airports, Federal Aviation Administration, Transportation",
+      "amount": -2305958.06,
+      "account_number": "069-2815"
+    },
+    {
+      "id": "5044",
+      "code": "1140",
+      "type": "federal_account",
+      "name": "Public Transportation Emergency Relief Program, Federal Transit Administration, Transportation",
+      "amount": -261260419.82,
+      "account_number": "069-1140"
+    }
+  ]
+}

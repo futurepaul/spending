@@ -1,0 +1,62 @@
+{
+  "total": 30836417.4,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571251",
+      "code": "0091",
+      "type": "program_activity",
+      "name": "OIL SPILL: PREVENTION, PREPAREDNESS AND RESPONSE",
+      "amount": 26401329.26
+    },
+    {
+      "id": "571152",
+      "code": "0044",
+      "type": "program_activity",
+      "name": "CIVIL ENFORCEMENT",
+      "amount": 2527763.13
+    },
+    {
+      "id": "571173",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "COMPLIANCE MONITORING",
+      "amount": 751000
+    },
+    {
+      "id": "571299",
+      "code": "00K8",
+      "type": "program_activity",
+      "name": "RESEARCH: SUSTAINABLE AND HEALTHY COMMUNITIES",
+      "amount": 645800.26
+    },
+    {
+      "id": "571295",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 613675.19
+    },
+    {
+      "id": "571160",
+      "code": "00C6",
+      "type": "program_activity",
+      "name": "SUPERFUND:  EMERGENCY RESPONSE AND REMOVAL",
+      "amount": 409.18
+    },
+    {
+      "id": "571087",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571059",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": -103559.62
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "total": 21817611.69,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "625048",
+      "code": "0010",
+      "type": "program_activity",
+      "name": "TRANSMISSION PLANNING & PERMITTING",
+      "amount": 15236030
+    },
+    {
+      "id": "687179",
+      "code": "0011",
+      "type": "program_activity",
+      "name": "DISTRIBUTION & MARKETS",
+      "amount": 3500000
+    },
+    {
+      "id": "625168",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "PROGRAM DIRECTION",
+      "amount": 2783204.09
+    },
+    {
+      "id": "663477",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY",
+      "amount": 298377.6
+    }
+  ]
+}

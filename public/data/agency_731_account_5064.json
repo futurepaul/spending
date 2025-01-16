@@ -1,0 +1,27 @@
+{
+  "total": 11431138.13,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567081",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "N.S.SAVANNAH PROTECTIVE STORAGE",
+      "amount": 9576616.69
+    },
+    {
+      "id": "566951",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "SHIP DISPOSAL",
+      "amount": 1854521.44
+    },
+    {
+      "id": "567172",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "NSS DECOMISSIONING",
+      "amount": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "total": 55735026.93,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "565210",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATIVE SUPPORT",
+      "amount": 51474885.1
+    },
+    {
+      "id": "565209",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLES",
+      "amount": 2716171.52
+    },
+    {
+      "id": "565208",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DISPUTE MEDIATION AND PREVENTIVE MEDIATION, PUBLIC INFORMATION, AND GRANTS",
+      "amount": 1088203.84
+    },
+    {
+      "id": "565206",
+      "code": "0101",
+      "type": "program_activity",
+      "name": "TRAINING",
+      "amount": 492865.81
+    },
+    {
+      "id": "565207",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "ARBITRATION SERVICES",
+      "amount": 1960.74
+    },
+    {
+      "id": "565205",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "LABOR-MANAGEMENT GRANTS (SEPARATED FROM LINE 0001 FOR FY21)",
+      "amount": -39060.08
+    }
+  ]
+}

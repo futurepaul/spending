@@ -1,0 +1,69 @@
+{
+  "total": 602708714.5,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567349",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 334058677.33
+    },
+    {
+      "id": "567511",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "COPS HIRING PROGRAM",
+      "amount": 132561077.51
+    },
+    {
+      "id": "567544",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "TRIBAL LAW ENFORCEMENT",
+      "amount": 31207037.31
+    },
+    {
+      "id": "567468",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "MANAGEMENT AND ADMINISTRATION",
+      "amount": 30903621.49
+    },
+    {
+      "id": "567480",
+      "code": "0013",
+      "type": "program_activity",
+      "name": "ANTI-HEROIN TASK FORCES",
+      "amount": 30444960
+    },
+    {
+      "id": "567550",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "PUBLIC SAFETY AND COMMUNITY POLICING GRANTS",
+      "amount": 20187203.93
+    },
+    {
+      "id": "567421",
+      "code": "0012",
+      "type": "program_activity",
+      "name": "ANTI-METHAMPHETAMINE TASK FORCES",
+      "amount": 12543004.73
+    },
+    {
+      "id": "567576",
+      "code": "0016",
+      "type": "program_activity",
+      "name": "PREPARING FOR ACTIVE SHOOTER SITUATIONS",
+      "amount": 10467718.73
+    },
+    {
+      "id": "567362",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "COMMUNITY ORIENTED POLICING SERVICES (REIMBURSABLE)",
+      "amount": 335413.47
+    }
+  ]
+}

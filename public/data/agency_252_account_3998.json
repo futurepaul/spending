@@ -1,0 +1,83 @@
+{
+  "total": 1538203381.34,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "567328",
+      "code": "0889",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITIES",
+      "amount": 421168071.09
+    },
+    {
+      "id": "567423",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "CLAIMS, CUSTOMS, AND GENERAL CIVIL MATTERS",
+      "amount": 370277401.51
+    },
+    {
+      "id": "567395",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "CRIMINAL MATTERS",
+      "amount": 219258817.99
+    },
+    {
+      "id": "567343",
+      "code": "0007",
+      "type": "program_activity",
+      "name": "CIVIL RIGHTS MATTERS",
+      "amount": 187514598.02
+    },
+    {
+      "id": "567404",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "ENVIRONMENT AND NATURAL RESOURCES",
+      "amount": 130010749.54
+    },
+    {
+      "id": "567547",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "GENERAL TAX MATTERS",
+      "amount": 128554260.58
+    },
+    {
+      "id": "567428",
+      "code": "0008",
+      "type": "program_activity",
+      "name": "INTERPOL WASHINGTON",
+      "amount": 45802613.21
+    },
+    {
+      "id": "567501",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "CONDUCT OF SUPREME COURT PROCEEDINGS AND REVIEW OF APPELLATE",
+      "amount": 14328104.31
+    },
+    {
+      "id": "567381",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "OFFICE OF LEGAL COUNSEL",
+      "amount": 10095217.36
+    },
+    {
+      "id": "567588",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "OFFICE OF THE PARDON ATTORNEY (PARDON)",
+      "amount": 8721390.82
+    },
+    {
+      "id": "567342",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN/OTHER",
+      "amount": 2472156.91
+    }
+  ]
+}

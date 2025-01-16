@@ -1,0 +1,216 @@
+{
+  "total": 810908204.15,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "571171",
+      "code": "00K8",
+      "type": "program_activity",
+      "name": "RESEARCH: SUSTAINABLE AND HEALTHY COMMUNITIES",
+      "amount": 147968165.23
+    },
+    {
+      "id": "571088",
+      "code": "0061",
+      "type": "program_activity",
+      "name": "FEDERAL VEHICLE AND FUELS STANDARDS AND CERTIFICATION",
+      "amount": 110610063.45
+    },
+    {
+      "id": "571254",
+      "code": "00K7",
+      "type": "program_activity",
+      "name": "RESEARCH: SAFE AND SUSTAINABLE WATER RESOURCES",
+      "amount": 110415528.44
+    },
+    {
+      "id": "571283",
+      "code": "00K9",
+      "type": "program_activity",
+      "name": "RESEARCH: CHEMICAL SAFETY AND SUSTAINABILITY",
+      "amount": 99234888.18
+    },
+    {
+      "id": "571227",
+      "code": "00K6",
+      "type": "program_activity",
+      "name": "RESEARCH: AIR, CLIMATE AND ENERGY",
+      "amount": 92832758.88
+    },
+    {
+      "id": "571273",
+      "code": "00F2",
+      "type": "program_activity",
+      "name": "FACILITIES INFRASTRUCTURE AND OPERATIONS",
+      "amount": 66379383.28
+    },
+    {
+      "id": "571037",
+      "code": "0084",
+      "type": "program_activity",
+      "name": "HUMAN HEALTH RISK ASSESSMENT",
+      "amount": 45330295.23
+    },
+    {
+      "id": "571198",
+      "code": "00L2",
+      "type": "program_activity",
+      "name": "WATER QUALITY RESEARCH AND SUPPORT GRANTS",
+      "amount": 28467865.58
+    },
+    {
+      "id": "571147",
+      "code": "0072",
+      "type": "program_activity",
+      "name": "HOMELAND SECURITY:  PREPAREDNESS, RESPONSE, AND RECOVERY",
+      "amount": 26996871.42
+    },
+    {
+      "id": "571274",
+      "code": "0059",
+      "type": "program_activity",
+      "name": "FEDERAL SUPPORT FOR AIR QUALITY MANAGEMENT",
+      "amount": 15341602
+    },
+    {
+      "id": "571293",
+      "code": "0062",
+      "type": "program_activity",
+      "name": "FORENSICS SUPPORT",
+      "amount": 14472085.58
+    },
+    {
+      "id": "571121",
+      "code": "0071",
+      "type": "program_activity",
+      "name": "HOMELAND SECURITY:  CRITICAL INFRASTRUCTURE PROTECTION",
+      "amount": 10361036.54
+    },
+    {
+      "id": "587512",
+      "code": "0079",
+      "type": "program_activity",
+      "name": "BROWNFIELDS PROJECTS",
+      "amount": 9700000
+    },
+    {
+      "id": "571279",
+      "code": "0046",
+      "type": "program_activity",
+      "name": "CLIMATE PROTECTION PROGRAM",
+      "amount": 7678761.43
+    },
+    {
+      "id": "571247",
+      "code": "0045",
+      "type": "program_activity",
+      "name": "CLEAN AIR ALLOWANCE TRADING PROGRAMS",
+      "amount": 6231715.76
+    },
+    {
+      "id": "571183",
+      "code": "0053",
+      "type": "program_activity",
+      "name": "DRINKING WATER PROGRAMS",
+      "amount": 3845820.51
+    },
+    {
+      "id": "571089",
+      "code": "0098",
+      "type": "program_activity",
+      "name": "RADIATION:  RESPONSE PREPAREDNESS",
+      "amount": 3178994.73
+    },
+    {
+      "id": "571205",
+      "code": "00J1",
+      "type": "program_activity",
+      "name": "PESTICIDES: PROTECT HUMAN HEALTH FROM PESTICIDE RISK",
+      "amount": 2895569.23
+    },
+    {
+      "id": "571217",
+      "code": "0097",
+      "type": "program_activity",
+      "name": "RADIATION:  PROTECTION",
+      "amount": 2750460.32
+    },
+    {
+      "id": "571042",
+      "code": "00F8",
+      "type": "program_activity",
+      "name": "IT / DATA MANAGEMENT",
+      "amount": 2379740.36
+    },
+    {
+      "id": "571302",
+      "code": "00J2",
+      "type": "program_activity",
+      "name": "PESTICIDES: PROTECT THE ENVIRONMENT FROM PESTICIDE RISK",
+      "amount": 1927621.26
+    },
+    {
+      "id": "571253",
+      "code": "00J3",
+      "type": "program_activity",
+      "name": "PESTICIDES: REALIZE THE VALUE OF PESTICIDE AVAILABILITY",
+      "amount": 818658.68
+    },
+    {
+      "id": "571240",
+      "code": "0073",
+      "type": "program_activity",
+      "name": "HOMELAND SEC:  PROTECTION OF EPA PERSONNEL & INFRASTRUCTURE",
+      "amount": 624999.91
+    },
+    {
+      "id": "571149",
+      "code": "0054",
+      "type": "program_activity",
+      "name": "ENDOCRINE DISRUPTORS",
+      "amount": 205000
+    },
+    {
+      "id": "571155",
+      "code": "0076",
+      "type": "program_activity",
+      "name": "INDOOR AIR:  RADON PROGRAM",
+      "amount": 166809.7
+    },
+    {
+      "id": "571118",
+      "code": "00H5",
+      "type": "program_activity",
+      "name": "REDUCE RISKS FROM INDOOR AIR",
+      "amount": 97010
+    },
+    {
+      "id": "571043",
+      "code": "00MM",
+      "type": "program_activity",
+      "name": "ADMIN: BIL MANAGEMENT AND OVERSIGHT",
+      "amount": 23397.9
+    },
+    {
+      "id": "571161",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNKNOWN",
+      "amount": 0
+    },
+    {
+      "id": "571120",
+      "code": "00NS",
+      "type": "program_activity",
+      "name": "NOT SPECIFIED",
+      "amount": -3599.27
+    },
+    {
+      "id": "602067",
+      "code": "0081",
+      "type": "program_activity",
+      "name": "INFRASTRUCTURE ASSISTANCE:  DRINKING WATER SRF",
+      "amount": -23300.18
+    }
+  ]
+}

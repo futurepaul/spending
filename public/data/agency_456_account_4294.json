@@ -1,0 +1,20 @@
+{
+  "total": 7545598.31,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569049",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DEPARTMENT WIDE SYSTEMS AND CAPITAL INVESTMENTS PROGRAMS DIRECT",
+      "amount": 7583861.27
+    },
+    {
+      "id": "569311",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "DEPARTMENT-WIDE SYSTEMS AND CAPITAL INVESTMENTS PROGRAMS (DIRECT)",
+      "amount": -38262.96
+    }
+  ]
+}

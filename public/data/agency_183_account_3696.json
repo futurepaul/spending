@@ -1,0 +1,27 @@
+{
+  "total": 364978694.57,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "682381",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "NATIONAL MARINE FISHERIES SERVICE",
+      "amount": 361250432.94
+    },
+    {
+      "id": "682550",
+      "code": "0050",
+      "type": "program_activity",
+      "name": "VARIOUS ACCOUNTING",
+      "amount": 3728261.63
+    },
+    {
+      "id": "682509",
+      "code": "0006",
+      "type": "program_activity",
+      "name": "MISSION SUPPORT",
+      "amount": 0
+    }
+  ]
+}

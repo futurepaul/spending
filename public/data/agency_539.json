@@ -1,0 +1,110 @@
+{
+  "total": 1607047544959.1,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "4616",
+      "code": "8006",
+      "type": "federal_account",
+      "name": "Federal Old-Age and Survivors Insurance Trust Fund - Treasury Managed, Social Security Administration",
+      "amount": 1312546928430.07,
+      "account_number": "028-8006"
+    },
+    {
+      "id": "4617",
+      "code": "8007",
+      "type": "federal_account",
+      "name": "Federal Disability Insurance Trust Fund - Treasury Managed, Social Security Administration",
+      "amount": 159647606708.21,
+      "account_number": "028-8007"
+    },
+    {
+      "id": "4605",
+      "code": "0406",
+      "type": "federal_account",
+      "name": "Supplemental Security Income Program, Social Security Administration",
+      "amount": 66371711687.79,
+      "account_number": "028-0406"
+    },
+    {
+      "id": "4604",
+      "code": "0404",
+      "type": "federal_account",
+      "name": "Payments to Social Security Trust Funds, Social Security Administration",
+      "amount": 53768482115.78,
+      "account_number": "028-0404"
+    },
+    {
+      "id": "4618",
+      "code": "8704",
+      "type": "federal_account",
+      "name": "Salaries and Expenses, Social Security Administration",
+      "amount": 14426915054.49,
+      "account_number": "028-8704"
+    },
+    {
+      "id": "4612",
+      "code": "5419",
+      "type": "federal_account",
+      "name": "State Supplemental Fees, Social Security Administration",
+      "amount": 150000000,
+      "account_number": "028-5419"
+    },
+    {
+      "id": "4601",
+      "code": "0400",
+      "type": "federal_account",
+      "name": "Office of the Inspector General, Social Security Administration",
+      "amount": 135446717.33,
+      "account_number": "028-0400"
+    },
+    {
+      "id": "4602",
+      "code": "0401",
+      "type": "federal_account",
+      "name": "Special Benefits for Certain World War II Veterans, Social Security Administration",
+      "amount": 420275.83,
+      "account_number": "028-0401"
+    },
+    {
+      "id": "4607",
+      "code": "0416",
+      "type": "federal_account",
+      "name": "Administrative Expenses, Children's Health Insurance Program, Social Security Administration",
+      "amount": 31180.16,
+      "account_number": "028-0416"
+    },
+    {
+      "id": "4611",
+      "code": "0440",
+      "type": "federal_account",
+      "name": "Payments for Credits Against Social Security Contributions, Social Security Administration",
+      "amount": 2789.44,
+      "account_number": "028-0440"
+    },
+    {
+      "id": "6330",
+      "code": "0419",
+      "type": "federal_account",
+      "name": "Payment to Limitation on Administrative Expenses, Social Security Administration",
+      "amount": 0,
+      "account_number": "028-0419"
+    },
+    {
+      "id": "4606",
+      "code": "0415",
+      "type": "federal_account",
+      "name": "Administrative Costs, The Medicare Improvements for Patients and Providers Act, Social Security Administration",
+      "amount": 0,
+      "account_number": "028-0415"
+    },
+    {
+      "id": "4608",
+      "code": "0417",
+      "type": "federal_account",
+      "name": "Limitation on Administrative Expenses - Recovery Act, Social Security Administration",
+      "amount": 0,
+      "account_number": "028-0417"
+    }
+  ]
+}

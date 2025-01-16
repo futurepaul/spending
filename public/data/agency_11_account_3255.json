@@ -1,0 +1,90 @@
+{
+  "total": 883739539.07,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "569417",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "GOAL 1-ADDRESS CURRENT AND EMERGING CHALLENGES TO THE WELL-BEING AND FINANCIAL SECURITY OF THE AMERICAN PEOPLE",
+      "amount": 309258760.56
+    },
+    {
+      "id": "569414",
+      "code": "0002",
+      "type": "program_activity",
+      "name": "GOAL 2-RESPOND TO CHANGING SECURITY THREATS AND THE CHALLENGES OF GLOBAL INTERDEPENDENCE",
+      "amount": 218756302.38
+    },
+    {
+      "id": "569411",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "GOAL 3-HELP TRANSFORM THE FEDERAL GOVERNMENT TO ADDRESS NATIONAL CHALLENGES",
+      "amount": 196435909.48
+    },
+    {
+      "id": "569418",
+      "code": "0005",
+      "type": "program_activity",
+      "name": "GOAL 8-OTHER COSTS IN SUPPORT OF THE CONGRESS",
+      "amount": 73626015.76
+    },
+    {
+      "id": "569422",
+      "code": "0803",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY GOAL 3",
+      "amount": 50595609.6
+    },
+    {
+      "id": "569421",
+      "code": "0004",
+      "type": "program_activity",
+      "name": "GOAL 4-MAXIMIZE THE VALUE OF GAO BY ENABLING QUALITY, TIMELY SERVICE TO THE CONGRESS, AND BY BEING A LEADING PRACTICES FEDERAL AGENCY",
+      "amount": 20822975.19
+    },
+    {
+      "id": "569416",
+      "code": "0009",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT",
+      "amount": 8817916.75
+    },
+    {
+      "id": "569419",
+      "code": "0805",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY GOAL 8",
+      "amount": 2450877.52
+    },
+    {
+      "id": "569420",
+      "code": "0802",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY GOAL 2",
+      "amount": 1933576.82
+    },
+    {
+      "id": "569413",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY GOAL 1",
+      "amount": 1231584.34
+    },
+    {
+      "id": "569412",
+      "code": "0804",
+      "type": "program_activity",
+      "name": "REIMBURSABLE PROGRAM ACTIVITY GOAL 4",
+      "amount": 15960.72
+    },
+    {
+      "id": "569415",
+      "code": "0809",
+      "type": "program_activity",
+      "name": "PROGRAM SUPPORT REIMBURSABLE",
+      "amount": -205950.05
+    }
+  ]
+}

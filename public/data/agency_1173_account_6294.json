@@ -1,0 +1,13 @@
+{
+  "total": 1740391177.37,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564983",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 1740391177.37
+    }
+  ]
+}

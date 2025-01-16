@@ -1,0 +1,27 @@
+{
+  "total": 5329758.77,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "568772",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OFFICE OF THE CHIEF FINANCIAL OFFICER",
+      "amount": 4301583.21
+    },
+    {
+      "id": "665676",
+      "code": "0807",
+      "type": "program_activity",
+      "name": "OFFICE OF ETHICS",
+      "amount": 536264.55
+    },
+    {
+      "id": "568627",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "OFFICE OF CIVIL RIGHTS REIMB",
+      "amount": 491911.01
+    }
+  ]
+}

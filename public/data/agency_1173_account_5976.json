@@ -1,0 +1,55 @@
+{
+  "total": 257635155.61,
+  "end_date": "2024-09-30T00:00:00Z",
+  "results": [
+    {
+      "id": "564482",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": 245339545.45
+    },
+    {
+      "id": "564691",
+      "code": "0801",
+      "type": "program_activity",
+      "name": "REIMBURSABLE",
+      "amount": 15522166.76
+    },
+    {
+      "id": "596090",
+      "code": "0003",
+      "type": "program_activity",
+      "name": "FORMER SOVIET UNION THREAT REDUCTION DEFENSE",
+      "amount": 1384828.98
+    },
+    {
+      "id": "564271",
+      "code": "0020",
+      "type": "program_activity",
+      "name": "UNDISTRIBUTED",
+      "amount": 103054.2
+    },
+    {
+      "id": "596233",
+      "code": "0001",
+      "type": "program_activity",
+      "name": "OPERATING FORCES",
+      "amount": 0
+    },
+    {
+      "id": "564799",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "N/A",
+      "amount": -1384877.32
+    },
+    {
+      "id": "564302",
+      "code": "0000",
+      "type": "program_activity",
+      "name": "UNSPECIFIED",
+      "amount": -3329562.46
+    }
+  ]
+}
