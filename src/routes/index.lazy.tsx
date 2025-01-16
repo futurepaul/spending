@@ -47,6 +47,7 @@ function Index() {
       <Titlebar 
         title="2024 Spending by Agency" 
         total={data.total}
+        breadcrumbs={[]}
       />
       {search.view === 'tree' ? (
         <TreeView data={treeData} />

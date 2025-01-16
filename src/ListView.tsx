@@ -5,7 +5,7 @@ import { Route as RootRoute } from './routes/__root';
 
 interface ListViewProps {
   data: TreeViewData[];
-  onItemClick?: (id: string) => void;
+  onItemClick?: (item: TreeViewData) => void;
 }
 
 export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
@@ -24,13 +24,13 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
     return `${((amount / total) * 100).toFixed(2)}%`;
   };
 
-  const handleClick = (id: string) => {
+  const handleClick = (item: TreeViewData) => {
     if (onItemClick) {
-      onItemClick(id);
-    } else if (id) {
+      onItemClick(item);
+    } else if (item.id) {
       navigate({ 
-        to: '/$agency', 
-        params: { agency: id },
+        to: '/agency/$agency', 
+        params: { agency: item.id },
         search: { view }
       });
     }
@@ -50,7 +50,7 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick }) => {
           {data.map((item, index) => (
             <tr 
               key={item.id || index}
-              onClick={() => item.id && handleClick(item.id)}
+              onClick={() => item.id && handleClick(item)}
               style={{ 
                 cursor: item.id ? 'pointer' : 'default',
               }}

@@ -4,7 +4,8 @@ import { z } from 'zod'
 import "../index.css"
 
 export const searchSchema = z.object({
-  view: z.enum(['tree', 'list']).default('tree')
+  view: z.enum(['tree', 'list']).default('tree'),
+  agency: z.string().optional()
 })
 
 export type SearchParams = z.infer<typeof searchSchema>

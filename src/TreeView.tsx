@@ -5,8 +5,12 @@ import { Route as RootRoute } from './routes/__root';
 
 export interface TreeViewData {
   name: string;
-  id?: string;
+  id: string;
   value: number;
+  metadata?: {
+    account_number?: string;
+    [key: string]: any;
+  };
 }
 
 interface TreemapData {
@@ -18,7 +22,7 @@ interface TreemapData {
 interface TreeViewProps {
   data: TreeViewData[];
   title?: string;
-  onItemClick?: (id: string) => void;
+  onItemClick?: (item: TreeViewData) => void;
 }
 
 export const TreeView = ({ data, title = "Government Spending", onItemClick }: TreeViewProps) => {
@@ -102,10 +106,10 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick }: T
         const id = (d.data as TreeViewData).id;
         if (id) {
           if (onItemClick) {
-            onItemClick(id);
+            onItemClick(d.data as TreeViewData);
           } else {
             navigate({ 
-              to: '/$agency', 
+              to: '/agency/$agency', 
               params: { agency: id },
               search: { view }
             });

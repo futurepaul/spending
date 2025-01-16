@@ -13,7 +13,8 @@ import { createFileRoute } from '@tanstack/react-router'
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
-import { Route as AgencyImport } from './routes/$agency'
+import { Route as ProgramAccountImport } from './routes/program/$account'
+import { Route as AgencyAgencyImport } from './routes/agency/$agency'
 
 // Create Virtual Routes
 
@@ -21,17 +22,23 @@ const IndexLazyImport = createFileRoute('/')()
 
 // Create/Update Routes
 
-const AgencyRoute = AgencyImport.update({
-  id: '/$agency',
-  path: '/$agency',
-  getParentRoute: () => rootRoute,
-} as any)
-
 const IndexLazyRoute = IndexLazyImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRoute,
 } as any).lazy(() => import('./routes/index.lazy').then((d) => d.Route))
+
+const ProgramAccountRoute = ProgramAccountImport.update({
+  id: '/program/$account',
+  path: '/program/$account',
+  getParentRoute: () => rootRoute,
+} as any)
+
+const AgencyAgencyRoute = AgencyAgencyImport.update({
+  id: '/agency/$agency',
+  path: '/agency/$agency',
+  getParentRoute: () => rootRoute,
+} as any)
 
 // Populate the FileRoutesByPath interface
 
@@ -44,11 +51,18 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexLazyImport
       parentRoute: typeof rootRoute
     }
-    '/$agency': {
-      id: '/$agency'
-      path: '/$agency'
-      fullPath: '/$agency'
-      preLoaderRoute: typeof AgencyImport
+    '/agency/$agency': {
+      id: '/agency/$agency'
+      path: '/agency/$agency'
+      fullPath: '/agency/$agency'
+      preLoaderRoute: typeof AgencyAgencyImport
+      parentRoute: typeof rootRoute
+    }
+    '/program/$account': {
+      id: '/program/$account'
+      path: '/program/$account'
+      fullPath: '/program/$account'
+      preLoaderRoute: typeof ProgramAccountImport
       parentRoute: typeof rootRoute
     }
   }
@@ -58,37 +72,42 @@ declare module '@tanstack/react-router' {
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexLazyRoute
-  '/$agency': typeof AgencyRoute
+  '/agency/$agency': typeof AgencyAgencyRoute
+  '/program/$account': typeof ProgramAccountRoute
 }
 
 export interface FileRoutesByTo {
   '/': typeof IndexLazyRoute
-  '/$agency': typeof AgencyRoute
+  '/agency/$agency': typeof AgencyAgencyRoute
+  '/program/$account': typeof ProgramAccountRoute
 }
 
 export interface FileRoutesById {
   __root__: typeof rootRoute
   '/': typeof IndexLazyRoute
-  '/$agency': typeof AgencyRoute
+  '/agency/$agency': typeof AgencyAgencyRoute
+  '/program/$account': typeof ProgramAccountRoute
 }
 
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/$agency'
+  fullPaths: '/' | '/agency/$agency' | '/program/$account'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/$agency'
-  id: '__root__' | '/' | '/$agency'
+  to: '/' | '/agency/$agency' | '/program/$account'
+  id: '__root__' | '/' | '/agency/$agency' | '/program/$account'
   fileRoutesById: FileRoutesById
 }
 
 export interface RootRouteChildren {
   IndexLazyRoute: typeof IndexLazyRoute
-  AgencyRoute: typeof AgencyRoute
+  AgencyAgencyRoute: typeof AgencyAgencyRoute
+  ProgramAccountRoute: typeof ProgramAccountRoute
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexLazyRoute: IndexLazyRoute,
-  AgencyRoute: AgencyRoute,
+  AgencyAgencyRoute: AgencyAgencyRoute,
+  ProgramAccountRoute: ProgramAccountRoute,
 }
 
 export const routeTree = rootRoute
@@ -102,14 +121,18 @@ export const routeTree = rootRoute
       "filePath": "__root.tsx",
       "children": [
         "/",
-        "/$agency"
+        "/agency/$agency",
+        "/program/$account"
       ]
     },
     "/": {
       "filePath": "index.lazy.tsx"
     },
-    "/$agency": {
-      "filePath": "$agency.tsx"
+    "/agency/$agency": {
+      "filePath": "agency/$agency.tsx"
+    },
+    "/program/$account": {
+      "filePath": "program/$account.tsx"
     }
   }
 }
