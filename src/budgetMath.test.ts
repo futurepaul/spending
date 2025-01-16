@@ -11,6 +11,7 @@ test('calculateRatios - simple numbers', () => {
   const ratios = calculateRatios(base)
   expect(ratios.outlaysRatio).toBe(2)
   expect(ratios.obligatedRatio).toBe(3)
+  expect(ratios.remainingObligatedRatio).toBe(1)
 })
 
 test('scaleToUserAmount - returns original numbers when disabled', () => {
@@ -20,7 +21,10 @@ test('scaleToUserAmount - returns original numbers when disabled', () => {
     obligatedAmount: 3
   }
   const result = scaleToUserAmount(base, 5, false)
-  expect(result).toEqual(base)
+  expect(result).toEqual({
+    ...base,
+    remainingObligated: 1
+  })
 })
 
 test('scaleToUserAmount - scales numbers correctly when enabled', () => {
@@ -33,6 +37,7 @@ test('scaleToUserAmount - scales numbers correctly when enabled', () => {
   expect(result.revenue).toBe(5)
   expect(result.outlays).toBe(10)
   expect(result.obligatedAmount).toBe(15)
+  expect(result.remainingObligated).toBe(5)
 })
 
 test('scaleToUserAmount - handles zero user amount', () => {

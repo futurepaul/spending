@@ -9,6 +9,28 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.marker {
+  font-family: 'Permanent Marker', cursive;
+  font-weight: 400;
+}
+
+.label {
+  position: absolute;
+  transform: rotate(-5deg);
+  font-size: 1.2rem;
+  color: #8b0000;
+  bottom: calc(100% + 5px);
+  left: calc(var(--base-width) + 20px);
+}
+
+.label.deficit {
+  left: calc(var(--base-width) + 20px);
+}
+
+.label.future-obligations {
+  left: calc(var(--outlays-width) + 20px);
+}
+
 body {
   background-color: #f0f0f0;
   padding: 10px;
@@ -50,41 +72,84 @@ body {
   gap: 1px;
 }
 
-.budget-stack > div {
+.budget-stack .budget-item {
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.budget-stack .title {
+  font-size: 0.8rem;
+  color: #333;
+  text-align: left;
+  margin-bottom: 2px;
+  font-weight: 500;
+}
+
+.budget-stack > .budget-item > div:not(.title) {
   background-color: #000;
   color: white;
   transition: width 0.3s ease;
   box-sizing: border-box;
   position: relative;
   height: 40px;
+  font-size: 1rem;
+}
+
+@media (max-width: 600px) {
+  .budget-stack > .budget-item > div:not(.title) {
+    font-size: 0.8rem;
+  }
+  
+  .budget-stack .diff-content,
+  .budget-stack .remaining-content {
+    font-size: 0.75rem;
+  }
 }
 
 .budget-stack .content-wrapper {
-  display: flex;
+  position: relative;
   width: 100%;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
+  height: 100%;
 }
 
 .budget-stack .base-content {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
   width: var(--base-width);
   display: flex;
   align-items: center;
-  padding: 0 5px;
+  padding: 0 10px;
 }
 
 .budget-stack .diff-content {
+  position: absolute;
+  left: var(--base-width);
+  top: 0;
+  bottom: 0;
   display: flex;
   align-items: center;
-  padding: 0 5px;
+  padding: 0 10px;
   color: white;
+  width: calc(var(--outlays-width) - var(--base-width));
+}
+
+.budget-stack .remaining-content {
+  position: absolute;
+  left: var(--outlays-width);
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  color: black;
+  width: calc(100% - var(--outlays-width));
 }
 
 .budget-stack .tax-revenue {
   width: var(--width-percent);
-  padding: 0 5px;
+  padding: 0 10px;
   display: flex;
   align-items: center;
 }
@@ -96,5 +161,10 @@ body {
 
 .budget-stack .over-budget {
   width: 100%;
-  background: linear-gradient(to right, #000 var(--base-width), #8b0000 var(--base-width));
+  background: linear-gradient(
+    to right,
+    #000 var(--base-width),
+    #8b0000 var(--base-width) var(--outlays-width),
+    #d3d3d3 var(--outlays-width)
+  );
 }

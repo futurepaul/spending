@@ -49,8 +49,26 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick, parentPer
   };
 
   return (
-    <div>
-      <table style={{ width: '100%' }}>
+    <div className="list-view-container">
+      <style>
+        {`
+          .list-view-container table {
+            width: 100%;
+            font-size: 1rem;
+          }
+          
+          @media (max-width: 768px) {
+            .list-view-container table {
+              font-size: 0.75rem;
+            }
+            .list-view-container th,
+            .list-view-container td {
+              padding: 4px;
+            }
+          }
+        `}
+      </style>
+      <table>
         <thead>
           <tr>
             <th style={{ textAlign: 'left' }}>Name</th>

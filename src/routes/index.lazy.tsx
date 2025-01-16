@@ -27,7 +27,7 @@ export const Route = createLazyFileRoute('/')({
 })
 
 function BudgetStack() {
-    const { amount: userAmount, useUserMoney, setUseUserMoney } = useUserAmount()
+    const { amount: userAmount, useUserMoney } = useUserAmount()
     // 9.7 trillion
     const obligatedAmount = 9700000000000
     // 6.752 trillion
@@ -52,6 +52,10 @@ function BudgetStack() {
             return `$${(n / 1000000000000).toFixed(2)}T`
         } else if (n > 1000000000) {
             return `$${(n / 1000000000).toFixed(2)}B`
+        } else if (n > 1000) {
+            return `$${Math.round(n / 1000)}k`
+        } else if (n > 99) {
+            return n.toLocaleString('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 0, maximumFractionDigits: 0 })
         } else {
             return n.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
         }
@@ -61,51 +65,50 @@ function BudgetStack() {
     const outlaysWidth = (numbers.outlays / numbers.obligatedAmount) * 100
     
     const outlaysDiff = numbers.outlays - numbers.revenue
-    const obligatedDiff = numbers.obligatedAmount - numbers.revenue
 
     return (
         <>
-            <div style={{ 
-                display: 'flex', 
-                alignItems: 'center', 
-                gap: '0.5rem',
-            }}>
-                <input
-                    type="checkbox"
-                    id="useMyMoney"
-                    checked={useUserMoney}
-                    onChange={(e) => setUseUserMoney(e.target.checked)}
-                />
-                <label htmlFor="useMyMoney">Spend my money!</label>
-            </div>
             <div className="budget-stack">
-                <div 
-                    className="tax-revenue" 
-                    style={{ '--width-percent': `${revenueWidth}%` } as React.CSSProperties}
-                >
-                    REVENUE: {formatNumber(numbers.revenue)}
-                </div>
-                <div 
-                    className="outlays"
-                    style={{ 
-                        '--width-percent': `${outlaysWidth}%`,
-                        '--base-width': `${(revenueWidth / outlaysWidth) * 100}%`
-                    } as React.CSSProperties}
-                >
-                    <div className="content-wrapper">
-                        <div className="base-content">OUTLAYS: {formatNumber(numbers.outlays)}</div>
-                        <div className="diff-content">(+{formatNumber(outlaysDiff)})</div>
+                <div className="budget-item">
+                    <div className="title">REVENUE</div>
+                    <div 
+                        className="tax-revenue" 
+                        style={{ '--width-percent': `${revenueWidth}%` } as React.CSSProperties}
+                    >
+                        {formatNumber(numbers.revenue)}
                     </div>
                 </div>
-                <div 
-                    className="over-budget"
-                    style={{ 
-                        '--base-width': `${revenueWidth}%`
-                    } as React.CSSProperties}
-                >
-                    <div className="content-wrapper">
-                        <div className="base-content">OBLIGATED AMOUNT: {formatNumber(numbers.obligatedAmount)}</div>
-                        <div className="diff-content">(+{formatNumber(obligatedDiff)})</div>
+                <div className="budget-item">
+                    <div className="title">OUTLAYS</div>
+                    <div 
+                        className="outlays"
+                        style={{ 
+                            '--width-percent': `${outlaysWidth}%`,
+                            '--base-width': `${(revenueWidth / outlaysWidth) * 100}%`
+                        } as React.CSSProperties}
+                    >
+                        <div className="content-wrapper">
+                            <div className="base-content">{formatNumber(numbers.outlays)}</div>
+                            <div className="diff-content">(+{formatNumber(outlaysDiff)})</div>
+                        </div>
+                        <div className="marker label deficit">we printed this</div>
+                    </div>
+                </div>
+                <div className="budget-item">
+                    <div className="title">OBLIGATED AMOUNT</div>
+                    <div 
+                        className="over-budget"
+                        style={{ 
+                            '--base-width': `${revenueWidth}%`,
+                            '--outlays-width': `${outlaysWidth}%`
+                        } as React.CSSProperties}
+                    >
+                        <div className="content-wrapper">
+                            <div className="base-content">{formatNumber(numbers.obligatedAmount)}</div>
+                            <div className="diff-content">(+{formatNumber(outlaysDiff)})</div>
+                            <div className="remaining-content">(+{formatNumber(numbers.remainingObligated)})</div>
+                        </div>
+                        <div className="marker label future-obligations">our kids pay this</div>
                     </div>
                 </div>
             </div>

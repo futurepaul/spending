@@ -7,27 +7,35 @@ export interface BudgetNumbers {
 export function calculateRatios(baseNumbers: BudgetNumbers): {
   outlaysRatio: number;
   obligatedRatio: number;
+  remainingObligatedRatio: number;
 } {
   const outlaysRatio = baseNumbers.outlays / baseNumbers.revenue;
   const obligatedRatio = baseNumbers.obligatedAmount / baseNumbers.revenue;
-  return { outlaysRatio, obligatedRatio };
+  const remainingObligatedRatio = (baseNumbers.obligatedAmount - baseNumbers.outlays) / baseNumbers.revenue;
+  return { outlaysRatio, obligatedRatio, remainingObligatedRatio };
 }
 
 export function scaleToUserAmount(
   baseNumbers: BudgetNumbers,
   userAmount: number,
   useUserAmount: boolean
-): BudgetNumbers {
+): BudgetNumbers & { remainingObligated: number } {
   if (!useUserAmount) {
-    return baseNumbers;
+    return {
+      ...baseNumbers,
+      remainingObligated: baseNumbers.obligatedAmount - baseNumbers.outlays
+    };
   }
 
   const { outlaysRatio, obligatedRatio } = calculateRatios(baseNumbers);
-
-  return {
+  const scaled = {
     revenue: userAmount,
     outlays: userAmount * outlaysRatio,
     obligatedAmount: userAmount * obligatedRatio,
+  };
+  return {
+    ...scaled,
+    remainingObligated: scaled.obligatedAmount - scaled.outlays
   };
 }
 

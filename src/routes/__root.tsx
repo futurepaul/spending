@@ -1,18 +1,7 @@
 import { createRootRoute, Outlet } from '@tanstack/react-router'
 import { TanStackRouterDevtools } from '@tanstack/router-devtools'
 import { z } from 'zod'
-import "../index.css"
 import { UserAmountProvider } from '../UserAmountContext'
-
-interface SpendingData {
-  type: string
-  filters: {
-    fy: string
-    period: string
-    agency: string
-    federal_account?: string
-  }
-}
 
 export interface SpendingResponse {
   total: number
@@ -74,7 +63,6 @@ export const Route = createRootRoute({
   component: () => (
     <UserAmountProvider>
       <Outlet />
-      <Footer />
       <TanStackRouterDevtools />
     </UserAmountProvider>
   ),

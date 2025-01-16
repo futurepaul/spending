@@ -15,7 +15,7 @@ interface TitlebarProps {
 }
 
 export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = [] }) => {
-  const { amount, setAmount } = useUserAmount();
+  const { amount, setAmount, useUserMoney, setUseUserMoney } = useUserAmount();
 
   const formatDisplayAmount = (amount: number) => {
     if (amount >= 1e12) return `$${(amount / 1e12).toFixed(1)} Trillion`;
@@ -64,7 +64,9 @@ export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = 
 
   return (
     <div style={{ textAlign: 'left', padding: '1rem' }}>
+        <a href="/" style={{ textDecoration: 'none' }}>
       <h1>💸 SPENDING.LOL 💸</h1>
+        </a>
       
       {/* Always show total government spending */}
       <div style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>
@@ -88,6 +90,15 @@ export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = 
               borderRadius: '4px'
             }}
           />
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
+          <input
+            type="checkbox"
+            id="useMyMoney"
+            checked={useUserMoney}
+            onChange={(e) => setUseUserMoney(e.target.checked)}
+          />
+          <label htmlFor="useMyMoney">Spend my money!</label>
         </div>
       </div>
 
