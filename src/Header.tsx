@@ -26,7 +26,7 @@ export const Header: React.FC = () => {
       </Link>
       
       <p>
-        The US government spent <strong>{formatDisplayAmount(fy2024Data.total)}</strong> in 2024
+        The US government <s>spent</s> promised <strong>{formatDisplayAmount(fy2024Data.total)}</strong> in 2024
       </p>
 
       <div>

@@ -54,7 +54,7 @@ export type SearchParams = z.infer<typeof searchSchema>
 const Footer = () => {
     return (
         <footer>
-            <hr />
+            <hr style={{ border: '1px solid #ddd', margin: '1rem 0' }} />
             <a href="https://x.com/futurepaul">Blame @futurepaul</a>&nbsp;|&nbsp;
             <a href="https://www.usaspending.gov">Data from USASpending.gov</a>&nbsp;|&nbsp;
             <a href="https://github.com/jason-m-smith/spending.lol">Fix this on GitHub</a>&nbsp;|&nbsp;
