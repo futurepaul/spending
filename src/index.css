@@ -9,6 +9,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1 {
+  font-size: 2rem;
+  color: #333;
+  /* don't show visited / link colors */
+  text-decoration: none;
+}
+
+button {
+  font-size: 1.5rem;
+  align-self: center;
+}
+
 .marker {
   font-family: 'Permanent Marker', cursive;
   font-weight: 400;
@@ -33,7 +45,7 @@
 
 body {
   background-color: #f0f0f0;
-  padding: 10px;
+  padding: 2rem;
   margin: 0;
   overflow-x: hidden;
 }
@@ -42,12 +54,11 @@ body {
   max-width: 100vw;
   margin: 0;
   padding: 0;
-  text-align: center;
 }
 
 .tree-view {
   width: 100%;
-  height: 1024px;
+  height: 768px;
   margin: 0;
   padding: 0;
 }
@@ -104,6 +115,10 @@ body {
   .budget-stack .remaining-content {
     font-size: 0.75rem;
   }
+
+  body {
+    padding: 1rem;
+  }
 }
 
 .budget-stack .content-wrapper {
@@ -156,7 +171,7 @@ body {
 
 .budget-stack .outlays {
   width: var(--width-percent);
-  background: linear-gradient(to right, #000 var(--base-width), #8b0000 var(--base-width));
+  background: linear-gradient(to right, #000 var(--base-width), #333 var(--base-width));
 }
 
 .budget-stack .over-budget {
@@ -164,7 +179,176 @@ body {
   background: linear-gradient(
     to right,
     #000 var(--base-width),
-    #8b0000 var(--base-width) var(--outlays-width),
+    #333 var(--base-width) var(--outlays-width),
     #d3d3d3 var(--outlays-width)
   );
+}
+
+/* Typography */
+h1.marker {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.budget-item .title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.budget-item .content-wrapper {
+  font-size: 1rem;
+}
+
+.budget-item .label {
+  font-size: 1rem;
+}
+
+.titlebar-info {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.breadcrumbs {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.user-input {
+  font-size: 1rem;
+  width: 200px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.flex-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+/* List View Table Styles */
+.list-view-container table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  table-layout: fixed;
+}
+
+.list-view-container th,
+.list-view-container td {
+  padding: 12px 8px;
+}
+
+/* Allow wrapping for the name column and its header */
+.list-view-container td:first-child,
+.list-view-container th:first-child {
+  white-space: normal;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+/* Keep numeric columns from wrapping */
+.list-view-container td:not(:first-child),
+.list-view-container th:not(:first-child) {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.list-view-container th:first-child,
+.list-view-container td:first-child {
+  width: auto;
+  min-width: 200px;
+}
+
+.list-view-container th:nth-child(2),
+.list-view-container td:nth-child(2) {
+  width: 160px;
+}
+
+.list-view-container th:nth-child(3),
+.list-view-container td:nth-child(3) {
+  width: 140px;
+}
+
+.list-view-container th:nth-child(4),
+.list-view-container td:nth-child(4) {
+  width: 160px;
+}
+
+.list-view-container th {
+  background-color: black;
+  color: white;
+  font-weight: 500;
+  border-bottom: none;
+}
+
+.list-view-container td {
+  border-bottom: 1px solid #eee;
+}
+
+/* Column-specific alignment */
+.list-view-container td:first-child,
+.list-view-container th:first-child {
+  text-align: left;
+}
+
+.list-view-container td:not(:first-child),
+.list-view-container th:not(:first-child) {
+  text-align: right;
+}
+
+.list-view-container tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.list-view-container tr:nth-child(odd) {
+  background-color: white;
+}
+
+.list-view-container tr:hover {
+  background-color: #f0f0f0;
+}
+
+@media (max-width: 768px) {
+  .list-view-container table {
+    font-size: 0.75rem;
+  }
+  
+  .list-view-container th,
+  .list-view-container td {
+    padding: 8px 4px;
+  }
+
+  .list-view-container th:first-child,
+  .list-view-container td:first-child {
+    min-width: 120px;
+  }
+
+  .list-view-container th:nth-child(2),
+  .list-view-container td:nth-child(2) {
+    width: 90px;
+  }
+
+  .list-view-container th:nth-child(3),
+  .list-view-container td:nth-child(3) {
+    width: 80px;
+  }
+
+  .list-view-container th:nth-child(4),
+  .list-view-container td:nth-child(4) {
+    width: 90px;
+  }
+
+  /* Override any previous styles to ensure wrapping in header cells */
+  .list-view-container th,
+  .list-view-container th:not(:first-child) {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    hyphens: auto !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+  }
 }

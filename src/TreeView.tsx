@@ -48,7 +48,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
     // Get container dimensions
     const container = containerRef.current;
     const { width: containerWidth } = container.getBoundingClientRect();
-    const height = 1024; // Fixed height
+    const height = 768; // Fixed height
 
     // Clear any existing content
     d3.select(svgRef.current).selectAll('*').remove();
@@ -144,7 +144,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
       .attr('width', d => d.x1 - d.x0)
       .attr('height', d => d.y1 - d.y0)
       .attr('fill', (_d, i) => colorScale(i))
-      .attr('opacity', 0.8)
+      .attr('opacity', 0.9)
       .style('transition', 'opacity 0.3s ease')
       .on('mouseover', function() {
         d3.select(this)
@@ -153,7 +153,7 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
       })
       .on('mouseout', function() {
         d3.select(this)
-          .attr('opacity', 0.8)
+          .attr('opacity', 0.9)
           .attr('fill', (_d, i) => colorScale(i));
       });
 

@@ -2,6 +2,7 @@ import { createRootRoute, Outlet } from '@tanstack/react-router'
 import { TanStackRouterDevtools } from '@tanstack/router-devtools'
 import { z } from 'zod'
 import { UserAmountProvider } from '../UserAmountContext'
+import { Header } from '../Header'
 
 export interface SpendingResponse {
   total: number
@@ -50,10 +51,24 @@ export const searchSchema = z.object({
 
 export type SearchParams = z.infer<typeof searchSchema>
 
+const Footer = () => {
+    return (
+        <footer>
+            <hr />
+            <a href="https://x.com/futurepaul">Blame @futurepaul</a>&nbsp;|&nbsp;
+            <a href="https://www.usaspending.gov">Data from USASpending.gov</a>&nbsp;|&nbsp;
+            <a href="https://github.com/jason-m-smith/spending.lol">Fix this on GitHub</a>&nbsp;|&nbsp;
+            <a href="https://www.cbo.gov/publication/57660#_idTextAnchor001">Difference between outlays and obligations</a>
+        </footer>
+    )
+}
+
 export const Route = createRootRoute({
   component: () => (
     <UserAmountProvider>
+        <Header />
         <Outlet />
+        <Footer />
         <TanStackRouterDevtools />
     </UserAmountProvider>
   ),

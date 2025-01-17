@@ -15,7 +15,7 @@ interface TitlebarProps {
 }
 
 export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = [] }) => {
-  const { amount, setAmount, useUserMoney, setUseUserMoney } = useUserAmount();
+  const { amount } = useUserAmount();
 
   const formatDisplayAmount = (amount: number) => {
     if (amount >= 1e12) return `$${(amount / 1e12).toFixed(1)} Trillion`;
@@ -63,59 +63,21 @@ export const Titlebar: React.FC<TitlebarProps> = ({ title, total, breadcrumbs = 
   const percentageInfo = getPercentageInfo();
 
   return (
-    <div style={{ textAlign: 'left', padding: '1rem' }}>
-        <a href="/" style={{ textDecoration: 'none' }}>
-      <h1>💸 SPENDING.LOL 💸</h1>
-        </a>
-      
-      {/* Always show total government spending */}
-      <div style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>
-        The US government spent {formatDisplayAmount(fy2024Data.total)}
-      </div>
-
-      {/* User contribution input */}
-      <div style={{ fontSize: '1.2rem', marginBottom: '1rem' }}>
-        <div>How much did you contribute?</div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-          <span>$</span>
-          <input
-            type="text"
-            value={amount}
-            onChange={(e) => setAmount(Number(e.target.value))}
-            style={{
-              fontSize: '1.2rem',
-              width: '200px',
-              padding: '0.5rem',
-              border: '1px solid #ccc',
-              borderRadius: '4px'
-            }}
-          />
-        </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.5rem' }}>
-          <input
-            type="checkbox"
-            id="useMyMoney"
-            checked={useUserMoney}
-            onChange={(e) => setUseUserMoney(e.target.checked)}
-          />
-          <label htmlFor="useMyMoney">Spend my money!</label>
-        </div>
-      </div>
-
+    <div>
       {/* Agency/Account information if available */}
       {percentageInfo && (
-        <div style={{ fontSize: '1.2rem' }}>
-          <div>
-            {title} spent {formatDisplayAmount(percentageInfo.amount)} ({percentageInfo.percentage.toFixed(1)}%
+        <div className="titlebar-info">
+          <p>
+            {title} spent <strong>{formatDisplayAmount(percentageInfo.amount)}</strong> ({percentageInfo.percentage.toFixed(1)}%
             {percentageInfo.totalPercentage && ` of agency, ${percentageInfo.totalPercentage.toFixed(1)}% of total`})
-          </div>
-          <div>Your portion: {formatDisplayAmount(percentageInfo.userPortion)}</div>
+          </p>
+          <p>Your portion: <strong>{formatDisplayAmount(percentageInfo.userPortion)}</strong></p>
         </div>
       )}
 
       {/* Navigation breadcrumbs */}
       {breadcrumbs.length > 0 && (
-        <div style={{ marginTop: '1rem', fontSize: '0.9rem' }}>
+        <div className="breadcrumbs">
           {breadcrumbs.map((crumb, index) => (
             <span key={crumb.to}>
               {index > 0 && <span style={{ margin: '0 0.5rem' }}>&gt;</span>}

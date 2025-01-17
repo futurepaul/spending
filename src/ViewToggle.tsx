@@ -17,14 +17,13 @@ export const ViewToggle: React.FC<ViewToggleProps> = ({ onViewChange }) => {
         onClick={() => onViewChange('tree')}
         aria-label="Tree View"
       >
-        tree
-
+        Tree
       </button>
       <button
         onClick={() => onViewChange('list')}
         aria-label="List View"
       >
-        list
+        List
       </button>
     </div>
   );

@@ -49,31 +49,13 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick, parentPer
 
   return (
     <div className="list-view-container">
-      <style>
-        {`
-          .list-view-container table {
-            width: 100%;
-            font-size: 1rem;
-          }
-          
-          @media (max-width: 768px) {
-            .list-view-container table {
-              font-size: 0.75rem;
-            }
-            .list-view-container th,
-            .list-view-container td {
-              padding: 4px;
-            }
-          }
-        `}
-      </style>
       <table>
         <thead>
           <tr>
-            <th style={{ textAlign: 'left' }}>Name</th>
-            <th style={{ textAlign: 'right' }}>Obligated Amount</th>
-            <th style={{ textAlign: 'right' }}>Percent of Total</th>
-            {useUserMoney && <th style={{ textAlign: 'right' }}>Your Contribution</th>}
+            <th>Name</th>
+            <th>Obligated Amount</th>
+            <th>Percent of Total</th>
+            {useUserMoney && <th>Your Contribution</th>}
           </tr>
         </thead>
         <tbody>
@@ -85,11 +67,11 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick, parentPer
                 cursor: (onItemClick || !parentPercentage) && item.id ? 'pointer' : 'default',
               }}
             >
-              <td style={{ textAlign: 'left' }}>{item.name}</td>
-              <td style={{ textAlign: 'right' }}>{formatAmount(item.value)}</td>
-              <td style={{ textAlign: 'right' }}>{formatPercent(item.value)}</td>
+              <td>{item.name}</td>
+              <td>{formatAmount(item.value)}</td>
+              <td>{formatPercent(item.value)}</td>
               {useUserMoney && (
-                <td style={{ textAlign: 'right' }}>
+                <td>
                   {formatAmount(calculateUserAmount(item.value) || 0)}
                 </td>
               )}

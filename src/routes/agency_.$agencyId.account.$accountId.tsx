@@ -68,16 +68,19 @@ function RouteComponent() {
           },
         ]}
       />
-      <ViewToggle
-        view={search.view}
-        onViewChange={(newView) => {
-          navigate({
-            to: ".",
-            params: { accountId, agencyId },
-            search: { view: newView },
-          })
-        }}
-      />
+      <div className="flex-header">
+        <h1 className="marker">Programs</h1>
+        <ViewToggle
+          view={search.view}
+          onViewChange={(newView) => {
+            navigate({
+              to: ".",
+              params: { accountId, agencyId },
+              search: { view: newView },
+            })
+          }}
+        />
+      </div>
       {search.view === 'tree' ? (
         <TreeView data={treeData} title={`${accountName} Programs`} onItemClick={undefined} parentPercentage={accountPercentage} />
       ) : (

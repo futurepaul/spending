@@ -10,20 +10,20 @@ import { useUserAmount } from '../UserAmountContext'
 import { scaleToUserAmount } from '../budgetMath'
 
 interface ApiResponse {
-  total: number;
-  end_date: string;
-  results: Array<{
-    id: string | null;
-    code: string | null;
-    type: string;
-    name: string;
-    amount: number;
-    link: boolean;
-  }>;
+    total: number;
+    end_date: string;
+    results: Array<{
+        id: string | null;
+        code: string | null;
+        type: string;
+        name: string;
+        amount: number;
+        link: boolean;
+    }>;
 }
 
 export const Route = createLazyFileRoute('/')({
-  component: Index,
+    component: Index,
 })
 
 function BudgetStack() {
@@ -63,7 +63,7 @@ function BudgetStack() {
 
     const revenueWidth = (numbers.revenue / numbers.obligatedAmount) * 100
     const outlaysWidth = (numbers.outlays / numbers.obligatedAmount) * 100
-    
+
     const outlaysDiff = numbers.outlays - numbers.revenue
 
     return (
@@ -71,8 +71,8 @@ function BudgetStack() {
             <div className="budget-stack">
                 <div className="budget-item">
                     <div className="title">REVENUE</div>
-                    <div 
-                        className="tax-revenue" 
+                    <div
+                        className="tax-revenue"
                         style={{ '--width-percent': `${revenueWidth}%` } as React.CSSProperties}
                     >
                         {formatNumber(numbers.revenue)}
@@ -80,9 +80,9 @@ function BudgetStack() {
                 </div>
                 <div className="budget-item">
                     <div className="title">OUTLAYS</div>
-                    <div 
+                    <div
                         className="outlays"
-                        style={{ 
+                        style={{
                             '--width-percent': `${outlaysWidth}%`,
                             '--base-width': `${(revenueWidth / outlaysWidth) * 100}%`
                         } as React.CSSProperties}
@@ -91,14 +91,14 @@ function BudgetStack() {
                             <div className="base-content">{formatNumber(numbers.outlays)}</div>
                             <div className="diff-content">(+{formatNumber(outlaysDiff)})</div>
                         </div>
-                        <div className="marker label deficit">we printed this</div>
+                        <div className="marker label deficit">printed this</div>
                     </div>
                 </div>
                 <div className="budget-item">
                     <div className="title">OBLIGATED AMOUNT</div>
-                    <div 
+                    <div
                         className="over-budget"
-                        style={{ 
+                        style={{
                             '--base-width': `${revenueWidth}%`,
                             '--outlays-width': `${outlaysWidth}%`
                         } as React.CSSProperties}
@@ -117,36 +117,40 @@ function BudgetStack() {
 }
 
 function Index() {
-  const search = useSearch({ from: '/' }) as SearchParams
-  const navigate = useNavigate()
-  const data = apiData as ApiResponse;
-  const treeData: TreeViewData[] = data.results
-    .filter(agency => agency.amount > 0)
-    .filter(agency => agency.id !== null)
-    .map(agency => ({
-      name: agency.name,
-      id: agency.id as string,
-      value: agency.amount
-    }));
+    const search = useSearch({ from: '/' }) as SearchParams
+    const navigate = useNavigate()
+    const data = apiData as ApiResponse;
+    const treeData: TreeViewData[] = data.results
+        .filter(agency => agency.amount > 0)
+        .filter(agency => agency.id !== null)
+        .map(agency => ({
+            name: agency.name,
+            id: agency.id as string,
+            value: agency.amount
+        }));
 
-  return (
-    <div>
-      <Titlebar 
-        total={data.total}
-        breadcrumbs={[]}
-      />
-      <BudgetStack />
-      <ViewToggle 
-        view={search.view} 
-        onViewChange={(newView) => {
-          navigate({ to: '/', search: { view: newView } })
-        }} 
-      />
-      {search.view === 'tree' ? (
-        <TreeView data={treeData} />
-      ) : (
-        <ListView data={treeData} />
-      )}
-    </div>
-  )
+    return (
+        <div>
+            <Titlebar
+                total={data.total}
+                breadcrumbs={[]}
+            />
+            <h1 className="marker">Budget</h1>
+            <BudgetStack />
+            <div className="flex-header">
+                <h1 className="marker">Agencies</h1>
+                <ViewToggle
+                    view={search.view}
+                    onViewChange={(newView) => {
+                        navigate({ to: '/', search: { view: newView } })
+                    }}
+                />
+            </div>
+            {search.view === 'tree' ? (
+                <TreeView data={treeData} />
+            ) : (
+                <ListView data={treeData} />
+            )}
+        </div>
+    )
 }
