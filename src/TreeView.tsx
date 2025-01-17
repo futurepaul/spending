@@ -3,7 +3,7 @@ import * as d3 from 'd3';
 import { useNavigate } from '@tanstack/react-router';
 import moneyJpg from './assets/money.jpg';
 import { useUserAmount } from './UserAmountContext';
-import { calculatePercentage, calculateUserPortion } from './budgetMath';
+import { calculatePercentage } from './budgetMath';
 
 // Total budget constant
 const TOTAL_BUDGET = 9.7e12; // 9.7T
@@ -41,13 +41,6 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
   const svgRef = useRef<SVGSVGElement>(null);
   const navigate = useNavigate();
   const { amount: userAmount, useUserMoney } = useUserAmount();
-
-  const treemapData: TreemapData = {
-    name: title,
-    id: 'root',
-    value: 0,
-    children: data
-  };
 
   const createChart = () => {
     if (!svgRef.current || !containerRef.current) return;
@@ -108,15 +101,11 @@ export const TreeView = ({ data, title = "Government Spending", onItemClick, par
       .round(true);
 
     // Create hierarchy and compute values
-    const root = d3.hierarchy(treemapData)
-      .sum(d => d.value)
-      .sort((a, b) => (b.value || 0) - (a.value || 0));
+    const root = d3.hierarchy<TreemapData>({ name: title, value: 0, id: "root", children: data })
+      .sum(d => d.value);
 
     // Generate treemap layout
     treemap(root);
-
-    // Calculate total for percentage
-    const total = root.value || 0;
 
     // Create color scale
     const colorScale = d3.scaleLinear<string>()

@@ -50,20 +50,11 @@ export const searchSchema = z.object({
 
 export type SearchParams = z.infer<typeof searchSchema>
 
-function Footer() {
-  return (
-    <footer>
-              <div>FY 2024 OBLIGATED AMOUNT</div>
-              <div>Data as of September 29, 2024</div>
-    </footer>
-  )
-}
-
 export const Route = createRootRoute({
   component: () => (
     <UserAmountProvider>
-      <Outlet />
-      <TanStackRouterDevtools />
+        <Outlet />
+        <TanStackRouterDevtools />
     </UserAmountProvider>
   ),
   validateSearch: searchSchema,

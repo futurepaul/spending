@@ -3,7 +3,7 @@ import { TreeViewData } from './TreeView';
 import { useNavigate } from '@tanstack/react-router';
 import { Route as RootRoute } from './routes/__root';
 import { useUserAmount } from './UserAmountContext';
-import { calculatePercentage, calculateUserPortion } from './budgetMath';
+import { calculatePercentage } from './budgetMath';
 
 // Total budget constant
 const TOTAL_BUDGET = 9.7e12; // 9.7T
@@ -18,7 +18,6 @@ export const ListView: React.FC<ListViewProps> = ({ data, onItemClick, parentPer
   const navigate = useNavigate();
   const { view } = RootRoute.useSearch();
   const { amount: userAmount, useUserMoney } = useUserAmount();
-  const total = data.reduce((sum, item) => sum + item.value, 0);
 
   const formatAmount = (amount: number) => {
     if (amount >= 1e12) return `$${(amount / 1e12).toFixed(1)}T`;
